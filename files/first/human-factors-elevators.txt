@@ -1,0 +1,87 @@
+I had a flight instructor once demonstrate how to take off, fly a pattern, and land a Cessna 172 using only power, rudder, and trim controls. Many years later another flight instructor demonstrated the same thing to me during a Boeing 717 simulator session.
+
+Granted, both departures were long, flat climb-outs. The approaches were also unusually long and shallow, but the point was made in both instances.
+
+It may be possible in the right circumstances, in an emergency, to overcome a frozen or sticking elevator and land an airplane by using only power, rudder, and elevator trim.
+
+Elevator problems tend to come in two types — problems with the elevator itself or problems with the trim control. The cause can be mechanical, meteorological, or human error.
+
+One common reason for elevator failure is inexperience, like when a first-time CFI tried to demonstrate a soft field takeoff in a PA-38 Tomahawk. He rotated with the nose too high, which blocked the elevator’s airflow. The airplane became airborne but failed to accelerate. The CFI then aborted the takeoff, but not before drifting off the runway’s right edge.
+
+In his report to NASA’s Aviation Safety Reporting System, the CFI blamed the incident on his “minimal experience with T-tail, low-powered aircraft.”
+
+He learned that in a T-tail Tomahawk, elevator control is very different from a conventionally tailed aircraft at slow speeds. T-tails don’t get the benefit of prop downwash airflow over their control surfaces.
+
+The elevator is a primary flight control mechanism. Federal aviation regulations prohibit initiating a flight with a malfunctioning primary flight control.
+
+The elevator trim tab is a secondary flight control. Unlike primary flight controls, regulations covering flight operations with a troublesome secondary flight control are less clear. I think most of us, however, would agree it is a bad idea to go flying with a known trim problem.
+
+A Cessna Citation 560XL flight crew did just that — and lived to write a NASA report about it.
+
+The reporting pilot indicated that on a previous flight he experienced a noticeable pitch down on short final the second he disconnected the autopilot. When he tried to adjust elevator trim, the trim wheel jerked but it didn’t move the trim tab. The problem seemed to disappear after landing though.
+
+Still, he notified his company’s Maintenance Control. Instead of concern, what he got was pressure.
+
+“I felt I was being strong-armed by the company to fly and was told that I was ‘not cooperating with the company,’” he wrote.
+
+Without inspecting the airplane, Maintenance Control suggested that ice might have formed along the elevator control cables during flight and bound them together. Control then speculated that landing either dislodged the ice or that it melted on its own. The crew decided the argument was plausible and the likelihood of another such ice binding event was remote. They acquiesced to the company’s demands and agreed to another flight using the same aircraft.
+
+The crew dispatched, with passengers on board. In cruise, the trim worked fine. However, during their descent and approach, the elevator trim seized.
+
+“It could not be moved electrically or manually,” wrote the pilot. “There was forward pressure on the flight controls that the autopilot could not overcome.”
+
+When the pilot flying disconnected the autopilot, the yoke jumped forward.
+
+“Pitch was barely controllable,” he said.
+
+They declared an emergency. Both pilots had to yank and pull on both yokes just to control the elevator through the landing.
+
+During the landing rollout, the yokes suddenly made an uncommanded movement and the crew could again move the elevator manually. The elevator trim also regained functionality. The next day the pilot decided to check the status of that aircraft. The notes in the maintenance computer read: “They have found that the elevator trim is very dry and in need of lube.”
+
+Mark Twain wrote, “Good judgment is the result of experience and experience the result of bad judgment.”
+
+The Citation pilot gained some good judgment by surviving those two flights. The bad judgment he displayed was in failing to listen to his inner voice.
+
+A lot of things can fail on an airplane during a flight, but only a handful will kill you. Inflight loss of an elevator is one of those.
+
+Remember the Alaska Airlines MD-83 that fell out of the sky near Malibu in January 2000, killing 88 people? It crashed because of the inflight failure of the jackscrew assembly. The acme nut threads on the horizontal stabilizer trim system failed due to excessive wear due to a consistent pattern of insufficient lubrication of the jackscrew assembly.
+
+The Citation pilot referenced that crash in his conclusion. He wrote that he would no longer be intimidated by the company into flying an aircraft that has “a reported, serious maintenance issue, before at least being examined by a mechanic before flight.”
+
+Pilots face many different pressures to complete their flights. External pressures come from family, paying customers, and supervisors. Internal pressures include get-home-itis and the desire to please, as well as fear of loss of livelihood. All those voices can drown out one’s inner voice and lead us to make bad judgments. When we do, the best we can hope for is to survive the resultant experience. Hopefully, memory of it will lead us to listen to our inner voices and display good judgment the next time.
+
+Pilots aren’t the only ones dealing with those pressures. In the aviation community, there’s an adage that states the worst time to fly an airplane is right after it’s been through maintenance. Mechanics are fallible, too, and the mistakes they make can sometimes be the result of the pressure to complete a task.
+
+A Beechcraft Baron pilot was instructed to stop his climb at 7,000′ for crossing traffic 1,000′ higher, so he engaged the ALT HOLD function on his autopilot.
+
+“I was startled by the yoke violently coming to the rear and putting the airplane in a somewhat severe nose-high attitude,” he wrote.
+
+Thinking he had a runaway trim condition, he immediately disengaged the autopilot and hit the “trim interrupt” button.
+
+Control regained, he completed his flight using manual trim only. Afterwards, the plane was sent to maintenance for repairs. The pilot noted that the Baron had just come out of the avionics shop. It had been sent there to have its autopilot and associated systems serviced.
+
+One pilot picked up a Cessna 182 from a repair facility and wound up submitting a NASA report. The Cessna had gone into repairs to replace a damaged elevator.
+
+“Did a thorough preflight with special emphasis on the elevator,” he wrote. His checklist included trim and autopilot functionality, which he verified.
+
+The pilot then set the trim to takeoff position and started his takeoff roll.
+
+“On the takeoff roll, the aircraft did an uncommanded rotation to an unsustainable climb angle,” he wrote.
+
+The pilot had to push full forward on the yoke and trim full nose down just to stabilize the 182. He landed safely and taxied immediately to the maintenance hangar.
+
+The mechanic discovered that the elevator trim system had been misrigged by 9°. Imagine if your climb angle for departure is 10°. That means the poorly rigged takeoff trim setting would put you at 19° nose up. In a single-engine aircraft like a Cessna 182 at high power, low airspeed and high P-factor, a 9° nose-up trim misalignment might quickly result in a very bad day.
+
+Another Cessna 182 pilot suffered a similar incident, right after retrieving his plane from its 100-hour inspection. He conducted preflight and taxi checks to his satisfaction. He departed. Once he leveled off and set trims for cruise, he realized the elevator trim wheel was rigged backwards. He chose to adapt and continue to his destination. In his report he wrote that the snafu “likely occurred during 100-hour maintenance when elevator trim components were taken apart for lubrication.”
+
+How best to prevent avoidable elevator mishaps like the ones above? Three words: Checklist, checklist, checklist. (This may already be part of the A&P’s repertoire, so apologies if it’s a common practice.)
+
+It may be worthwhile to develop a post 100-hour acceptance checklist that includes specific subsections for items that were disassembled, serviced, and then reassembled.
+
+Perhaps FBOs and GA pilots should also develop their own post-maintenance checklists. After all, the normal, published preflight, run-up, and flight control checklists don’t contain a subsection for maintenance acceptance flights or post-inspection flights.
+
+Even during normal flights, published checklists fail to offer a method to determine the correct rigging of trim. The extent of the checklist for trim is usually “ensure trim set to takeoff position.”
+
+You might think a pilot would take the time to dial the manual trim and run the electric trim full forward and aft to confirm that the controls are moving in the right direction in a post-maintenance or post-inspection situation.
+
+You might think common sense would make that obvious. I don’t. I think, sometimes, common sense can only be revealed on a checklist.

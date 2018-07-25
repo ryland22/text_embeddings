@@ -1,0 +1,33 @@
+On boat helms made of aluminum, the wireless signal may be degraded. If the signal is poor, you can install a separate external antenna outside the helm area to increase signal strength. To learn more, visit fellmarine.com. Tim Barker
+
+A safety-stop lanyard — aka engine kill switch — comes standard with marine power systems to instantly shut down propulsion if the helmsman gets tossed from the boat. Yet many skippers forget that they’re tethered and walk away from the wheel, inadvertently killing the engine. It can happen at inopportune times such as while docking. Fell Marine’s MOB+ wireless man-overboard systems resolve this issue. Essentially, a remote xFob that you wear connects wirelessly using the WiMEA protocol to a Fell xHub on the boat. When a wearer falls overboard, it breaks the signal and the engine shuts down. A shutdown also occurs when the xFob is approximately 50 feet from the boat. The system allows for a restart of the engine with an automatic override function so crewmembers can rescue someone who has fallen overboard. Here’s now to install the Fell MOB+ Multifob Basepack on a single-engine boat.
+
+Skill Level: 1 of 5
+
+Finish Time: Approx. 2 hours Tools and Supplies Fell Marine MOB+ Basepack, includes xHub and xFob Multifob and assorted connectors with heat-shrink collars ($199.99, fellmarine.com)
+
+In-line marine fuse holder and 1- to 3-amp fuse
+
+Power drill
+
+2 1/8-inch hole saw
+
+Crimping tool
+
+Wire cutters/strippers
+
+Online manual and videos available at supportcenter.fellmarine.com
+
+Select a spot near the driver’s position and cut a standard 2 1/16-inch diameter hole. Tim Barker
+
+Install the xHub Select a spot near the wheel and cut a standard 21/16-inch-diameter hole, making sure you have clearance behind it for the 61/2-inch-long xHub antenna (it is flexible and can bend slightly). Remove the xHub nut and attach the antenna to the back of the unit. Feed the antenna into the hole and place the xHub in the hole, making sure the gasket rests between the xHub and the dash panel and that the battery indicator is at the top. Hand-tighten the xHub nut from behind. Attach the five-pin connector cable to the back of the unit.
+
+Turn off the onboard battery power before wiring the connector cable to an onboard power source. Tim Barker
+
+Connect to Power Take care to turn off the onboard battery power before wiring the connector cable to an onboard power source. The connector cable has a five-wire color-coded pigtail. Connect the red (positive) wire to a stable, positive 12-volt DC source with a 1- to 3-amp fuse with either a marine in-line fuse holder or a fuse block, neither of which is supplied with the Fell system. Connect the black (negative) wire to an onboard ground terminal. If it is necessary to extend the positive or negative wires, be sure to use 16/20 AWG wire at the minimum.
+
+Two of the remaining three pigtails are used to connect the signal wires to the existing kill-switch. Tim Barker
+
+Connect Signal Wires Two of the remaining three pigtails are used to connect the signal wires to the existing kill switch on your boat. To determine which two, visit fellmarine.com for a wire schematic for your engine brand. For a Mercury Marine engine, connect the xHub gray wire to the black/yellow wire leading to the Merc kill switch; connect the xHub orange wire to the black wire leading to the Merc kill switch. To retain the functionality of the safety-stop lanyard, leave the existing wires connected to the kill switch, but “T” into them with xHub wires. Read Next: How Kill Switches Save Lives
+
+Test the system on water away from structures that might degrade the signal. Tim Barker

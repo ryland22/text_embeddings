@@ -1,0 +1,11 @@
+Actividad neuronal en el córtex parietal posterior. Crédito imagen: Sur lab / MIT Picower Institute
+
+Vemos el semáforo cambiar de color y reaccionamos pisando el freno. Detectamos que un vaso se está por caer y extendemos la mano para cogerlo. El vínculo entre lo que vemos y nuestra reacción a esa clave es simple, pero esencial para la existencia cotidiana. Aún así los neurocientíficos no han podido ir más allá de señalar pequeñas claves relativas a su ubicación en el cerebro y su funcionamiento. Ahora, un nuevo estudio, publicado en Nature Communications, proporciona evidencia de que una región crucial del cerebro llamada córtex parietal posterior (PPC por sus siglas en inglés) juega un papel importante en el proceso que vincula a la vista y a la acción.
+
+"La visión al servicio de la acción comienza con los ojos – explica el líder del estudio, Mriganka Sur – , pero esa información debe transformarse en órdenes motrices. Este es el lugar donde comienza esa planificación”.
+
+Sur afirma que el estudio puede ayudar a explicar un problema que afecta a personas que han sufrido lesiones cerebrales o apoplejía: la "negligencia hemisférica". Quienes la padecen no pueden actuar ni percibir objetos en un lado de su campo visual. Sus ojos y su cuerpos están bien, pero el cerebro simplemente no produce la noción de que se está produciendo una acción que requiere una reacción.
+
+En el nuevo estudio, el equipo de investigación identificó el papel exacto del PPC en ratones y demostró que contiene una combinación de neuronas adaptadas al procesamiento visual, a la toma de decisiones y a la acción.
+
+Las neuronas en el PPC mostraron respuestas variadas. Algunos actuaban como las neuronas de la corteza visual, pero la mayoría (alrededor del 70%) respondían selectivamente no solo al ver algo, sino a las reglas de la tarea y la oportunidad de actuar sobre la señal visual correcta.

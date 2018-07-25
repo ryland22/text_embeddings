@@ -1,0 +1,11 @@
+Diethylamine is the smallest and simplest molecule that forms a supramolecular helix as its lowest energy aggregate
+
+Researchers have unravelled the mystery of the minimal requirements for forming a supramolecular helix and found that diethylamine is the simplest molecule that forms this arrangement as its lowest energy aggregate.
+
+Perhaps the most well-known helical structure is the DNA double helix, which is formed from two intertwined strands joined together by directional hydrogen bonds, requiring precise matchup between complementary base pairs. Despite the plethora of helical structures present in nature or synthesised in the laboratory, scientists have never known the minimal level of molecular complexity required for a helical structure to form.
+
+Stimulated by discovering that diethylamine forms a helical structure in the solid state, Alexander Steiner from the University of Liverpool and co-workers set out to systematically uncover the minimal complexity needed for forming helical structures. Finding that structures with small methyl substituents formed crinkled chains are cyclic tetramers, the researchers were able to establish that two ethyl groups coupled with directional hydrogen bonding were the simplest requirements for forming these supramolecular structures.
+
+The researchers went on to show by computational methods that this phenomenon was not isolated to the solid-state, and that indeed for diethylamine the helical structure was the lowest energy aggregate.
+
+This work adds further understanding of supramolecular interactions, and may have implications for optoelectronics, chiral separation and asymmetric synthesis.

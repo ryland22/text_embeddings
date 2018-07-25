@@ -1,0 +1,15 @@
+Key Points
+
+The UK's MHC Sweep Capability demonstrator achieved system acceptance on 26 April
+
+The MHC Sweep demonstrator combines an 11 m ARCIMS USV, configured with a power generation module, with towed magnetic, acoustic, and electrical influences, including up to three coil auxiliary boats
+
+The UK Royal Navy’s (RN’s) Maritime Autonomous Systems Trials Team (MASTT) has taken delivery of an autonomous minesweeping demonstrator system in what marks a significant milestone for the United Kingdom’s Mine Countermeasures and Hydrographic Capability (MHC) programme.
+
+A formal handover event was conducted on 2 May at Atlas Elektronik UK’s (AEUK’s) Bincleaves site on the south coast of England. System acceptance had in fact been achieved on 26 April.
+
+AEUK was in March 2015 awarded a GBP12.6 million (USD17 million), three-year contract by the Ministry of Defence’s (MoD’s) Defence Equipment and Support organisation to deliver a prototype unmanned surface vessel- (USV)-based minesweeping system under Block 1 of the MHC Sweep Capability project. Block 1 has covered the design and build of a prototype sweep system, full acceptance, and demonstration in a portable mode, and supporting studies for the integration of the MHC Sweep system into the existing Hunt-class mine countermeasures vessel (MHC).
+
+The technical solution delivered by AEUK combines an 11 m ARCIMS USV – named RNMB Hussar – configured with a power generation module and towed magnetic, acoustic, and electrical influences, including up to three coil auxiliary boats. Also included in the demonstrator package is a portable command and control container.
+
+Acceptance testing has been conducted by AEUK and MASTT since early 2018. Having been handed over to MASTT, the MHC Sweep Capability demonstrator system will now be transported north to the British Underwater Test and Evaluation Centre range in northwest Scotland for operational trials expected to last until the end of this year.

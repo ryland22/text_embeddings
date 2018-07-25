@@ -1,0 +1,99 @@
+Securing your sensitive information against theft or vulnerability isn’t as easy as putting a padlock on a tool shed. As the years go by, cybercriminals develop more and more sophisticated means of hacking into your computer or mobile devices.
+
+More data was lost or stolen in the first half of 2017 than in all of 2016, and those numbers are only expected to rise in the years to come.
+
+Major cyber-attacks have proliferated, ranging from malware and ransomware to spoofs and key logger attacks. Even businesses as big as Verizon and Equifax were affected by data leakage. Xbox 360 ISO was hacked, InterContinental Hotels Group (those behind the Holiday Inn chain) were hacked and so, too, were Arby’s, Saks Fifth Avenue, UNC Healthcare, Chipotle, Gmail, Brooks Brothers, Kmart, Washington State University, Blue Cross Blue Shield, Whole Foods, Sonic and the US Security & Exchange Commission.
+
+According to a study by IT consultant CGI, two-thirds of firms that experienced a data breach had their share price negatively impacted. Of those companies surveyed, data breaches cost their shareholders more than $52 billion.
+
+And hackers are not the only threat to the privacy and security of the general public. With assistance from telecommunications carriers like AT&T, the US government has engaged in massive, illegal dragnet surveillance of the domestic communications records of millions of average Americans. This has been going on unabated since 2001.
+
+NSA spying can affect any one of us at any time. Fortunately for us, whether the issue is government snooping or password hacks, there are various open source tools that can keep us safe in this dangerous digital landscape. Here is a full list of services available and measures that can be taken to keep your information secure.
+
+Categorize Your Data
+
+Jonathan Gossels, the President of SystemExperts, has said that the most common mistake companies make when securing their data is failing to comprehend where their sensitive data resides.
+
+According to Gossels, “If a company has a policy that says any data set that contains personally identifying information is considered to be ‘sensitive’ and has to be encrypted both in transit across a network and at rest, and the company has implemented technical controls to enforce that policy, it is very likely that the data set is safe.”
+
+Enforcing a data classification policy is imperative for small and large businesses alike. Labeling data departmental is just one method of risk management that can be effective.
+
+By restricting access to specific files—payroll, incomplete projects, et al.—businesses can prevent against internal theft. And with proper encryption, external theft can also be avoided.
+
+Take Preemptive Measures
+
+We often store our data in the Cloud and think nothing of it, but the fact of the matter is that Cloud storage is equivalent to storing your information on someone else’s computer. As the Internet saw with The Fappening, even millionaire celebrities are not safe from a Cloud hack.
+
+The easiest way to prevent your data from being hacked is to encrypt your data prior to uploading it to the Cloud. If you’re looking for protection for your website than a high quality website building application is what you need.
+
+Protect Your Payments
+
+Payment data is one of the most vulnerable forms of data around, for very obvious reasons. 46% of Americans have fallen victim to credit card fraud in the last five years alone. Over that same period, 21% of Americans were victims of debit card fraud.
+
+In the near future, this will no longer be a problem as credit card companies make the transition to offering Smart cards with embedded EMV chips that will authenticate users’ identities and ward off attempts at fraudulent activity.
+
+Hide Your IP Address
+
+As mentioned earlier, encryption is integral to the protection of sensitive data. We’ve already seen a preponderance of industries that would benefit from more privacy. But another way to secure your data is to conceal your IP address so that no one can see what you are doing online.
+
+Using a VPN (Virtual Private Network) can effectively shroud your identity and activity from prying eyes. Malicious websites will be unable to trace your moves across the Internet.
+
+By using a service like ExpressVPN that relies upon a rock solid 256-bit AES encryption and maintains a firm “no logs policy,” you’ll be able to browse the Web anonymously and ensconce any and all of your communications without any of your data being collected.
+
+VPNs are legal to use in most countries. They enable you to view foreign Netflix libraries, engage in Torrenting and connect with friends and colleagues with your IP address totally masked by one of the system’s own IP addresses. With server locations in innumerable countries, you can do business online anywhere without fear of being compromised.
+
+Dig Deeper with Deep Analytics
+
+As people turn to platforms like Dropbox and Google Drive to share data with their peers, data leaks become inevitable. To combat or limit these leaks, services like can be implemented to track files and assess holes in security.
+
+Deep analytics assist in a variety of ways including watermarking files and placing limitations on file viewing. Activity is closely monitored so as to keep track of what’s what and who’s handling that what.
+
+Backup Your Data
+
+It may seem like common sense, but it’s actually one of the most overlooked factors when it comes to data protection. By duplicating your data, you will never truly lose your data even if the original ends up lost or stolen.
+
+Everyone should keep an external hard drive on hand for this purpose. Many people prefer to use a flash drive, but flash drives are small, cheap little things that can be lost or stolen more easily than hacked data.
+
+External hard drives are fairly affordable and relatively compact. Nowadays, external hard drives can hold 1 terabyte of information or more, so you’ll never have to worry about running out of room for your backed up files.
+
+Solid State Storage
+
+SSDs (Solid-state drives) are nonvolatile storage devices that are becoming increasingly popular for those who want to store data persistently. The flash memory used in SSDs is much higher than that of your typical USB thumb drive.
+
+SSDs are more shock-resistant than standard electromechanical magnetic disks and offer faster access time.
+
+Render Your Old Computer Worthless
+
+When your home or business upgrades to a new system, don’t just chuck your old computers in the trash with abandon. Be sure to sanitize your computer after first backing up all of your data.
+
+Once you’ve transferred all files to your new computers, clean your old computers out. That way nobody can come along and find out where your company keeps its money…or why you have a folder of J Law pics labeled “Fap Law.”
+
+There’s only one real way to securely erase your hard drive. You have to destroy the magnetic platter inside the hard drive. This can be easily achieved by using a T7 screwdriver to remove the HDD’s screws to gain access to its “guts.”
+
+From here, you’ll use a hammer to assist in opening the enclosure. Once you’ve removed the main circuit board from inside, you can hammer the hard drive on all sides, lightly tapping it all around, until it opens.
+
+After that, you take out the round silver platter and proceed to dent and scratch it to render it useless.
+
+Finally, you box up all components and hand them over to an electronics recycling center.
+
+Software Update Automation
+
+It’s easy to forget things, especially when you’re busy multitasking. The best way to be certain that you’re downloading the latest security updates is to set automatic updates. These updates will protect you against current risks.
+
+It’s also a good idea to set a regularly scheduled scan with tools like Malwarebytes so that threats can be quarantined without you manually running a search.
+
+Protect Your Passwords
+
+We’ve all experienced password problems, whether it was someone hacking into our account and locking us out or simply losing your password because you carelessly wrote it down on a scrap of paper.
+
+Password problems abound, quite often because people fail to reset their password for five years or more. Password Safe is a free open source of software program that allows users to build a secure and encrypted username/password list.
+
+With Password Safe, all you’ll need to remember is one Master Password and you’ll be able to access the entire list at any time. For additional protection, users can add Two-Factor Authentication to the platform.
+
+Two-Factor authenticators rely on a piece of info that only the user would know. This will provide an extra layer of security. By utilizing these two layers of security, your passwords will always be secure which means that any data contained within your email account will also be secure.
+
+Final Thoughts
+
+There are many tips that can help you secure your data against cyber-attacks and government snooping. For instance, experts advise you always turn off your computer when it’s not in use so that cybercriminals cannot obtain 24/7 access to it. Firewalls are another popular option.
+
+There are limitless ways to avoid data leakage or theft, but the ones on this list all but guarantee that your data will remain private and protected at all times.

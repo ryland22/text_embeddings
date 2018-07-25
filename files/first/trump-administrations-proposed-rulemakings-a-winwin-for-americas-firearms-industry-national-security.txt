@@ -1,0 +1,35 @@
+On Thursday, the Trump Administration published two rulemakings designed to enhance the competitiveness of American companies in the firearms and ammunition sectors, remove burdens for small businesses, and modernize export controls for the post-Cold War era. The moves will benefit both the domestic firearms industry and improve national security. The publication of the proposals also triggered a 45-day comment period during which members of the public can provide feedback on the plans and share their own experiences with the underlying regulations.
+
+The rulemakings are part of a larger, longstanding project to modernize America’s export regime for military and “dual-use” equipment and technology. Dual-use items are those considered to have both military and civilian applications. The governing philosophy of the project is to “build a taller fence around a smaller yard” by strengthening controls on the most militarily sensitive items while allowing less sensitive material with well-established civilian uses and markets to be subject to a more business-friendly regulatory climate.
+
+They two big players overseeing U.S. exports are the State Department, which administers the International Trafficking in Arms Regulations (ITAR) and the U.S. Commerce Department, which handles the Export Administration Regulations (EAR). The items regulated by the ITAR are on what is known as the U.S. Munitions List (USML), while those subject to the EAR are on the Commerce Control List (CCL).
+
+Whether on the USML or CCL, however, the items are still subject to close government oversight, including the requirement in most cases that any person or entity wishing to export them to any foreign nation get a federally-issued license to do so.
+
+Nevertheless, items on the USML controlled under ITAR are generally treated more strictly, with national and international security considerations trumping all other factors in the granting of licenses. Any business that manufactures an item on the USML, or even just a part or component of such an item, also has to register with the State Department and pay an annual fee, which is currently set at $2,250. This registration is required even if the manufacturer has no intent to ever export the items. Compliance fees, including for licenses, are also generally higher for USML items, given the complexity of the regulations and the more stringent vetting given to license applications.
+
+Manufacturers of items on the CCL, or their parts or components, do not have to pay an annual registration fee to the Commerce Department. Moreover, regulation of these items is more flexible to promote the goal of increasing U.S. manufacturers’ and businesses’ worldwide competitiveness.
+
+By properly apportioning export control between the two lists, the government will be able to apply maximum resources to overseeing the most consequential and sensitive equipment, while giving American businesses who manufacture consumer products a larger footprint in international markets. The result is greater security and a more robust U.S. economy.
+
+Currently, most firearms and ammunition (with the exception of certain sporting shotguns and shotgun shells) are controlled under ITAR and the USML. This has led to a host of problems for gun-related businesses in the U.S. and made it more difficult for U.S. businesses in this sector to be competitive internationally.
+
+First, many American firearm businesses are small operations that do not export their products and never intend to do so but still have to pay annual registration fees to the State Department because what they do is considered “manufacturing.” So if a U.S. company that manufacturers springs wants to branch out into magazine or recoil springs for firearms, for example, it has to pay the State Department’s registration fee, even if those springs are exclusively sold in the U.S.
+
+On the other hand, if a foreign company wanted to use those springs in the firearms it manufactures abroad, it would have pay more for doing so because of all the ITAR red tape the U.S. spring maker would have to go through to export the springs. This makes the U.S. springs a less attractive option.
+
+Two other problems that arose with the ITAR during the Obama administration concern what is considered controlled “technical data” and who is considered a regulated “manufacturer.”
+
+As we reported at the time, part of building the “taller fence” for export control involved an initiative to tighten up rules for the “export” of “technical data.” In practice, this meant that publishers of technical information about firearms and ammunition – including exploded parts diagrams, gunsmithing tutorials, and handloading information – risked being swept up into the ITAR’s regulatory scope, particularly for items posted online.
+
+Obama’s State Department also issued a confusing “guidance” document that expansively defined firearm “manufacturing” to include various common gunsmithing operations performed on existing firearms. This drove many smaller gunsmiths to limit or quit their business activity for fear of triggering the ITAR’s registration requirements or of incurring inadvertent violations that could bring ruinous penalties.
+
+All of these problems would be alleviated if the Trump administration’s rules were enacted as proposed, as most non-automatic firearms of .50 caliber or less, as well as their parts, components, accessories, and magazines of up to 50 rounds capacity, would be moved from the USML to the CCL.
+
+Another Obama-era ITAR change made it much more difficult for private individuals to travel abroad with personally owned firearms for lawful purposes such as hunting or competition because of an added requirement to document the “export” through an official website designed for commercial exporters. That requirement, unfortunately, would persist under the current version of the Commerce Department proposal but might be changed if affected parties explained their concerns during the comment period.
+
+A further basis for comment could include the rules’ treatment of sound suppressors. Although these items are very common among hunters and recreational shooters both in the U.S. and abroad and do not provide the U.S. or its allies with any special military advantage, the published proposals would leave them on the USML.
+
+The easiest way to file comments is through the U.S. government’s online regulatory portal, Regulations.gov. The State Department’s proposed rule and comment form are available at this link. Use this link for the Commerce Department’s proposal.
+
+President Trump promised to be a friend to America’s gun owners, and these proposed rules show him making good on that pledge. Your input will encourage the Commerce and State departments to see these rules through to final enactment and help guide the process in the most positive direction possible. The NRA has long advocated for these changes and is extremely pleased to see progress being made toward that end.

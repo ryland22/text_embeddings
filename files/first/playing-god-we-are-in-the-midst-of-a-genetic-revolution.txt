@@ -1,0 +1,59 @@
+At MIT in Cambridge, Massachusetts, a couple hundred academics, scientists and biohackers gathered recently for what organizers call the first global biohacker summit. Biohackers is a term for biologists who work outside of traditional labs.
+
+Josiah Zayner, a former NASA scientist turned biohacker, stumbles into the event late, and a bit out of sorts. He's treated like a bit of a rockstar, lauded by the biohackers in attendance.
+
+But Josiah's not having it. "People trying to appropriate the biohacker movement. It's gross. I feel gross being here." He wants the movement to remain in the hands of the people -- away from the influence of the scientific establishment.
+
+"I don't need validation (from MIT). It's like, the science should make it legitimized right? The cool stuff people do should make it legitimized."
+
+Josiah lives and works in Oakland, California, where he's converted a house into a scientific lab. Here, he runs a company that sells genetic engineering kits to the public. In the U.S., gene editing is technically not illegal, but federal funding is either prohibited or extremely difficult to obtain.
+
+"What we are trying to do is make genetic engineering technology accessible to people. We want people to be able to use genetic engineering technology as easily as they could use an app on their smartphone."
+
+Josiah's kits start at about $150, depending on the cell cultures and organisms included for experimentation. The business, and the biohacker movement it helps service, came to exist, largely because of one new tool, called CRISPR.
+
+CRISPR is short for Clustered Regularly Interspersed Short Palindromic Repeats.
+
+"CRISPR is this amazing technology because CRISPR allows you to directly target any sequence in somebody's genome, in their genes, that you want and make whatever change you want," according to Josiah.
+
+The tool consists of two key components -- a protein, which works like a pair of scissors, and what's essentially a GPS, which tells the scissors where to cut. The system can precisely cut a gene that's responsible for a disease, and replace or fix it.
+
+Dr. Emmanuelle Charpintier at the Max Planck Institute in Germany is one half of the duo that discovered CRISPR's gene-cutting abilities. She and her research partner, Jennifer Doudna of UC-Berkeley, manipulated a naturally occurring defense system in bacteria.
+
+According to Charpintier, "It's like a kind of film strip. The person responsible can edit the fate and the story of a life of a cell, an organism, with this technology."
+
+With the help of CRISPR, the floodgates have opened to all sorts of previously unthinkable experimentation. Unlike the U.S. government's cautious approach to funding, the Chinese are all-in on CRISPR research -- providing most of the funding for dozens of the country's CRISPR projects. China currently leads the way in gene-edited firsts, including CRISPR-edited human embryos in 2015.
+
+"The most muscular beagles in the world"
+
+Dr. Lai Liangxue is one of China's leading CRISPR researchers. "So far I've used CRISPR on dogs, pigs, rabbit, and mice. The most exciting thing is if I want to make something in animals in biomedicine, now I can achieve very easily. Before, if I want to do that, maybe it will take me several years and millions of U.S. dollars to just achieve one genetically modified animal. Now, very fast and very inexpensive."
+
+CRISPR is so precise that it can just knock out the one gene that changes the physical appearance of an animal. Researchers at Lai's lab in Guangzhou, China, used CRISPR to isolate and manipulate a beagle's myostatin, or muscle gene, making these the most muscular beagles in the world. I jokingly contemplated enhancing my own muscles with gene editing, and the rabbit-hole of this technology reveals itself. It's tempting.
+
+I asked whether there's a fear of people wanting to design their own dogs. "Actually, it excited us," said one doctor. "When we confirmed that it's a CRISPR'd dog so it also excites the world."
+
+"From a scientific aspect, it's very exciting. Every scientist likes this kind of technology. They can use this technology to make what they want."
+
+But he concedes many are concerned about what weirdness may be created.
+
+Lai takes us to see his pig farm, where he's created hundreds of mutant pigs using CRISPR. He shows us immuno-deficient pigs, whose genes were manipulated to make them more susceptible to infectious diseases. Pigs and humans share similar genomes. We have the same immune system, digestive system and suffer from many of the same diseases. According to Lai, "If we succeed in pigs, then we can transfer this technology into humans. But so far, you know, the regulation and the law don't allow us to do that."
+
+This is all very awe-inspiring, but also unsettling. "CRISPR allows humans -- it puts so much power into our hands. The idea that we could be playing the role of God makes a lot of people nervous," I said to Dr. Lai.
+
+He laughs. That concern isn't shared in China, he says. "I think prevent disease is a good thing. A really good thing. Some genetic diseases, if we can modify it, if there is a baby with some, you know, defect, why don't we just change that? I say that depends on who use it, right? Like, like, atomic bomb. That's kind of -- if you use it to make electricity, it's good. If you use it in a bomb, it's bad."
+
+Controversies loom large. CRISPR is not meant to be a technology that could be developed as a toy, but mention it and designer pets or designer babies often come up in conversation. The rise of genetic screenings of human embryos allow scientists to create organisms by design, rather than leave it up to chance. Combined with genetic sequencing, humanity's genetic toolbox has dramatically expanded.
+
+Josiah Zayner
+
+Josiah genetically modified himself with CRISPR. He used the system to edit a gene in his muscles, to make them grow faster, to be bigger and make him stronger. He did this as a proof of concept to show people how easy it is, even for biohackers operating out of small labs, to manipulate genes.
+
+He boasts he was the first human CRISPR experiment. He says it didn't happen in a big lab with lots of resources. Josiah wants to make this technology open source and accessible to people.
+
+"I get, like -- it's, it's been gettin' crazy now, you know? Two, three, five, 10 emails a day about people who want to use genetic engineering in some way, right? Maybe to help them with their disease.You know what no person with cancer has ever told me, ever? Like, 'Hey, I don't wanna try that out because it might hurt me.' They've never said that to me ever. 'Hey, I don't wanna try that out because it might be dangerous.'"
+
+Josiah muses about the future possibilities with CRISPR: "Do I wanna be big and muscly? Do I wanna -- you know, my muscles have, like, high endurance? Do I want to have dark color skin or light color skin or whatever you want. I think now is the starting place of where we get to make those choices."
+
+"I think we are in the midst of a genetic revolution. I think this is, like, literally, a new era of human beings," he said.
+
+"It's gonna create a whole new species of humans."

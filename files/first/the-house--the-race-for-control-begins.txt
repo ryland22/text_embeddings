@@ -1,0 +1,157 @@
+The 2018 Congressional midterms are shaping up to be a coast-to-coast battle for the House and there are enough districts potentially in play across the country that majority control looks like it's up for grabs.
+
+When we look at the specific districts that could matter in 2018, we see a large set of Republican-held seats in suburban and exurban areas – setting up a challenge for Democrats to try to win over places that haven't typically favored their House candidates, regardless of other votes or issues. As they make their bid to retake the majority, the Democrats will also need to reverse historical turnout trends and get Democratic-leaning voters engaged this time, after they've typically stayed home in midterms – and scale-up the turnout boosts they've seen of late in local and special elections and around the country. The Republicans, for their part, have a voting base that historically does show up in midterms, and one which remains staunchly committed to the party and the president. They will have to see, however, whether the president's low approval ratings beyond the base weigh down their candidates.
+
+The biggest factor in 2018 might be the sizable cushion the Republicans have to work with in protecting their 24-seat majority – since the last redistricting in 2011 and 2012, neither party has managed to net more than 13 in any cycle. The flip side of that, though, is that the GOP has to defend many more of the competitive seats than the Democrats do.
+
+Larger gains beyond 24 seats have lately come in what we think of as "wave" years, when one party does consistently and unusually well across a wide range of places, such as when the Democrats netted 31 seats to re-take the House in 2006, and when Republicans made historically huge pickups in 2010, netting 63. So the measure we'll watch as 2018 moves along might simply be that one: does it look like a wave, or not?
+
+How many House of Representatives seats?
+
+In this inaugural edition of the CBS News House model, we identify 45 seats that are likely or probably going to be competitive, based heavily on district characteristics and their historical vote patterns; not all the candidates are set yet, so this will change as the year unfolds. Republicans currently hold 35 of these 45 seats. (Depending on what happens with the districts in Pennsylvania, which are likely to be redrawn, more would become competitive.)
+
+There will be competitive races in nearly every corner of the country, so 2018 won't see us just traversing the usual presidential election "battleground" states. We'll be tracking many districts on the coasts: in California, a few in New Jersey and New York and Florida. There may also be hot races in Minnesota and Iowa, and back in the southwest, in Nevada and Arizona too.
+
+(There are another 30+ districts we're putting on the watch list. They profile as potentially competitive, but we'll have to wait for polling and candidates to know more.)
+
+Geography tells a story -- Here are some of the key themes linking the districts:
+
+The wealthier suburbs:
+
+Watch the districts that have relatively more voters with college degrees and higher incomes or home values – they're the sort of voters that national polls suggest may be less enthusiastic about the administration this year, but who haven't wholesale embraced the Democrats either. One wild card policy in these districts might be the tax cuts: do they find favor among the upper-income voters who'll reward the Republicans, do they raise concerns about the deficit, or – in places like California, New Jersey and New York – do voters with higher home values and state taxes feel like the new rules punish them too much?
+
+Here are some examples: the suburbs of Atlanta (GA 6); sprawling central New Jersey (NJ 7) and the wealthier suburbs of Garden-state commuters closer to New York City (NJ 11); Virginia's booming exurbs beyond Washington, DC (VA 10); and perhaps the suburbs outside Minneapolis-St. Paul.
+
+Go West!
+
+If there is close race for House control in November, things could all be decided out West, in southern California in particular, where congressional districts aren't quite as lopsided as in many other states to begin with. Here we see a number of themes mix, from the voting patterns of both coastal suburbanites and the working class, as well as the Hispanic vote, which comprises a large segment in many areas.
+
+Examples: the Santa Clarita Valley north of Los Angeles (CA 25); the rapidly changing parts of Orange County (CA 39); wealthier communities stretching from southern Orange County to San Diego (CA 49); 400 miles east across Interstate 8, Arizona enters this mix too, in the closely-split areas around Tucson (AZ 2).
+
+The Battle for the White Working Class:
+
+White, non-college voters have been one of the foundations of the president's support and, increasingly, Republican congressional support as well. This will be tested in the special election coming up in PA 18, a predominantly white area outside Pittsburgh. Then in November, a few districts profile as potential tests for whether Democrats can recapture some of this group too. Here we may see battles in traditionally Republican, rural, and small-town areas of otherwise blue states. Depending on what comes of the new Pennsylvania redistricting, a proposed new map would bring in districts that would address this theme as well, along with more battles in affluent suburbs outside Philadelphia.
+
+Examples: upstate New York, where the economy has been slow to rebound (NY 19 and NY 22); eastern Iowa where Democrats have often done better than they did in 2016 (IA 1); and districts with a mix of fast-growth pockets and rural areas, where the Democrats need to defend seats, in order to look for pickups elsewhere (MN 1 and MN 08).
+
+The Hispanic Vote: Varied and a Turnout Wild Card
+
+There are multiple majority-Hispanic districts: this group tends to back Democrats nationally and views President Trump and the Republicans quite unfavorably. Democrats are hoping to harness their dissatisfaction this November. Their challenge is that Latino turnout tends to drop in midterm election years. Additionally, Hispanic voters living in competitive districts, such as the heavily Cuban parts of Florida, are more inclined to vote for Republicans than Hispanics are nationally. Whether Democrats can change that pattern will be on display from Florida to Texas and California, among others places.
+
+Examples: the heavily rural Central Valley (CA 21); heavily Hispanic South Florida (FL 26), including high-income parts of Miami (FL 27); and the largest district in Texas, which spans more than 800 miles of the U.S.-Mexico border (TX 23).
+
+And a note on classifying districts by their past presidential vote: You'll probably see plenty of shorthand descriptions in 2018 about the places where Hillary Clinton got more votes than Donald Trump – but we include other factors in our model because almost by definition, that presidential vote is an incomplete measure for the midterms. 1) Those are places clearly willing to elect a Republican to Congress even if they side with Democrats on other matters. 2) There aren't enough Republicans representing districts like that for the Democrats to take the House based on beating only them and 3) those results are based on presidential year turnout, a feat Democrats would need to replicate in a midterm, so that describes a challenge as much as an opportunity for them.
+
+House of Representative districts we currently rate
+
+VERY LIKELY COMPETITIVE
+
+Republican-held districts:
+
+AZ 2 (Open)
+
+CA 10
+
+CA 25
+
+CA 39 (Open)
+
+CA 48
+
+CA 49 (Open)
+
+CO 6
+
+FL 26
+
+FL 27 (Open)
+
+IA 1
+
+MI 11 (Open)
+
+MN 2
+
+NE 2
+
+NJ 2 (Open)
+
+NJ 11 (Open)
+
+NY 22
+
+PA 1*
+
+PA 5* (Open)
+
+PA 6*
+
+PA 7* (Open)
+
+TX 23
+
+VA 10
+
+WA 8 (Open)
+
+Democratic-held districts:
+
+MN 1 (Open)
+
+MN 8 (Open)
+
+NH 1 (Open)
+
+PROBABLY COMPETITIVE
+
+Republican-held districts:
+
+CA 45
+
+FL 18
+
+GA 6
+
+IA 3
+
+IL 6
+
+KS 2 (Open)
+
+KS 3
+
+KY 6
+
+ME 2
+
+MI 8
+
+MN 3
+
+NJ 7
+
+NY 11
+
+NY 19
+
+PA 17*
+
+TX 7
+
+UT 4 (Open)
+
+Democratic-held districts:
+
+AZ 1
+
+CA 7
+
+FL 7
+
+NJ 5
+
+NH 2
+
+NV 3 (Open)
+
+NV 4 (Open)

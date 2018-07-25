@@ -1,0 +1,447 @@
+Zoos have always been places where people come to marvel at, and connect with, the wonders of the animal world. But with more and more species endangered in their natural habitats, zoos have had to change their stripes. They've shifted their focus to conservation, and gone is the old practice of bringing in exotic animals from the wild. But without them, zoos today have to re-populate from within. And it's complicated. It turns out that behind every baby animal crowds flock to see and biologists want to protect, there's an elaborate mix of science, software, genetics, and moving vans. It's no longer the old-fashioned birds and the bees at the modern zoo -- it's more like Match.com.
+
+Animals with babies -– always a sure-fire hit at the zoo. It's what all living creatures are biologically programmed to do: mate, rear young and pass their genes onto the next generation. But you might be surprised to learn that long before the babies. And even long before the making of the babies. There is this...
+
+Keith (on screen at meeting): We have three potential females that can move.
+
+...a decidedly un-romantic meeting, in an unromantic-sounding place called the Population Management Center.
+
+Amanda: And that's a good pairing...
+
+In this conference room at Lincoln Park Zoo in Chicago, population biologists like Amanda Lawless use computers to search out the best genetic matches for just about every zoo animal in North America.
+
+CBS News
+
+Amanda Lawless: Things like flamingos can have hundreds of animals. And in a planning meeting, we are gonna talk about every single animal in that population. So--
+
+Lesley Stahl: Come on. You have-- if you have a meeting on flamingos, you're gonna talk about every single individual flamingo in every zoo in the United States?
+
+Amanda Lawless: Yes.
+
+Lesley Stahl: Wow.
+
+Amanda Lawless: So some of these can take quite a long time. (CHUCKLE)
+
+What this leads to is zoo animals traveling the country in search of love, or at least a good genetic match. Layla, the rhino in front, moved from Kansas to Chicago to mate with Nakili, who seemed interested. This marmoset monkey just flew in from Omaha to meet her mate. And on the morning we visited, one of these warthogs was loaded into this crate for the nine-hour drive to his new home, and prospective love interest, waiting in Maryland.
+
+Imagine transporting a polar bear.
+
+Detroit Zoo executive director and CEO Ron Kagan can.
+
+Lesley Stahl: So where did the male come from?
+
+Ron Kagan: He was born in Denver, then went to Pittsburgh, and then came here.
+
+Lesley Stahl: Did he go to Pittsburgh to mate as well?
+
+Ron Kagan: Yes.
+
+Lesley Stahl: Oh my goodness. He's a traveling swordsman.
+
+Ron Kagan: That's what we do.
+
+CBS News
+
+It began back in the 1970s, when zoos largely stopped getting animals from the wild and had to learn to manage their populations themselves. They came to realize that one major risk in a closed system, says geneticist Bob Lacy at the Chicago Zoological Society, is inbreeding.
+
+Bob Lacy: The simple thing to do if we were breeding animals would be, for example, to have 100 giraffes in zoos and just let them breed on their own. The problem with that is if we did that, probably five or 10 of the males would be good breeders, and they would exclude the other males from breeding and we would very rapidly have a population where everyone is closely related to everybody else, and therefore we would lose diversity.
+
+Lose diversity, meaning genetic diversity, since all the other giraffes' genes would be lost. So Lacy and a few colleagues developed software now used worldwide to assess animals' lineages and calculate ideal couplings to make sure all genetic lines remain in the mix.
+
+Lesley Stahl: Can I call you the father of computerized animal dating?
+
+Bob Lacy: (LAUGH)
+
+Lesley Stahl: But it is computerized dating--
+
+Bob Lacy: It is, yes--
+
+Lesley Stahl: --and we smile about it--
+
+Bob Lacy: --yes, it is.
+
+Lesley Stahl: --but it really is. That's-- that's what you're involved in--
+
+Bob Lacy: --and in ways-- Well, I don't know much about human computerized dating, but in ways that are probably comparable that we have to look at a lot of different factors, not only inbreeding, but social compatibility, age differences, how far away they would have to move.
+
+Lawless and her team use Lacy's software every day. She gave us a mini-tutorial.
+
+Lesley Stahl: Can we look at gorillas?
+
+Amanda Lawless: Yes.
+
+Starting with a list of every gorilla in an accredited zoo in North America.
+
+Lesley Stahl: And so Louisville, Atlanta, Milwaukee, Cincinnati.
+
+For each gorilla, there is basic information.
+
+Amanda Lawless: So that's its parents.
+
+Lesley Stahl: The father, the mother, birthday.
+
+A complete family tree tracing its ancestry all the way back to the wild.
+
+Lesley Stahl: Oh, that's so interesting.
+
+And most importantly, this genetic ranking -- done by an algorithm, with males on the left, females on the right -- that rates each animal by how rare its genes are. And therefore how desirable.
+
+Amanda Lawless: So you can see Little Rock has the fourth most valuable female.
+
+It then tells you the genetic value of any pair of animals you choose, on a scale of 1 to 6.
+
+Amanda Lawless: So you can see when we pair these two animals, that they're getting a one. So number one is the most valuable. Two is still valuable…
+
+All the way down to sixes, which she says should never breed.
+
+Lesley Stahl: Can I try?
+
+Amanda Lawless: Yes. So all you have to do is click.
+
+I have to say it was oddly thrilling to be a gorilla matchmaker.
+
+Lesley Stahl: Look what I just did. I found you a one. (CHUCKLE)
+
+Amanda Lawless: So yes--
+
+My pair was a male from Dallas, and a female from Columbus. It seemed to be very promising.
+
+Lesley Stahl: I'm feeling so good about this. (CHUCKLE)
+
+But she said we still had to check a few details.
+
+Amanda Lawless: Okay, the age. We didn't just pair up a two-year-old (CHUCKLE) with a 20-year-old, did we? And we didn't. So she's 17. He's 21.
+
+Next we'd have to check on their temperaments and compatibility.
+
+Lesley Stahl: Will they get along?
+
+Amanda Lawless: Will they get along.
+
+If so, they could end up here, in what are called breeding and transfer plans -- species by species reports the Population Management Center sends to every zoo.
+
+"If zoos were all independently operating and not willing to work together, we would all sink. Our populations would die out on us."
+
+Lesley Stahl: Oh, and here are the rhinos. Oh, what are these, beetles?
+
+Amanda Lawless: Yeah, so that's--
+
+Lesley Stahl: You have a whole book for beetles?
+
+Amanda Lawless: Yes--
+
+...telling them literally what every single one of their animals should do, with whom.
+
+Amanda Lawless: So we want 2735 to breed with 2764, because that's a genetically valuable pair.
+
+Valuable not because their genes are special somehow, but because they're less common.
+
+But what about species that live all together in big groups -- like penguins, or flamingos -- so zoo managers can't control who pairs up with whom? Well, there's a system for that too, says Lincoln Park Zoo's executive vice president Megan Ross.
+
+Megan Ross: What we do is we put together a grid where the females are one side, and the males are on the other. And then for each pair that could possibly happen in that flock, we have a recommendation.
+
+Again, one for the best genetic matches, down to six, for the worst.
+
+Lesley Stahl: So what happens if the pair that's six-- wants to breed or tries to breed?
+
+Megan Ross: We might do egg management where we might take the egg and replace it with a dummy egg so that their eggs would not hatch.
+
+Lesley Stahl: You actually go in and take their egg and replace it with a fake egg?
+
+Megan Ross: We do.
+
+We witnessed "egg management" in action. The keeper, creeping in with a basket of dummy eggs and notes on which birds have partnered up. She checks to see which pairs laid eggs overnight, then makes a switch.
+
+Lesley Stahl: When you take an egg away and put in that dummy egg, are they not aware that the dummy egg is not their egg?
+
+Megan Ross: As far as I know, they do not realize that we have swapped their eggs out.
+
+They sure didn't seem to notice. And how's this for egg management? This pair of European white storks used to get high genetic ratings, but they've had so many babies, their genes are now too common. So when they laid another egg last year, the zoo took it, and gave them someone else's -- the egg of a genetically valuable but inexperienced pair of storks from Cleveland.
+
+Megan Ross: The stork parents at Cleveland Metropark Zoo were not really attending to the nest in a way that we thought they were going to be good parents. So they sent their egg to us, and we swapped out the eggs.
+
+Lesley Stahl: You brought a fertilized (LAUGH) egg here to Chicago from Cleveland?
+
+Megan Ross: We did.
+
+It hatched last May.
+
+Megan Ross: And now this pair is actually rearing another pair's chick.
+
+Lesley Stahl: Do they know it's not theirs?
+
+Megan Ross: I don't think so.
+
+Lesley Stahl: So stork foster parents. (LAUGH)
+
+Megan Ross: You probably thought they just delivered the babies.
+
+Lesley Stahl: Your program to create this genetic diversity requires an enormous amount of cooperation. And I was under the impression that zoos compete. (LAUGHTER) They compete for the panda, they compete for exotic animals.
+
+Bob Lacy: Yeah.
+
+Lesley Stahl: Are zoos not competing anymore?
+
+Bob Lacy: Zoos are still competing. You know, zoos compete for audience, for, publicity. For all kinds of things. But someone gave me a good example the other day of baseball teams. Obviously, baseball teams compete. But a single baseball team on its own is pointless. It can't do anything.
+
+Lesley Stahl: Yeah, you need a league.
+
+Bob Lacy: The same thing's true of zoos. If zoos were all independently operating and not willing to work together, we would all sink. Our populations would die out on us, they would become highly inbred, So we do compete in a sense, but we recognize that we will all-- succeed in conservation together or not.
+
+And zoos are now working on conservation with wildlife agencies as well, to rescue wild species in distress -- like the Mexican gray wolf. These wolves once lived across the southwest but were viewed as predators and killed off.
+
+Bob Lacy: So, by 1980, they were gone from the wild--
+
+Lesley Stahl: I mean, seriously gone?
+
+Bob Lacy: They were gone.
+
+The U.S. Fish and Wildlife service brought the last remaining wolves to zoos to see if they could pull off a miracle and bring the species back from just seven, what biologists call, "founding" animals.
+
+Bob Lacy: So we used the computer analyses to decide exactly which animals should be bred each year, how many to breed, so we didn't lose any of those seven lineages.
+
+And it worked.
+
+Lesley Stahl: Is that a pup? Oh yeah, ok, I see it.
+
+Bob Lacy: And from those seven, they've increased numbers up to, now, about 250. And they've been releasing 'em in the wild for about the last 20 years.
+
+Lesley Stahl: Wow.
+
+But zoo geneticists are still at it. Last spring when litters of puppies were born here at Chicago's Brookfield Zoo and in the wild, zoo staff took two of the newborns from here and switched them with two from the wild pack. To make sure the mothers wouldn't reject them, the staff coated the pups with dirt and urine from the dens they were going to. The mothers in both packs are now raising the exchanged pups as their own.
+
+Lesley Stahl: We saw, with storks, that they swap the eggs--
+
+Bob Lacy: Right.
+
+Lesley Stahl: But you're actually swapping the actual--
+
+Bob Lacy: The pups.
+
+Lesley Stahl: --pups.
+
+Bob Lacy: Because the wild has so few animals, that if we didn't do some swapping, they wouldn't have any appropriate mates, so we swap between zoos and the wild just the way we swap between zoos.
+
+But zoo genetic matchmaking isn't just success stories. There are dilemmas and moral quandaries. How do you stop animals with 'do not breed' recommendations from mating? And what happens when animals breed too well, and zoos don't have enough space? They can't just make them disappear. Or can they?
+
+That's where our story takes a surprising, some would say darker turn.
+
+Zoos around the world have adopted genetic breeding programs similar to the one in the U.S. As a result, many species are breeding better in captivity than ever before. But that success has brought challenges, and differences of opinion. Case in point, how to manage animals who don't get a breeding recommendation -- animals whose genes are already well-represented in zoos?
+
+One radical solution: culling them. Killing them. That's what the Copenhagen Zoo in Denmark did a few years ago with a healthy, 2-year-old giraffe named Marius, and it caused an international uproar. A warning: this part of our story contains some difficult images that young children may not want to see. But first, the preferred American solution for zoo animals who aren't supposed to breed.
+
+Bahati is a 27-year old gorilla at the Lincoln Park Zoo in Chicago. Every afternoon she and the other gorillas here get a snack -- being gorillas, they don't bother to unwrap it. But unbeknownst to Bahati, hers has something special mixed in. Bahati is on the pill.
+
+Megan Ross: Our gorillas take the birth control pills every single day.
+
+Lesley Stahl: The same stuff we take?
+
+Megan Ross: The exact same stuff that we--
+
+Lesley Stahl: Come on.
+
+Megan Ross: --do. They all have their packets.
+
+Mike Adkesson: So ours actually come from Walgreens.
+
+Lesley Stahl: No.
+
+Mike Adkesson: Yeah, same 28-day pack.
+
+Mike Adkesson is the chief veterinarian at Chicago's Brookfield Zoo.
+
+Lesley Stahl: For all what? The gorillas? Chimps?
+
+Mike Adkesson: Gorillas, chimps, orangutans, our gibbons.
+
+Lesley Stahl: Look, Walgreens.
+
+Mike Adkesson: Walgreens.
+
+Lesley Stahl: Look at that. Who knew?
+
+Mike Adkesson: Yeah.
+
+And that was just the beginning. Turns out, all kinds of zoo animals use all kinds of contraception.
+
+Lesley Stahl: She got a "no breed" recommendation?
+
+Mike Adkesson: She got a "no breed" recommendation.
+
+This monkey, anesthetized for her annual physical, was getting a birth control implant between her shoulders.
+
+Vet in Detroit: Her dose is two, because she's big.
+
+At the Detroit Zoo, there was an aardvark getting a birth control implant in her leg. Now there's a sentence one never expects to say.
+
+And then there was Dr. Adkesson's next patient.
+
+Lesley Stahl: Oh, my. Hello. What a strange-looking creature you are--
+
+A furry fellow called a rock hyrax, who Dr. Adkesson says is somehow related to an elephant.
+
+Lesley Stahl: What?
+
+Mike Adkesson: Yes. From an evolutionary standpoint--
+
+Lesley Stahl: No.
+
+Mike Adkesson: --closest relative is the elephant.
+
+Elephant or not, he too was getting a contraceptive implant.
+
+Mike Adkesson: It's about the size of a grain of rice. And this plunger's just gonna push it out under the skin.
+
+But not everyone thinks putting zoo animals on contraceptives is a good idea.
+
+Lesley Stahl: Look at those eyes. They're huge.
+
+CBS News
+
+At the Copenhagen Zoo, which participates in a European genetic breeding program, they have a different philosophy. Here, as Bengt Holst, director of research and conservation told us, they are against birth control. They think animals should be allowed to breed and raise their young, just as they would in the wild.
+
+Lesley Stahl: Do you think that there's an ethical issue when it comes to not allowing animals to breed?
+
+Bengt Holst: Yeah, I think so--
+
+Lesley Stahl: To raise their babies? You think it's ethical?
+
+Bengt Holst: Yeah, I think-- I think it's ethical, because that's actually a big part of their-- their normal behavior. Parental behavior is a 24 hours job for one year, two years, three or four years depending on the species. And we should not take that away.
+
+But that means offspring who need new homes in other zoos once they reach adolescence and it gets tricky.
+
+Bengt Holst: The female cannot grow up here in this zoo because then she will mate with her father.
+
+Lesley Stahl: So the father would mate with his own child?
+
+Bengt Holst: If she stayed here until she got mature, then he will start mating her.
+
+"We have assumed 100% responsibility for the life of those animals that live here. So for us we're concerned with individual welfare, not just conservation."
+
+It's not that difficult to place young female giraffes in other zoos, because giraffes live in harem groups, where one dominant male lives and breeds with several females. But for young males, it's tough. Particularly for ones whose parents have bred well, so their genes are not considered valuable in the breeding program. That's what happened to Marius -- and this is where our story takes that dark turn. Born at the Copenhagen Zoo six years ago, Marius needed to move when he reached age 2 and did what adolescent male giraffes do -- start challenging their fathers, trying to take over the harem.
+
+Bengt Holst: We could see that they had started fighting. And-- I mean at the beginning it's just a little bit pushing around. But then at-- at some stage he started getting scratches on the side, because the father had pushed him up against a tree and had really hit him hard. And if we have left him with the father he would have killed him, I'm sure.
+
+In the wild, this is when Marius would strike out on his own –- a time when in nature many animals are killed by predators. But in the zoo, there was nowhere for him to go, and with no spots for him in the European breeding program, the zoo thought their only choice might be to euthanize him.
+
+Lesley Stahl: You did have suggestions of what to do short of killing this beautiful animal. Some people said, "Why not just release him in the wild?"
+
+Bengt Holst: Yeah, we cannot just release a giraffe into the wild. It would be killed immediately because all space is occupied by other giraffes.
+
+Lesley Stahl: I know there was a very wealthy American who offered to take Marius.
+
+Bengt Holst: But for what reason? He will keep a single giraffe, which is a social animal. That will be really bad welfare for this giraffe. We will never send an animal to a place where it won't have a good life.
+
+So on a cold February morning, the zoo went ahead and ended Marius' life.
+
+Marius' death got worldwide attention, and condemnation.
+
+Lesley Stahl: Here you tell us that zoos are there to save the animals and protect animals. And then the zoo kills an animal.
+
+Bengt Holst: But that's exactly what we do. We protect animals. We protect animal populations. And in order to protect animal populations and make sure that they are healthy also far into the future, we need sometimes to take some animals out of this population. Normally we have nothing against killing healthy animals in the wild. I mean in-- in America, you hunt deer. In Denmark we hunt--
+
+Lesley Stahl: Well some people hunt deer--
+
+Bengt Holst: Some-- yes, but you eat meat. Most people eat meat. And meat comes from live animals.
+
+Lesley Stahl: If it's killing or contraception isn't the contraception better than the killing?
+
+Bengt Holst: No, I don't think so because contraception by contracepting the animals, you take away a huge amount of their natural behavior.
+
+Lesley Stahl: As opposed to their life.
+
+Bengt Holst: Decreasing their welfare. We need to give an animal a good life. No animal has an expectation of, "I can become 20 years old or 10 years old or two years old." Animals live in the present. The important thing must be to have a good life as long as they live, be it two months or 20 years, doesn't matter.
+
+Ron Kagan: Killing a healthy animal is killing. It's not euthanasia.
+
+Ron Kagan, from the Detroit Zoo, adamantly opposes culling. He says the focus on genetics and saving species shouldn't outweigh compassion.
+
+Ron Kagan: We have assumed 100% responsibility for the life of those animals that live here. So for us we're concerned with individual welfare, not just conservation.
+
+Under pressure from animal rights activists and those who think animals shouldn't be locked up at all, zoos have tried to improve the quality of life of their animals. And Kagan's been a leader in that effort. Back in 2004, Detroit was the first American zoo to give up its elephants for ethical reasons, when Kagan says it became clear they were suffering in the cold climate. And he's worked to create larger and more natural habitats for the animals.
+
+Ron Kagan: I want every individual animal that lives here to have a great life.
+
+Lesley Stahl: But he would say the same thing.
+
+Ron Kagan: Well, you--
+
+Lesley Stahl: And the good life--
+
+Ron Kagan: --it's pretty hard--
+
+Lesley Stahl: --includes pregnancy and--
+
+Ron Kagan: Right.
+
+Lesley Stahl: --giving birth and so forth.
+
+Ron Kagan: Well the idea that you say you should be able to have a baby. But then you're gonna kill it. I honestly, that-- it's very hard for me to see how that works on any level. I don't wanna kill healthy animals.
+
+How about dissect them? The day Marius was killed, the zoo conducted a public autopsy, considered educational in Denmark, then fed what was left of his body to the zoo's lions.
+
+Lesley Stahl: The autopsy. Done before the public, with little kids standing right there. Now, you got a lotta criticism for that.
+
+Bengt Holst: Yeah, that's right. You have to realize, first of all, that this is normal in Denmark. That we do open dissections of animals. It's because we believe that animals are fascinating, but not only when they are wandering around on the Savannah, but also if you open them up. Because then suddenly you can explain some of the biology. For example, why is the heart of a giraffe that big, whereas yours and mine is just like a little apple, or big apple? That's of course because the heart has to pump the blood five meter up in the air. You cannot do that just by looking in a book. There was a big crowd watching. It was bitterly cold that day, but they stayed because they were so fascinated by it. And the kids, they really-- I would claim they loved it.
+
+Lesley Stahl: You fed Marius to the lions.
+
+Bengt Holst: After we did the autopsy we have a little bit more than 200 kilo of meat left. Should we just throw out this meat and then kill a cow in order to feed the lions? So we take another good life? Or should we use the meat that was there already and feed it to the lions?
+
+Lesley Stahl: Why was that done before the public?
+
+Bengt Holst: Why not public? Because we have nothing to hide. This is just natural that an-- lions eat meat and- lions eat giraffes.
+
+Lesley Stahl: Because you want the public to support not only your zoo but other zoos. And people don't wanna know-- (LAUGH)
+
+Bengt Holst: Yes, they do. People want to see these things, because that's normal and that's natural. And I think if we hide it, we do a really wrong thing, because then we show people a wrong picture of what nature is really about.
+
+While not all European zoos practice culling, it is permitted under European Zoo Association rules, which call it "one of a range of scientifically valid solutions to the… sustainability of animal populations in human care." So what about zoos on this side of the Atlantic?
+
+Lesley Stahl: The AZA, the Association of Zoos and Aquariums. Do they ban culling--
+
+Ron Kagan: No.
+
+Lesley Stahl: --in the United Sta-- it's not banned?
+
+Ron Kagan: No.
+
+Lesley Stahl: Is it done in the United States?
+
+Ron Kagan: We don't do it.
+
+Lesley Stahl: I know you don't do it. But-- do other accredited zoos?
+
+Ron Kagan: I don't know.
+
+Lesley Stahl: It's possible?
+
+Ron Kagan: It's possible.
+
+It's a touchy subject, but it is being discussed. Two published papers in the journal "Zoo Biology" explore possible advantages to selective culling -- and point out problems with widespread use of contraception. Birth control long-term can have harmful side effects, and keeping animals from breeding can cause fertility problems later on, if their genes are needed in the mix.
+
+Lesley Stahl: So in other words, it's all a trade-off.
+
+Ron Kagan: I think that's exactly right. Life is filled with compromises. It's filled with compromises in the wild. And it's also true in a captive environment. So for instance, we want animals to have as much control and choice as possible in their daily lives. Having said that, they obviously don't have the choice to leave the zoo. And we don't let our tigers kill living animals. And that's a trade-off.
+
+Speaking of trade-offs, we noticed that the Detroit Zoo has a young male giraffe over the age of two who is still living with his family because a transfer plan had fallen through. So why isn't he fighting with his father? Well, get this.
+
+Lesley Stahl: So what was your solution?
+
+Ron Kagan: So he was castrated.
+
+Lesley Stahl: Was castrated.
+
+Ron Kagan: Right. So that way he can stay-- with the group. And he's perfectly healthy and happy, just like people's dogs and cats that, you know, are spayed and neutered. Is it ideal? No.
+
+Back in Copenhagen, there are now two young giraffes -- a half-sister and brother to Marius. We couldn't help but wonder about their future.
+
+Lesley Stahl: Is it possible that one or both will have to be culled?
+
+Bengt Holst: For the male, it may be an option, yes.
+
+Lesley Stahl: Marius II.
+
+Bengt Holst: Could be, yes. We still have 15 months to-- to look for a place for him. But if necessary, we will do it, yes.
+
+Produced by Shari Finkelstein and Nieves Zuberbühler

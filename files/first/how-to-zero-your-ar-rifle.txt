@@ -1,0 +1,73 @@
+By Tom McHale
+
+USA –-(Ammoland.com)- Today we’re going to do complicated math!! But in the end we will answer that question, how to zero your AR15?
+
+We’ll be talking about AR15s, zeros, trajectories, and gravity. Fortunately we will not be talking about shooting in zero gravity as bullets would fly forever, or at least until they crash into the drifting hulk of the Discovery One.
+
+Fortunately, it’s not as complicated as deciphering the true meaning of White House press briefings, as long as you understand how bullets fly.
+
+Bullet trajectory is almost as simple as dropping a brick, except the bullet flies forward where a brick just drops towards the ground. When you fire a bullet, there is no magical force that helps it defeat gravity. In fact, if you fire a bullet from your AR type rifle, perfectly parallel to the ground, the bullet you fire will end up hitting the ground at just about the same time as a bullet you let fall from your hand straight down. I say, “just about” only because the earth curves a bit, and the fired bullet will have a smidge farther to fall than the dropped one. It’s that gravity thing we just can’t defeat, no matter what.
+
+No matter how fast a bullet is flying, it’s constantly falling towards the ground. Even bullets fired from those so-called “High-Powered Assault Weapons.” If you look at the path of a bullet, it will always be a downward sloping curve, kind of like congressional approval ratings.
+
+But wait, you say, when I aim right at a target 100 yards away, the bullet hits it! That’s correct, but only because the barrel is actually pointed a little bit upwards relative to the ground. Shooting a bullet is a just like throwing a football except you don’t get 12 million a year plus a signing bonus. You need to aim it up a little bit so it arcs back down to intersect at your desired impact point. (See Bullet Flight Path image above)
+
+Whether you use iron sights or a fancy optic on your AR rifle, you will always need to plan for the intersection of the straight line designated by your line of sight and the arc of the bullet. Your line of sight is not subject to the laws of gravity, so you see in a perfectly straight path, unless you stayed out too late last night. Since your bullet leaves the barrel in an arc pattern, it may actually intersect your line of sight twice – once on the way up, and again on the way down. But that depends on your zero distance.
+
+Think about it. Your sight is already about 2 ½ inches higher than the center of the bore, so the barrel HAS to be aimed up a bit if it ever hopes to intersect with the line of sight.
+
+Zeroing your rifle simply means configuring your sights, iron or optics, so that at some desired distance, your line of sight perfectly intersects the path of the bullet.
+
+If this seems confusing, just think back to the example of throwing a ball. If you throw exactly at the target, the ball will hit the ground before it gets there. Because of gravity. If you arc it up a bit, gravity will bring it back down, and if you calculated right, that would happen right where your teammate is ready to catch it.
+
+There is one more variable to consider and that’s the velocity of your specific bullet fired from your rifle. No matter what the velocity, gravity still rules. A faster bullet will not defy gravity any more effectively, but it will fly farther in the same amount of time, so there is an illusion that it “defies gravity” better than a slower projectile. So, with a faster bullet, those curves we just discussed will appear to be a bit flatter, but that’s just because the bullet travels farther forward in the time it takes to fall to the ground due to the effects of gravity.
+
+Now that the conceptual scientific stuff is out of the way, let’s talk about how to zero your AR 15 rifle.
+
+For purposes of this discussion, we’ll assume that we’re talking about a .223 Remington or 5.56mm caliber rifle, although at shorter distances, it really doesn’t matter as you’ll soon see.
+
+Since the whole idea of zeroing is to line up your sights with the impact point of a bullet, you can set your “zero” just about wherever you want. But first, remember that the sightline is 2 ½ inches (give or take depending on your equipment) above the bore. For purposes of this discussion, our examples will assume we're using a standard 55 grain .223 Remington cartridge.
+
+If you set your zero close, say at 10 yards , you will have to align your sights so that the barrel points up very aggressively relative to the sight line. The barrel has to be angled up pretty severely for the bullet to move up 2 ½ vertically in such a short distance. As a result, after the bullet crosses the 10 yard zero, it will keep traveling upwards. Farther down range, say at 100 yards, the bullet will be 20 inches above your line of sight.
+
+, you will have to align your sights so that the barrel points up very aggressively relative to the sight line. The barrel has to be angled up pretty severely for the bullet to move up 2 ½ vertically in such a short distance. As a result, after the bullet crosses the 10 yard zero, it will keep traveling upwards. Farther down range, say at 100 yards, the bullet will be 20 inches above your line of sight. If you set your zero at 50 yards , the angles are less severe. The barrel is angled less aggressively towards the line of sight. With a 50 yard zero, your bullet will only be about 1.57 inches above the line of sight at 100 yards and height maxes out just over 2 inches above around 150 yards. From then on, it’s all down hill again.
+
+, the angles are less severe. The barrel is angled less aggressively towards the line of sight. With a 50 yard zero, your bullet will only be about 1.57 inches above the line of sight at 100 yards and height maxes out just over 2 inches above around 150 yards. From then on, it’s all down hill again. If you set your zero at 100 yards, the bullet slowly arcs up to intersect the line of sight way down range. Coincidentally, with a 100 yard zero, the bullet never really travels above the line of sight. As soon as it intersects the line of sight at 100 yards, it starts the downward fall again.
+
+As you can see, you have some decisions to make depending on how you anticipate shooting. If every single target you will ever shoot will be at the exact same distance, then set your zero for that distance. However, this is kind of unrealistic. Most people will need to be able to hit targets at different ranges, so you need to compromise.
+
+The most common approach to settling zero distance compromises is to think in terms of acceptable impact zone. For example, if your shot impacts within, say, 3 inches above or 3 inches below your point of aim, that might be good enough for the job at hand. If this outcome is desired, then your job is to find the zero that prohibits the bullet from traveling more than 3 inches above the line of sight. At some point down range, the bullet will fall more than 3 inches below your line of sight. That will be your maximum range where you can hit your target “closely enough” without adjusting your aim point.
+
+As an example, let’s look at the 50 yard zero. By definition, the bullet arcs upwards until it reaches the line of sight at 50 yards. It continues traveling above the line of sight until it peaks at 2.1 inches above the sight line about 150 yards down range. Now the bullet obeys gravity and starts to drop. At 300 yards, it’s fallen to about 4.16 inches below the line of sight.
+
+If you’ve been paying attention, you’ll note that the total “vertical range” is only about 6 inches: 2 inches above the line of sight and 4 inches below anywhere from zero to 300 yards. If hitting in a 6 inch circle is good enough, you can aim directly at your target as long as it’s anywhere inside of 300 yards and you’ll get a hit. You might hear this concept called “point blank range.”
+
+It just means you don’t have to make any adjustments for targets within that range.
+
+I like to zero my .223 Remington (or 5.56mm) rifles at this 50 yard distance for a couple of reasons.
+
+First , it gives me “point blank” aiming capability out to 300 yards, which is getting pretty darn close to the maximum effective range of a .223 Remington / 5.56mm cartridge anyway.
+
+, it gives me “point blank” aiming capability out to 300 yards, which is getting pretty darn close to the maximum effective range of a .223 Remington / 5.56mm cartridge anyway. Second , most of my optics are in the 1x to 6x magnification range, and I can aim very precisely at the 50 yard target to get a very accurate zero.
+
+, most of my optics are in the 1x to 6x magnification range, and I can aim very precisely at the 50 yard target to get a very accurate zero. Third, my eyes are old. I can only actually see targets within 300 yards, even when using a red dot sight with no magnification.
+
+If you choose a shorter zero distance, say 25 yards, you simply have to be aware that you’re firing along a more aggressive arc. Your sight is still about 2.5 inches above the muzzle, so in order for the bullet to meet the aim point at just 25 yards, your rifle is firing upward at a steeper angle. That’s OK as long as you realize that the bullet will travel higher above the sight plane while on its path downrange.
+
+The reverse concept applies if you choose a longer range zero. Between your firing position and your zero point, the bullet will always be within 2.5 inches of your line of sight as it’s still rising to meet the zero point intersection. After the zero point, since the bullet has been in the air longer to get there, it will rapidly fall away and you’ll have to account for how far below your line of sight it is at a given distance.
+
+As you can see, setting the zero on a standard AR rifle is all about compromises that factor in your anticipated target range. I’ve just found that a 50 yard zero allows me the greatest flexibility and simplicity of aim at a wide range of distances.
+
+Recommended Tools:
+
+Range Finder: http://goo.gl/YYbxaV
+
+Spotting Scope: http://goo.gl/EOVtRx
+
+Ear & Eye Protection: http://goo.gl/vp4j5M
+
+Shooting Rests: http://goo.gl/FIKvkO
+
+About
+
+Tom McHale is the author of the Insanely Practical Guides book series that guides new and experienced shooters alike in a fun, approachable, and practical way. His books are available in print and eBook format on Amazon. You can also find him on Google+, Facebook, Twitter and Pinterest.

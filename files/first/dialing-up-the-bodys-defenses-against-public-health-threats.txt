@@ -1,0 +1,106 @@
+Dialing up the body's defenses against public health threats
+
+
+
+by Staff Writers
+
+
+
+Washington DC (SPX) May 30, 2018
+
+
+
+Event information and more details on the forthcoming BAA are available here
+
+TTO's goal is to identify and demonstrate alternative warfighting concepts, architectures, and capabilities that disrupt our adversaries' decision calculus, and which create surprise and impose significant costs to counter.
+
+"We want ideas that upset the enterprise, unexpected approaches that could fundamentally change the way we develop, design, build, deploy, and operate military systems," said Fred Kennedy, director, DARPA's Tactical Technology Office. "Don't be afraid to challenge the most basic assumptions about how we fight, and what we give our warfighters to fight with. Proposers Day is the perfect opportunity to float a novel concept that takes us in completely different directions, and just might lead to a strong proposal."
+
+Washington DC (SPX) May 27 - DARPA's Tactical Technology Office is hosting a Virtual Proposers Day June 6 and 7 to provide information through pre-recorded videos about TTO's goals and areas for investment in advance of a mid-June release of the 2018 Disruptive Capabilities for Future Warfare Broad Agency Announcement (BAA). The event also will provide an opportunity for companies and individuals to meet with TTO program managers to discuss concepts for advanced research, development, and demonstration of systems for military missions. Registration closes June 1 at noon EDT. TTO seeks orthogonal approaches - coming at a problem from a novel angle that neither we nor our adversaries have considered - to drive enterprise disruption within, beyond, and across the seams of traditional warfighting domains on the ground, at sea, in the air, and in space.
+
+Protection against many common pathogens and environmental stressors is written into our DNA. Our skin responds to sun exposure. Our immune system mounts defenses when we get the flu. Our bodies inherently work to mitigate the potential for harm caused by these health threats.
+
+However, these intrinsic responses are not always quick, robust, or appropriate enough to adequately defend us from harm, which is why many people experience sunburn after intense sun exposure or suffer severe symptoms, even death, following exposure to the flu.
+
+Military service members, first responders, and civilian populations face threats far more severe than sunburn and respiratory infections. Pathogens with pandemic potential, toxic chemicals, and radioactive materials can all quickly and powerfully overwhelm the body's innate defenses.
+
+And though significant public and private investment has been focused on the development of traditional medical countermeasures such as drugs, vaccines, and biologics to guard against the worst effects of these health threats, current countermeasures are often limited in their effectiveness and availability during emergencies.
+
+DARPA is looking to make gains beyond the status quo. Inspired by recent advances in understanding of when and how genes express their traits, DARPA's new PReemptive Expression of Protective Alleles and Response Elements (PREPARE) program will explore ways to better protect against biological, chemical, or radiological threats by temporarily and reversibly tuning gene expression to bolster the body's defenses against - or directly neutralize - a given threat.
+
+"The human body is amazingly resilient. Every one of our cells already contains genes that encode for some level of resistance to specific health threats, but those built-in defenses can't always express quickly or robustly enough to be effective," said Renee Wegrzyn, the PREPARE program manager. "PREPARE will study how to support this innate resistance by giving it a temporary boost, either before or after exposure, without any permanent edits to the genome."
+
+The program will focus on four key health challenges as proofs of concept for what DARPA ultimately envisions as a generalizable platform that can be rapidly adapted to emerging public health and national security threats: influenza viral infection, opioid overdose, organophosphate poisoning, and exposure to gamma radiation.
+
+"Each of these four threats are major health concerns that would benefit from disruptive approaches," Wegrzyn said.
+
+"Seasonal flu vaccines, for example, are limited in that they try to hit a perpetually moving target, so circulating flu strains are often mismatched to vaccine strains. Programmable modulation of common viral genome sequences could potentially neutralize many more circulating viral strains simultaneously to keep up with moving targets. Combining this strategy with a temporary boost to host protection genes could change how we think about anti-virals."
+
+PREPARE requires that any treatments developed under the program have only temporary and reversible effects. In so doing, PREPARE diverges sharply from recent gene-editing research, which has centered on permanently modifying the genome by cutting DNA and inserting new genes or changing the underlying sequence to change the genetic code.
+
+Such approaches may cause long-lasting, off-target effects, and though the tools are improving, the balance of risk versus benefit means that these therapies are reserved for individuals with inherited genetic disorders with few to no other treatment options. In addition, some indications, including treatment of pain, may only require temporary solutions, rather than life-long responses.
+
+The envisioned PREPARE technologies would provide an alternative that preserves the genetic code exactly as it is and only temporarily modulates gene activity via the epigenome and transcriptome, which are the cellular messages that carry out DNA's genetic instructions inside cells. This would establish the capability to deliver programmable, but transient, gene modulators to confer protection within brief windows of time for meaningful intervention.
+
+"Focusing only on programmable modulation of gene expression enables us to provide specific, robust protection against many threats at once, with an effect that carries less risk, is limited but tunable in duration, and is entirely reversible," Wegrzyn said.
+
+Success will hinge on developing new tools for targeted modulation of gene expression inside the body. Researchers must identify the specific gene targets that can confer protection, develop in vivo technologies for programmable modulation of those gene targets, and formulate cell- or tissue-specific delivery mechanisms to direct programmable gene modulators to the appropriate places in the body.
+
+Although the immediate program goal is to develop defenses against one of the four focus areas determined by DARPA, the ultimate objective of PREPARE is to develop a modular, threat-agnostic platform solution with common components and manufacturing architecture that can be readily adapted to diverse and emerging threats.
+
+Research will be conducted primarily using computer, cell culture, organoid, and animal models to establish proof of concept. However, DARPA's vision is to generate new medical countermeasures for future use in humans. As such, DARPA is working with independent bioethicists to identify and address potential ethical, legal, and societal issues.
+
+By the end of the four-year program, DARPA aims for each funded team to submit at least one final product to the U.S. Food and Drug Administration (FDA) for regulatory review as an Investigational New Drug or for Emergency Use Authorization. Throughout the program, teams will be required to work closely with the FDA to ensure that the data generated and experimental protocols meet regulatory standards.
+
+DARPA will hold a Proposers Day on June 13, 2018, in Arlington, Va., to provide more information about PREPARE and answer questions from potential proposers. For additional information, visit here. Advance registration is required; please visi here. A full description of the program will be made available in a forthcoming Broad Agency Announcement.
+
+
+
+Related Links
+
+Defense Advanced Research Projects Agency
+
+Epidemics on Earth - Bird Flu, HIV/AIDS, Ebola
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Bethlehem PA (SPX) May 25, 2018
+

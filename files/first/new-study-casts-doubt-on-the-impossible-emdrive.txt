@@ -1,0 +1,57 @@
+The EmDrive, a type of space propulsion system that claimed to produce thrust without propellant, has been highly controversial (to say the least) since it came around in 2003. Now, thanks to a new study that could explain some of the weird results, the skeptics are claiming victory. But are their celebrations premature?
+
+Advertisement - Continue Reading Below
+
+Impossible Physics
+
+The EmDrive device, invented by British engineer Roger Shawyer, is a truncated cone filled with microwaves. Radiation exerts slight pressure, and the microwaves supposedly exert more pressure on one end of the cone than the other, resulting in a net push in one direction. (Learn lots more about it here.)
+
+The problem is that the law of conservation of momentum says that a rocket cannot accelerate forward without some form of exhaust ejected backwards. Therefore, generating thrust from a closed system is impossible, which is why physicists have refused to accept the device from the start.
+
+YouTube PBS Space Time
+
+However, several independent groups claim to have replicated the effect and measured thrust from the drive. These include a group at China's North-western Polytechnic in Xi’an, NASA’s Eagleworks, a German team at Dresden University of Technology, and the American company Cannae, which is building a commercial version and plans to launch it into space. Boeing have also tested the EmDrive, and there are persistent rumors it is being secretly tested on their X-37B unmanned spaceplane.
+
+These impossible results are infuriating to mainstream physicists. There is no accepted explanation of how the EmDrive works. Several possible theories have been put forward, but nothing to convince skeptics. And so, faced with a result that looks impossible, the obvious conclusion is that there is a flaw in the experiment.
+
+Advertisement - Continue Reading Below
+
+A Victory For Skeptics?
+
+There was delight in some quarters, then, over a new experiment from the Dresden team led by Martin Tajmar, revealed in a conference paper at Space Propulsion 2018. The team’s results showed that stray magnetic fields could account for some of the apparent thrust measured in previous EmDrive tests.
+
+In previous tests, Tajmar managed to eliminate most possible forces of error—vibration, air currents, thermal fluctuations—and some but not all magnetic fields. In the latest test, a tiny amount of force was measured even with virtually zero power. “This clearly indicates the thrust is not coming from the EMDrive but from some electromagnetic interaction,” notes the paper. The team concluded that the force was produced by Earth’s magnetic field leaking into the apparatus rather than any exotic new physics.
+
+“We identified errors that others may have missed to far,”
+
+And so the “magic space unicorns pushing the EmDrive are magnetic fields,” Ars Technica reported, suggesting that this could be the end for the crazy space thruster now that responsible grownups are testing it. “Em Drive? More like BS Drive,” crowed The Register. But Tajmar tells PM that things are still not quite so simple.
+
+“We identified errors that others may have missed to far,” Tajmar says. “However, we are an order of magnitude below the power levels from the NASA tests and we need to test different geometries and frequencies.” That is to say: The magnetic effect could account for some part of the weird EmDrive results, but it can’t account for everything, at least not yet.
+
+Tajmar has examined a number of claimed space drives, and his investigations are extremely thorough. Getting a definitive result will take a while longer. “It will take another year before we can say for sure what’s going on,” says Tajmar. The tricky thing is, even if he comes up negative, the result may not mean anything. If one design does not work, that does not necessarily mean the entire EmDrive concept is invalid, as there may be a problem with the version Tajmar has been testing.
+
+Not One EmDrive, But Many
+
+Shawyer, the EmDrive’s inventor, has jumped into muddy the waters even more. “From the description of the thruster I would not expect any thrust to be measured,” Roger Shawyer told Popular Mechanics. “The cavity does not appear to be acting as a traveling wave device, and will therefore not produce any significant radiation pressure forces at the end plates.”
+
+Advertisement - Continue Reading Below
+
+Advertisement - Continue Reading Below
+
+While Shawyer claims to have produced thrust with several different EmDrives, he says that Tajmar’s design, which is derived from one tested by NASA, will not work. “I know of at least two other research groups who copied the NASA design and failed to measure thrust,” says Shawyer. “This is to be expected.”
+
+The Work Continues
+
+Meanwhile in China, researchers led by Juan Yang have been publishing positive results since 2008. In 2016, Chen Yue, head of the China Academy of Space Technology’s communication satellite division, said that multiple prototypes had been built and tests had confirmed that they produced thrust. The next stage was one of engineering; the designs need to be optimized and a drive would then be launched into space.
+
+However, nothing further has been heard of this plan. In January this year, a Dr. Wu of the Chinese Academy of Science published a rebuttal of the EmDrive, claiming that it was self-contradictory and, disputing previous papers by Yang’s team, that “the theoretical foundation of the ‘Em Drive’ is found to be not solid.” This could be a sign that the drive has fallen out of favor in China. On the other hand, the dispute might be a matter of academic politics, or the drive may simply not have worked as expected.
+
+Back in the U.S., the Eagleworks team at NASA, which created so much stir by replicating Shawyer’s results, remains bullish about the prospects of success. Harold White, the team leader, published a paper in March again showing that the EmDrive does not necessarily violate known laws of physics. However, it doesn’t seem like anyone is listening to him. While Tajmar’s negative finding received widespread coverage, White’s work—which might reconcile physicists to the idea of propellantless propulsion—went un-noticed.
+
+Advertisement - Continue Reading Below
+
+The EmDrive wars roll on. If somebody actually launched one into space and proved that it can produce thrust there, that would pretty much settle the argument. That was the aim of Cannae LLC, who told Popular Mechanics that they might have an announcement before the end of last year. The company has not responded to a follow-up request, and it’s anyone’s guess what is happening.
+
+Shawyer is also continuing development work for un-named clients, with what he believes is the correct design for an EmDrive, “based on correct theory, precision manufacture, and tuning and testing based on microwave industry standards.” Last year he was granted a patent on a new high-thrust EmDrive design based on superconductors.
+
+This far-out sideshow is far from over.

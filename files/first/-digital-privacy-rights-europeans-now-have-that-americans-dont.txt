@@ -1,0 +1,43 @@
+A wide-ranging digital privacy law known as GDPR goes into effect in the European Union on Friday. In the works since 2012, the new law fundamentally reshapes how people think about their digital data and reasserts consumers' rights to information about themselves.
+
+It also sets up a contrast with the U.S., asserting broad, basic rights for EU citizens that Americans, by and large, don't have in their daily digital media lives. Here are five of those new rights.
+
+1. Privacy as a matter of course
+
+The EU law takes as a given that privacy is "a fundamental right that can trump other interests," as the California Law Review put it. Indeed, the right to privacy appears on the European Convention of Human Rights.
+
+U.S. citizens have no such broad right to privacy (although the Supreme Court has found that such a right is implicit in the Constitution.) In the states, laws and lawsuits around privacy usually center on the question of harm, and the regulations that do exist are often sector-specific. Information about someone's health or medical treatment, for example, is considered sensitive, as well as financial information. And children under 13 in the U.S. are generally protected from having their information collected.
+
+A handful of tech CEOs have called for the U.S. to have a broad privacy law, and several states, including California and New Jersey, are considering bills of their own.
+
+2. The right to choose
+
+In the EU, if data on a person is to be collected, the person must actively allow it to happen.
+
+In the U.S., consumers typically "consent" to give up data when they sign up for a product or service. For most of them, that consent comes at the end of a lengthy document in legalese that they haven't even read, according to no less an authority than Facebook CEO Mark Zuckerberg. "I don't think that the average person likely reads that whole document," Zuckerberg said of Facebook's own terms of service during Senate testimony last month.
+
+Under GDPR, companies are required to get EU customers' opt-in to collect their information, and privacy policies that are overlong or written in impenetrable legalese are not allowed.
+
+"By default, you're going to be opted out, and you'll have the option of opting in," Karen Kornbluh, a senior fellow at the Council on Foreign Relations, told CBSN.
+
+More, a company can't refuse to serve a customer who's declined to share his or her data, as long as that data isn't "essential information." One expert from the Electronic Frontier Foundation gave this example to the New York Times: "A birthday cake company needs your name to put on the birthday cake." Anything beyond that might not be "essential."
+
+3. The right to see your data
+
+Europeans — and Americans in Europe — will be able to see the data that companies collect on them, and ask those companies to delete the information. That doesn't apply only to technology companies, but banks, retailers — even your employer.
+
+Outside of Europe, Americans can't request their data or demand its deletion. Facebook, Twitter and other tech giants have rolled out tools allowing users to see some of the data that is stored on the service, but these self-service tools are incomplete, and leave out information that is collected about users' activity on other sites, as two New York Times reporters on different sides of the Atlantic found when trying to download data on themselves.
+
+And many companies refused to give any detailed data whatsoever. When one of the reporters tried to get her Amazon shopping history, an agent denied it, telling her, "It's all private."
+
+A coalition of 22 privacy groups on Thursday called for major companies to follow suit and apply GDPR principles to their operations worldwide.
+
+4. The right to know about any data breach
+
+Under GDPR, companies that have suffered a breach are required to report it within 72 hours; if not, they risk fines. The infamous Equifax data breach involving nearly 150 million people, by contrast, stayed quiet for six weeks before the credit bureau informed the world.
+
+The U.S. has no overarching federal law on data breaches, although all 50 states have enacted varying laws, according to the National Conference of State Legislatures. The newest such law went into effect May 1, in North Dakota.
+
+5. The right to be forgotten
+
+In 2014, a European court held that citizens had a "right to be forgotten," and that search engines such as Google had to de-list information associated with individuals' names if it was irrelevant or outdated. Since then, Google has received 650,000 requests to remove information, according a January report, and two U.K. men are currently suing the online giant over similar information.

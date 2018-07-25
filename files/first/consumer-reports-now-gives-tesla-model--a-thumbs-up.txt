@@ -1,0 +1,23 @@
+DETROIT - Consumer Reports has upgraded its previous verdict on Tesla's Model 3 car, giving it a "recommended buy" rating after the electric vehicle maker improved the sedan's ability to stop quickly with an online update of its antilock braking software.
+
+The magazine said Wednesday that the update cut 19 feet off the car's stopping distance from 60 miles per hour. A previous test found that it took 152 feet for the Model 3 compact car to stop from 60, the longest braking distance of any modern car the magazine has tested.
+
+The improved braking raised the car's score high enough for it to receive the coveted recommendation. But Consumer Reports still has concerns over wind noise, a stiff ride, and the touch-screen controls that could distract a driver.
+
+After the first round of testing was made public, Tesla CEO Elon Musk promised to fix the problem within days. Consumer Reports says it was told by Tesla that the software helps the brakes adapt to variations in how they are used and how they respond in different environmental conditions.
+
+On Twitter Wednesday, Musk wrote that he appreciates the "high-quality critical feedback" from Consumer Reports and said that noise and ride comfort already had been addressed. He didn't say how. Another software update will address the controls, he wrote.
+
+Braking & UI upgrades apply to all Model 3s. Improved windshield for aero noise & suspension for ride comfort are major ops. Unless you’re really bothered by them, don’t replace. Best way to improve ride is drop tire pressure to ~39 psi. 45 psi is best range, but lower comfort. — Elon Musk (@elonmusk) May 30, 2018
+
+The software update was done either via the car's cellular connection or a wireless internet link, depending on how the owner configures the car, according to Tesla.
+
+"I've been at CR for 19 years and tested more than 1,000 cars, and I've never seen a car that could improve its track performance with an over-the-air update," Jake Fisher, director of auto testing at Consumer Reports, told the magazine.
+
+Musk pledged in a tweet last week that the braking improvements would make the Model 3 best in its class. But Consumer Reports said the stopping distance was not class leading and the further updates may be necessary.
+
+Despite the thumb's up from Consumer Reports, Tesla remains under scrutiny for a number of accidents involving its vehicles' "Autopilot" system. In the latest such incident, a California motorist on Tuesday crashed cited the technology after hitting a police cruiser.
+
+The Center for Auto Safety and Consumer Watchdog on Wednesday reiterated their call that the California Department of Motor Vehicles investigate Tesla's marketing of the Autopilot feature. The advocacy groups maintain that Tesla and Musk are violating a recently enacted law that bars companies from making statements that lead drivers to mistakenly think a vehicle is fully autonomous if it doesn't meet the state's definition of a self-driving car.
+
+Tesla has warned that its Autopilot system isn't intended to prevent all accidents and urges drivers of its vehicles to keep their hands on the wheel at all times.

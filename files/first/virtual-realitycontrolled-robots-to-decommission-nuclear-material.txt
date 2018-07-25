@@ -1,0 +1,17 @@
+Createc is leading a £1.5 million software development project that will enable robots to enter unfamiliar nuclear sites and dismantle dangerous radioactive equipment.
+
+The Cumbria-based company, which develops applied imaging and sensing technology, has been given funding by the Nuclear Decommissioning Authority (NDA) and the Department for Business, Energy and Industrial Strategy, in partnership with Cumbrian nuclear decommissioning site Sellafield, and Innovate UK.
+
+Historically, large, purpose-built robots have been used to complete decommissioning work, but Createc believes that cheaper, reusable human-sized robots, equipped with 3D sensors and navigation software, will play a larger role in the future of nuclear safety.
+
+
+
+“We want the robots to perceive what is going on around them, and then feed that perception directly to a human operator, using virtual reality,” Matt Mellor, a director at Createc, told The Engineer.
+
+He went on to describe how the machines will ‘see’ through a combination of 3D sensors and an algorithm known as SLAM (Simultaneous Localisation And Mapping).
+
+“This is a computer perception process that looks at the data, understands how it all fits together into one 3D image, and simultaneously works out the location of all the sensors,” Mellor added.
+
+By using both forms of software, a robot can work out where it is in an environment, and provide information on its posture. This information is provided to human operators, who use virtual reality to control the robots and carry out the decommissioning work.
+
+The project also involves OC Robotics, Red Engineering Design, Structure Vision, React Engineering and UKEA, and is part of a competition organised by the NDA. Fifteen projects, since reduced to five, are competing for an £8.5 million prize to develop a means of decommissioning nuclear material that aims ‘to reduce risks to workers, increase productivity, deal efficiently with waste, reduce timescales and cut overall costs to the taxpayer.’

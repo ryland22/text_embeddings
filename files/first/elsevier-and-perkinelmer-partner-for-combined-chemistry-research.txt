@@ -1,0 +1,25 @@
+Analytics company Elsevier has entered a strategic partnership with PerkinElmer for combined chemistry research.
+
+During the collaboration’s first phase, Elsevier’s Reaxys chemistry database will be integrated with PerkinElmer’s ChemDraw JS software by the second quarter of this year.
+
+The main focus of this integration is to offer enhanced research tools to scientists around the world.
+
+
+
+Academic and industry users can create publication-ready drawings, graphics for publication and simplify other commonly used features by accessing ChemDraw JS’s structure editor through Reaxys.
+
+Elsevier life science solutions marketing director Neal Katz said: “By integrating ChemDraw with Reaxys, we are enhancing the user experience, allowing chemists and researchers to work in whatever way is most natural and familiar to them.
+
+“At Elsevier, we are consistently working to understand how the ways chemists work on a day-to-day basis are transforming, and to develop solutions that help them achieve their goals faster.
+
+"This is the first step in a collaboration that will benefit chemists and researchers around the world."
+
+“We’re so excited about collaborating with PerkinElmer. This is the first step in a collaboration that will benefit chemists and researchers around the world.”
+
+As part of the second phase of the collaboration, Reaxys will be integrated with ChemDraw Desktop during the fourth quarter of this year.
+
+Following integration, Reaxys subscribers can draw structures in ChemDraw and immediately search for them in the Reaxys database.
+
+Companies can use the integrated solution to save time in training chemists, resulting in lower costs and increased productivity per user.
+
+Reaxys database currently stores more than 240 years of chemistry content, including 105 million organic, inorganic and organometallic compounds, 500 million published experimental facts, 42 million chemical reactions, 16,000 chemistry related periodicals and six indexing sources.

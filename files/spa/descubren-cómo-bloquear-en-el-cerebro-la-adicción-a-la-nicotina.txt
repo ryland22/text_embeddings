@@ -1,0 +1,7 @@
+La búsqueda nuevos tratamientos que sirvan para curar la adicción al tabaco, pasa por una perfecta comprensión de los mecanismos neurológicos que la rige. Y, ahora, un nuevo estudio realizado por un equipo liderado por Nathaniel Heintz, de la Universidad Rockefeller, en Estados Unidos, ha realizado un avance trascendental, ya que han identificado cuáles son las neuronas involucradas en la adicción al tabaco.
+
+Los autores de la investigación estudiaron dos áreas cerebrales, el núcleo interpeduncular (IPN) y la habénula medial (MHb), que están interconectadas y que ya habían sido vinculadas con los procesos adictivos. En condiciones normales, cuando el organismo recibe una dosis de nicotina, la habénula envía una señal al núcleo interpeduncular para reducir los efectos placenteros de dicha sensación. Se trataría de un mecanismo de control para evitar que surja la adicción. Pero, cuando esa dosis se recibe de forma continuada, poco a poco, la región MHb pierde la capacidad para enviar esa señales.
+
+Los investigadores comprobaron que la pérdida de la comunicación entre esas dos áreas cerebrales se debía a la acción de unas neuronas llamadas Amigo1. En un experimento realizado con ratones, suministraron agua con nicotina a las cobayas para volverlas adictas a esta sustancia. Luego, a una parte de ellas les manipularon dichas neuronas para volverlas inactivas.
+
+Y el resultado fue que los ratones cuyas neuronas Amigo1 seguían funcionando, seguían necesitando su dosis de agua con nicotina, mientras que los roedores que las tenían inactivas, la rechazaban.

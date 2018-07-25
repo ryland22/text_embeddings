@@ -1,0 +1,59 @@
+Are you a numbers person?
+
+Before you click away, horrified at the thought of pleasure-reading about maths, pause.
+
+For most of us, basic mathematics is something we successfully use all day long, at home and at work. Calculated judgements help us handle bank accounts, evaluate choices in the supermarket, make estimates and spot errors. We rely on our number sense when we decorate a room, bake a cake, go out for a meal or pop down to the shops. Each of these tasks requires numeracy: an ability to understand and work with numbers in everyday life.
+
+What happens when the majority of those people in reality aren’t actually numerate enough to understand the interest rates on their student loans? Or whether that new sofa will fit through their living room doorway?
+
+“What we all need in daily life is quite simple maths,” says Mike Ellicock, chief executive of the charity National Numeracy. “But we also need a conceptual understanding applied to complex situations.” In essence, this understanding applies to a broad range of mathematical information that may be intricate, abstract, or embedded in unfamiliar contexts.
+
+For instance, you might need to calculate the true cost of buying versus hiring a car; whether to use award points or money to buy an airline ticket; or how to adjust a recipe to feed six people instead of four. Fractions, percentages, approximation, spatial understanding, rates of change, graphs and basic arithmetic are all part of number sense, but numeracy is not the same as classroom mathematics – nor is it some complex calculus. Rather, numeracy is how we interpret and apply our mathematical knowledge to the world around us.
+
+Consider managing your money. While technology certainly makes it easier to compare the costs of overdrafts, personal loans and mortgages, making estimates (and deciding whether an answer seems approximately right) is still very much a hands-on task.
+
+Companies frequently assume a reasonable level of numerical understanding from their customers. But what happens when the majority of those people in reality aren’t actually numerate enough to understand the interest rates on their student loans? Or whether that new sofa will fit through their living room doorway? Or how to quickly convert pounds to dollars when paying for something? Of course, these decisions are based on a number of factors, including human behaviour and value judgments, but mathematical literacy is the big one.
+
+People who are innumerate cannot calculate the value of a 25% off sale or split the bar tab with friends. They are unable to compare two retirement plans or choose between two mortgages or even two differently-sized cans of soda. They may confuse large or small orders of magnitude, fixate on certain risks, mistake correlation for causality or see meaningless patterns in random events. Innumeracy may even affect how you vote.
+
+And the problem seems to be getting worse. Roughly four in every five adults in the UK struggle with mathematical literacy. The mean numeracy proficiency scores of 16-65 year-olds in the US is significantly below average. (Worried about number crunching? Test your own numeracy with this adaptive diagnostic).
+
+So, why should we care?
+
+While mathematical illiteracy makes life hard for individuals, its consequences are truly global: research suggests a correlation between poor numeracy skills and national unemployment, productivity, even physical health. For a post-Brexit Britain, a decline in numeracy could mean an economy that’s less internationally competitive. But does it really matter if we cannot think quantitatively when we have phones and other devices that can do it for us?
+
+Stuart Elliot, a visiting scholar at the National Academy of Sciences in the US works on comparing humans and computers in an effort to understand which skills might one day be overtaken by machine – and therefore become obsolete. “I think we are close to the moment when machines will help not just with arithmetic calculations but with numerical reasoning,” he says.
+
+In the same way calculators replaced the need for long division by hand, computers might someday remove the need for qualitative reasoning.
+
+But before we abandon maths to the sentient machines, let’s consider the risks of doing that. The Internet of Things (a system of internet connected objects which can exchange information and data) is generating an ever-growing pool of our personal data: phones, fitness trackers, smart home devices, browsing history, travel cards and electronic medical records all spew out vast amounts of information about us – big data that can be collected and exploited.
+
+
+
+
+
+“Models become hidden in the technology,” warns Professor Celia Hoyles, Chair of Mathematics Education at University College London. “This can be very dangerous. We need to understand a computer’s output is not magic: we have to question where the figures come from.”
+
+“The population now falsely assumes you can calculate everything, because of technology,” says Conrad Wolfram, Strategic director of Wolfram Europe. From exam results to fake-news, “things that have a number attached to them are sometimes used beyond their ability to judge.”
+
+It is also worth keeping in mind that good statistics are more than just guesses: they are based on clear and reasonable definitions, accurate measures and representative samples
+
+And in many ways, the ubiquity of statistics – often computer generated – underscores the importance of being fluent in numbers.
+
+Despite the processing power of digital systems, they are fallible. Even the most sophisticated can’t yet compete with the human brain at higher levels. Although computers are good at quick calculations and identifying trends, humans excel at making judgements and spotting subtleties. A waiter at a restaurant might hand your table the wrong bill, for instance, and you’d need mathematical literacy to double-check the correct balance.
+
+“As a human, you still have to set up a problem deliberately,” says Wolfram. “Why are you doing this, and how might you have been fooled?” Indeed, we will always need solid numeracy habits in order to make the most of the technology we use. Even the most sophisticated artificial intelligence machines are only as good as the data they are trained on, and human involvement, whether purposeful or accidental, can muddy that data.
+
+So, what should we do? First, resist the urge to rely on phones and tablets. Instead, do basic calculations in your head or on paper. It takes a little effort and practice, but building good habits will help you spot errors and make more educated guesses where it really counts.
+
+Second, pay attention to context. Asking the right questions can help you sort out the difference between real science and pseudoscience. It is also worth keeping in mind that good statistics are more than just guesses: they are based on clear and reasonable definitions, accurate measures and representative samples.
+
+Third, use computers wisely. They can save time and help you gain a conceptual understanding of more difficult quantitative tasks. They can also help double-check our procedures and enhance or accelerate our experience of problem-solving. Too often, we lack an intuitive feeling for very small or very big numbers like quantities or time spans; computers can help us understand the magnitude of a trillion-dollar budget, a one-hundred-thousand-word novel or a megaton of TNT in a country’s nuclear stockpile.
+
+Finally, be sceptical. In order to use numbers and data, it’s important to engage with the facts – sometimes, that means pitting quantitative analysis against what we’re told is true. Without numeracy, we simply are not getting the full story.
+
+--
+
+To comment on this story or anything else you have seen on BBC Capital, please head over to our Facebook page or message us on Twitter.
+
+If you liked this story, sign up for the weekly bbc.com features newsletter called "If You Only Read 6 Things This Week". A handpicked selection of stories from BBC Future, Culture, Capital and Travel, delivered to your inbox every Friday.

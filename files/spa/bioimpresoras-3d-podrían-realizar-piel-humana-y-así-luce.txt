@@ -1,0 +1,35 @@
+La piel humana tiene tres capas principales, hipodermis, dermis y epidermis, y un enjambre de moléculas y proteínas, como la elastina, que la convierte en un órgano complejo y difícil de imitar, aunque no imposible gracias a la impresión 3D.
+
+El pasado año, científicos españoles dieron a conocer un prototipo de bioimpresora 3D capaz de crear piel humana “totalmente funcional” y apta para ser usada en investigación, probar con productos cosméticos, fármacos y químicos y en un futuro ser trasplantada a pacientes; ahora este modelo se ha mejorado.
+
+En las instalaciones de la Universidad Carlos III de Madrid (UC3M), un equipo multidisciplinar dirigido por José Luis Jorcano y Juan Francisco Cañizo ha diseñado una bioimpresora “más robusta, más versátil, reproducible y precisa” que la anterior, con la que se podrá hacer piel “más compleja y progresivamente más parecida a la humana”.
+
+El primer prototipo podía replicar la estructura natural de la piel con una primera capa externa, la epidermis, junto a otra más profunda y gruesa, la dermis.
+
+Ahora, explica a Efe Jorcano, se ha dado un paso más y “en un plazo relativamente corto creemos que seremos capaces de producir piel con moléculas importantes, como el ácido hialurónico, con diferentes tipos de colágenos y elastina”, que le dará resistencia.
+
+Además, la piel también tiene estructuras, como los folículos pilosos o las glándulas sudoríparas, que son muy complejas y que, aunque costarán más reproducirlas, esta máquina ya puede empezar a desarrollarlas.
+
+Para poder hacer todo esto es necesario un “cóctel biológico” de células, proteínas y factores de crecimiento, que constituyen lo que se llaman biotintas, las cuales en este caso, en lugar de cartuchos de tinta como en las impresoras ordinarias, se colocan en jeringuillas.
+
+La deposición de las biotintas, patentadas por el Centro de Investigaciones Energéticas, Medioambientales y Tecnológicas (Ciemat) y bajo licencia de BioDan Group, está controlada por ordenador y se hace ordenadamente en una placa que luego va a la incubadora a 37 grados.
+
+Los componentes son los mismos que para la creación de piel a mano, pero adaptados a la bioimpresora, que, en definitiva, intenta automatizar un proceso que se puede hacer a partir de piel autóloga creada a partir de células del propio paciente para usos terapéuticos, como en quemaduras graves o piel alogénica, a partir de cualquier persona donante -mejor para testar químicos.
+
+En ambas hay que extraer las células del paciente/donante a través de una pequeña biopsia, cultivarlas en el laboratorio y conseguir su multiplicación. El proceso hasta tener la piel artificial puede durar dos o tres semanas, depende de su uso.
+
+Con la piel artificial hecha a mano ya se han hecho pruebas en pacientes con heridas para que cicatricen, y con quemados; el siguiente paso será perfeccionarla gracias a esta nueva bioimpresora.
+
+“Desde el punto de vista terapéutico el problema está en los grandes quemados, donde los pacientes pierden mucho líquido”, así que proteger esa superficie quemada supondría un avance muy importante, subrayó a Efe Cañizo.
+
+Además, las mejoras introducidas en esta máquina, si bien la principal aplicación hoy por hoy es hacer piel, van a permitir, en un futuro, crear tejidos que geométricamente no sean muy complejos.
+
+Después de conseguir una piel cien por cien humana se podrían desarrollar aquellos tejidos con forma cilíndrica, como vasos sanguíneos, o forma esférica, como la vejiga urinaria; para esto hay que esperar.
+
+El uso clínico, sin embargo, no es el único de esta piel; existe otro, el de testeo de productos cosméticos, químicos y fármacos, que mueve al año 20.000 millones de dólares en el mundo, según Jorcano.
+
+El siguiente paso será producir apósitos de piel humana congelables para usar en las unidades de urgencia para quemaduras o heridas profundas, que podrían estar en el mercado en 2019.
+
+Por último, el reto será reducir los costes de la producción de la piel para trasplantes.
+
+Fuente: EFE

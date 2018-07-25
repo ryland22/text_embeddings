@@ -1,0 +1,17 @@
+By DAVE HUGHES, FAA
+
+As of Jan. 1, 2020, ADS-B-Out will be required in most controlled airspace — and that includes pilots who are practicing aerobatics, performing in an airshow, or competing in an event such as this week’s SUN ’n FUN.
+
+This requirement is no different from the current requirement to use an operating transponder for these types of flight operations.
+
+The FAA maintains that the ability of controllers and other pilots to identify and track aerobatic aircraft via ADS-B will enhance safety.
+
+According to Sue Gardner, the FAA’s national event specialist, the agency has three messages for aerobatic pilots:
+
+ADS-B equipment does not function properly during aerobatic maneuvers, and the FAA will not penalize any pilot in that situation. ADS-B-Out is valuable for safety when an aerobatic aircraft is not performing dynamic maneuvers. It will transmit an aircraft’s identity and position to controllers and pilots of other aircraft equipped with ADS-B In, even if their aircraft is not being tracked on radar. Equipping with ADS-B Out and In will help pilots of aerobatic aircraft travel safely to and from events.
+
+The FAA is developing a new policy on the aerobatic use of ADS-B, available by this summer. The policy will be accessible in the FAA’s Flight Standards Information Management System (Order 8900.1) and advisory circular, AC 91-45D, Waivers: Aviation Events.
+
+Gardner says the FAA policy for ADS-B is being written in the same way as for transponders. The transponder rule has no waiver under 14 CFR section 91.205.
+
+With few exceptions, pilots are required to turn on the transponder. For instance, while in formation when aircraft are not separated during the maneuvering sequence, only the lead aircraft needs ADS-B turned on. This must be authorized by the controlling FAA facility, in advance.

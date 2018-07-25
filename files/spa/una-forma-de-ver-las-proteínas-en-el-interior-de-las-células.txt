@@ -1,0 +1,7 @@
+Detectar con precisión las proteínas facilitará detectar defectos e implementar técnicas para resolverlos. Crédito imagen: Nicolle Rager, National Science Foundation
+
+Utilizando ferritina (la proteína responsable de almacenar hierro en los vertebrados), un equipo de científicos liderado por Stephen Royle, descubrió un método, bautizado FerriTag (Etiquetado de hierro) que permite que un microscopio electrónico (EM) haga visible proteínas con una gran nitidez. El método permitió a los científicos que sea la propia célula la que etiquete la proteína evitando el daño que puede provocarse al intervenir desde el exterior. El hallazgo ha sido publicado en Nature Communications.
+
+La técnica de etiquetado es un recurso muy utilizado, sin embargo, tenía varios inconvenientes; algunas no son lo suficientemente precisas o no funcionan con proteínas individuales. Para superar esto, el laboratorio de Royle creó esta nueva etiqueta y la fusionó con una proteína fluorescente.
+
+“Las proteínas desempeñan casi todas las funciones en el interior de las células que los científicos queremos estudiar – explica Royle en un comunicado –. Podemos aprender mucho sobre cómo funcionan las proteínas simplemente observándolas en el microscopio. Pero necesitamos saber su ubicación precisa. Lo bueno de FerriTag es que está genéticamente codificado. Eso significa que conseguimos que la célula haga el etiquetado de la proteína y no tenemos que colocarla desde el exterior, lo que dañaría la célula”.

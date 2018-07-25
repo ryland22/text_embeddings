@@ -1,0 +1,29 @@
+U.S. Army and special forces units are set to introduce two new small arms rounds in the near future meant to improve the effectiveness of troops in the field. Special operations snipers will replace their 7.62 bullets with a new round favored by civilian precision rifle shooters, while the Army’s next-generation squad machine gun will be chambered in a new caliber using new casing technology. The result will be snipers that can engage targets farther and machine guns that are more accurate and lethal than existing weapons.
+
+Advertisement - Continue Reading Below
+
+Higher Velocity Sniper Round
+
+On the sniper rifle front, according to Army Times, U.S. Special Operations Command is switching from the current 7.62x51-millimeter round—also known as .308 Winchester—to the relatively new 6.5-millimeter Creedmoor round. Introduced by ammunition maker Hornady in 2007, the round caught on with commercial precision rifle shooters due to superior long range ballistic performance over the 7.62x51 round.
+
+A Green Beret from the 1st Special Forces Group (Airborne) sniper team, prepares to fire his rifle at the U.S. Army Special Operations Command International Sniper Competition held at Fort Bragg, N.C. March 2018. U.S. Army Photo by Sgt. 1st Class Jacob Braman
+
+As this article in NRA Shooting Illustrated demonstrates, the 6.5 Creedmoor travels at a higher velocity than the 7.62. At 1,000 yards, a 6.5 Creedmoor round requires less correction for bullet drop (gravity) and for wind than the 7.62 round. This reduces the margin for error for long range shots, especially when calculating the effects of wind.
+
+Advertisement - Continue Reading Below
+
+Velocity is also important in another sense: bullets slowing from supersonic to subsonic speeds begin to act unpredictably, so it’s important to have a round with as high velocity as possible. At 1,000 yards, the 6.5 round will arrive at its target still traveling at 1,400 feet per second, well above the speed of sound, while the 7.62 round will arrive at 1,150 feet per second, “just past the cusp of the transonic window”.
+
+The new 6.5 Creedmoor round is fairly easy to adopt on existing rifles—typically, 7.62-millimeter rifles just require a barrel swap to take advantage of the new round. The updated sniper rifles should also be externally identical to non-updated rifles, and magazines will hold the same number of rounds.
+
+A Lighter Machine Gun Bullet
+
+Meanwhile, the U.S. Army has decided to go with an entirely new round for its Next Generation Squad Automatic Rifle (NGSAR). Also reported in Army Times, NGSAR will replace the M249 Squad Automatic Weapon in Army service. The M249 shoots 5.56-millimeter ammunition, the same as the M4A1 carbine. The Army is eyeing a 6.8-millimeter round as its replacement. One possibility is combining the 6.8 round with so-called "cased telescope" technology, which Army officials believe would reduce the weight of ammunition by ten percent.
+
+Currently, bullets are half-seated in brass casings. The bullets sit on a small mound of gunpowder which burns when a gun’s firing pin strikes a primer at the base of the casing. Cased telescope rounds, on the other hand, have bullets fully enclosed in a polymer casing, surrounded by gunpowder. The new method reduces the overall weight and size of the round. Much of the work in cased telescope rounds has been done over the years by Textron Systems.
+
+A prototype squad automatic weapon developed by Textron that uses a cased telescope cartridge. Textron
+
+The most likely 6.8-millimeter round under consideration is the 6.8 SPC, or Special Purpose Cartridge. The 6.8 SPC was developed by U.S. Special Forces as an alternative to the existing 5.56 round. It never caught on, but there might be renewed interest in the round among Army leadership now. While some sing the 6.8 round’s praises, others believe it doesn't have any major advantages compared to newer, improved 5.56 rounds.
+
+The NGSAR will eventually be followed up by a carbine for use by individual U.S. Army infantrymen that will use the same new round.

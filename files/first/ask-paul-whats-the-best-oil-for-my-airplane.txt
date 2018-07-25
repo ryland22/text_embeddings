@@ -1,0 +1,23 @@
+Q: Paul, I fly my single engine Comanche two to three times a month during our cold winter months here in Wisconsin. During EAA chapter meetings and fly-outs, we debate what is the best engine oil to use? The most common answers are 15-50 multi viscosity oil or a straight weight like 80 or 100. Even when I discuss with engine shops I get no preference. Thoughts?
+
+Steve Lark
+
+A: Now here’s a question that has been around almost as long as I’ve been in the aviation industry and I’m old!
+
+There are several schools of thought on this subject, so I’ll give you my personal opinion. In case you haven’t heard this before, opinions are like belly buttons…everyone has one, so you can take it from there.
+
+If I lived in Wisconsin and the airplane were mine, I’d probably do the following. I’d run a straight weight Ashless Dispersant or AD oil during the warmer months, such as SAE 50 weight.
+
+When colder temperatures begin to arrive, I’d probably move to a multi-weight oil such as SAE 15W50 or 20W50. This would provide good lubrication protection for the engine while allowing you to operate during colder temperatures.
+
+You may wish to review the Lycoming Service Instruction 1014M, which will provide vital information with regard to engine lubrication.
+
+Since you appear to be a very conscientious aircraft owner, I’d also highly recommend that you review a copy of Lycoming Service Bulletin 480F, which address the subject of oil and filter change intervals.
+
+You may find that you’ll be able to change your engine oil and filter in accordance with the guidelines set forth in SB 480F to coincide with the calendar time moving from summer to winter or vice versa.
+
+The important thing to remember is that you can always run the multi-viscosity weight oil whatever the temperature might be, unlike the straight weight SAE 50 which should be removed as colder temperatures arrive in the fall of the year.
+
+While many folks poo-poo changing their engine oil and filter every four calendar months or 50 operating hours — provided your engine is equipped with a full-flow oil filter as recommended in SB 480 — always remember that engine oil is very inexpensive compared to what you may have to spend to repair damage caused by not changing the oil.
+
+There is no doubt that all of the aviation grade oils on the market today offer outstanding lubrication capabilities. The risk of extending oil and filter changes comes from the fact that we are failing to remove the contaminates which are by-products of combustion and condensation that are harmful to the internal parts of the engine.

@@ -1,0 +1,41 @@
+Eleven years after bringing a new single-engine utility turboprop to market certified to the latest FAA Part 23 standards, Quest Aircraft has unveiled an upgraded version of its Kodiak, the new Series II. Features range from Series II paint schemes to Garmin G1000 NXi avionics, airframe improvements, and a free two-year subscription to the Garmin Pilot EFB app. The Kodiak Series II is priced at $2.15 million.
+
+Eighteen new paint schemes are available, complementing new Kodiak branding on various parts of the airplane and accessories, including yoke plates featuring the “Built By Hand In Sandpoint Idaho” tagline.
+
+Subtle but welcome improvements to the cabin include an easier-to-use cargo door step mechanism that also lowers cabin noise. Wing root sealing is improved to cut noise and eliminate fumes in the cabin. Pilots’ sun visors are upgraded to an improved Rosen model.
+
+Under the hood, the Kodiak’s Pratt & Whitney Canada PT6A-34 engine now features an accessory gearbox chip detector.
+
+Crew doors can now be held open with two new door stays, one for partial opening and one to hold the door fully open. The stay allows the door and the engine cowling to be open at the same time.
+
+The optional single-point refueling port and control panel, which add 16 pounds to the empty weight, are located at the left wing root and allow high-pressure fueling and defueling.
+
+Cockpit Changes
+
+A big change that Kodiak pilots will notice right away is the analog backup instruments have been replaced with a compact L3 ESI-500 four-in-one electronic standby instrument. This freed up space on either side of the G1000 displays for two new glove boxes.
+
+The Garmin G1000 NXi upgrade brings dual-core processors—instead of the G1000’s original single-core processors—to the three large displays, speeding up startup, zooming, and panning. The primary flight display (PFD) in front of each pilot adds an HSI map displaying traffic, terrain, weather, navaids, and obstacles in a convenient location for the pilot’s instrument scan. The HSI map and synthetic vision are standard features on the Kodiak.
+
+A useful NXi feature is the communication decoder, which displays the name of the facility tuned into the comm and nav radios underneath the frequency display.
+
+Garmin’s SurfaceWatch terminal safety system is optional on the Kodiak and is displayed on the PFD to the left of the airspeed indicator. SurfaceWatch issues warnings for takeoff or landing on the wrong runway or a too-short runway and provides updated information on the airport environment while taxiing.
+
+The multifunction display (MFD) adds a vertical situation display, which graphically shows the Kodiak’s altitude in relation to terrain for the planned flight.
+
+Pilots can complete weight-and-balance calculations on the MFD and view load parameters to ensure that all are safely within the weight-and-balance envelope.
+
+Visual approaches are new for G1000 NXi, and these are available at most airports, allowing the system to generate a 3-degree glidepath to pilot-designated minimums. The visual approach can be coupled to the autopilot.
+
+Animated Nexrad can be displayed on the G1000 NXi when the optional GDL 69 datalink/SiriusXM receiver is installed.
+
+With G1000 NXi, Garmin’s Flight Stream 510 wireless gateway is standard, allowing database updates directly from the Garmin Pilot app. Using Bluetooth, pilots can automatically transfer flight plans from a mobile device running Garmin Pilot or ForeFlight directly to the G1000 NXi.
+
+Another new Series II option is Garmin’s GWX-70 weather radar, which offers four-color storm cell tracking, selectable scan (up to 90 degrees), full pitch and roll stabilization, side-view vertical scanning, Garmin’s Weather Attenuated Color Highlight, turbulence detection, and ground-clutter suppression.
+
+Garmin’s GTX 345R ADS-B Out/In transponder is included in the Series II upgrade. With ADS-B In, the Garmin Pilot app can display weather, GPS position, traffic, and backup attitude.
+
+Quest has added Safe Flight’s Arinc 429 angle of attack system, which includes an indicator mounted on the glareshield in the pilot’s field of view.
+
+Two Bose A20 ANR headsets are included with the Series II, and they use new Lemo plugs alongside the standard headset jacks. Lemo plugs use aircraft power and eliminate the need to keep headset batteries charged.
+
+L3 LDR1000 cockpit voice and data recorders are available in single or dual installations for operators that need them.

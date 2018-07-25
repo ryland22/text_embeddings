@@ -1,0 +1,21 @@
+Q: Is it possible to increase the horsepower of this engine to 260? or even 300? I’m a relatively new to all things airplanes as I have just been flying rental planes, but I just picked up a Velocity XL-RG and an O-540 from a Piper Cherokee. The Velocity requires at least 260 hp, but ideally if I could get to 300 hp safely I would like to do that. I would also like to add fuel injection.
+
+Michael J. Baron
+
+A: I’m afraid I’ve got some bad news for you regarding the horsepower for your O-540-B2B5 Lycoming engine.
+
+This particular engine is FAA certified and rated at 235 horsepower at 2575 RPM and the compression ratio is 7.20:1. This engine was used primarily on the Piper Pawnee PA-24-235 and the Piper Cherokee PA-28-238. It was configured for a fixed pitch prop only.
+
+When I research the genealogy of this series of Lycoming engines, I can tell you that since you’ll be using this engine in an experimental category aircraft, the best you can do horsepower wise is 250 horsepower.
+
+Again, since it’s an experimental category aircraft, you could consider installing 8.5:1 compression ratio pistons and at 2575 RPM that should give you 250 horsepower, but that would be about it, and you’d be on your own as far as reliability, etc.
+
+By changing the compression ratio, it actually falls in line and would be similar to the Lycoming O-540-A1D5 engine that is rated at 250 horsepower at 2575 RPM with the 8.5:1 compression ratio pistons.
+
+I can’t emphasize enough that the most reasonable thing you can do to get the 250 horsepower is to change the pistons to a higher compression ratio, remembering that it’s done as an experimental configuration.
+
+There are 260 horsepower O-540 series Lycoming engines, but they have many different components, such as the crankshaft making it uneconomical to try to convert your engine to that type of configuration.
+
+The 300 horsepower engine is a completely different breed altogether and you can’t get there by converting your engine unfortunately.
+
+Michael, I apologize for putting a damper on your project, but I’m certain there are other options that you’ll be looking at that will allow you to complete the project.

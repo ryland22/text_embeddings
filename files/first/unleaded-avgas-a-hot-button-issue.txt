@@ -1,0 +1,33 @@
+In a previous column, CYA, the FAA and the new unleaded avgas, I discussed the problems the FAA may have with the new proposed unleaded 100 octane avgas.
+
+In addition to the lower octane characteristics of the avgas, one of the big concerns is exhaust valve recession.
+
+I received a number of responses to the column, both positive and negative. The best email was from Larry Wheelock, who commented about the example of possible valve recession in Franklin engines.
+
+He noted that the low performance Franklin engines were qualified on unleaded gasoline and, because of their low operating temperatures, actually had problems running on higher lead content fuels. The valve face temperatures ran at a temperature too low to scuff off the lead byproducts of combustion.
+
+I apologize to Franklin owners; I should have been more specific as to which models could be affected.
+
+This brings up the question as to which engines may be affected by valve recession with the unleaded fuel.
+
+There is not a clear-cut answer to this question and not all engines will have a problem.
+
+The recession depends on the hardness of the exhaust valve and seat. However, there is concern as to whether seat material can be found that will eliminate the problem in all engines.
+
+The main problem is that aircraft engines are mostly air cooled and the exhaust valve/seat interface runs at a very high temperature. This temperature can be affected by factors such as air/fuel ratio, ignition timing, baffles, seals, ambient air temperature, power settings, and so on and so on.
+
+On new engines, some of these factors can be changed to lower the seat temperature. But on existing engines at overhaul, the changes are limited.
+
+For example, the baffles, seals and air flow pattern around the exhaust valve seat cannot be easily redesigned to lower the seat temperature.
+
+Another big factor is camshaft profile. Many camshafts are designed in such a way so that the exhaust valves slam onto the seat at a high speed. If the cam is redesigned with an addition to the ramp that reduces the speed at which the valve meets the seat, this will reduce the chance of recession.
+
+The other big factor is how pilots operate their aircraft. In the lab testing of these fuels, the engines are operated properly. Unfortunately, once the fuels reach the real world, pilots may operate their engines outside the recommended parameters, which may increase the possibilities of recession.
+
+Some of the other comments concerned the question about how the original 100LL was approved in the 1970s. There was very little testing then because 100LL met the performance parameters of the old 100/130 spec. The only difference between 100/130 and 100LL is the limit on the lead and the dye color. Most people do not realize that 100LL is correctly called 100/130 low lead.
+
+Another comment was about 100LL being the only leaded fuel available in the U.S. This is not true since leaded racing fuel is available in most locations.
+
+Finally, people are concerned about the fact that only one plant produces the lead mixture used in 100LL. While this is true, there are other plants in the world that could be started up to produce the product if the need and economic potential should arise.
+
+Now I know that the removal of lead is a hot button issue for many people. But unfortunately, claiming that there will not be a problem will not change reality. And if you talk to knowledgeable rebuilders, exhaust valve recession is a very real problem.

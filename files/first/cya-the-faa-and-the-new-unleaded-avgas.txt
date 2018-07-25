@@ -1,0 +1,39 @@
+Many years ago, I received some great advice from several friends at Continental Motors. They told me that the way to deal with the FAA was as follows:
+
+First, find the right person to deal with. You need to find someone who has dealt with similar types of approvals. Do your homework and do not just start with your local FAA office.
+
+Second, visit the representative and outline what you are trying to get approved, along with a general outline of your proposed test sequence. Also, ask the representative what additional testing and/or information the FAA would recommend or require.
+
+Third, formalize your proposed tests and present it to the representative for their approval.
+
+Fourth, run all of the tests and get all of the required information. If you need to run a type test, get the FAA involved from the start.
+
+Fifth, present the results to the FAA rep in an organized manner with all the i’s dotted and t’s crossed.
+
+I know that not every FAA rep is perfect. But dealing with them up front and honestly has worked for me.
+
+The FAA has a very difficult job and a lot of their work with, say, AD notes can be difficult because they need to do the CYA procedure thing.
+
+Speaking of CYA brings us to this column topic, the new 100 unleaded avgas.
+
+The EPA and their types reason that since the automotive industry has switched over to unleaded fuels, the piston aircraft industry should be able to do so easily. They definitely do not understand the show.
+
+The FAA and the GA community are faced with a very difficult task in trying to switch over to unleaded fuel. I will give them credit — they are going about it the right way with a fairly well organized effort with the current engine manufacturers, the oil companies, the FAA, ASTM, plus many others.
+
+Their present effort is to write an ASTM spec for a 100 octane unleaded fuel that will be approved by both Continental and Lycoming, plus manufacturers of light sport aircraft engines, for all of their engines.
+
+If we assume they are successful and the fuel goes on the market, then what happens when it reaches the very cruel real world?
+
+We now have two fuels — 100LL and 100UL — that are in the market place. The big problem is which fuel most FBOs chose to sell since most of them have only one system for handling avgas.
+
+Since 100LL is approved for all piston aircraft engines and 100UL will only be approved for Continental, Lycoming, and light-sport engines, I am guessing the majority will stay with 100LL.
+
+This is a good news/bad news thing. With 100LL being sold, most aircraft engines will get enough lead to keep the exhaust valves going and keep the knocking to a minimum. The bad news is that the 100UL probably will not sell well and will be a financial problem.
+
+I worked in the oil industry for more than 30 years, and know that if a product does not make money for the house, it doesn’t stay around long.
+
+Another bad news thing for 100UL is liability. As an example, say we have a pilot flying an aircraft powered by a Franklin engine who wants to fly only on 100UL. They switch over and use it exclusively. Now the engine is overhauled and broken-in exclusively on 100UL. After a number of hours, the plane is on a cross country flight when it starts to lose power due to burnt exhaust valves. If the pilot is lucky, he will land and face a very expensive rebuild bill. If he is not very lucky, he puts the plane into the side of a mountain.
+
+The question is not will there be a law suit, but rather who will get sued? The lawyers will go after the oil companies, but they have a lot of good lawyers who will argue that the fuel was on spec, so no liability. Continental and Lycoming will be next, but they only approved the fuel for their engines, so no foul. The lawyers will then go after the FAA, ASTM, and anyone with a significant cash reserve.
+
+I am not sure that you can successfully sue a government agency, but I am betting that we are going to find out.

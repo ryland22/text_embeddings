@@ -1,0 +1,57 @@
+Cruise altitude: Flight Level 330. Mach 0.83. Entering oceanic airspace. Two hundred miles east of the Newfoundland coastline. Destination: London Heathrow Airport. HF Selcal check with Gander Oceanic: complete. Autopilot: engaged.
+
+For a moment, no words are spoken. The copilot and I have silently acknowledged that our Boeing 777-300 is ready for the journey across the North Atlantic.
+
+A moment later, an electronic bell pierces the sereneness of the flight deck. The copilot and I bolt upright in our seats. The engine instrument and crew alerting system (EICAS) screen in the center of the instrument panel glares at us with a message ­annunciated in red letters: "L Engine Fire." Two small, rectangular red lights on either side of the glareshield eyebrow radiate the word "Warning." I press the light on my side with a quick jab from a thumb. The electronic alarm bell ceases its cry.
+
+Simultaneously, the copilot and I glance down at the center pedestal between us. More red lights have caught our eye. Behind the two power levers, the bat-ball of the left fuel control cutoff switch radiates a red glow, as does the nearby left fire handle. These lights serve as confirmation of the emergency.
+
+I state to my copilot, "You have the airplane. I have the checklist and the radios." Reaching first for the autothrottle cutoff switch on the glareshield eyebrow, I initiate the actions of the engine fire memory items. The copilot verbally confirms my hand is moving to the correct switches and levers.
+
+The EICAS screen is now void of a fire warning. Good deal. The twist of the fire handle that activated the first halon bottle has extinguished the fire.
+
+Once we are both satisfied with the checklist progress, I make the decision to divert almost 180 degrees behind us to Gander, Newfoundland. It is the nearest alternate and has a runway long enough to accommodate a 777 with an engine shut down.
+
+Keeping the autopilot connected, my copilot begins the procedure for turning off and descending away from the North Atlantic tracks. The procedure requires careful adherence to the rules and a good understanding in utilizing the flight management system (FMS) computer.
+
+From the moment the fire bell first activates until our turn at the initial approach waypoint of Gander's RNAV GPS approach, my to-do list seems never-ending: Communicate with ATC. Announce our emergency on 121.5. Change the transponder to the emergency code. Turn exterior lights on. Turn seat-belt signs on. Communicate with the flight attendants. Communicate with the passengers. Communicate with company dispatch. Obtain current weather. Determine landing distance performance. Complete checklists. Dump fuel.
+
+I make a mental note: Next time, be the pilot flying.
+
+Fortunately, the above scenario was only a simulator drill. It was our check ride, a pass/fail event. We passed, worthy of an attaboy from the check airman. But the check ride was only part of the recurrency story.
+
+Training actually began before my arrival at our flight academy. On a quarterly basis, we are required to complete a long-distance learning course. The topics vary throughout the year.
+
+Each topic of the online course takes roughly 20 minutes to complete, adding up to a total of about two hours. Long-distance learning has resulted in one less day away from home during the recurrent-training cycle. That being said, we do lose the personal touch of live instruction, but for most of the subjects covered, an instructor is not really necessary.
+
+At the flight academy, the traditional airplane systems review class is always part of the syllabus. Over the years, as airplanes have become more complicated and more computer driven, the necessity to maintain rote knowledge of numbers and schematics has dwindled. Memorizing the flow diagram of the hydraulic system may aid in understanding its intricacies, but for the most part inflight troubleshooting is not an option.
+
+Instead, checklists are designed to fix an abnormal problem so that the airplane can operate safely until it lands at a suitable airport. Today's philosophy regarding aircraft systems is focused more on switch functionality. In other words, if any given switch is activated, what is the result?
+
+Every recurrent ground school requires us to operate the airplane emergency exits through the use of our fuselage mock-up trainers. In addition, we inflate life jackets and extinguish fires.
+
+A necessary but rather dry class involves a discussion of our company manual as it pertains to takeoff and landing minimums. The intricacies of runway and approach lighting and runway visual range (RVR) transmissometer reporting have a profound effect on legality for takeoff and landing.
+
+Although cockpit resource management is still alive and well, emphasis has now been placed on human factors education. As an example, incidents within the airline that have jeopardized safety are examined for the elements that may have been the root cause, prevention being the goal. The examination is both an objective and subjective look at ourselves.
+
+The human factors class also includes the FAA's new focus on the threat and error management model. The model is a methodology to visualize a particular flight's potential risks by identifying the encountered threat level before safety is sacrificed.
+
+Lastly, human factors is a reminder of various avenues in which pilots can seek assistance when experiencing personal issues, or if a colleague is in need of assistance. If these avenues had been made available to one ­Germanwings copilot, perhaps the tragedy would never have occurred.
+
+Just in case our distance learning courses didn't provide enough security training, it is also taught during our recurrent ground school, the difference being the addition of physical procedures. (As you guessed, if I told you I would have to kill you.)
+
+The final act of our recurrent training is in the simulator, immediately following our line-oriented flight training (LOFT) scenario. It's the fun part of the process. We are afforded the opportunity to experience the ­performance capabilities of the airplane, an aspect we don't normally include on a routine trip.
+
+On this particular occasion, my copilot and I got the chance to ­demonstrate our prowess in both understanding the factors behind the predictive wind-shear warning system and flying through an encounter. The 777 radar does a tremendous job of displaying wind shear for both takeoff and landing.
+
+Another item on the syllabus is upset recovery. The simulator is programmed for a variety of unusual attitudes. Our job is to return the airplane to straight and level flight without theoretically ripping the wings off the fuselage or making the situation even worse.
+
+Although rarely encountered, a maximum demonstrated direct crosswind landing of 38 knots was flown. The purpose is not so much to test our abilities, but to impress upon us the need to maintain a very shallow bank angle in a slip. Too much bank angle, and the possibility of striking an engine pod becomes a reality. It's best to maintain a crab across the runway. The landing gear is robust enough to handle a touchdown not perfectly aligned with the runway.
+
+Without warning, we were presented with airspeed indications that made no sense. It took a moment to recognize. Once I acknowledged the predicament, we progressed to the checklist memory items associated with the procedure. Our scenario was in VFR conditions. Even so, it was an awkward situation. No flight directors. No autopilot. No autothrottles. No airspeed. A great lesson.
+
+Next on the list was a plain vanilla visual approach. We performed a takeoff without autothrottles or a flight director and made a circuit to a visual landing. No electronic glideslope assistance was provided. Although I found this to be an enjoyable exercise, for some it may be a challenge. The crash of Asiana Flight 214 in San Francisco brought to light the possibility that, because of increasing dependence on automation, airline pilots may be losing proficiency in basic flying skills.
+
+Finally, we topped off our fun with a maximum weight takeoff of 648,000 pounds accompanied by an engine failure. The takeoff was performed first with the thrust asymmetry compensator (TAC) and then without. Having 3,000 psi of hydraulic pressure applied automatically to the rudder is a definite help, but even deprived of the system the airplane is manageable with just inputs from my little, old quads.
+
+Recurrent training is not the highlight of my airline duties, but it is a valuable and necessary part of the job description. The training encompasses all aspects of our profession. It's not just about the simulator.

@@ -1,0 +1,29 @@
+For the first time, new research suggests artificial intelligence may be better than highly-trained humans at detecting skin cancer. A study conducted by an international team of researchers pitted experienced dermatologists against a machine learning system, known as a deep learning convolutional neural network, or CNN, to see which was more effective at detecting malignant melanomas.
+
+The results? "Most dermatologists were outperformed by the CNN," the researchers wrote in their report, published in the journal Annals of Oncology.
+
+Fifty-eight dermatologists from 17 countries around the world participated in the study. More than half of the doctors were considered expert level with more than five years' experience. Nineteen percent said they had between two to five years' experience, and 29 percent had less than two years' experience.
+
+The doctors were shown 100 images of skin lesions and asked to make a diagnosis, using their judgment about whether it was a malignant melanoma or benign mole. They were also asked to make a decision about how to manage the condition, such as surgery, short-term follow-up, or no action needed. Four weeks later, the researchers gave the dermatologists clinical information about the patient, including age, sex, and the position of the lesion, and close-up images of the same cases. Once again, they were asked to make diagnoses and management decisions.
+
+The study authors also showed the CNN a set of 300 images of skin lesions. A CNN is an artificial neural network inspired by the biological processes that occur when the brain's neurons are connected to each other and respond to what the eye sees. It is capable of machine learning, or teaching itself from what it has "seen," so it can keep improving its performance.
+
+At first look, dermatologists correctly detected an average of 87 percent of melanomas, and accurately identified an average of 73 percent of lesions that were not malignant. Conversely, the CNN correctly detected 95 percent of melanomas.
+
+Things improved a bit for the dermatologists when they were given additional information about the patients along with the photos; then they accurately diagnosed 89 percent of malignant melanomas and 76 percent of benign moles. Still, they were outperformed by the artificial intelligence system, which was working solely from the images.
+
+"The CNN missed fewer melanomas, meaning it had a higher sensitivity than the dermatologists, and it misdiagnosed fewer benign moles as malignant melanoma, which means it had a higher specificity; this would result in less unnecessary surgery," study author Professor Holger Haenssle, senior managing physician in the Department of Dermatology at the University of Heidelberg in Germany, said in a statement.
+
+The expert dermatologists performed better in the initial round of diagnoses than the less-experienced doctors at identifying malignant melanomas. But their average of correct diagnoses was still worse than the AI system's.
+
+"These findings show that deep learning convolutional neural networks are capable of out-performing dermatologists, including extensively trained experts, in the task of detecting melanomas," Haenssle said.
+
+Health officials say the incidence of both non-melanoma and melanoma skin cancers has been increasing in recent years. More than 76,600 people in the U.S. are diagnosed with melanoma each year, and more than 9,300 die from it, according to the latest statistics from the U.S. Centers for Disease Control and Prevention. Early detection is key for successful treatment, but many cases are only diagnosed when the cancer is in advanced stages and becomes more difficult to treat.
+
+The researchers note that they don't believe artificial intelligence should replace doctors. Rather, it could be a useful tool in helping them diagnose skin cancer.
+
+In an accompanying editorial, Dr. Victoria Mar of Monash University in Melbourne, Australia, and Professor H. Peter Soyer of the University of Queensland in Brisbane point out that a number of issues would need to be addressed before AI could become standard in clinical use. These include the difficulty of imaging some melanomas on certain locations of the body, such as on the fingers, toes and scalp. There's also the challenge of how to train AI to recognize atypical melanomas and those that patients themselves are unaware of.
+
+However, they write that the study shows "artificial intelligence (AI) promises a more standardized level of diagnostic accuracy, such that all people, regardless of where they live or which doctor they see, will be able to access reliable diagnostic assessment."
+
+"Currently, there is no substitute for a thorough clinical examination," they conclude. Though there's "much more work to be done to implement this exciting technology," they say, "sooner than later, automated diagnosis will change the diagnostic paradigm in dermatology."

@@ -1,0 +1,84 @@
+This 2-D nanosheet expands like a Grow Monster
+
+
+
+by Staff Writers
+
+
+
+Buffalo NY (SPX) Apr 19, 2018
+
+
+
+Grow Monsters. Expandable water toys. Whatever you call them, they're plastic-like figurines that swell when placed in water.
+
+New materials science research borrows from this concept; only instead of water, engineers discovered that tiny crystal lattices called "self-assembling molecular nanosheets" expand when exposed to light.
+
+The advancement, described in the Proceedings of the National Academy of Sciences in March, could form the backbone of new light-powered actuators, oscillators and other microscopic electronic components useful in the development of artificial muscles and other soft robotic systems.
+
+The work centers on a materials science concept known as photostriction, which means turning light directly into mechanical motion, says the study's co-lead author Shenqiang Ren, a researcher at the University at Buffalo's RENEW Institute, which works to solve complex environmental problems.
+
+"We're using light - anything from sunlight to a simple laser - to cause the two-dimensional nanosheet to expand at an incredibly fast rate," he says.
+
+How fast? Sub-milliseconds. The process is aided by the photostrictive effect, which essentially bypasses the need to create electricity to move something, says Ren, PhD, a professor in the Department of Mechanical and Aerospace Engineering in the UB School of Engineering and Applied Sciences.
+
+The nanosheet - made of the molecular charge-transfer compound DBTTF and buckyball molecules) - can expand up to 5.7 percent of its original size, according to the study.
+
+While that may not sound like much, consider this: a 200-pound man that expands 5.7 percent would need to add 11.4 pounds in less than a second to keep pace with the light-triggered nanosheet.
+
+Expandable water toys grow much more than that, but they do not revert to their original size. By contrast, the nanosheet does, making it potentially very useful as a light-induced actuator in artificial muscles, which has applications in everything from medical devices to industrial robotics.
+
+Research paper
+
+
+
+Related Links
+
+University at Buffalo
+
+Nano Technology News From SpaceMart.com
+
+Computer Chip Architecture, Technology and Manufacture
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Lausanne, Switzerland (SPX) Mar 21, 2018
+

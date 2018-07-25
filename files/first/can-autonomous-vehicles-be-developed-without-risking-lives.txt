@@ -1,0 +1,27 @@
+Back on March 18, 49-year-old Elaine Herzberg was walking her bicycle across a street in Tempe, Ariz., when she was struck and killed by an Uber autonomous vehicle.
+
+Her death is the greatest tragedy in the incident. But it also has sent shock waves across the global community of autonomous-vehicle developers, researchers and regulators, even consumers.
+
+Last week, Uber decided to end its self-driving car operations in Arizona, saying it would have limited testing in other states. The National Transportation Safety Board also reported that on March 18, the vehicle's software determined before the impact that the car needed to stop but Uber said those braking maneuvers were not enabled on the vehicle.
+
+Experts had a lot to say about the topic at the Canadian Auto Innovation Summit held by the Canadian government in Detroit just four days after the accident.
+
+Listening to those experts, it was hard to feel entirely comfortable about the push to test autonomous vehicles on public streets.
+
+The crux of the situation, to me, is that autonomous vehicles are being sold as the enablers of a new era of automotive safety. The oft-cited statistic that human error is behind 94 percent of crashes is trotted out, contrasted with the theoretically flawless performance of vehicles driven by algorithms, lidar and cameras.
+
+The ultimate goal is most clearly stated by the Vision Zero movement out of Sweden. The aspiration is that autonomous vehicles, linked to other vehicles and the infrastructure, would not crash. Ever. No accidents, no serious injuries, no highway deaths.
+
+I'm not arguing against that goal, but perhaps we need to acknowledge how monumental it really is.
+
+At the Detroit summit, Ziad Kobti, director of the School of Computer Science at the University of Windsor in Ontario, said autonomous-driving systems require reliability far beyond what traditionally defines artificial intelligence.
+
+He cited the Turing Test, developed in 1950 by British computer pioneer Alan Turing. It sets the standard for artificial intelligence as being able to equal the performance of a human. But, as Kobti put it, developers must create "a god" that is far better than human drivers.
+
+Another point: The Uber car was not fully autonomous. It had an operator who was supposed to take control in a dangerous situation. Video from the car appeared to show that the driver didn't have eyes on the road before the crash.
+
+Nikolas Stewart, autonomous-vehicle program manager at the University of Waterloo in Ontario, noted that human "safety drivers" get bored.
+
+Paradoxically, Stewart said, as systems become more reliable, human drivers are likely to become even less attentive.
+
+It's easy to become enamored of an accident-free future. And I honestly hope the vision materializes. But in the interim, we had better realize that we're playing with human lives.

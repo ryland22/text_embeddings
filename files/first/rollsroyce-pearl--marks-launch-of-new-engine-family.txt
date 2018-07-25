@@ -1,0 +1,27 @@
+Rolls-Royce (Booth W71) unveiled a new engine family for the large and very-long-range class of business aircraft with its first applications—the Bombardier Globals 5500 and 6500, in hand. Quietly in development for years, the Pearl builds on the venerable BR700 family that has powered the Global 5000 and 6000 as well as the Gulfstream G550 and G650. The first variant, the Pearl 15, fits within the same nacelle package that is on the current Global 5000 and 6000.
+
+But the engine incorporates numerous changes, adopting research involving key technologies derived from Rolls-Royce’s Advance2 engine technology demonstrator program. The result is a new core with new high-pressure compressor, along with advanced engine health monitoring, low-emissions combustor, and a two-stage shroudless high-pressure turbine.
+
+Under the Advance2 program, the Pearl engine family could have a potential range from 10,000 to 20,000 pounds of thrust. The first member, the Pearl 15, will produce 15,125 pounds (ISA+15), providing up to 9 percent more thrust during climb than the BR710, but improving efficiency at the same time.
+
+The engine has a 7 percent improvement in specific fuel consumption and is two decibels quieter, even further exceeding Stage 4 noise standards. Among the most notable gains are the NOx emissions, which exceed international-set standards by 35 percent—a 20 percent gain over the BR710—and smoke emissions, which is 80 percent better than international environmental regulations and 48 percent more margin than the BR710. The smoke output is so small that it is barely if at all visible, company executives said.
+
+Dirk Geisinger, program director and chairman of Rolls-Royce Deutschland, said to make these environmental gains, keep the same dimensions, and enable a Mach 0.90 operating speed for the new Globals, Rolls-Royce employed a series of advanced technologies surrounding the new core. This required “a lot of looking at a higher-revolution level, higher temperatures and…at the best aerodynamics you can find,” Geisinger said.
+
+Enhancements to the aerodynamics of the new high-pressure compressor deliver 50 percent higher pressure ratio (24:1), he said. New lightweight materials are used to withstand the higher temperatures yet keep the size the same. The blisks are made of titanium. The combustor was designed with enhanced noise dampening and impingement effusion cooling technologies to lower emissions.
+
+Also new is the two-stage shroudless high-pressure turbine that is developed with a modulated case-cooling system to reduce fuel consumption and also enable higher temperatures. The low-pressure turbine features three stages of shrouded blades with an optimized case to allow for a smaller core size.
+
+Another key aspect comes from the digitization of the engine. The advanced engine health monitoring system enables on-condition maintenance with the ability to generate information from thousands of parameters and send that information to the ground in real-time. The health monitoring system is configurable to the information needs of various end-users.
+
+Developed at Rolls-Royce’s Center of Excellence for Business Aviation engines in Dahlewitz, Germany, the first Pearl application has undergone an intense development program with first run in 2015 and EASA certification in February. Shortly after certification, the Pearl 15 began the flight-test campaign aboard the Global 5500 and 6500 flight-test vehicles.
+
+The test program has checked off a number of key milestones, including lightning strike, water ingestion, ice, and cold-start testing at -40 degrees C. In all, test engines have amassed 2,000 hours and 6,000 cycles. Rolls-Royce executives expect the program to accrue 10,000 hours by the time the engine enters service at the end of next year.
+
+The development comes as Rolls-Royce sees growth in business aviation. “We believe sunnier skies are ahead for the business aviation market," said Scott Shannon, Rolls-Royce senior vice president customers for business aviation, pointing to an anticipated strengthening of GDP, as well as the number of high-net-worth individuals. Rolls-Royce is predicting a market for 8,500 to 9,000 business jets over the next decade, he said, adding, “We are launching the Pearl family to make the most of this.”
+
+As for the choice of Pearl as the name of the new family, Shannon said this reflects the characteristics of the engine: robust and sustainable, retains value, organic and environmentally friendly, and a symbol of luxury and wealth. He also pointed to the heritage of Rolls-Royce naming engines after rivers -- there are Pearl rivers in both China and the U.S., marking two key markets for the future of the engine family.
+
+Rolls-Royce senior vice president of marketing for civil aerospace Richard Goodhead added that the family will position Rolls-Royce to remain a strong contender in the high-end business jet market space, where it has traditionally dominated with the Tay and BR700 families.
+
+The Pearl family is an extension of an overarching research and development program across its market niches that involves $2 billion in annual investment in short- and long-range programs at Rolls-Royce. This includes Advance2, which Goodhead said was specifically aimed at the two-shaft business aviation market.

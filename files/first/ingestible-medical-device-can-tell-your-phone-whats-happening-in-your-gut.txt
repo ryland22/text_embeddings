@@ -1,0 +1,26 @@
+Imagine swallowing a medical device that, once it hit your gut, could send a wealth of information about your health right to your smartphone. It's a reality that's Massachusetts scientists hope to bring about one day, outlined in a new study in Science.
+
+Researchers at MIT, the Koch Institute for Integrative Cancer Research, Harvard, and the Brigham and Women's Hospital developed the ingestible sensor called IMBED (Ingestible Micro-Bio-Electronic Device). In tests on pigs, the sensor could to detect molecules indicative of excess internal bleeding. (Pigs are a good test subject because they have a similar gastrointestinal tract to humans.)
+
+
+
+Advertisement - Continue Reading Below
+
+The device is equipped with bacteria engineered to sense particular biomolecules in the gastrointestinal tract, and it could be tailored to any number of disease-relevant molecules. IMBED is currently a prototype, but the scientists hope they'll be able to make a version fit for human testing soon.
+
+The project—which required an expertise in biological engineering techniques, electronic circuit design, materials, and gastroenterology—was a true team effort. "It occurred to us that cells are naturally adept at sensing their environment, and moreover, resilient to many types of harsh environments. It also occurred to us that electronic design may allow us to create a small device that could read from these cells," says Phillip Nadeau, a former Postdoctoral Associate at MIT who worked on the project.
+
+The bacteria are placed in plastic containers that are then attached to the IMBED. These containers are covered by semipermeable membranes that have pores too small to allow the bacteria to escape, but just the right size to allow molecules in. If the cells within inside the container recognize their target molecules amongst those entering the container, they start to glow.
+
+That glow is detected by a readout circuit underneath. The entire time, these light levels are being continuously transferred to a phone outside of the pig. The phone then translates and displays the light levels for the user.
+
+A project this complex is bound to face some hurdles. "Probably the most challenging was developing a strategy to package the electronic and living components together into a single device," says Mark Mimee, a Ph.D. student at MIT.
+
+Even with expertise in electrical and biological engineering, the team was still finding difficulties with protecting the plastic containers from the humidity inside a pig's gastrointestinal tract. Further collaboration with a materials lab at MIT helped develop a waterproof coating that was able to handle a pig's internal sweat.
+
+Advertisement - Continue Reading Below
+
+"Evolution has naturally provided us with a host of sensing systems that organisms use to adapt to changing environments. Engineers can tap into that natural wealth of sensing systems and refine them into new biosensors," says Mimee. The group hopes that as their work moves forward, scientists in the future can broaden "the scope of living cell sensors to many potential biomarkers that may be related to cancer, inflammation, liver disease, and other conditions."
+
+Because of their similarities to human systems, scientists often look to pigs for various medical tests. Last year, a team of scientists used CRISPR technology to remove retroviruses from a pig's DNA and then cloned that pig, producing several small piglets with virus-free organs.
+

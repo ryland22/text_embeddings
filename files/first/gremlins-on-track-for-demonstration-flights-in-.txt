@@ -1,0 +1,82 @@
+Gremlins on Track for Demonstration Flights in 2019
+
+
+
+by Staff Writers
+
+
+
+Washington DC (SPX) May 11, 2018
+
+
+
+DARPA's Gremlins program is working to allow small unmanned aircraft systems to carry more advanced payloads by enabling UAS to be launched/recovered in volleys by a host aircraft. Image Credit: Dynetics
+
+DARPA is progressing toward its plan to demonstrate airborne launch and recovery of multiple unmanned aerial systems (UASs), targeted for late 2019. Now in its third and final phase, the goal for the Gremlins program is to develop a full-scale technology demonstration featuring the air recovery of multiple low-cost, reusable UASs, or "gremlins."
+
+Safety, reliability, and affordability are the key objectives for the system, which would launch groups of UASs from multiple types of military aircraft while out of range from adversary defenses. Once gremlins complete their mission, a C-130 transport aircraft would retrieve them in the air and carry them home, where ground crews would prepare them for their next use within 24 hours.
+
+A recent flight test at Yuma Proving Ground provided an opportunity to conduct safe separation and captive flight tests of the hard dock and recovery system.
+
+"Early flight tests have given us confidence we can meet our objective to recover four gremlins in 30 minutes," said Scott Wierzbanowski, program manager in DARPA's Tactical Technology Office.
+
+In addition to preliminary flight tests, the team has focused on risk reduction via extensive modeling and simulation. The team looked at how fifth generation aircraft systems like the F-35 and F-22 respond to threats, and how they could incorporate gremlins in higher risk areas. The gremlins' expected lifetime of about 20 uses could provide significant cost advantages by reducing payload and airframe costs, and by having lower mission and maintenance costs than conventional platforms, which are designed to operate for decades.
+
+The C-130 is the demonstration platform for the Gremlins program, but Wierzbanowski says the Services could easily modify the system for another transport aircraft or other major weapons system. Modularity has made Gremlins attractive to potential transition partners.
+
+"We are exploring opportunities with several transition partners and are not committed to a single organization. Interest is strong with both the roll-on/roll-off capability of the Gremlins system - as it does not require any permanent aircraft modification - and a wing-mounted system to provide greater flexibility to a wider range of aircraft," said Wierzbanowski.
+
+Gremlins also can incorporate several types of sensors up to 150 pounds, and easily integrate technologies to address different types of stakeholders and missions.
+
+DARPA recently awarded a contract to a Dynetics, Inc.-led team to perform the Phase 3 demonstration. The DARPA program team currently is exploring the possibility of demonstrating different sensor packages with potential integration partners prior to program completion in 2019.
+
+
+
+Related Links
+
+Defense Advanced Research Projects Agency
+
+UAV News - Suppliers and Technology
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington (UPI) May 8, 2018
+

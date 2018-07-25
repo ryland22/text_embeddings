@@ -1,0 +1,69 @@
+Please read over these Frequently Asked Questions for insight on using our new community tools.
+
+We are aware of the problems some users are having registering and signing in, especially on Internet Explorer. We appreciate your patience as we continue to resolve all issues.
+
+What are the benefits of having an account on cleveland.com?
+
+An account on cleveland.com allows you to connect more easily with people in your community, giving you new tools to share ideas, opinions and news. Your account gives you access to many new features on cleveland.com:
+
+Personal profile pages
+
+Profile pages are collections of your comments, recommendations, posts, photos and videos on cleveland.com. Just like Facebook or Twitter, you can connect with people in your online community and get updates whenever they post something new on the site. Follow and be followed
+
+Follow interesting community members and get updates whenever they post a new comment, photo or video or recommend a story. You can also follow your favorite reporter or photographer to make sure you don’t miss their latest stories and photos. Other members can follow you and see your updates. New discussion tools
+
+You can already post comments on stories, photos and videos and respond to fellow community members on cleveland.com. Our new features make it even easier to interact and follow the conversation by allowing direct replies to other users’ comments. Reporters and editors can also easily respond directly to your questions. Recommend stories, photos and videos
+
+Want to share an interesting story on cleveland.com with your friends? Recommend the story with a single click and your followers will get an update on their profile pages with a link to the story. Each story shows how many readers have recommended it as well, so you play a part in telling the community what matters most. Contribute photos, videos and stories
+
+Profiles are about you and your interests in your community. Post photos, videos and stories about topics you care about and share them with cleveland.com members. One-click access for uploading photos or videos makes it easier than ever to share what’s happening in your community.
+
+No, just sign in with your existing username and password and you’ll be able to access all the new features on cleveland.com.If you are having trouble signing in using Internet Explorer, try using Firefox instead.You can update your profile with a display name and bio info, promote your Twitter and blog URLs and upload an avatar. To sign in, click "" on top of this page or go to https://signup.cleveland.com/sign-in/
+
+I don’t have an account yet. How do I sign up?
+
+Go to https://signup.cleveland.com/register/ and fill out the fields to register for a new account. It's a quick and easy process that requires only some basic info, including:
+
+Your user name. This is what you use to sign in to cleveland.com.
+
+Your display name. This is the name by which you will be known to others on the site.
+
+An email address. This will not be visible to other users.
+
+A password with a reminder hint that, again, only you will see.
+
+Your year of birth and gender, also invisible to other users.
+
+Once you sign up, you’ll need to check your email for your registration confirmation. Click on the link in the email to confirm your new account and you’re ready to log in and get started!
+
+What is OpenID and is it safe to sign in with my Google, AIM or Livejournal account?
+
+OpenID allows you to access multiple websites and services with one username and password. You own your identity and don’t need to worry about maintaining multiple identities on the web. Several large companies support OpenID, including AOL, Facebook, Google, Microsoft, Myspace, Sears and Yahoo. When you register with OpenID, you aren’t sharing your username and password with cleveland.com; instead, you sign in to a page from your account host and they tell us if you are a registered user or not. For more information on OpenID, check out their FAQ at http://openid.net/what/.
+
+How do I edit my profile?
+
+Go to your profile page and select "Edit your profile" in the stats box. You can update your personal information and upload a user photo that will show up on your profile page and next to any comments you post.
+
+What’s the difference between a profile and a dashboard?
+
+Your profile is what others see; it is all of your activity. Your dashboard is only available to you and shows the activity of everyone you are following. To view your profile, click on "Profile page" in the top left-hand corner of this page. To view your dashboard, click on your display name in the same area or go to your profile and select "View your dashboard" in the stats box on the upper right.
+
+How do I follow someone? How do I stop following a user?
+
+To follow another member of the cleveland.com community, visit her profile page and click on "Follow this user" below the user's name. To stop following a user, go to her profile and click on the "Unfollow this user" link next to the user's avatar.
+
+Does cleveland.com have a comment policy?
+
+We do! We want our comments sections to be filled with lively and informative conversations, incorporating many different perspectives, viewpoints and opinions. We do, however, forbid personal attacks and hate speech of any kind. We do not allow obscene or profane language or images on our pages. We ask that you do not post commercial or advertising messages of any kind or post personal information such as phone numbers. We have no tolerance for spammers or trolls who look to hijack conversations or intentionally derail them off topic. These types of contributions will be deleted and could be grounds for suspending or terminating user accounts. In short, as a member of this online community, we ask that you be civil and respectful and that you add your perspective to conversations in a manner that adds to the discussion, rather than subtracts from it. For more information, take a look at our community rules.
+
+What if I forgot my password?
+
+It's easy to reset your password. Go to https://signup.cleveland.com/remember/ and enter your email address. An email will be sent to you with a link that takes you to a page where you can reset your password.
+
+When I try to sign in, I’m prompted with a message that says I need to review cleveland.com’s terms of service. Why is this?
+
+All users who sign up for an account on cleveland.com must read and agree to our User Agreement and Privacy Policy. If you choose not to agree to the terms of the User Agreement and Privacy Policy, just sign out of your account.
+
+I posted a comment, photo or video to the site and it didn’t immediately appear. Is everything OK?
+
+To optimize performance of cleveland.com, all new content is put into a publishing queue. Normally this means it only takes a second or two for your comment, photo or video to appear on the site, but there may occasionally be a lag if the site is experiencing heavy use.

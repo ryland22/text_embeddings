@@ -1,0 +1,97 @@
+By Gary B. Wells, Attorney at Law
+
+USA – -(Ammoland.com)- Because Congress has had a majority of firearm supporters over the last several years, the country has been spared the onslaught of federal bills infringing on the Second Amendment.
+
+In response, the Obama Administration has written its own draconian “laws” by redefining terms, resulting in existing laws being applied to parties and transactions those laws were never intended to restrict.
+
+These most recent of these efforts were issued July 22, 2016, by the Department of State as a “Guidance” on the “Applicability of the ITAR Registration Requirement to Firearms Manufacturers and Gunsmiths.”
+
+This document involves redefining gunsmithing activities as “manufacturing” under the International Traffic in Arms Regulations (ITAR) and requires many gunsmiths to register with the Directorate of Defense Trade Controls (DDTC) and pay an annual fee beginning at $2,250.
+
+The ITAR requirements are independent of how a licensee is licenced under the Gun Control Act (GCA). Just because a person or business is not licenced as a manufacturer under the GCA does not prevent it from being a manufacturer under ITAR. Nor is there any need to export or even intend to export anything to be subject to the export registration requirements.
+
+This is improperly burdensome for manufacturers, but to extend this burden to gunsmiths who are not manufacturing “firearms” is unreasonable, if not absurd.
+
+The DDTC deceptively attempts to minimize the drastic effects these requirements will have on gunsmiths by claiming that its definitions of “manufacturing” and “gunsmithing” are “the ordinary, contemporary, common meaning of the term[s].” However, if this were true, the activities of “gunsmithing” would be the same under the Gun Control Act and ITAR. They are not. Also, the confusing examples provided by the DDTC establish there is nothing ordinary, contemporary, or common is the Administration’s latest attack on firearms.
+
+No Excuse That Gunsmith Has Nothing to Do with Exports
+
+ITAR requires that “Any person who engages . . . in the business of manufacturing or exporting . . . is required to register with the Directorate of Defense Trade Controls.” In addition, “engaging in such a business requires only one occasion of manufacturing or exporting . . . A manufacturer who does not engage in exporting must nevertheless register.” (22 CFR § 122.1.) Consequently, a gunsmith who is ensnared into one act of “manufacturing” under the DDTC’s new definitions is required to register and pay the onerous fee, even though the gunsmith has no intention to and never does export a single item restricted under ITAR.
+
+DDTC Ignores Congress and Skips Regulatory Process
+
+If Congress wished to regulate gunsmithing activities under ITAR, it should first have to justify some connection with these activities to exporting and then specifically regulate those activities. Because it has not done so, the Administration had decided to fill the alleged “ordinary, contemporary, common” deficiency in the law. At a minimum, if the DDTC wished to suddenly regulate the activities of gunsmiths without Congressional authority, it should have pursued the process required for issuing proper regulations, including public and industry comment. It has not.
+
+Guidance or Confusion? What Is Not “Manufacturing” for Gunsmiths?
+
+A serious problem for gunsmiths under these guidelines is the practical impossibility of determining what activities are “manufacturing” and which are not. The determination is necessary before making an informed decision whether to avoid the registration requirement by not engaging in those activities or to register, pay the fee, and comply with the other burdensome regulations under ITAR. The “Consolidated Guidance” from the DDTC creates more confusion and questions than it does answers and exemplifies either a lack of understanding of gunsmithing activities or an effort to substantially impede on those activities without any justifiable cause.
+
+Occasional Assembly and Drop-in Parts
+
+The “guidance” lists eight activities that are not “manufacturing” under ITAR. The first activity is for the “Occasional assembly of firearm parts and kits that do not require cutting, drilling, or machining.” The second activity is for “Firearm repairs involving one-for-one drop-in replacement parts that do not require any cutting, drilling, or machining for installation.” Anyone working on firearms even without the experience and expertise of a gunsmith recognizes that assembly of parts and drop-in replacements do not always go smoothly, even with milspec parts. A gunsmith in the middle of a simple assembly or replacing a part must suddenly make a big decision if a hole isn’t not quite deep enough or there is material that needs to be machined slightly so a part can fit properly. Will one more hole being drilled this year be more than “occasional”?
+
+What exactly does “one-for-one drop-in replacement parts” mean? Is this synonymous with “identical,” “similar to,” “similar in function to,” or some other definition? If the gunsmith replaces a magazine release or slide release with one that is extended, is that sufficiently different not to qualify as a “one-for-one” replacement?
+
+Repairs Not Improving Accuracy, Caliber, or Other Operational Aspects
+
+The third activity is where the guidelines get strange: “Repairs involving replacement parts that do not improve the accuracy, caliber, or other aspects of firearm operation.” What is meant by these activities is confusing in several respects. While accuracy and “operation” of a firearm can be improved, improving caliber is subjective. Is a .45 an improvement over a 9 mm? Which is better between the 7.62×39 mm and the 300 Blackout? Maybe what is meant is any change in caliber, whether an improvement or not, but that is not what is stated. Would simply changing the caliber of a firearm, such as changing the barrel to convert a Glock 22 (.40 caliber) to shoot 9 mm ammunition, be excluded under the first two non-manufacturing activities (assuming no cutting, drilling, or machining is required), or is it still “manufacturing” for the sole reason the caliber was changed?
+
+What changes to accuracy constitute manufacturing? Outside of barrel rifling, in most cases accuracy has more to do with the shooter, practice, and ammunition. Would sight replacement constitute manufacturing? Sights do not make the gun any more accurate, they only make it easier for the user to shoot more accurately. However, they do improve an aspect of firearm operation. Apparently, sights would not be an improvement as the DDTC has specifically added an activity that is not “manufacturing” under ITAR or “Machining new dovetails or drilling and tapping new holes for the installation of sights which do not improve the accuracy or operation of the firearm beyond its original capabilities.” What are improvements “beyond its original capabilities? Would the addition of replacement night sights, fiber optic sights, red-dot sights, a scope, or a scope with greater magnification or better glass improve the accuracy or operation of the firearm? Again, sights and scopes do not affect the inherent accuracy of the gun, but they obviously improve the operation of the firearm.
+
+What about adding a muzzle brake to improve follow-up shot accuracy? Does this make the firearm more accurate, or merely help the shooter control the recoil which is an improvement in the firearm’s operation? Apparently, this would not be an improvement because the DDTC has added another non-manufacturing activity for “Attachment of accessories to a completed firearm without drilling, cutting, or machining—such as attaching a scope, sling, or light to existing mounts or hooks, or attaching a flash suppressor, sound suppressor, muzzle brake, or similar item to a prethreaded muzzle.” However, the “machining or cutting of firearms, e.g., threading of muzzles or muzzle brake installation requiring machining, that results in an enhanced capability” is manufacturing.
+
+(Oddly, many state “assault weapon” bans include as a prohibited feature a “flash suppressor,” but not a “muzzle break.” Other than legislature ignorance, what is so dangerous about a flash suppressor?)
+
+Improvement of any “other aspect of firearm operation” sounds like a dangerous catch-all. It appears that a repair is not manufacturing so long as the repair does not improve the operation of firearm in any aspect over the original condition. There is a contrast between a “repair” and an “improvement.” A repair requires that something needs to be fixed. If the barrel is worn out and is replaced with a new barrel of the same caliber and no cutting, drilling, or machining is involved, accuracy will be improved. To make any sense, the improvement must be measured from what the weapon was before the part was worn or damaged. However, what if the new barrel is better than the manufacturer’s barrel, resulting in greater accuracy? This may include different rifling, a longer length, or better material. What if the new barrel has a different rifle twist so that it works better for lighter bullets, but not as well for heavier bullets? Is the installation of this new barrel covered by the first two activities? Or is this an disqualified because it is an “improvement” (third activity) and, because it is different, not a “one-for-one drop-in replacement part” (second activity)?
+
+Would the replacement of parts with an extended magazine release or slide release constitute an improvement in an aspect of firearm operation? Or does “firearm operation” related to something more fundamental such as trigger-pull weight? What if the gunsmith grinds or cuts an existing, or machines a new, ejector that causes the casing to eject more to the side of the firearm rather than back into the shooter’s face. The first activity would not apply if performed more than occasionally. It’s obviously not a drop-in part qualifying under the second activity. It does improve an “aspect of firearm operation,” so it may not be exempted under the third activity. It does seem to qualify, however, under a specific example of services that are manufacturing under ITAR: “The production of firearm parts (including, but not limited to, barrels, stocks, cylinders, breech mechanisms, triggers, silencers, or suppressors).”
+
+Cosmetics and Ammunition
+
+Other non-manufacturing activities are more obvious and consistent with Gun Control Act definitions of gunsmithing that are not manufacturing, including “Hydrographic paint or Cerakote application or bluing treatments for a firearm,” and “Cosmetic additions and alterations (including engraving) that do not improve the accuracy, caliber, or other aspects of firearm operation beyond its original capabilities.” Also, manual loading or reloading of ammunition of .50 caliber or smaller is not manufacturing, but the “systemized production of ammunition, including the automated loading or reloading of ammunition” is manufacturing.
+
+What is Manufacturing for Gunsmiths?
+
+In addition to the “systemized production” or “automated loading or reloading” of ammunition and machining or cutting of firearms as mentioned above, what other activities constitute “manufacturing” under ITAR? One example is the “Use of any special tooling or equipment upgrading in order to improve the capability of assembled or repaired firearms.” I’m sure gunsmiths could sit in their workrooms and look around at the special tools or equipment they commonly use and imagine all kinds of gunsmithing activities that would now constitute manufacturing.
+
+Another overly-inclusive guideline of what activities constitute manufacturing is “The production of firearm parts (including, but not limited to, barrels, stocks, cylinders, breech mechanisms, triggers, silencers, or suppressors).” Would manufacturing a simple pin, plunger, pin, detent, or spring constitute “manufacturing”?
+
+What about companies who manufacture 1/4-inch Allen screws? Are they manufacturers under ITAR because this part is used to connect the pistol grip to the AR-15 pistol grip? Or does the part have to more unique and substantial? If so, how so? What about manufacturing a simple magazine release button?
+
+Manufacturing now includes “Modifications to a firearm that change round capacity.” Does that mean that removing or modifying the restricting or limiting plug of a Mossberg 500 is manufacturing? What if an extended shotgun magazine tube is added? What if an opposite approach is taken to reduce the number of round a firearm may hold for hunting purposes. None of these simple procedures that require no special tools and can be performed by many non-gunsmiths should be considered “manufacturing.” What about changes to the magazine, but not the firearm itself? Or does the DDTS consider magazines a part of the firearm, in which case each magazine modified could constitute a separate “firearm” being “manufactured.”
+
+The remaining three examples of “manufacturing” are generally more involved, including “Rechambering firearms through machining, cutting, or drilling; . . . Chambering, cutting, or threading barrel blanks; and . . . Blueprinting firearms by machining the barrel.”
+
+Forced Registration?
+
+These new ITAR registration requirements are severely prohibitive and/or costly for gunsmiths, poorly written and confusing, and place gunsmiths in an impossible position of not knowing what is and is not “manufacturing.” Similar to the January regulations that attempted to require anyone selling a firearm to be licensed as a dealer, it appears that the DDTC may be attempting by it confusing, inconsistent, and nonsensical guidelines to force all gunsmiths to register under ITAR to ensure they are not in violation.
+
+DDTC Advisory Opinions
+
+The DDTC guidelines do provide:
+
+If, after careful review of this guidance, you are unsure as to whether you are required to register with DDTC, you may submit an advisory opinion request (see 22 CFR § 126.9) detailing exactly what you do or intend to do with regard to firearms and ammunition.
+
+This request should be sent in hard copy (services like UPS or FedEx recommended for faster delivery) as indicated on our website: http://pmddtc.state.gov/about/contact_information.html.
+
+However, the regulations explained, “These opinions are not binding on the Department of State, and may not be used in future matters before the Department. A request for an advisory opinion must be made in writing and must outline in detail the equipment, its usage, the security classification (if any) of the articles or related technical data, and the country or countries involved. An original and seven copies of the letter must be provided along with seven copies of suitable descriptive information concerning the defense article or defense service.”
+
+More Information
+
+Information about the registration process, compliance and record-keeping requirements, etc., under ITAR can be found in my book, Federal Firearm Laws for Businesses & Their Customers, Vol. 1: Federal Infringements, which can be purchased at http://firearmslaw.attorney/firearms-book/.
+
+Gary B. Wells is licensed to practice law in the states of California and Texas. He provides a wide range of legal services for firearm businesses and owners.
+
+Contact Information:
+
+Gary B. Wells, Attorney at Law
+
+6083 N. Figarden Dr., PMB #203
+
+Fresno, CA 93722
+
+(559)275-2429
+
+[email protected]
+
+www.firearmslaw.attorney

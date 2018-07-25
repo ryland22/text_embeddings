@@ -1,0 +1,39 @@
+CLOSE The FBI issued a formal warning that Russian computer hackers had compromised hundreds of thousands of home and office routers and could collect user information or shut down network traffic. Veuer's Maria Mercedes Galuppo has more. Buzz60
+
+SAN FRANCISCO — Your mission, should you choose to accept it: Turn your router off, then turn it back on. That’s one of the things the FBI is asking people to do to help thwart a cyberattack it says agents of a foreign government are launching against U.S. citizens.
+
+Last week, security researchers at Cisco's cyberintelligence unit Talos warned of the attack: malicious software, dubbed VPNFilter, had infected an estimated 500,000 consumer routers in 54 countries and was targeting routers from Linksys, MikroTik, Netgear and TP-Link, and possibly others.
+
+The FBI on Friday sent out a notice recommending that anyone with a small office or home office router reboot (turn on and off) their devices to stop the malware.
+
+The scope of the attack is “significant,” the FBI said. Once the malicious software is on a user’s equipment, it could stop the router from working, collect information from the systems that run through it and possibly block network traffic, according to the agency.
+
+More: Researchers warn 500,000 consumer routers infected with malware
+
+More: 7 clear-cut signs you've been hacked
+
+More: Do it now! Protect your router from Russian hackers
+
+The Justice Department has linked the malware to a cyber espionage group that’s been called Sofacy, APT 28 or fancy bear by researchers in the cybersecurity industry. It is believed to be linked to the Russian government.
+
+In its announcement, the FBI only named “foreign cyber actors.”
+
+Talos, in its blog post Wednesday, said that the computer code used in the malware shows significant overlap with a malware that was responsible for multiple large-scale attacks that targeted devices in Ukraine.
+
+VPNFilter has also been targeting devices in Ukraine, which Talos notes “isn’t definitive by any means.”
+
+Russia or Russian-backed hackers are known to have launched cyber attacks on Ukraine because of the Russian-backed rebellion underway in that country’s eastern provinces and because Russia is known to have extensive cyber capabilities.
+
+More: Russia is sponsoring cyberattacks in U.S. homes and businesses, U.S. and U.K. officials warn
+
+What the FBI doesn’t yet know is how VPNFilter is getting on people’s systems.
+
+There are several actions those with home routers can do to stop it. Turning the router on and off temporarily disrupts the malware and erases parts of it, though the router can be reinfected.
+
+The best protection is to make sure the router’s software has been updated and a strong password has been set. Many routers come with default passwords such as “password” or “1234,” which the owners never reset, making them vulnerable to hacking.
+
+For the more technically inclined, Talos suggested owners might disable remote management settings on their routers.
+
+Router manufacturers Linksys, MikroTik, Netgear, QNAP and TP-Link have posted instructions for users to follow to update their routers' software.
+
+Read or Share this story: https://usat.ly/2xm1PRG

@@ -1,0 +1,17 @@
+Ever since Bitcoin mania took the world by storm, thousands of people have been employing large computer rigs to mine them. According to a new study, those computer rigs are using so much power that in a few years they’ll begin to outpace many entire countries.
+
+Back in December, we highlighted an analysis that predicted Bitcoin energy demand would outpace the entire energy demand of Denmark within a few years. Well, over the past six months since then, energy use for Bitcoin has more than doubled, according to a new study published in the journal Joule. That same study predicts that energy use will double again before the end of the year.
+
+Advertisement - Continue Reading Below
+
+Why does Bitcoin use so much electricity? It’s because of the way the currency was designed: each transaction is ensured to be secure because it requires an immense amount of computing power to make. Bitcoin doesn’t rely on central banks to send money, so the only way to make it secure is if the cost of a transaction is so high that it’s not practical to cheat the system.
+
+The downside of this is that each transaction uses an enormous amount of energy. According to the study, each one uses as much electricity as a typical home would use in a month, and that number will only increase. Transactions get harder to make over time—another intentional feature of the design. Even if no one else adopts the cryptocurrency power usage will still go up.
+
+At this rate, by the end of the year Bitcoin will use about half a percent of the world’s energy, and in a few years may use as much as five percent. “That would be quite bad,” said study author Alex de Vries in a press release, and not just in terms of electricity costs. That much electricity demand would force utilities to build new power plants, and many of those new power plants would burn fossil fuels. Bitcoin could single-handedly set back clean energy decades.
+
+At some point, someone has to step in and fix the system before it becomes completely unsustainable, and there are only a handful of possible solutions. We could see some sort of government regulation, although that might be difficult for a deliberately decentralized currency. Another possibility is that utilities will simply stop building power plants and instead increase prices, making Bitcoin mining unprofitable.
+
+Perhaps the likeliest solution, though, is some sort of reform in the way cryptocurrencies work. There are a handful of alternatives to Bitcoin that work differently and are designed to use much less power, and perhaps one of these will replace Bitcoin as the most popular cryptocurrency. The sooner that happens, the better, but until then we’ll just have to live with Bitcoin taking up a significant percentage of the world’s power.
+
+Source: Joule

@@ -1,0 +1,41 @@
+A few weeks after a woman was struck and killed by an Uber self-driving crossover in Arizona, the crash was re-created using heat seeking, thermal-imaging sensors. With that night vision technology -- used by the military and luxury cars for decades -- the pedestrian is clearly identified more than five seconds before impact, which would have given the car time to stop or swerve.
+
+Since the accident in March, autonomous car researchers' eyes have been opening to the need to teach robots how to drive in the dark and avoid people who wander into the road. After all, pedestrian deaths are up 46 percent since 2009, and three-quarters of them happen at night, according to federal data. One fairly obvious solution has been in some cars for almost 20 years: Night vision that can detect the heat of a human body.
+
+"If you have a sensor that could recognize something living, that information would be extremely useful to a computer," said Jake Fisher, director of auto testing at Consumer Reports. "But I have not heard much about using thermal imaging to detect objects and know which ones to avoid."
+
+The technology's obscurity may not last long. Companies such as Seek Thermal, which re-created the Uber crash, and headlight makers such as Osram have been pushing thermal and infrared sensors as the missing link in autonomous driving. And since the Uber crash -- where a woman walking her bicycle wasn't recognized as a pedestrian in time to avoid a collision -- the creators of robot rides are starting to take notice.
+
+"The Uber accident really does reflect one of the areas in which we have the greatest number of pedestrian fatalities, which we're hoping self-driving cars can fix," said Matthew Johnson-Roberson, an engineering professor at the University of Michigan who works with Ford Motor Co. and others on autonomous cars. "Until now, a lot of the research has been focused on using daytime vision driving as the benchmark. This accident highlighted how maybe we need to expand how we think about that."
+
+Night driving poses the same challenges for autonomous cars that it does for human drivers. The darkness shrouds objects and people because there's not enough contrast to observe the scene clearly. That is particularly vexing for cameras -- one of three key sensors, along with radar and lidar -- that allow autonomous cars to "see" their surroundings. At night, cameras' field of vision is limited by headlights that project only about 260 feet ahead, giving drivers -- robots or humans -- only a couple of seconds to react.
+
+"Human vision is already atrocious at night and we're trying to at least do as well as that and hopefully better," said Richard Wallace, an automated vehicles specialist at the Center for Automotive Research in Ann Arbor, Mich. "Better should include night vision. Headlights are only so good and thermal infrared is a very powerful tool that the military uses."
+
+Night vision can more than double an autonomous vehicle's range of vision at night, according to advocates for the technology, but it has a reputation for being costly, with thermal sensing units going for $5,000 each. That's a reason auto and tech companies creating robot rides are taking a pass on the tech.
+
+"We've looked at it and a lot of our customers have looked at it and it's too expensive for a very minimal benefit," said Dan Galves, a senior vice president at Intel Corp.'s Mobileye, which supplies camera technology to scores of automakers and is active in driverless development. "It's not something that's really necessary because optical cameras actually do pretty well at night and you have a radar system as backup that is not affected by light."
+
+Lidar and radar are impervious to the dark because they bounce laser light and radio waves off objects to assess shape, size and location. But they can't detect heat to determine if those objects are living things. That's why pedestrian detection could remain a challenge for self-driving cars.
+
+"For lidar, the question is, 'Is it a fire hydrant or is it a 4-year-old?'" said Tim LeBeau, vice president of Seek Thermal, who's trying to get automakers to buy his company's infrared sensors that are now used by law enforcement, firefighters and hunters. "With fire hydrants, you can predict what's going to happen. Four-year-olds, you cannot."
+
+Since the Uber accident, LeBeau said he's getting more calls returned, but his product remains a hard sell. "I've been in front of the largest car companies in the world who have engineers who never even thought about using thermal," LeBeau said.
+
+Part of LeBeau's pitch is that the cost of thermal sensors is dropping about 20 percent a year as they become more widely used. The National Transportation Safety Board's report on the Uber crash also provided more fodder. The agency's preliminary findings released last week bolstered the case for using redundant sensors that can better differentiate between inanimate objects and humans, he said.
+
+It's not as if night vision is a foreign concept to automakers. General Motors was first to offer it as a pricey option on the 2000 Cadillac DeVille. Others followed and it can now be found on models from Mercedes-Benz, Audi, BMW, Toyota and Honda. They're just not yet sold on the technology for self-driving cars.
+
+"Night vision cameras -- like all pieces of hardware in automated driving -- have their benefits as well as their drawbacks," said Ellen Carey, a spokeswoman for Audi. "This specific technology will need to overcome challenges of cost, field of view and increased durability to meet the stringent criteria for automation-grade sensors."
+
+Advocates of the technology are hoping automakers can see night vision as more than a tech toy for moneyed motorists to recognize stags bounding onto a gloomy roadway. They contend it's an essential element of machine vision, enabling self-driving cars to brake and steer in the dark better than any human driver.
+
+"We see a gap in the camera sensors right now and we are pushing the camera guys to bring it up to where it needs to be," said Rajeev Thakur, regional marketing manager with Osram, which is rolling out a line of LED headlights that pulse bursts of infrared light to extend the field of vision. "If you're not able to see too far out, you're driving blind -- literally."
+
+Thakur would love to know exactly what went wrong in the Uber crash, but he said the industry is too busy fighting to be first with driverless cars to collaborate on solutions.
+
+"Everyone is left on their own to figure out how to solve this problem," he said. "No one wants to be behind, so everyone says, 'Hey, I can do autonomous.' And all they need to show is that they can drive a stretch of road in daytime."
+
+But after the sun goes down, autonomous cars reveal their limitations. And the consequences of not seeing clearly in the dark can be deadly: Nearly 6,000 pedestrians died on U.S. roads in 2016, and most were killed at night while jaywalking in urban areas, just like the woman hit by Uber's self-driving Volvo.
+
+"Self-driving cars are supposed to reduce human deaths, so we have to ask, 'Where are the places that we are actually killing people?'" said Michigan's Johnson-Roberson. "Night driving is one of those scenarios. So it's worth thinking about adding night vision to the quiver of tools we have."

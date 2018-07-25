@@ -1,0 +1,11 @@
+Enviar a dirección de correo electrónico
+
+Su Nombre
+
+Tu dirección de correo electrónico
+
+La entrada no fue enviada. ¡Comprueba tus direcciones de correo electrónico!
+
+Error en la comprobación de email. Por favor, vuelve a intentarlo
+
+Lo sentimos, tu blog no puede compartir entradas por correo electrónico.

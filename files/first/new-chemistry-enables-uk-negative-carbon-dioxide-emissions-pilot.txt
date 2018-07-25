@@ -1,0 +1,19 @@
+UK chemists and the country’s biggest power plant are developing a system that we’ll likely need to help keep global temperature rises from reaching dangerous levels. The £400,000 pilot scheme at Drax in North Yorkshire will be one of the first tests of biomass energy with carbon capture and storage, or BECCS. The underlying chemical technology, provided by spin-out company C-Capture, is ‘probably the best in the world’, according to the University of Leeds’ Chris Rayner, who is also technical director at the firm.
+
+‘By the end of the project we plan to have operated a unit capable of capturing one tonne of CO 2 per day,’ says Rayner. The resulting data will help design another pilot, around a 100 times larger. ‘We would need units operating in the thousands of tonnes per day [range] to capture a substantial amount of the CO 2 that Drax produces,’ Rayner stresses.
+
+Burning CO 2 -consuming plants for energy and collecting their emissions through BECCS could help remove greenhouse gas emissions from the air. The UN’s Intergovernmental Panel on Climate Change has therefore emphasised such ‘negative emissions’, notes Andrea Ramirez from Delft University of Technology in the Netherlands. The enabling technology must be in place by around 2035,1 adds Ramirez, who isn’t involved in the Drax project. We must then pull more CO 2 out of the air than we emit by around 2050 to avoid exceeding the 2˚C ‘dangerous’ warming limit agreed by governments.
+
+Thankfully, carbon capture chemistry is reasonably well established, typically involving passing flue gas leaving a power plant through an absorber column where carbon dioxide reacts with a solvent. The solvent is usually amine-based, often being monoethanolamine (MEA), which releases carbon dioxide when reheated later.
+
+But, as Rayner notes in a 2011 patent application,2 MEA only captures about 40% of the theoretical maximum carbon dioxide possible. That application claims to increase absorption efficiencies of solvents like MEA, and also tannic acid, a waste by-product of paper production, to 100% by adding potassium phosphate. Acidifying or heating solvents releases carbon dioxide after capture.
+
+Back Drax’s BECCS
+
+Rayner calls the phosphate method ‘not very relevant these days’. He says that C-Capture’s current method needs less energy than MEA usually does, adding that the company intends to reveal details at a meeting in October. He also says that the approach avoids using amines. The solvent is therefore less toxic and corrodes absorber systems less, meaning cheaper materials can be used.
+
+The BECCS opportunity comes after Drax converted three of its six power-generating units from coal to wood pellets. That brings challenges as wood’s chemistry differs from coal and contains greater concentrations of corrosive halide ions, for example. The project will therefore first see whether C-Capture’s solvent is even is compatible with Drax’s biomass flue gas.
+
+Ramirez is enthusiastic about this pilot project, especially its effort to exploit flue gas desulfurisation (FGD) absorbers made redundant by Drax’s shift to wood. ‘That would diminish the amount of investment needed,’ she says. She is keen to find out how much energy the process will consume, which in turn determines its cost. But no matter how cheap it is, the project still needs government support, Ramirez says. She notes that Norway’s government is establishing carbon dioxide transport and storage infrastructure.
+
+The UK’s record is not good on this front, however, with Drax previously scrapping a CCS project due to reduced subsidies. But the UK’s Department for Business, Energy and Industrial Strategy has been supportive recently, according to Drax spokeswoman Jessica Gorton. She highlights that the UK’s Clean Growth Strategy states that the country ‘needs to progress negative emissions technologies’.

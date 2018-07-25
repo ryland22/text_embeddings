@@ -1,0 +1,33 @@
+Delta has shown a strong performance in 2017, achieving an 85.9 on-time percentage.
+
+·9th Annual Airline On-Time Performance Service Awards 2017 based on tracking of about 99,000 flights
+
+·Delta is first US-based airline to win global mainline airline category
+
+·Iberia leads as the most on-time global airline network
+
+·Based on comprehensive analysis of corroborated flight status and arrival data from over 600 global sources
+
+PORTLAND, OR, January 9, 2018 – FlightGlobal Incorporating FlightStats, a leader in aviation and air travel data services, has named Delta as the world’s most on-time airline – the first US-based airline to win the global airline category in the 9th Annual Airline OPS (On-Time Performance Service) Awards. Iberia is awarded the world’s most on-time global airline network.
+
+Delta has shown a strong performance in 2017, achieving an 85.9 on-time percentage. During a 9-day period in November, including the US Thanksgiving holiday, the data shows that the airline cancelled only one of 23,485 flights.
+
+Iberia’s global airline network (the system of flights marketed by Iberia and operated by them and their airline partners) achieved an on-time percentage of 88.9.
+
+“Through our data science and industry expertise, we have set a data standard for airlines to review and refine their operations accurately – providing travelers with information on airlines they can trust,” said Jim Hetzel, Vice President, Aviation & Distribution, FlightGlobal. “The quality of our data means the winning airlines of our awards are the best in the world – a title to be proud of.”
+
+Winners across the seven categories of the awards include:
+
+A full list of the top 10 winners by category can be viewed here.
+
+The ratings are determined from the tracking of approximately 99,000 flights per day, operated and serviced by thousands of airlines and airports. In 2017, a total of over 36 million flights were processed. Winners are based on the analysis of flight status and arrival data curated from over 600 global sources, including: airline direct operational data feeds, airline data via the world’s largest Global Distribution Systems (GDSs), civil aviation authorities, airports, positional data feeds and other third-party aggregators.
+
+Flight status – scheduled and actual gate arrival times – is collected real-time from over 90% of scheduled passenger flights flown by the top 250 airlines worldwide.
+
+The on-time metric is determined by flights arriving at its gate within 14 minutes of the scheduled arrival time (in the industry, known as A14). Major airlines benchmark their market position every month with an interactive on-time performance report – and the awards are based on a collation the data from across the whole year.
+
+Click here to read more about the awards.
+
+About FlightGlobal
+
+FlightGlobal, incorporating FlightStats and Diio, helps aviation and travel related businesses drive growth and efficiency, assess risk, and improve customer satisfaction. The company has a unique combination of databases, technology and expertize which power data solutions, APIs, online tools, industry insight and expert advice. Across the globe FlightGlobal’s solutions help reduce passenger delays and improve traveler experiences, validate and inform long term planning and minimize exposure and risk. It also helps organizations connect by providing routes to market through insight channels and face to face events. FlightGlobal is a strategic partner of IATA, the association of world airlines and is recognized as the Aircraft Appraiser of the Year, an Aviation 100 Award.

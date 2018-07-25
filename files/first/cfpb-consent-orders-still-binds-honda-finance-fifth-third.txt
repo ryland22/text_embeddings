@@ -1,0 +1,37 @@
+A signature from President Donald Trump last week was the final step in repealing the Bureau of Consumer Financial Protection's auto lending guidance, but the effect of the bureau's enforcement actions lingers. Two lenders remain bound by consent orders formed on the basis of potentially violating that guidance.
+
+The bureau suggested in a 2013 auto lending bulletin that variances in dealerships' discretion caused minorities to be charged higher interest rates than their nonminority counterparts with similar credit, even if no discrimination was intended. The guidance advised indirect auto lenders to either limit dealer reserve — the retail margin dealerships earn for arranging a loan — eliminate dealer discretion on the margin altogether or compensate dealers with a flat fee.
+
+From 2013 to 2016, the bureau and the U.S. Department of Justice charged four major auto lenders — Ally Financial Inc., American Honda Finance Corp., Fifth Third Bancorp and Toyota Motor Credit Corp. — with violating guidance outlined in the bulletin.
+
+Part of the bureau and U.S. Justice Department's settlements with American Honda Finance and Fifth Third in 2015 and Toyota Motor Credit in 2016 required that the lenders cap dealer reserve at 1.25 percentage points above the lender's wholesale buy rate for loans of 60 months or fewer and at 1 percentage point for loans longer than 60 months. All four lenders also agreed to pay penalties ranging from $18 million to $98 million to resolve the regulators' claims.
+
+For Fifth Third and Honda Finance, "the consent orders did not cite the bureau's bulletin and are not affected" by the reversal of the auto lending guidance, a bureau spokesperson said.
+
+Honda Finance must abide by its agreement and the cap on dealer reserve until July 14, 2020, according to court documents.
+
+"Congress' repeal of the [bureau's] guidance does not change the law or [American Honda Finance Corp.'s] commitment to fair and equitable lending," Honda spokesman Chris Martin wrote in an email. Honda Finance "will continue to serve our customers and our dealers in a transparent and responsible manner."
+
+Fifth Third did not respond to requests for comment; its consent order is scheduled to terminate Sept. 28. On May 18, upon early release from its consent order, Toyota Motor Credit lifted its dealer reserve cap to 2 percent for all terms up to 72 months and 1.5 percent for terms of 84 months.
+
+When Ally settled with the bureau and Justice Department in 2013, it did not change its lending practices by applying a flat fee or a cap on dealer reserve, as the bureau proposed. The lender's consent order was terminated on July 27, 2017.
+
+Critics of the bureau say the methodology used to determine whether discrimination had occurred was far from foolproof.
+
+After Ally Financial with the bureau in 2013 regarding potential discriminatory lending practices, the lender submitted a list of approximately 235,000 consumers potentially affected to the bureau along with $80 million to reimburse those customers.
+
+Upon distribution of Ally's settlement funds, the settlement administrator discovered that non-Hispanic white borrowers could have been deemed eligible for compensation.
+
+The Justice Department suggested having all eligible consumers verify their identities or face penalty of perjury. Each customer would likely have to confirm that he or she is a minority and provide an Ally account number, vehicle details and loan origination date.
+
+The bureau's documents, obtained in 2016 by the House Financial Services Committee, said if it adopted the Justice Department's suggested approach, it was possible that only 36,000 to 143,000 consumers would be eligible to receive checks. Richard Cordray, director of the bureau at the time, said 235,000 consumers were harmed by Ally's discriminatory lending practices.
+
+The probability of an overcharged borrower belonging to a legally protected minority group was calculated using the Bayesian Improved Surname Geocoding method, by which the bureau used Census Bureau data to determine race and gender based on the borrower's name and address.
+
+The bureau's methodology was under fire during House and Senate hearings. On May 8, the House voted 234-175 to overturn the auto lending bulletin. The Senate on April 18 voted 51-47 to repeal.
+
+Acting bureau director Mick Mulvaney said in a statement last week that Trump's decision to limit the regulator's clout reaffirms his belief that the bureau was overreaching federal statutes.
+
+"As an executive agency, we are bound to enforce the law as written, not as we may wish it to be," Mulvaney said. "In this case, the initiative that the previous leadership at the bureau pursued seemed like a solution in search of a problem."
+
+Mulvaney added that he plans to continue working with Congress to bring structural accountability to the bureau while he leads it.

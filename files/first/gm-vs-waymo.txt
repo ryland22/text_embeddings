@@ -1,0 +1,151 @@
+Waymo is using its software, computing and data resources to create what it calls "the world's most experienced driver."
+
+Waymo is using its software, computing and data resources to create what it calls "the world's most experienced driver."
+
+The best example of a dinosaurs-vs.-disrupters battle may be the race to deploy self-driving vehicles between General Motors and Google spinoff Waymo.
+
+Both have emerged as leaders. Both are playing to their strengths. Both are spending billions to expand development and testing to fend off traditional competitors such as Ford Motor Co. and many auto suppliers that other automakers are counting on for off-the-shelf autonomous vehicle systems.
+
+“I would definitely put GM and Waymo at the top of the heap in readiness of technology but also figuring out the business side of it,” said Sam Abuelsamid, a senior analyst at Navigant Research.
+
+The companies are taking different routes, and it won’t be clear for some time which, if either, will emerge as king of the hill. It may come down to which has the better virtual reality setup. Or which can turn the technology into a consumer product the quickest.
+
+“The technology is just one piece of the puzzle,” Abuelsamid said. “Ultimately, you have to figure out how you’re going to make a business out of that technology.”
+
+Here’s how their strategies break down:
+
+Waymonauts
+
+Waymo vs. Cruise By the numbers, Waymo leads General Motors' Cruise Automation when it comes to miles driven and amount of accidents and disengagements during autonomous vehicle testing in California. Waymo/Google 2016 2017 No. of test vehicles 60 75 Miles driven 635,868 352,545 Accidents 13 3 Disengagements 124 63 Avg. miles per vehicle 8,478 4,701 De-activations per 1k miles 0.2 0.18 Cruise/GM 2016* 2017 No. of test cars 25 94 Miles driven 10,015 131,676 Accidents 1 22 Disengagements 284 105 Avg. miles per vehicle 401 1,401 De-activations per 1k miles 28.36 0.8 Dates are from December-November unless otherwise noted *June 2015-November 2016
+
+Google’s self-driving car project, now known as Waymo, is using its software, computing and data resources to create what it calls “the world’s most experienced driver.” The Mountain View, Calif., company is relying on traditional automakers to assemble vehicles, and focusing its expertise on building the self-driving car platform.
+
+It has been working on self-driving vehicles for a decade and plans to release its first public autonomous ride-hailing fleet this year in Arizona.
+
+Waymo is by far the leader in distance driven, with more than 5 million miles in self-driving mode in 25 metropolitan areas using a handful of vehicle designs retrofitted with its technologies. In simulated driving, Waymo reports it has driven more than 5 billion miles.
+
+Waymo, according to CEO John Krafcik, is at a point where it is learning more from its virtual world — nicknamed Carcraft after the popular “Warcraft” computer game — than during road testing.
+
+“It doesn’t mean we can stop real-world testing,” Krafcik told a small roundtable of reporters in late March. “We keep discovering new, interesting pieces in the real world that informs the virtual world we’re building.”
+
+Waymo, he said, takes the most challenging real-world situations for its autonomous vehicles and safely increases the complexity in simulation. The process — called fuzzing — may include narrowing distances from another vehicle or adding pedestrians or bicyclists to a situation.
+
+The company also is combining its road testing with the virtual world in Waymo’s Castle, a 91-acre proving ground for autonomous vehicle r&d.
+
+Waymo's fully self-driving reference vehicle, Firefly 1
+
+Cruise control
+
+GM is keeping its autonomous vehicle operations in-house, following the high-profile acquisitions of self-driving technology developer Cruise Automation and lidar developer Strobe Inc., both of California. It has more than a century of design and manufacturing expertise, while it has quietly become the auto industry’s leader in data collection and optimization — key areas for monetizing autonomous vehicles.
+
+The Detroit automaker, which has produced 180 self-driving prototypes, expects to produce and deploy a fleet of self-driving vehicles based on its Chevrolet Bolt EV in 2019. Prototypes of the vehicles have been built at its suburban Detroit assembly plant — making the factory the only mass-production plant to produce such vehicles.
+
+The proving ground and road testing are GM’s traditional strengths. The company also is using simulations and testing similar to Waymo but it’s believed to be relying more than the tech rival on physical testing in Arizona, California and Michigan.
+
+“Simulation is a powerful tool,” says Cruise Automation CEO Kyle Vogt, center, with Cruise co-founder Daniel Kan, left, and GM President Dan Ammann.
+
+Cruise CEO Kyle Vogt said the company has the capability to run 150 simulations per minute in its virtual world, using a “number of different simulators” that “exercise various pieces of the autonomous vehicle software stack.”
+
+“Simulation is a powerful tool when coupled with on-road testing to achieve, and then demonstrate, the level of performance required to launch commercial product,” Vogt said.
+
+Unlike Waymo, GM has not released its total miles driven. According to the California Department of Motor Vehicles, which requires companies to file accident and disengagement reports based on autonomous miles driven, Cruise vehicles autonomously drove 141,691 miles in the state from June 2015 to November 2017.
+
+Vogt in November said the automaker planned to achieve 1 million miles per month by early 2018. It’s unclear if that milestone has been reached, as GM has released no updates and declined to comment on the progress.
+
+“GM has made a lot of promises; based on their promises they seem very far ahead,” said Mike Ramsey, an analyst at research firm Gartner Inc. But, he added, it’s hard to know for sure. “GM has definitely convinced people, I think, that they are far down the road but let’s be honest. It’s actually really, really hard to know how advanced these vehicles are.”
+
+GM has about 1,600 people working on autonomous vehicles, including more than 600 at Cruise. The company plans to add 1,100 workers from 2017-22 at Cruise.
+
+Total crashes 2014 2015 2016 2017 2018 Total % of total Waymo/Google 0 9 13 3 1 26 39.40% Cruise 0 0 1 22 11 34 51.50% Delphi 1 0 0 0 0 1 1.50% Drive.ai Inc 0 0 0 0 1 1 1.50% Nissan 0 0 1 0 0 1 1.50% UATC 0 0 0 1 0 1 1.50% Zoox 0 0 0 1 1 2 3.00% Total 1 9 15 27 14 66 Source: California DMV
+
+Public data
+
+What's in a name? GM's Cruise Automation has some interesting names for its self-driving test vehicles. They range from obscure animals and proper names to mythological figures and pop culture references. Albatross (bird)
+
+Alex
+
+Andromeda (Greek mythology and TV)
+
+Aries (astrology)
+
+Ayeaye (lemur)
+
+Bolty McBoltFace (scientific research vehicle)
+
+Caiman (lizard)
+
+Carter
+
+Fennec (fox)
+
+Flamingo (bird)
+
+Gnatcatcher (bird)
+
+Coshawk (bird)
+
+Hawksbill (sea turtle)
+
+Hugs (physical embrace)
+
+Kysa
+
+LittleKern (fish)
+
+Mare (female horse)
+
+Marmot (squirrel)
+
+Maverick (TV show and movie)
+
+Pickle (food)
+
+Rafiki (Disney’s The Lion King)
+
+Skink (lizard)
+
+Snail darter (fish)
+
+Tamaraw (buffalo)
+
+Tanuki (Japanese racoon dog)
+
+Teal (color)
+
+Toaster (household appliance)
+
+Towhee (bird)
+
+Voyager (space program)
+
+Zeus (Greek mythology) Source: California DMV
+
+The California DMV provides just a partial view of GM’s and Waymo’s testing progress because it does not include activities outside the state.
+
+Waymo, which has shifted much of its testing to Arizona, reports it drove 352,545 miles in autonomous mode in California in 75 vehicles from Dec. 1, 2016, to Nov. 30, 2017.
+
+Cruise, during the same period, drove 131,676 miles on San Francisco’s city streets in 94 Cruise AV cars, which are based on the Bolt.
+
+The number of disengagements during that period: Waymo 63, Cruise 105. The DMV defines a disengagement as “a deactivation of the autonomous mode when a failure of the autonomous technology is detected or when the safe operation of the vehicle requires that the autonomous vehicle test driver disengage the autonomous mode and take immediate manual control of the vehicle.”
+
+Based on the number of disengagements compared with miles driven, Cruise is about where Waymo was in 2015. But Cruise is testing in San Francisco, a far more complex area than Waymo’s testing area then, primarily around its headquarters.
+
+“Not all miles are created equal,” Abuelsamid said. “Waymo has far and away the most. … GM has less testing on public roads but they are doing a lot more of the traditional kinds of testing that they would do with any new-vehicle program.”
+
+Complex roads
+
+Vogt has said Cruise believes it learns 32 times more in San Francisco than in areas such as Phoenix, where it is testing and Waymo plans to launch an autonomous ride-hailing service this year.
+
+“There’s no silver bullet for actually making this work,” he said. “It’s not like there’s a single deep learning system that’s going to solve it all. The complexity likely attributes to the higher amount of accidents Cruise vehicles have been involved in.”
+
+According to the California DMV, Cruise cars accounted for 22 of 27 accidents involving autonomous vehicles in 2017.
+
+Comparatively, Waymo had three accidents in 2017, down from 13 in 2016 in California.
+
+Based on external information available, Ramsey believes Waymo is ahead of GM overall.
+
+“I think that Google is probably a year ahead of any other company, realistically,” he said. “A lot of it comes down to the fact that they’ve been doing it a lot longer and they have worked out a lot of the problems other companies are just working through.”
+
+But that, as well as what company can be first to profitability operating the fleets at scale, remain open to debate.
+
+“I think that in general an OEM that already knows how to do that for production applications is going to have an advantage,” Abuelsamid said. “That’s going to give them a leg up.”

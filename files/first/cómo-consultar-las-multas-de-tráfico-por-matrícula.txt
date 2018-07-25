@@ -1,0 +1,25 @@
+A pesar de que hay varias páginas que ofrecen el servicio de buscarte las multas de tráfico que puedas tener introduciendo tu DNI y/o matrícula, en realidad es un proceso que puedes hacer tú mismo de forma sencilla. La propia Dirección General de Tráfico publica las multas que haya emitido ella misma o cualquiera de los organismos con capacidad para emitirlas.
+
+El lugar elegido para publicarlas es el Tablón Edictal de Sanciones de Tráfico y en él aparecerán las multas de tráfico que no hayan podido entregarse al infractor en el domicilio que tiene registrado en las bases de datos o en una Dirección Electrónica Vial validada. Es decir, en este tablón no podrás consultar una multa que sí se te haya entregado por otros medios. De todas maneras tienes otros medios para consultar las multas que se te hayan impuesto como puedes ver en el artículo: Cómo pagar una multa de tráfico por Internet paso por paso.
+
+Cómo consultar multas de tráfico en el tablón
+
+Para acceder al tablón puedes pinchar en este enlace o seguir las siguientes indicaciones:
+
+Estos trámites no se pueden hacer en la página de la DGT (www.dgt.es), hay que realizarlos en sede.dgt.gob.es, que es la Sede Electrónica de la Dirección General de Tráfico. Una vez dentro deberás pinchar en la sección Trámites y Multas que se encuentra en la barra gris principal. Ahí encontrarás todos las acciones que se pueden hacer en lo referente a las multas de tráfico.
+
+Dentro del listado de acciones que te aparecerá debes elegir el quinto enlace contando desde arriba: Consulta el Tablón Edictal de Sanciones de Tráfico (TESTRA).
+
+En la siguiente página te dará dos opciones a elegir: con certificado electrónico y sin certificado electrónico. Nosotros nos vamos a centrar en el que no requiere certificado porque no es necesario que te des de alta en nada previamente. Al ser una operación que puedes realizar sin identificación electrónica, se pueden ver todas las multas emitidas que no han podido entregarse a los infractores. Por este motivo no solo podrás encontrar la tuya sino la de cualquier persona a la que no se la hayan podido entregar.
+
+Existe una forma de evitar que cualquiera pueda ver tus multas de tráfico. Hay que darse de alta en la Lista de excluidos. También te lo dejamos marcado en la imagen. Una vez que lo hagas, solo tú podrás ver tus multas y solo podrás hacerlo mediante certificado electrónico. Por este motivo para poder hacerlo te exigirán que tengas tu Certificado Digital en regla previamente.
+
+Éste es el tablón donde puedes consultar si tienes alguna multa que no te haya llegado. En el campo Buscar puedes introducir tu matrícula, tu DNI o tu nombre y apellidos, y si hay alguna multa que no se te haya podido entregar aparecerá en el tablón.
+
+También puedes pinchar en el enlace Búsqueda avanzada, en donde podrás acotar la búsqueda con los parámetros Provincia o Comunidad Autónoma donde se ha emitido, Emisor de la multa, tipo de comunicado (Notificaciones de denuncia, Resoluciones de sanciones, Resoluciones de recursos y Corrección de errores), Código Seguro de Verificación o CSV y fecha de publicación.
+
+Cómo recibir las multas de tráfico en tu email y tu móvil
+
+Si estás buscando como buscar multas por Internet, puede que sea porque tienes problemas a la hora de recibirlas. Existe un sistema llamado Dirección Electrónica Vial 0 DEV. Para registrarte en él debes darte de alta en el sistema con un Certificado Digital o mediante el sistema Cl@ve. En el artículo Cómo registrarse en el sistema Clave de la DGT, te explicamos los pasos que debes dar para conseguirla fácilmente. Te podemos decir, que merece la pena para todo este tipo de gestiones.
+
+Cuando lo hagas se te pedirán tu correo electrónico y tu móvil y acto seguido se te pedirá que aceptes los términos de uso. Cuando lo hagas se te preguntará que tipo de notificaciones quieres recibir. Nosotros te recomendamos que dejes seleccionadas todas. A partir de que te des de alta en el DEV, recibirás un correo y un SMS siempre que vayas a recibir una notificación (incluidas las multas). Si en cualquier momento quieres darte de baja del sistema la DGT permite hacerlo fácilmente con los mismos métodos: Certificado Digital o sistema Cl@ve.

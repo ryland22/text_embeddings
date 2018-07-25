@@ -1,0 +1,27 @@
+No, este no es un resumen del último capítulo de esa serie con robots hechos con impresoras 3D. Esta es una aplicación real que el campo de la medicina implementó de un tiempo a esta parte, tanto para cirugías programadas como para entrenar a futuros cirujanos.
+
+Resulta que, en ciertos casos, los médicos pueden recurrir a esta tecnología para planificar la intervención quirúrgica de antemano. Para imprimir un modelo de tamaño real y específico del paciente en cuestión es necesario contar con información de las exploraciones por imágenes, como tomografías computarizadas y resonancias magnéticas.
+
+Leé también Bioimpresoras 3D: piel sintética en minutos para curar quemaduras
+
+Con estos datos, los profesionales están en condiciones de producir un modelo tridimensional de la anatomía del paciente. El material empleado, usualmente, es plástico o algún tipo de polímero. Pero también pueden crearse con material blando para que los cirujanos practiquen la técnica quirúrgica que emplearán en ese modelo.
+
+Los beneficios de la impresión 3D son diversos. Por un lado, permite planificar con mayor exactitud los procedimientos. De esta manera, los profesionales no solo llegarán con más seguridad a la cirugía sino que, además, estarán familiarizados con la anatomía personal de su paciente y entenderán mejor cómo posicionarlo en la mesa quirúrgica. También, les permite evaluar de antemano si existen otros métodos que resulten más adecuados para el caso al que se enfrentan.
+
+Por otro lado, examinar un modelo tridimensional creado a partir de los estudios del paciente proporciona una oportunidad para descubrir particularidades de su anatomía que eran invisibles en los exámenes bidimensionales y que pueden cambiar el desarrollo de la cirugía.
+
+Pero también pueden ser favorables para el paciente, ya que el doctor puede mostrarle con mayor detalle qué le realizará durante la operación. Así, cabe la posibilidad de que llegue más tranquilo producto de las certezas que proporciona la posibilidad de ver en qué consiste la intervención.
+
+Leé también Chicos se vuelven superhéroes gracias a las prótesis de impresión 3D
+
+La impresión 3D suele implementarse para cirugías que involucran a la cabeza y el cuello. Resulta especialmente útil, por ejemplo, para planificar una reconstrucción compleja de la cara o de las vías respiratorias. Los modelos también comienzan a verse en operaciones de corazón y pulmón, de reconstrucción articular y resección tumoral.
+
+La segunda aplicación de la impresión de partes del cuerpo está orientada a la educación. Su valor reside en que, quienes se encuentran cursando estudios para convertirse en cirujanos, pueden “practicar” en reproducciones exactas de pacientes y, por ende, de patologías con las que eventualmente podrán encontrarse en su trabajo.
+
+Sin embargo, por el momento esta técnica cuenta con algunas desventajas. Por un lado, el proceso de impresión es lento y puede resultar caro: un modelo pequeño demora entre 4 y 6 horas de producción, mientras que una réplica grande y compleja puede tardar hasta 24 horas.
+
+Otro aspecto a considerar es que puede implementarse en cirugías programadas, que deberán considerar este tiempo de planificación y preparación del procedimiento quirúrgico. También hay que tener en cuenta que es preciso que la clínica u hospital cuente con los recursos para realizarlo. En Argentina, por caso, el Servicio de Cirugía Plástica y Quemados del Hospital Garrahan implementó esta práctica hace unos años aunque, por el momento, cuenta con ingenieros externos que realizan las impresiones.
+
+Leé también Hospital Garrahan: treinta años de cirugías plásticas que no tienen nada que ver con la vanidad
+
+Por supuesto que, a medida que se extienda el uso de esta técnica, la tecnología podrá bajar su costo y volverse más accesible. Sobre todo si se tiene en cuenta que “el potencial de los modelos tridimensionales para mejorar los resultados quirúrgicos es más amplio que estos inconvenientes”, de acuerdo al Dr. Karthik Balakrishnan, médico del área de Otorrinolaringología Pediátrica de Mayo Clinic.

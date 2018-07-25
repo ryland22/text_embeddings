@@ -1,0 +1,69 @@
+An indoor kite competition? 'You are the wind,' says the judge
+
+An indoor kite competition? 'You are the wind,' says the judge May 28
+
+Susan Snyder has covered education for the Inquirer since 1998. She currently covers higher education. She was a member of the team that won the Pulitzer Prize for public service in 2012.
+
+Lehigh University engineering students Chris Szafranski (left), Lena McDonnell (center) and Brooke Glassman talk about the device they created to improve safety for women, Soterra, which McDonnell is holding.
+
+Their engineering professors said it couldn’t be done, not in a year.
+
+“We were like, cool, we’re going to try anyway,” said Lehigh University junior Brooke Glassman.
+
+Now, Glassman and 15 classmates — most engineering majors — are in the running for a $1 million prize in an international contest that took them to India for two weeks and challenged them in a way classroom education couldn’t.
+
+The best part? They were asked to confront a problem they all really cared about: How to help women in danger of sexual assault — especially those without internet or cellphone access or in countries without a universal emergency access number like 911 — signal for help.
+
+They designed a battery-operated device that will help users discreetly alert emergency services through a “dynamic mesh network” with a GPS. It works by relaying signals among tens, hundreds, or even thousands of devices.
+
+They’ll find out June 6 at the U.N. building in New York if they beat out four other finalists for the Anu and Naveen Jain Women’s Safety XPRIZE.
+
+“We’re building this technology because we think it can make a difference,” said team leader Lena McDonnell, 22, of the San Francisco Bay Area.
+
+For more than 20 years, XPRIZE has been challenging innovators across the globe to use technology to create products that make the world a better place.
+
+It’s one of the biggest competitions that Lehigh students have entered and have become finalists, in terms of prize size and international status, said Chris Kauzmann, innovator in residence at Lehigh’s Baker Institute, which nurtures entrepreneurial projects.
+
+Sexual assault was a problem on their minds, at a time when college campuses are trying harder to combat it and women are speaking up more.
+
+“This device can help in a situation where there otherwise would be no help,” said Chris Szafranski, 21, a senior computer engineering major from Maplewood, N.J.
+
+XPRIZE set the parameters: The device could cost no more than $40 to manufacture, needed to be able to be used discreetly and without internet, and elicit a response that help is on the way within 90 seconds.
+
+“Our device is made to look super boring,” McDonnell said.
+
+Like a garage door opener or bar of soap.
+
+They call the device and their team Soterra — a combination of Soteria, the Greek goddess of safety, and terra, for land.
+
+“Creating a safe land,” McDonnell said.
+
+Inside, the Bluetooth-connected GPS system will have 50 times more geographical accuracy than a U.S. mobile 911 phone call, McDonnell said. A barometer, which senses pressure, will pinpoint for emergency workers the floor of a building from which the signal is emanating.
+
+The device could be particularly helpful to women in developing countries who don’t have access to cellphones or the internet, students said. Users would press a button on the device to send a signal, which would then be continually relayed to other Soterra devices in the region until it reaches a gateway that sends it to emergency responders. The idea would be to equip a community with hundreds of Soterras.
+
+Students said Soterra also could be useful in the United States in areas of no internet access or cellphones, or when the user needs to discreetly signal for help.
+
+In addition, the team developed a second alert that could go to close contacts. For that option, the contacts would need a cellphone.
+
+Before designing their device, students knocked on the door of Brooke DeSipio in the office of gender violence education and support and Rita Jones in the center for gender equity. They also got advice from marketing professor Steven Savino and some of his graduate students and entrepreneurship professor Dale Falcinelli.
+
+“You would never know this group of students when I watched them present were undergraduate students,” Savino said.
+
+McDonnell, a computer science and engineering major, said that for the last year, she worked 40 hours a week on the project.
+
+Things got intense just before they left for India.
+
+“We had a deadline, and we did not sleep the night before we got on that plane,” said Glassman, 21, a junior mechanical engineering major from Katonah, N.Y.
+
+Eighty-five teams from 17 countries entered the contest. Twenty-one were invited to India. There, teams showed judges their prototype and demonstrated it.
+
+Three of the five finalists, including Soterra, are from the United States, one from Switzerland and one from India. Soterra is the only group of all undergraduates. Others included graduate or doctoral students or professionals.
+
+If they win, students still at Lehigh would use the prize money to further develop the product. McDonnell, who graduated this month, will start work as a software engineer at a Virginia-based defense contractor, but would plan to be involved.
+
+“Hopefully Soterra will continue and eventually become my full-time gig,” added Szafranski, who is headed to a software engineering job at Visa.
+
+Win or lose, students got the learning experience of a lifetime, the Baker Institute’s Kauzmann said.
+
+“We say the answer is not on campus most of the time,” he said. “It’s out in the world, and they’ve done an incredibly good job of going out in the world and trying to find those answers.”

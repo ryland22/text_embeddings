@@ -1,0 +1,7 @@
+Se trata de agua dulce de ríos y arroyos.
+
+Un equipo de científicos, liderado por George Allen y Tamlin Pavelsky, han creado un nuevo mapa global de ríos y arroyos utilizando datos satelitales. Los resultados, publicados en Science, sugieren que el área de superficie global de estos cuerpos de agua es aproximadamente un 44% mayor de lo que se pensaba. Hasta la fecha, solo dos estudios habían intentado cuantificar el área de superficie global de los ríos, pero estaban basados en datos limitados y no contaban, por ejemplo, con información sobre los intercambios químicos que se producen entre la atmósfera y los cuerpos de agua: los ríos liberan aproximadamente una quinta parte de los niveles de dióxido de carbono emitidos por la combustión de combustibles fósiles y la producción de cemento.
+
+El equipo de Allen y Pavelsky creó una de las bases de datos más detalladas de ríos y arroyos, la Global River Widths from Landsat (GRWL), que cuantifica la superficie de los ríos de más de 90 kilómetros, mientras que para los ríos más pequeños, para los cuales hay menos datos disponibles, utilizaron la información satelital disponible. Colectivamente, se estima que los ríos y arroyos mundiales cubren aproximadamente 773.000 km2 de la superficie terrestre global no glaciar, decenas de miles de kilómetros cuadrados más que las estimaciones anteriores.
+
+Los autores señalan que la nueva estimación puede sugerir impactos a gran escala de la modificación humana en las redes fluviales, aunque esta hipótesis requiere más pruebas.

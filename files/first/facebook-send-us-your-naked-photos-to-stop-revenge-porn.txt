@@ -1,0 +1,19 @@
+Facebook is expanding its fight against revenge porn with a pilot program that asks users to send their naked photos so Facebook can block the photos before someone else shares them. Facebook's been testing the system in Australia and is extending the trial to the U.S., Britain and Canada, BBC News reports.
+
+In a Facebook post on Tuesday, Facebook's Global Head of Safety Antigone Davis said the company was updating its pilot program targeting the non-consensual sharing of images on the platform. Rather than having to report an image after it's already been shared around Facebook (the company already has a system in place for reporting and removing those images), Facebook will let users upload an image before it's been seen by others, CNET reports.
+
+Facebook users worried about intimate images being shared on Facebook, Instagram or Messenger can contact their relevant local organization and submit a form. Facebook's Global Head of Safety Antigone Davis told BBC News' Newsbeat that the photos will only be seen by "a very small group of about five specially trained reviewers," BBC News reports.
+
+They'll give the photo a unique digital fingerprint, something called hashing.
+
+That code will then be stored on a database. If anyone else tries to upload the same photo, the code will be recognised and it'll be blocked before it appears on Facebook, Instagram and Messenger.
+
+The original photos will not be stored.
+
+Antigone Davis told BBC News there's "no 100 percent guarantee when it comes to photo-matching technologies."
+
+That's because it's possible to manipulate images so they're different to the original. But she says they are getting better at it.
+
+This whole system only works if you actually have the image you're worried about.
+
+Facebook started testing the program in Australia in November. The company hasn't given any information about its success rate.

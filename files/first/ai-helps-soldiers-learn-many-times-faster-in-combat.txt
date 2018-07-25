@@ -1,0 +1,84 @@
+AI helps soldiers learn many times faster in combat
+
+
+
+by Staff Writers
+
+
+
+Adelphi MD (SPX) Apr 30, 2018
+
+
+
+New technology allows U.S. Soldiers to learn 13 times faster than conventional methods and Army researchers said this may help save lives.
+
+At the U.S. Army Research Laboratory, scientists are improving the rate of learning even with limited resources. It's possible to help Soldiers decipher hints of information faster and more quickly deploy solutions, such as recognizing threats like a vehicle-borne improvised explosive device, or potential danger zones from aerial war zone images.
+
+The researchers relied on low-cost, lightweight hardware and implemented collaborative filtering, a well-known machine learning technique on a state-of-the-art, low-power Field Programmable Gate Array platform to achieve a 13.3 times speedup of training compared to a state-of-the-art optimized multi-core system and 12.7 times speedup for optimized GPU systems.
+
+The new technique consumed far less power too. Consumption charted 13.8 watts, compared to 130 watts for the multi-core and 235 watts for GPU platforms, making this a potentially useful component of adaptive, lightweight tactical computing systems.
+
+Dr. Rajgopal Kannan, an ARL researcher, said this technique could eventually become part of a suite of tools embedded on the next generation combat vehicle, offering cognitive services and devices for warfighters in distributed coalition environments.
+
+Developing technology for the next generation combat vehicle is one of the six Army Modernization Priorities the laboratory is pursuing.
+
+Kannan collaborates with a group of researchers at the University of Southern California, namely Prof. Viktor Prasanna and students from the data science and architecture lab on this work. ARL and USC are working to accelerate and optimize tactical learning applications on heterogeneous low-cost hardware through ARL's - West Coast open campus initiative.
+
+This work is part of Army's larger focus on artificial intelligence and machine learning research initiatives pursued to help to gain a strategic advantage and ensure warfighter superiority with applications such as on-field adaptive processing and tactical computing.
+
+Kannan said he is working on developing several techniques to speed up AI/ML algorithms through innovative designs on state-of-the-art inexpensive hardware.
+
+Kannan said the techniques in the paper can become part of the tool-chain for potential projects. For example, a new adaptive processing project that recently started where he's a key researcher could use these capabilities.
+
+His paper on accelerating stochastic gradient descent, a technique ubiquitous to many machine learning training algorithms, won the best-paper award at the 26th ACM/SIGDA International Symposium on Field Programmable Gate Arrays, the premier international conference on technical research in FPGAs, held in Monterey, California, Feb. 25-27.
+
+
+
+Related Links
+
+U.S. Army Research Laboratory
+
+The latest in Military Technology for the 21st century at SpaceWar.com
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Paris (AFP) April 24, 2018
+

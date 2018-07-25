@@ -1,0 +1,19 @@
+Agencia
+
+MÉXICO.- Para prevenir el spam y las estafas, WhatsApp está trabajando en una nueva función para detectar los enlaces sospechosos y avisar a los usuarios.
+
+WhatsApp continúa trabajando para garantizar la seguridad en la plataforma. Además de las medidas para evitar el spam como el etiquetado de los mensajes reenviados, la plataforma está trabajando en un sistema para detectar los enlaces sospechosos y advertir a los usuarios.
+
+También te puede interesar: Con este método te pueden robar tu contraseña
+
+La función recibe el nombre de Suspicious Link Detection (Detección de enlace sospechoso, en español) y ha sido detectada por el equipo de WABetaInfo. El portal especializado señala que WhatsApp lleva trabajando en la característica desde la versión beta de Android 2.18.04, y ha ido añadiendo mejoras en las siguientes actualizaciones (la beta actual es la 2.18.06).
+
+De momento, la función no se ha implementado en la versión estable por motivos de desarrollo, ya que aún son necesarias otras mejoras antes de poder habilitarla.
+
+Lo que hace esta característica es analizar los enlaces del chat para ver si son de fiar o si por el contrario pueden dirigir a un sitio falso o malicioso. Este proceso se lleva a cabo de manera local, de manera que no se envían datos a los servidores de WhatsApp.
+
+En caso de que el sistema considere que el enlace es peligroso, aparecerá una alerta en color rojo para que el usuario sepa que puede correr riesgos si lo visita. Si a pesar de la advertencia el usuario hace clic en el enlace, saltará una nueva alerta informativa avisando de que el link puede dirigir a una web maliciosa.
+
+La compañía se encuentra trabajando en optimizar esta característica, así que en el futuro podría contar con más funciones útiles para identificar los enlaces maliciosos. De esta forma se podrán prevenir muchas estafas de WhatsApp, como la de WhatsApp Gold que ha vuelto a aparecer recientemente.
+
+Con información del portal de noticias Computer Hoy.

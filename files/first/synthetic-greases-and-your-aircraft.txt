@@ -1,0 +1,27 @@
+Lately, I have received numerous questions about grease. The general theme of most of them is “why can’t I use synthetic grease from the local parts store in my aircraft?”
+
+Synthetic lubricants are one of the present “now” or “buzz” words. If a lubricant is synthetic, people believe it will last forever and lubricate anything.
+
+Synthetic-based oils do offer some advantages, especially in extreme high or low temperatures. But they are not the end-all, cure-all that people are hoping for.
+
+If we go back to the basics of grease, grease is not thick oil. It is normal oil base stocks that are chemically thickened.
+
+The thickening agent varies depending on usage and base oil. This is critical to this question because not all thickening agents are compatible.
+
+If you use a grease that is not compatible with the grease already in the bearing, you can end up with a soup-like substance that will leak out of the seals, leaving the bearings unprotected.
+
+One reader who wrote in said he planned to clean the bearings and start with all new grease. This limits the compatibility problem now, but what will happen down the road if he sells the aircraft? Will the new owner try to revert back to the proper grease and have a failure?
+
+This is why pilots need to do their homework when buying a used aircraft. Always check the maintenance records to ensure that the previous owner lubricated the aircraft properly at the correct intervals, using the recommended spec grease. If not, you may need to completely clean the bearings and start over with the correct product.
+
+A second major problem with non-aviation lubricants is seal compatibility. Many synthetic greases will shrink seals meant for mineral oils only. This shrinkage can allow grease to leak out and water and dirt to enter the bearing area and significantly reduce the life of the bearing.
+
+A third major problem — especially with synthetic greases — is centrifugal force.
+
+Many years ago, Hartzell Propellers wanted to change the spec for the grease used in its props. Historically the company had used a grease-like Aeroshell grease 5 in the props, but this product is based on a thick mineral oil and was a little stiff for some turboprop applications, especially at high altitudes.
+
+The company tried several synthetic products, but all seemed to have a problem. That’s because synthetic base oils are great lubricants, but very poor solvents. This resulted in the thickeners being separated from the base stocks under high centrifugal forces. The thickeners plugged up the prop and the thin base oils leaked all over the outside of the prop.
+
+The bottom line is in an aircraft there are technical reasons why you need to stick to only those products that are qualified for your application.
+
+I know that many general purpose greases seem to meet the same specs as the mil spec for qualified products for your aircraft. But there are a lot of differences that can make a significant difference in the performance and safety of your aircraft.

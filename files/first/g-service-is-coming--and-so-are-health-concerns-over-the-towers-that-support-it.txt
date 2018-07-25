@@ -1,0 +1,39 @@
+The wireless industry is in a race to roll out 5G service. The network is supposed to be up to 100 times faster than current data speeds, but it requires cellphone tower equipment to be closer to users than before. Wireless companies in the U.S. say they'll have to install about 300,000 new antennas – roughly equal to the total number of cell towers built over the past three decades. That's causing outrage and alarm in some neighborhoods, as antennas go up around homes.
+
+CBS News
+
+At a lab in New York, Verizon invited CBS News' Tony Dokoupil to meet some of the entrepreneurs developing tools to run on the next generation of wireless technology. Jonathan Reeves, the CEO of Arvizio, said 5G service is extremely important to his company's mission. His product allows users in different locations to interact with 3D images projected through a lens.
+
+"Today, we can do this using Wi-Fi technology, and we can do it using landline technology. But of course you're then tied to particular locations. With 5G, now we can begin to extend this. So we can actually begin to start doing this on building sites. We can start doing it on the factory floor. So it really opens up a whole new world," Reeves said.
+
+But before that world can become reality, this one needs to change. 5G requires the installation of new equipment across the U.S. Every wireless company is working to build its own 5G network.
+
+CBS News
+
+Melissa Arnoldi, who leads AT&T's efforts, said if it's not already in your neighborhood, it's coming.
+
+She said 5G uses high-frequency waves that support faster speeds but don't travel as far as current wireless frequencies. So instead of relying on large cellphone towers spread far apart, they need "small cell" sites that are much closer together.
+
+"We're going to use our existing infrastructure today. Whether it's light poles, whether it's street lights. So we're going to make sure that we don't make it obtrusive to our customers and to the citizens," Arnoldi said.
+
+Yet some don't share the enthusiasm.
+
+"The cell towers are called small cell towers, but they are not so small when they are in your front yard," said Donna Barron. She is protesting plans to convert light poles in her Montgomery County, Maryland, neighborhood into small cell sites.
+
+"This will cause cancer," Barron said. She was one of several people who raised health concerns about the radiation emitted by the equipment at a government hearing last month.
+
+Cell phone equipment does emit radiation but research on its health effects has been inconsistent. According to the National Cancer Institute, "A limited number of studies have shown some evidence of statistical association of cell phone use and brain tumor risks… but most studies have found no association."
+
+CBS News
+
+If Barron loses the fight, she said she'll consider moving. Either way, she fears property values could plummet when 5G equipment pops up.
+
+"It could drop 20 percent," she said. "For that house, that house, that house. And then pretty soon you go around the curb and there's another cell tower. They're all through this neighborhood. So it's going to devastate the neighborhood."
+
+
+
+Arnoldi insists her workers are focused on safety, pointing out they live and work near this equipment, too. Although she doesn't have any 5G antennae in her neighborhood yet, she said it's coming soon and she's "absolutely" comfortable with that.
+
+
+
+Wireless carriers have announced plans to roll out 5G service to a handful of cities later this year. But to really take advantage, you'll need a 5G-enabled device, which probably won't be available until next year.

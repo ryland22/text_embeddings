@@ -1,0 +1,33 @@
+At what temperature does piston aircraft engine oil break down?
+
+This is not the same as the maximum oil sump temperature allowed for your engine. Both Lycoming and Continental recommend a maximum oil temperature of around 245°F.
+
+Running at 245° may be OK during break-in or during climb out, but I do not recommend running continuously at cruise condition at this temperature after your engine is broken-in.
+
+In many aircraft, the only indication of how your engine is operating is the oil temperature. A 245° oil sump temperature is an indication of incorrect tuning or engine installation.
+
+Studies show that as the oil goes through the engine, it will, at some point, usually see about 50° higher temperature than the oil sump temperature. This means that with a sump temperature of 245°, some of the oil will be at 295° at some point and that is too high.
+
+The 295° would only be an instantaneous exposure, but it still can affect the physical composition of the oil.
+
+An example of this high temperature is the oil film on the piston wall that is left after the piston moves up on the compression stroke. This film will be exposed to the combustion flame front and accompany temperature rise during the power stroke. Then on the exhaust stroke, the film will be washed off and a new film put down.
+
+It is estimated that during five minutes of normal operation, the whole volume of the crankcase will be above the rings and exposed to combustion pressure and temperature. There are other hot spots like the oil off the bottom of the pistons, the oil at the interface of the cam and lifters, and oil coming off the turbocharger.
+
+If one runs a cruise oil temperature in a new engine, there will be additional friction in the ring belt area until the rings seat. This is normal, so an oil temperature of 245° will not hurt — and may aid — the seating process.
+
+But if you have an oil temperature of 245° during cruise after the break-in process, it is an indication that something is wrong and should be corrected.
+
+So what is the best oil temperature for a good aircraft engine at cruise conditions? I like to see at or near that 180° to 200° range.
+
+This means that the highest temperature that the oil will see in the engine is in the 230° to 250° range, which will boil off the moisture. This also means that your engine is experiencing proper air flow cooling to all parts.
+
+The original question from a reader was about what temperature the oil will break down, especially off the turbocharger.
+
+We test the oil for thermal stability around 280°. But operation at that temperature, when you add the 50° going through the engine, is way too high.
+
+If you check the oil temperature coming off the turbo, it should not be over 280°.
+
+An additional point is that this is why any turbocharged engine needs to idle down for an appropriate amount of time before you shut off the engine. If you turn a turbocharged engine off with the turbo spinning too fast, the oil supply stops. This allows the turbo to cook the oil that is in the bearing to well above 280°, which can lead to coking in the bearing and a possible shorter life.
+
+An additional point is to check the calibration of your oil temperature gauge periodically to ensure the correctness of your readings.

@@ -1,0 +1,33 @@
+Si vives en una zona de costa te habrás decepcionado más de una vez al consultar la temperatura máxima de tu ciudad en un día caluroso de verano porque puede quedarse hasta 10⁰C por debajo de otras ciudades de interior (con Córdoba y Sevilla a menudo en cabeza). “Pues me daba la sensación de que hacía mucho más calor; no me quiero imaginar lo que deben estar pasando en el sur”, habrás pensado. Quizás no tuviste en cuenta la sensación térmica.
+
+Podemos hacernos una idea de qué es la sensación térmica: una manera de medir el grado de incomodidad al que está expuesto el cuerpo por culpa de la temperatura. Al encontrarnos ya en verano dejaremos para otro día la sensación de frío y nos centraremos en la sensación de calor: el heat index o, como me gusta llamarla por ser muy descriptiva, la sensación de bochorno.
+
+Todo el mundo sabe que en zonas costeras la temperatura en verano suele ser más baja que en zonas del interior pero el calor es muy “pegajoso” y molesto. La humedad produce un aporte extra al agobio que sufrimos por culpa del calor. De manera natural nuestro cuerpo se enfría mediante la evaporación del sudor pero en un ambiente húmedo es más difícil evaporar, el enfriamiento es menor y aumenta la sensación de calor. La Agencia Estatal de Meteorología define el bochorno como la sensación de calor sofocante debido a la presencia de aire cálido y húmedo.
+
+¿Cómo se calcula?
+
+Lo primero a tener en cuenta es que la sensación es subjetiva y depende de cada persona. El calor afecta de diferente manera según la edad, peso, salud, cansancio, etc. Integrar todo eso en una ecuación que lo exprese de manera objetiva no es fácil y por eso no existe una única fórmula ni ninguna que se ajuste a la perfección. La más usada es la ofrecida por la NOAA (Administración Nacional Oceánica y Atmosférica, de EE UU) que se basa en estudios biométricos y ciertas suposiciones: entre otras, una persona tipo que pese 66 kg, mida 170 centímetros, vaya andando a la sombra y vestida con manga corta y pantalón largo.
+
+En la siguiente tabla podemos consultar la sensación térmica a una temperatura y humedad relativa dadas. Un ejemplo: en el momento de escribir esto, la ciudad de Bombay alcanza 30⁰C y una humedad relativa del 80% lo que corresponde a una sensación térmica de 38⁰C (recuadro azul). La tabla también ofrece una gama de colores que describen los posibles efectos que pueden derivarse de la exposición prolongada a esa sensación: fatiga, insolación y golpe de calor, entre otros.
+
+ampliar foto Tabla de sensación térmica ofrecida por la NOAA (pulsa para ampliar).. Agencia Estatal de Meteorología
+
+La tabla no ofrece valores para humedades relativas inferiores al 45% o temperaturas inferiores a 27⁰C. Se considera que por debajo de estos umbrales no tiene sentido hablar de sensación de bochorno porque no supone una diferencia sustancial respecto a la temperatura. Dicho de otra forma: la incomodidad que sufre el cuerpo es similar a la de un ambiente seco y la sensación térmica coincide con la temperatura registrada.
+
+¿Sensaciones térmicas de 60 grados?
+
+Aunque los termómetros de calle suelen exagerar algo sus datos, el 14 de mayo de 2015, el aeropuerto de Valencia alcanzó una temperatura máxima superior a los 42⁰C. Muchísimos comentarios vertidos aquel día hacían referencia a que, debido a la humedad que suele reinar en la zona, la sensación térmica debió de ser monstruosa, en torno a los 60 grados.
+
+En realidad no fue así. La humedad relativa estuvo por debajo del 20% gran parte del día y no tenía sentido calcular la sensación térmica en un ambiente tan seco. Es más, si quisiéramos obtenerla con esta calculadora, veríamos un valor incluso inferior: 38⁰C. Ese día Valencia se comportó como una ciudad interior y no como una costera por el viento seco que soplaba desde tierra hacia el mar.
+
+Cuando en las ciudades de costa (Valencia, Bilbao y Málaga, por ejemplo) el viento sopla de tierra a mar (flechas negras) las condiciones son parecidas a las de una ciudad interior (como Córdoba). Eso provoca que la temperatura sea muy alta (curvas rojas) pero que la sensación térmica no sea mayor porque la humedad relativa es muy baja (curva verde).
+
+ampliar foto Elaboración propia a partir de datos de www.ogimet.com (pincha para ampliar).
+
+¿Por qué es así? Para explicarlo de una manera sencilla, diremos que parte de la energía recibida es absorbida por el vapor de agua. Si el ambiente es muy húmedo quedará poca energía restante para subir la temperatura. Por eso en ambientes secos las máximas pueden ser muy altas. Y por esa misma razón no es fácil que la costa mediterránea rebase 32, 34 grados o más con humedades superiores al 45-50%. Dicho de otra manera, la mayoría de las veces las sensaciones térmicas en el Mediterráneo apenas suponen tres o cuatro grados más de lo que mide el termómetro aunque a priori nos parezca que ocurra lo contrario y tendamos a exagerar usando cierto sensacionalismo térmico.
+
+Por eso tenemos que tener cuidado cuando hablamos de sensación térmica, porque la mayoría de las veces no la empleamos de manera correcta. No siempre se está mal en Valencia a 29 grados y no siempre se está bien en Córdoba a 29 grados. Lo que ocurre es que la mayoría de las veces los 29 valencianos los alcanzamos a mediodía cuando el sol pica más y fisiológica y psicológicamente se perciben como un agobio. Mientras que los 29 cordobeses los alcanzamos cuando entra la noche, después de haber superado los 40 y se perciben como un alivio.
+
+En resumen, la sensación térmica en ciudades mediterráneas se mueve en torno a los 34-38⁰C y las temperaturas en ciudades del interior en torno a 38-42⁰C. Siguen ganando estas últimas aunque a veces sea por muy poco.
+
+* También puedes seguirnos en Instagram y Flipboard. ¡No te pierdas lo mejor de Verne!

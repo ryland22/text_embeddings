@@ -1,0 +1,45 @@
+The rules for deducting mortgage interest on home loans just got trickier under the Tax Cuts and Jobs Act (TCJA.)
+
+The new rules generally limit the deductibility of mortgage interest on up to $750,000 of debt for acquiring a home. In some cases, the new rules also disallow deducting the interest on home equity loans used in many common transactions.
+
+If you have an existing mortgage acquired last year or earlier, don't be alarmed. These new limits don't affect up to $1 million of home acquisition debt taken out before December 16th, 2017 or incurred to buy a residence under a contract if the transaction closed before April 1st, 2018. Many homeowners with existing mortgages and home equity loans will be unaffected because this grandfather rule.
+
+But if you are looking to take a home equity loan, buy a new residence or refinance an existing mortgage, you need to know how these new rules may impact you.
+
+Let's take a closer look at a few examples.
+
+A new cap on deductions
+
+First, home buyers need to understand that deductions for mortgage interest are now capped at home acquisition debt of $750,000. This can add to the costs of buying homes in expensive housing markets where home prices top that number.
+
+It's interesting to note that the $750,000 limit applies to single taxpayers as well as married couples. According to a prior ruling of the Ninth Circuit Appeals Court, when two unmarried people buy a home together, they can combine their limits and deduct the mortgage interest on debt up to $1.5 million.
+
+If you take out a home equity loan and don't use the proceeds exclusively for the purchase or to improve your home -- such as instead spending the money on buying a car or paying off credit card debt -- then the interest on the home equity loan isn't deductible.
+
+But if the home equity loan was used to renovate or improve your home, then the interest is deductible, as long as when combined with your current mortgage, the debt doesn't exceed the $750,000 total loan limits under the new rules.
+
+Home equity loan limits
+
+That may raise questions for home owners who are now considering a home equity loan.
+
+Take a homeowner with a current mortgage of $800,000 that was taken out several years ago. The homeowner wants to take out a $100,000 home equity loan this year to improve their house. Would both the mortgage and loan interest be deductible?
+
+The interest on the $800,000 mortgage would still qualify because it's grandfathered under the old rules, which allows deductibility on interest for a mortgage of up to $1 million.
+
+But because the home equity loan would be taken out in 2018 -- when the TCJA caps deductions at $750,000 of total acquisition debt -- none of the interest on the new home equity loan is deductible.
+
+If the homeowner's current mortgage is $650,000, and they take out a $100,000 home equity loan in 2018 to remodel their home, all the interest on both loans should be deductible because the combined loans fall below the $750,000 cap.
+
+Vacation homes
+
+The IRS bars the deduction of interest from home equity loans taken out on a primary residence if it's used to buy a vacation home. That's because that new loan is not secured by the vacation home. Instead, the better way to finance a vacation home is to use a mortgage secured by that second home, not through a loan on your primary residence.
+
+Homeowners who refinance a mortgage will also need to consider how the new rules impact them. The TCJA includes a second grandfather rule for refinancing up to $1 million of home acquisition debt that was taken out before December 16th, 2017.
+
+Refinancing grandfathered mortgages
+
+When you refinance a grandfathered mortgage, the mortgage interest remains deductible only if the principal balance of the new loan doesn't exceed the principal balance of the old loan.
+
+Take a homeowner with a mortgage that was taken out last year for $1 million but now has a balance of $950,000. The mortgage interest on the refinancing should qualify as deductible as long as the new mortgage loan balance doesn't exceed $950,000.
+
+But let's assume that in this example, the current mortgage balance is $300,000, and you want to replace that mortgage with a new loan with a balance of $400,000, in what's commonly called a cash-out refinance. In this example, only the interest attributed to $300,000 of the new refinanced mortgage will be qualified as deductible mortgage interest. The interest on the additional debt cannot be deducted.

@@ -1,0 +1,17 @@
+The U.S. Army is testing a system designed to protect military vehicles smaller than tanks from attacks. The "Iron Curtain" uses a combination of sensors and downward-firing projectiles to stop incoming rockets and missiles from striking vehicles by setting off their shaped charge warheads. The result could be vehicles as small Humvees protected from anti-tank guided weapons.
+
+Advertisement - Continue Reading Below
+
+The proliferation of anti-tank weapons with shaped charges has made the modern battlefield very deadly for any vehicle daring to cross it. High explosive, anti-tank (HEAT) warheads are found on everything from shoulder-fired rocket propelled grenade launchers of the Taliban to Kornet-EM anti-tank guided missiles arming the Russian Army. Defeating them is one of the Army’s top concerns, and a brigade of Abrams tanks equipped with the Israeli Trophy active protection system (APS) is headed to Europe in the near future.
+
+M1A1 Abrams with the Trophy active protection system. U.S. Army
+
+Trophy is too large for some of the Army’s smaller vehicles, particularly the Humvee. Instead, the Army is looking at the Iron Curtain, developed by defense contractor Artis. Iron Curtain, true to its name, consists of several curtain-looking attachments installed in all four directions on a military vehicle. According to Artis, it has fitted the Iron Curtain to the M-ATV mine resistant armor protection vehicle, Humvee, and Stryker armored vehicle. The company also says it can even be fitted to buildings and helicopters.
+
+Advertisement - Continue Reading Below
+
+With the Curtain installed, the vehicle (or building) is surrounded with radar and optical sensors. The outward-looking radar picks up an incoming missile as it approaches, while the optical sensors spot it milliseconds before impact and trigger the downward-firing interceptors. The system is sophisticated enough to recognize incoming rockets or missiles and attack their weak spots for maximum effectiveness. Here's a video of Iron Curtain being tested on a Humvee:
+
+The U.S. Army tested Iron Curtain in 2013, and the company claims the system received a “perfect score.” The Army is currently testing Iron Curtain on Stryker vehicles. It’s been tested against rocket propelled grenades (RPGs) but not yet against guided anti-tank missiles. There’s no reason to think it wouldn’t work against a missile like Kornet-EM, though.
+
+Why does Iron Curtain shoot downward instead of engaging targets farther away? One concern with active protective systems is they automatically unleash a volley of violence without consideration for friendly soldiers or even civilians that might be hanging around the vehicle. Shooting downward, or “guillotining” an incoming missile as Breaking Defense puts it, minimizes the possibility of unintended casualties while still providing protection.

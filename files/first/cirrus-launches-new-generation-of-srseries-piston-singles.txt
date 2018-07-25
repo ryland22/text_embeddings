@@ -1,0 +1,9 @@
+The new generation of Cirrus SR-series piston singles has features such as the Perspective+ avionics system and Spectra LED wingtip lights.
+
+Cirrus today officially introduced the new generation of SR-series piston singles — known as G6 — that add a long list of capabilities and features to the 2017 model year airplanes, including the new Perspective+ avionics system that is based on Garmin’s just-launched G1000 NXi platform.
+
+Flying recently had the chance to experience the 2017 SR22T on a number of long cross-country trips where the Perspective+ avionics stood out as among the most important upgrades in the history of the SR series introduced in the late 1990s with the first generation. Features pilots are sure to appreciate include animated Nexrad weather graphics, a qwerty-style keyboard, a handy HSI map overlay on the primary flight display, the ability to choose IFR visual approaches from the procedures menu that mimic the guidance cues of precision approaches, improved connectivity for flight plan and database uploads, and a crisper, cleaner overall look.
+
+The new Garmin avionics system is also much faster thanks to a marked increased in processor speed and computer memory, advances that have allowed developers to bring many of the capabilities from the G3000 and G5000 avionics systems to Perspective+.
+
+The G6 models also add new Spectra LED wingtip lights designed with lighting specialist Whelen Engineering along with courtesy lights underneath each wingtip, on each step and in the baggage compartment. The exterior courtesy lights automatically turn on and remain on until after takeoff when reaching 200 feet agl. The lights then automatically switch back on when descending for landing passing 200 feet agl. In airplanes equipped with a yaw damper, it also automatically engages and disengages at 200 feet agl with no pilot input required.

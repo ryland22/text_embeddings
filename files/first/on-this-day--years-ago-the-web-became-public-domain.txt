@@ -1,0 +1,21 @@
+Twenty-five years ago today, the World Wide Web announced that it was for everybody. On April 30, 1993, the European Organization for Nuclear Research (CERN) put the web into the public domain a decision that has fundamentally altered the past quarter-century.
+
+While the proto-internet dates back to the 1960s, the World Wide Web as we know it had been invented four year earlier in 1989 by CERN employee Tim Berners-Lee. The internet at that point was growing in popularity among academic circles but still had limited mainstream utility. Scientists Robert Kahn and Vinton Cerf had developed Transmission Control Protocol and Internet Protocol (TCP/IP), which allowed for easier transfer of information. But there was the fundamental problem of how to organize all that information.
+
+Advertisement - Continue Reading Below
+
+In the late 80s, Berners-Lee suggested a web-like system of mangement, tied together by a series of what he called hyperlinks. In a proposal, Berners-Lee asked CERN management to "imagine, then, the references in this document all being associated with the network address of the thing to which they referred, so that while reading this document you could skip to them with a click of the mouse."
+
+Four years later, the project was still growing. In January 1993, the first major web browser, known as MOSAIC, was released by the National Center for Supercomputing Applications at the University of Illinois Urbana-Champagne. While there was a free version of MOSAIC, for-profit software companies purchased nonexclusive licenses to sell and support it. Licensing MOSAIC at the time cost $100,000 plus $5 each for any number of copies.
+
+CERN’s official document stating that the Web is public domain CERN
+
+Advertisement - Continue Reading Below
+
+The World Wide Web was made public domain only a few months after MOSAIC was released. On the organization's website, it describes the decision thusly:
+
+CERN made the next release available with an open license, as a more sure way to maximize its dissemination. Through these actions, making the software required to run a web server freely available, along with a basic browser and a library of code, the web was allowed to flourish.
+
+The tension between each the routes of CERN and MOSAIC, the choice between a Wild West and high profit, has cropped up again and again in the history of the web.
+
+Making the web public domain opened it up to anyone who had a computer. Berners-Lee's vision of a web opened entirely by its users may feel like a pipe dream these days, but it was an undeniable success. The choice for public domain put a foot down for users, as opposed to corporations, and the web has wrestled with the choice ever since.

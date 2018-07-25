@@ -1,0 +1,51 @@
+As a firearm instructor, I often run across gadgets that claim to improve your shooting skills. There’s usually a lot of hype to get you to buy, but then once you do, you realize you’d have been better off spending your money on a private lesson with a professional. So I usually look at new products fairly skeptically, as I did when I received an email late last year, telling me that the new MantisX Firearms Training System would be debuting at the 2017 SHOT Show. I visited the MantisX booth at the show, and found that it was certainly was one of the most innovative and interesting products I ran across there. I asked for a sample to test, and found that it truly is a game-changer. The MantisX, which has a list price of $149.99, provides immediate feedback of each shot you take, whether dry-fire or live fire. It does this via is a sensor that attaches to the rail of any pistol or rifle. (If your pistol doesn’t have a Picatinny-style rail, Mantis sells a $25 attachment that fits on your pistol’s magazine). The sensor works in conjunction with a software program that you download to your smartphone or tablet. The app communicates with the sensor wirelessly via a Bluetooth connection.
+
+The MantisX sensor attaches to the rail of your handgun. author photo
+
+Measuring Movement The sensor is calibrated to analyze the movement of the firearm for nanoseconds before, during and after the trigger pull. The sensor sends the data to the software program in the app, which in turn analyzes each shot’s motion and offers recommendations for improvement. It works for dry fire, live fire, CO2 and airsoft-type pistols and rifles. This tiny piece of technology has the ability to improve the accuracy of your shooting, more so than anything I’ve seen to date. The sensor is sensitive enough to detect very subtle motion barely visible to the naked eye, and the feedback is clear, concise and helpful. Setting up the unit is simple. You download the free app (iOS or Google Play) on your device, install the MantisX on the rail of your pistol or rifle, and pair the device with the app. That’s it. Instructions for installation were concise and clear. Once installed, you only need to pair the device and the sensor before shooting. The software itself contains information about hundreds of different handgun models from more than 60 different manufacturers. There is also an option to add a firearm, if yours isn’t listed. There is also a choice for right- or left-handed shooting, as well as the positioning of the sensor. The software itself is well thought out and easy to navigate. How It Works Three screens display, in detail, information about each shot you took. The first displays the movement of the barrel during each trigger pull. Shots are grouped together if the movement was similar. With a quick glance, you can see how the barrel moved with each shot you took. A numerical “score” is generated for each sequence, depending on the movement. Scores can range from 0 to 100, although Mantis is clear that you will not achieve a perfect score unless your firearm is locked in a vice. Here’s one where I scored a 90.0 average after taking nine shots:
+
+Movement of the muzzle during trigger pull is indicated by the red segments. author photo
+
+The next screen plots each individual shot onto an easy-to-view line graph. As you can see from the screenshot below, my scores for this shooting series ranged from the low 80s to low 90s:
+
+Each shot is plotted on a line graph. Scores for this particular shooting series ranged from the low 80s to low 90s: author photo
+
+The third screen displays a detailed trace of a shot via three lines. A green line indicates how steadily or unsteadily you held your gun while aiming. A yellow line shows the steadiness of your hold as you were pulling the trigger. A red line indicates the travel of the barrel during the shot itself, as the gun is recoiling, so you know how well (or not) you’re controlling the gun during the shot. As you can see from the two images below, there was much less movement of the firearm with the first shot, which generated a score of 93.2, as compared to the second shot, which had a score of 47.3 (the second image shows what the graph looks like when you see it on your smartphone):
+
+The green line indicates steadiness while aiming; the yellow line, steadiness of the hold as the trigger is being pulled; the red line, travel of the barrel during the shot itself. author photo
+
+The shot-tracing image as displayed on a smartphone. author photo
+
+Feedback and detailed descriptions of your shot, as well as recommendations for correction, are categorized 12 different ways: Pushing forward
+
+No follow through
+
+Breaking wrists up
+
+Breaking wrists down
+
+Heeling
+
+Too much trigger finger
+
+Too little trigger finger
+
+Tightening grip while pulling trigger
+
+Slapping the trigger
+
+Tightening fingers
+
+Anticipating recoil
+
+Thumbing Each category has specific recommendations for improvement, as we’ll see next.
+
+Dry-Fire Test I started my test by working with the MantisX during dry-firing. I attached the sensor to the rail of a laser training system that I own. Since the laser trainer is the same size as a Glock 17, with an identical trigger pull, I selected the options for Glock 17 and Dry Fire on the MantisX software. When I discussed the MantisX with the designers, they recommended taking about 10 shots and then viewing the feedback on the app. As for aiming during dry fire, the sensor doesn’t know where you’re aiming—it’s only focusing on the motion of the barrel before, during and after each trigger pull. I chose to aim at a spot on a painting in my living room. Per the recommendation, I took 10 shots at a time before checking the analysis done by the software. At the end of each session, a graph plots the motion of each shot. Depending on its calculation, feedback recommended by the data appears on the main screen, depending on what the software felt caused any incorrect motion.
+
+The MantisX system comes with a sensor and a software program that you download onto your smartphone or other device. author photo
+
+In my case, my feedback for most sessions included “breaking wrists down,” “pushing forward,” and “too little trigger finger.” Tapping any of the feedback notes bring you to an explanation screen with instructions on how to correct that particular issue. Each explanation is clear and concise. My first feedback and advice was as follows: “Breaking Wrist Down” means that the wrists relaxed during the trigger pull and the handgun moved down from the aiming position. To correct this issue, keep the wrists locked and straight during the trigger pull. Make sure that the angle of the wrists stays the same throughout all the phases of the shot.
+
+It was tremendously helpful to have such immediate feedback and advice, and be able to work through the issues I was having. I don’t think a human instructor would have noticed that I was breaking my wrists down due to the subtleness of the motion. It would be impossible for a human to catch every little detail that this technology was able to notice, because I was still hitting my target…but not as good as I could be. Happy with my dry-fire analysis, I was anxious to try the unit out at the range. Live-Fire Feedback My first attempt at live-firing didn’t exactly go as planned. I attached the sensor to my new Springfield XD-S as per the instructions. I carefully aimed at my target and fired, but the MantisX flew off my gun. In my haste to get to the range, I hadn’t properly secured the unit with the small locking nut. My mistake. Why am I sharing this? Because the unit was undamaged. The MantisX must be designed to withstand the shock of countless shots, as well as first-time user mistakes such as mine—and it did.
+
+The MantisX app is compatible with various operating systems and mobile devices. mfg photo

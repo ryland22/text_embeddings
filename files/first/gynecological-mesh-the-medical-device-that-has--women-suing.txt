@@ -1,0 +1,119 @@
+There is tremendous controversy about a surgical device implanted in more than two million American women. It's a strip of plastic called gynecological mesh. The manufacturers and several medical societies say the implant is safe. But more than 100,000 women are suing. And together, they make up the largest multi-district litigation since asbestos. One of the largest manufacturers of gynecological mesh is Boston Scientific, a medical device maker with $9 billion in sales. Millions of patients benefit from its pacemakers, stents and other devices. But Boston Scientific has attracted 48,000 lawsuits which claim that its mesh can inflict life-altering pain and injury.
+
+CBS News
+
+Surgeons use Boston Scientific's gynecological mesh like a sling to relieve urinary incontinence and to lift organs that shift after pregnancy. Gwyn Madsen had a Boston Scientific implant in 2012.
+
+Gwyn Madsen: It felt like a cheese grater inside of me.
+
+Like thousands of others who have filed suit, she says she suffered pain, which in her case, left her hardly able to sit or play with her children.
+
+Gwyn Madsen: It felt like the material was pulling on the muscles and I'd get shooting pains you almost felt like there was something inside of you that was like sandpaper back and forth, every time you'd walk.
+
+Boston Scientific has fought allegations like Gwyn Madsen's for years. They declined an interview for our story but the company told us, "Nearly one million women have been successfully treated… We have extensively tested the [plastic] resin to confirm its composition, safety and performance." The American Urogynecological Society has also said that plastic mesh is "safe and effective." But that's not what many doctors are finding.
+
+Dr. Michael Margolis: The mesh causes a chronic inflammatory reaction.
+
+Dr. Michael Margolis is a surgeon who has removed 350 mesh implants. He's been a witness in lawsuits against Boston Scientific.
+
+Dr. Michael Margolis: The slings I've removed are substantially altered in their architecture. They are shrunk by at least 50% in width; they are encased in scar tissue. The pores here, these openings here are shrunk substantially.
+
+Dr. Margolis recently removed this type of Boston Scientific mesh. It had been implanted in his patient for life, but after two years, it looked like this.
+
+Dr. Michael Margolis: It was folded, it was contracted, it was embedded in scar tissue, it was choking off the urethra. It was 50% the size of its original implant. I measured it, as I always do.
+
+Scott Pelley: These are things that are not supposed to happen?
+
+Dr. Michael Margolis: Of course not. This implant is not supposed to change.
+
+CBS News
+
+The mesh is made of a plastic called polypropylene, a common material in packaging. Boston Scientific had clearance from the FDA to use a brand of polypropylene called "Marlex" made in Texas by a subsidiary of Chevron Phillips. But in 2004, Chevron Phillips became concerned about medical use of Marlex. It issued a warning that it must not be used for "permanent implantation in the human body." Duane Priddy is a leading plastics engineer and a fellow of the American Chemical Society.
+
+Duane Priddy: I can't, in my wildest imagination, imagine anybody that's knowledgeable in the science of plastics ever deciding that it was appropriate to use polypropylene in the human body. It's well known that its oxidatively unstable.
+
+Duane Priddy has been a witness in mesh lawsuits, but he is not part of any litigation against Boston Scientific. He explained to us that oxygen breaks up polypropylene. The plastic has antioxidant additives but they dissipate over time.
+
+Duane Priddy: Once those antioxidants are consumed, they're no longer there to do their job, polypropylene will rapidly disintegrate and fall apart.
+
+Scott Pelley: In layman's terms, oxygen eats plastic.
+
+Duane Priddy: That's correct.
+
+In 2005, Chevron Phillips cut off Boston Scientific's supply of Marlex. Later, when Boston Scientific appealed, Chevron Phillips replied, "We are simply not interested in this business at any price." Boston Scientific estimated that it would run out of Marlex by 2012. George Vialle, director of Global Supply Chain wrote, this plastic resin "supports a $120 million in annual revenue… I can not [sic] overstate the importance of getting more." Boston Scientific had to have Chevron Phillips Marlex because that plastic was already accepted by the FDA.
+
+Chris DeArmitt: They looked everywhere. They looked at least 20 different companies all around the world. They were looking for stocks of material.
+
+Chris DeArmitt is a plastics engineer who researched Boston Scientific for one of the women suing the company.
+
+Chris DeArmitt: they really struggled. There was a big panic on because they had a big stockpile. They ran out. And they realized they were gonna have to source more.
+
+That struggle is revealed in company documents that we found in court records. This report shows, in 2010, a second supplier refused to sell polypropylene "for use in medical device." Boston Scientific's global sourcing division decided to use a middleman with "no direct link to BSC" so the plastic makers wouldn't know the true buyer. But that plan failed.
+
+Chris DeArmitt: They're looking for material and they're desperate. They can't find it locally so they find it in China. And they literally say, "We have to be careful here. Some of these look more credible than other ones." They are not convinced that it's real material.
+
+A broker in China, called Emai, said it had tons of Marlex imported from Chevron Phillips in Texas. Boston Scientific's man in China wrote his superiors, "do we need to ask [Emai] if this material is supposed to be used in medical implantable?" Boston Scientific's director of materials management replied, "please don't tell them where we will use it. It could scare them away."
+
+That same month, the FDA issued a damning report. Over five years, the FDA found that mesh supporting organs after pregnancy, had resulted in nearly 4,000 "reports of injury, death, and malfunction" and complications including "pain, infection, urinary problems, bleeding and organ perforation." "Serious adverse events," the FDA said, "are not rare." Now, Boston Scientific had even more reason to believe that if it switched plastics the FDA would require years of tests which might fail. The company's best hope appeared to be the plastic in China but then came the red flags.
+
+Boston Scientific's own procedures required documents and import records that proved that the plastic was Marlex from Texas. But Chinese broker, Emai, didn't have any documents to verify authenticity. Boston Scientific checked the lot numbers on the bags and confirmed through Chevron Phillips, three times, that the numbers were fraudulent. Even the bags were fake. Chevron Phillips says the printing on the counterfeit bag, on the right, is full of errors from the color to the name of the Texas city where Marlex was made. Evidence was mounting that the plastic in China was counterfeit, so Boston Scientific ordered tests to compare it with original Marlex.
+
+Chris DeArmitt: They analyzed 11 different parameters, looking at the two plastics side by side, done, the same tests. Nine of those were different. Two were the same, nine were different. And of those nine that were different, four of those parameters were very different. And somehow, from that, they concluded that it was the same material.
+
+Scott Pelley: How did they come to that conclusion?
+
+Chris DeArmitt: Well, I'm wondering that too. I mean, how can you look at two things side by side and say, "Yes, it's the same stuff."
+
+In an email from the address of Ann Charest, manager for plastics in Boston Scientific's global sourcing division, there's speculation about the Chinese plastic's lack of documents. "It may not have been imported through proper channels" or it may have been "redistributed enough times, the original paperwork has been lost/forgotten…" Facing a deadline, with those test results, no documents and having learned the lot numbers were fake, Charest concludes, "I believe this is the right material." Boston Scientific bought enough of the Chinese plastic to last 30 years. We hired plastics engineer Duane Priddy as an independent consultant to analyze Boston Scientific's own tests of the Chinese plastic. We found the test results in court documents.
+
+Duane Priddy: I would predict a significant difference in the antioxidant stability, or I should say the oxidation resistance of those products in the human body.
+
+Scott Pelley: The Chinese product is inferior?
+
+Duane Priddy: Absolutely. Yes.
+
+Scott Pelley: Is the Chinese product something that you would imagine being placed inside the human body for 20, 30, 40 years.
+
+Duane Priddy: Absolutely not.
+
+Scott Pelley: How long would it likely last?
+
+Duane Priddy: A few months.
+
+CBS News
+
+Teresa Stevens: I started to have problems right away. I told the doctor while I was in the hospital, I couldn't feel my bladder, I couldn't feel when I had to go.
+
+Teresa Stevens had a Boston Scientific mesh implant in 2014 after the company began using the Chinese plastic.
+
+Teresa Stevens: Sometimes when I went to the doctor, I would have an infection, sometimes when I went I didn't. So, but I was having pain every time I would void. So, a lot of times I would have some blood. So, I knew something was wrong.
+
+In 2016, she had her mesh implant removed by Dr. Michael Margolis who told us the Chinese plastic's lack of documents is a concern.
+
+Dr. Michael Margolis: This is an experimental material. Implantation of this into anyone is human experimentation but without consent. Because this is novel material. We don't know how this affects humans, it's never been tested before.
+
+Chris DeArmitt: I would say the material they're buying maybe is fine for making a park bench. Maybe it's fine for making a disposable cup. But that's a totally different situation when you're looking at something that will be in the body for 40 or 50 or 60 years. There's a whole different level of analysis and confidence that you need. And I don't see that here.
+
+Scott Pelley: The FDA requires Boston Scientific and companies like it to understand every step in the supply chain. In other words, who made the material, who packaged it, who shipped it, et cetera. How much did Boston Scientific understand about that supply chain?
+
+Chris DeArmitt: They don't seem to know where the material is coming from. Nobody knows who the original manufacturer is. Nobody knows and that's a big deal, right? You have to take a record of every lot, was it contaminated? Has it been tested? And they don't know any of those, any of those answers.
+
+Boston Scientific also faced hurdles in getting the 16 tons of plastic out of China. The counterfeit bags were labeled "Texas." But, with no import records, Boston Scientific's man in China wrote, "If we don't get rid of the original bags… if it is caught by customs we will be in trouble." A plan to hide the bags in plain wrappers was approved in an email sent from the address of Charles Smith, a director in Boston Scientific's urology and women's health division. "We can over bag." The email reads. Pictures of the overbagging operation were then distributed to many company executives for their approval. On its declarations, Boston Scientific told the Chinese the plastic was made in China. It told U.S. Customs the plastic was made in the U.S.
+
+Because of lawsuits by Teresa Stevens, Gwyn Madsen, and thousands of others, the FDA looked into Boston Scientific's experience with the Chinese plastic. The FDA declined an interview but wrote, "We… did not find any indication that the change in [plastic] resin led to an increase in adverse events. We have confidence in our… findings."
+
+Scott Pelley: The FDA recently reviewed these same test results and they said that the Chinese mesh, quote, "does not raise new safety or effectiveness concerns." What do you make of that?
+
+Duane Priddy: That's shocking. It's hard for me to imagine somebody looking at that data and generating an opinion that it is acceptable for use in the human body.
+
+Scott Pelley: Is your analysis something that any other expert in plastics would see immediately?
+
+Duane Priddy: Yes.
+
+Scott Pelley: This is not a close call?
+
+Duane Priddy: No.
+
+As we said, Boston Scientific declined an interview but it wrote, "Any allegations continuing to question the integrity or legitimacy of our [plastic] resin are false and irresponsible." We wondered whether Boston Scientific mesh products still contain the Chinese polypropylene smuggled into the United States, so we purchased 15 Boston Scientific mesh kits and sent them to a leading plastics lab. All of them matched the Chinese plastic.
+
+Produced by Oriana Zill de Granados and Michael Rey

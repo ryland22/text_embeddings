@@ -1,0 +1,15 @@
+Se compararon genes de perros salvajes, domesticados y lobos.
+
+Desde los carlinos hasta labradores y huskies, los perros son nuestros fieles compañeros. Viven con nosotros, juegan con nosotros e incluso duermen con nosotros. Pero, ¿qué ocurrió para que un animal parecido a un lobo, una vez nocturno y temible, se transformara en un miembro más de nuestra familia? Un grupo de científicos, liderados por Amanda Pendleton, han comparado el ADN de perros y lobos para tratar de identificar los genes implicados en la domesticación.
+
+Los resultados, publicados en BMC Biology, mostraron algo peculiar del ADN de los perros modernos: en algunos lugares no parecía coincidir con el ADN de sus congéneres más antiguos.
+
+"Los estudios anteriores habían hallado muchos genes no asociados con ser un perro, sino con ser un perro de raza – explica Pendleton –. Los perros de raza, que surgieron hace unos 300 años, no reflejan por completo la diversidad genética en estos animales: tres cuartas partes de los perros del mundo son los llamados perros de pueblo, aquellos que deambulan, buscan comida cerca de las poblaciones humanas y pueden aparearse libremente”.
+
+Con el fin de obtener una imagen más completa de los cambios genéticos en juego en la evolución del perro, el equipo estudió la genética de 43 perros de pueblo, procedentes de lugares como India, Portugal y Vietnam. Los datos obtenidos se compararon con los de perros que vivieron 5.000 años atrás y también con ADN de lobos. Todo ello permitió descubrir los cambios genéticos que resultaron de los primeros esfuerzos de los humanos en la domesticación.
+
+El equipo de Pendleton descubrió que había una serie de genes que influían en la función, el desarrollo y el comportamiento del cerebro. Estos genes parecían apoyar lo que se conoce como la hipótesis de domesticación de la cresta neural.
+
+“La hipótesis de la cresta neural – concluye Pendleton – postula que los fenotipos que vemos en los animales domesticados una y otra vez (orejas caídas, cambios en la mandíbula, coloración, comportamiento dócil) pueden explicarse por cambios genéticos que actúan durante el desarrollo en las células de la cresta neural. Estas células son fundamentales (en los embriones de vertebrados, contribuyen a la formación de neuronas, huesos, órganos como la dermis y hasta células endocrinas). Muchos de los sitios genéticos que identificamos contenían genes que son activos en el desarrollo y la migración de las células de la cresta neural”.
+
+En pocas palabras, la domesticación de los perros afectó directamente a las funciones de desarrollo y comportamiento del cerebro desde un punto de vista genético.

@@ -1,0 +1,33 @@
+Philadelphia, where some 22 percent of children suffer from asthma, is the third most challenging city to live in with the disease, according to the Asthma and Allergy Foundation of America.
+
+Ideas We Should Steal is a regular feature of The Philadelphia Citizen, which will be holding an Ideas We Should Steal Festival in late 2018.
+
+Imagine a city in which the air we breathe was a subject of scrutiny, the way we think about weather or traffic. You’d wake up, check the air quality, and know that your city was taking steps to keep it clean and breathable. Eventually, we’d look to the culprits of air pollution—smog, industrial waste, car exhaust—and work to cut them down, for all our sake. What would that mean?
+
+Jefferson University pulmonary specialist Gregory Kane has some ideas: There might be lower subway rates during high-risk days, to cut down on traffic pollution; school district-wide calls to keep students with asthma inside; alerts to environmental authorities when local industry is releasing pollutants into the air. Even what Kane, chair of Jefferson’s Department of Medicine, calls a “big hairy audacious goal:” A city of the future where traffic is limited because of bad air quality, like what happens already in Beijing.
+
+Philadelphia, where some 22 percent of children suffer from asthma, is the third most challenging city to live in with the disease, according to the Asthma and Allergy Foundation of America. With some 35,000 Philly students with asthma, it is the most common reason for chronic absenteeism here and around the country. For adults, asthma flare ups can mean missed work, expensive hospital visits, and other health problems.
+
+The reasons for Philly’s high rate include old housing stock in poor neighborhoods which often contain triggers, poor access to health care, and rampant air pollution. These are all solvable problems but we need to understand them in more detail.
+
+>> READ MORE: Temporary bike grids: How Macon, Ga., won the bike lane culture war | Ideas We Should Steal
+
+That’s what the city of Louisville, Kentucky, undertook a few years ago with AIRLouisville, a research project to track the incidences of asthma attacks among residents. That data, gathered over 30 months, gave the city an intimate look at when, where and who asthma attacks struck most. Louisville is one of the worst cities in which to have asthma or chronic obstructive pulmonary disease (COPD).
+
+The project started with medical device startup Propeller Health, a small smart device attached to an inhaler that tracks how often patients take daily prescribed medications and/or the rescue medications they take during an attack.
+
+Through an app, Propeller merges the data with about 30 different environmental layers—weather, land use, climate—to understand where and when patients are having flare-ups, how well they are following their daily regimens, and when there are spikes in symptoms.
+
+AIRLouisville garnered 1,100 patients and 12 different partners, including city agencies like sustainability, innovation, transportation and planning. In addition to providing personal data for patients and their doctors, Propeller shared information on around 250,000 emergency inhaler uses to help the city develop a way to think about air and health—and how to improve both.
+
+Tracking helped patients reduce their rescue inhaler use by 82 percent, and doubled their symptom-free days. More broadly in Louisville, Propeller found a significant connection between air pollutants, urban heat and asthma flare-ups, and mapped for the city the neighborhoods most at risk for asthma based on data, not just anecdotes, down to the census tract level. (Unsurprisingly, the most at risk neighborhoods—as is the case in Philly—were poor black communities close to industry.)
+
+Propeller then helped the city develop ideas around how best to affordably reduce that risk. As a result, Louisville, shifted its attention to greening up those neighborhoods, which also happened to have the fewest trees, to help clean the air. And, the city’s Transportation Department has set out to create a recommended truck route that would divert diesel trucks from those neighborhoods with highest asthma rates.
+
+The study also discovered that the air safety thresholds laid out by the EPA—and that industry follows—were insufficient. Patients were having asthma attacks when the amount of pollution in the air was well below what the EPA—and therefore local government—allowed. Propeller has since launched an asthma forecast, based on data from thousands of sufferers across the country, to help people know when conditions outside might aggravate their symptoms, and is hoping to influence EPA policy to change the national air quality standards.
+
+Jefferson’s Kane, who envisions all sorts of policy changes that could come as a result of a similar project here, is clear on one thing: Philly needs all the tools it can get to help asthma patients breathe better, more often. In particular, the city needs better and more support for patients in the hardest-hit neighborhoods, those that are poor and underrepresented in the medical field. Propeller’s sensor would provide data, to help him better manage his patients’ heath.
+
+But more than that, Kane says, the data, like in Louisville, could be used to answer questions about what’s happening to the air the rest of us breathe and make real policy changes in a city that needs them.
+
+Roxanne Patel Sheplavy is the executive editor of The Philadelphia CIitzen, where a version of this piece previously appeared.

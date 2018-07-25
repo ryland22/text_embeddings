@@ -1,0 +1,63 @@
+Muchas veces una persona tiende a esperar respuesta de alguna persona; sin embargo, cuando dejas en check azul cualquier conversación en la aplicación de WhatsApp, automáticamente observarás a qué hora leyeron ese mensajes. ¿Sabes cómo cambiarlo? Pues existe un truco.
+
+Lo primero que debes saber es que este pequeño truco solo funciona a través de WhatsApp Web. Eso quiere decir que lo único que debes hacer es descargarte la app para la PC y luego una extensión para Chrome llamada WAIncopgnito.
+
+Este modo incógnito nos ofrece varias opciones, en el caso de enviar un comprobante de lectura, podemos elegir por no enviarlo, y que no se sepa cuándo lo hemos leído, o bien programar una hora a la que llegará el comprobante de lectura al emisor.
+
+Esta hora podemos marcarla con segundos. Si por ejemplo ponemos 600 segundos, la confirmación de lectura llegará 10 minutos más tarde de la real. Algo que muchos no conocen.
+
+Además, en el chat podremos ver cuántos segundos quedan para que se envíen la confirmación de lectura de un mensaje, pudiendo cancelar en ese mismo momento el envío pulsando sobre un botón rojo a la derecha del mensaje.
+
+La extensión es muy fácil de usar. Para entrar a WhatsApp Web solo debes darle click a este enlace, luego escanear con tu celular el código QR, y finalmente observarás todas tus conversaciones en la pantalla de tu PC.
+
+Trucos de WhatsApp
+
+Si eres un fiel usuario de WhatsApp y deseas conocer sus trucos ocultos, te invitamos a seguir leyendo este post, ya que te pondremos algunos secretos que oculta la app que Facebook compró en 2014.
+
+1. ¿quién vio mi foto de perfil?
+
+Desde hace unos días, una nueva app llamada WhatsTracker for WhatsApp está dando que hablar en las redes sociales, ya que te permite conocer quién ha revisado tu foto de perfil, la aplicación de mensajería más popular en la actualidad. Esta es exclusiva para los dispositivos Android y por el momento solo se encuentra en inglés.
+
+Para poder configurar esta aplicación que te permitirá saber quién ha revisado tu foto de perfil de WhatsApp, únicamente deberás de seguir los siguientes pasos que te mostramos a continuación.
+
+PASO 1 Descarga la aplicación desde Google Play. (Puedes encontrarla en este enlace).
+
+PASO 2 Abre la aplicación, aceptar los términos y condiciones y dale los permisos necesarios.
+
+PASO 3 Ingresa un nombre y un número de teléfono
+
+PASO 4 Accede al apartado de visitas y analíticas.
+
+2. haz zoom a tu foto de perfil
+
+La versión beta de WhatsApp 2.17.28 acaba de añadir una interesante característica que seguro fascinará a los millones de usuarios de esta aplicación de mensajería instantánea: hacer zoom a la foto de perfil.
+
+¿Cómo funciona? De acuerdo a los usuarios de WhatsApp que ya cuentan con la actualización, debes pulsar sobre la foto de perfil para abrirla y si quieres hacer zoom a alguna parte tendrás que pellizcarla.
+
+3. cambia la foto de perfil de tu amigo o pareja
+
+Este truco te puede interesar. Muchas personas tienden a eliminar o bloquear de WhatsApp a una persona por el simple hecho de que no les gusta ver su imagen de presentación en la aplicación de mensajería rápida, pero ahora existe un truco para no hacerlo: Cambiarle la foto de perfil. ¿Es esto posible? Sigue estos pasos.
+
+PASO 1: para iniciar, debes necesitar un explorador de archivos en tu smartphone. La mayoría de los celulares no cuenta con uno instalado, es por ello que se debe de recurrir a apps de terceros. Uno de ellos y el más eficiente es el ES Explorador de archivos, el mismo que puedes descargarlo desde Google Play.
+
+PASO 2: luego de ello, abre el Explorador de Archivos y dirígete a /device/sdcard/WhatsApp/Profile Pictures. En esa carpeta observarás todas las fotos de perfil de tus contactos que has revisado en WhatsApp. Si no lo has hecho hasta el momento, debes ingresar a la aplicación y ver la foto de tu amigo. Automáticamente se guardará en la carpeta mencionada.
+
+PASO 3: busca en todos tus archivos qué foto deseas que reemplace la foto de perfil de tu contacto de WhatsApp. Esta se debe de encontrar en un tamaño 640 × 640, de lo contrario no funcionará. Copiala y reemplázala con la imagen que se muestra en la carpeta Profile Pictures de WhatsApp. Recuerda que tiene que haber eliminado la foto anterior. Finalmente regresa a la aplicación de mensajería y verás que el cambio se habrá realizado.
+
+4. Oculta tu foto de perfil a desconocidos
+
+Si acaba de agregarte un nuevo contacto, el cual no sabes quién es, puedes evitar que este vea tu foto de perfil de WhatsApp y es muy sencillo.
+
+• Dirígete a los “Ajustes” dentro de la aplicación de WhatsApp
+
+• Pulsa en “Cuenta”
+
+• Selecciona “Privacidad”
+
+• Una vez allí, pulsa en “Foto de Perfil”
+
+• Elige “Mis contactos”
+
+5. Negrita, Cursiva y Tachado
+
+WhatsApp lanzó el 2017 la función que permite a los usuarios mandar textos en negrita y en cursiva. Incluso, se pueden enviar tachados. Si quieres saber cómo hacerlo, te recomendamos revisar este divertido GIF elaborado por Pictoline, el cual es muy dinámico y no te confundirás.

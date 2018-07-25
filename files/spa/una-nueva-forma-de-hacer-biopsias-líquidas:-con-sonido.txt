@@ -1,0 +1,15 @@
+Células tumorales a través de un escáner electrónico
+
+Gracias a las ondas de sonido, un equipo internacional de científicos ha desarrollado un método no invasivo para separar las células tumorales circulantes (CTC por sus siglas en inglés) de las muestras de sangre. Se trata de un método lo suficientemente rápido y eficiente para llevar a cabo en el laboratorio.
+
+Las CTC son pequeños fragmentos de un tumor que se desprenden y fluyen a través del torrente sanguíneo. Contienen una gran cantidad de información sobre el tumor, como su tipo, características físicas y mutaciones genéticas.
+
+La capacidad de cosechar y cultivar de forma rápida y eficiente estas células a partir de una muestra de sangre permitiría realizar "biopsias líquidas" capaces de proporcionar un diagnóstico, pronóstico y sugerencias sólidos para las estrategias de tratamiento basadas en el perfil individual de CTC.
+
+Sin embargo, los CTC son extremadamente raros y difíciles de atrapar. Por lo general, solo hay un puñado por cada miles de millones de células sanguíneas que recorren las venas de un paciente. Y si bien hay muchas tecnologías diseñadas para separarlas, ninguna de ellas es perfecta: tienden a dañar o matar las células en el proceso, carecen de eficacia, solo funcionan en tipos específicos de cáncer o tardan demasiado tiempo en usarse.
+
+En este nuevo estudio, publicado en la revista Small, y liderado por Tony Jun Huang, los autores muestran una plataforma basada en ondas de sonido capaz de separarlos CTC de un vial de 7.5 ml de sangre con al menos 86% de eficiencia en menos de una hora.
+
+"La biopsia es la técnica estándar para el diagnóstico del cáncer – explica Huang – , pero es dolorosa e invasiva y con frecuencia no se administra hasta tarde en el desarrollo del cáncer. Con nuestra tecnología podríamos ayudar a descubrir, de manera no invasiva, si el paciente tiene cáncer, donde está ubicado, en qué etapa está y qué medicamentos funcionarían mejor. Todo a partir de una pequeña muestra de sangre extraída del paciente”.
+
+La tecnología funciona al configurar una onda de sonido en ángulo con un fluido que fluye a través de un pequeño canal. Como el sonido no es más que una onda de presión, crea bolsas de presión que empujan las partículas suspendidas en el líquido a medida que pasan. Esta fuerza acústica actúa más intensamente sobre las células cancerosas, más grandes y rígidas, que sobre las células sanguíneas normales, empujando las CTC hacia un canal separado para su recolección.

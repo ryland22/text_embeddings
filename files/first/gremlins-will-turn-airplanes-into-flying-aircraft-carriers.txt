@@ -1,0 +1,19 @@
+The Defense Advanced Research Projects Agency (DARPA) has selected defense contractor Dynetics to develop its vision of small, uncrewed aircraft that are launched from warplanes and recovered in midair. Known as “Gremlins,” the small drones are meant to be reusable and reconfigurable, flying again with 24 hours.
+
+Advertisement - Continue Reading Below
+
+According to DARPA, the rising costs of crewed aircraft prompted it to look for a solution that involved reusable uncrewed aircraft. Advances in uncrewed technology prompted the agency to look drones that could be launched by any aircraft, including from the rails of a F-16, the internal weapons bay of a B-1B bomber, or out the cargo ramp of C-130 transport. Here's a DARPA video that illustrates the concept:
+
+At some point, someone at DARPA asked, if a drone were that small, could it be retrieved in midair? That would remove the need for a landing mechanism, whether that be landing gear wheels or some kind of parachute, leaving room for more payload or greater endurance. It also means that a single large aircraft can land with a belly full of Gremlins, instead of a dozen or more Gremlins landing in succession at a nearby air base, creating air traffic congestion.
+
+Advertisement - Continue Reading Below
+
+There’s a precedent for midair recovery. As far back as the 1930s, the U.S. Navy was launching and recovering small F9C-2 Curtiss Sparrowhawk biplanes from its two Akron-class airships. The Akrons could lower a Sparrowhawk into its slipstream via hook, whereupon the pilot detached the plane and it flew away. The airships used their hooks to recover the planes and retract them into the hangars built into these cavernous ships.
+
+The Akrons were meant to provide the eyes and ears of a U.S. Navy battle fleet, and the Gremlins will perform a similar role. In the event of war, a handful of crewed planes could launch dozens of the Gremlins, each focused on gathering information on a specific area or known enemy radar or weapons system. The Gremlins will then send that information upstream to flight crews, giving them the information to attack or avoid enemy defenses. Another possible mission for Gremlins is to jam enemy communications and radars.
+
+USS Akron airship. Wikimedia Commons
+
+Once the drones have accomplished their mission, they will rendezvous with a C-130 Hercules that lowers a capture device. The Gremlins are hooked, powered off, and then hauled aboard the transport aircraft. After refurbishment, refueling, and perhaps a payload swap, they are ready for another mission within 24 hours.
+
+Gremlins are almost certainly just the beginning in the United States' return to flying aircraft carriers. Larger transport aircraft could launch and retrieve larger, more capable drones. As uncrewed aerial vehicle technology becomes more sophisticated expect drones to carry out their own attacks, either with their own weapons or using kamikaze attacks. The descendants of DARPA’s Gremlins might some day hunt enemy aircraft, by themselves or in conjunction with crewed aircraft.

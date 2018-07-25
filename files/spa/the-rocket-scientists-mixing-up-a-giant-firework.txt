@@ -1,0 +1,73 @@
+I have never been anywhere with so many warning signs on the walls. They instruct the use of protective overalls, gloves and a respirator. I am wearing none of these.
+
+There is also, I am informed, a risk of explosion. Not to mention the warning notices posted outside about venomous snakes and spiders.
+
+In this room, at Europe’s spaceport in Kourou, French Guiana, engineers mix together the ingredients for solid rocket fuel.
+
+“It’s exactly like baking a cake,” says David Quancard, chief operating officer for ArianeGroup, a joint partner – along with Italian company Avio – in this European rocket fuel factory. “It starts as a liquid and then you cook it.”
+
+You might also like:
+
+Unlike your average cake, the mixing process is so hazardous that it takes place behind thick concrete walls in an isolated building surrounded by tropical jungle. Operations are controlled remotely from a blockhouse several hundred metres away, and the whole area is enclosed by security fences, barbed wire and watchtowers.
+
+Solid fuel rockets are typically used in missiles, such as the Trident ICBM or the French Exocet, and as boosters for larger launchers, like the ones strapped to the Space Shuttle.
+
+The fuel manufactured here at the Kourou spaceport will power two different rockets: the boosters for the giant Ariane 5 launcher, designed for large spacecraft such as communications satellites and deep space science missions, and the first three stages of the 30m-high (100ft) Vega rocket – used to lift smaller payloads into low Earth orbit.
+
+“Solid rocket boosters mean solid propellant – it looks a bit like rubber, solid but soft,” says Quancard. “You have a huge cake of propellant that burns from the inner core to the outside to produce thrust."
+
+With no internal valves, pipes or moving parts, the technology works on the same principle as a firework – you light it and it flies. Once it’s lit, you can’t stop it. That’s one of the reasons the fuel needs to be manufactured here at the launch site. It is considered too dangerous to ship the solid rockets across the Atlantic from mainland Europe.
+
+Its multiple rotating blades swirl at between 500 and 1000 times a minute but never touching the sides to avoid the risk of a spark
+
+The mixer used to combine the ingredients for the fuel is one of the largest in the world, and does indeed resemble the sort of machine you might find in an industrial bakery. Its multiple rotating blades – swirling at between 500 and 1,000 times a minute but never touching the sides to avoid the risk of a spark – mix together batches of 12 tonnes of propellant at a time.
+
+The mixing bowls – known as pots – arrive at the facility already filled with an inert, viscous mixture of aluminium, iron oxide and binding chemicals. Then, with the pot heated to 75C (165F) and the blades rotating, ammonium perchlorate powder is dropped in from chutes above. A bit like the Colonel’s herbs and spices, the exact mixture is a company secret.
+
+After mixing, the fuel is taken to another building to be cooked into the structure of the rocket. The casings for the Vega launcher are made in Italy and consist of lightweight hollow tubes of spun carbon fibre, lined with insulating material. These sections of rocket are lowered into casting pits and a mould resembling a long pole (known as a mandrel) is positioned in the centre.
+
+Like pouring a jelly, or the mixture for a cake, the pots of propellant are gradually emptied into the rocket casings and the whole pit heated to 50C (122F).
+
+My mobile has been taken away from me – it’s like the warnings about using phones on petrol station forecourts but with much more serious consequences
+
+“After you cook it, it becomes solid,” says Quancard. “Then you remove the mandrel and you have the perfect internal shape.”
+
+The now-solid fuel is thoroughly tested for defects and stored for a month to stabilise the bonding between the fuel and the casing. With the addition of the ignition system and nozzle, the rocket is ready to go.
+
+At this stage, it’s considered safe. I hope so, because I find myself in a store room looking up at three giant fuelled rocket segments. My mobile has been taken away from me though – it’s like the warnings about using phones on petrol station forecourts but with much more serious consequences.
+
+Ariane 5 has been in service since 1996. With 98 launches and only two failures (none of them related to problems with solid rockets), it is considered one of the most reliable rockets in the world. Introduced in 2012, all 11 Vega launches have been successful. But both rockets are due an upgrade – both in performance and efficiency, to drive down costs and make them more competitive.
+
+The first of a next generation carbon-fibre solid rockets is, right now, being prepared for testing at the spaceport. With 140 tonnes of propellant, it’s the largest solid booster ever made in a single structure. Developed with funding from the European Space Agency (Esa), the P120C will be used for both the boosters on the new Ariane 6 and for the primary stage of an upgraded Vega C.
+
+“It’s exciting,” says Quancard. “For the first time in history, we’re using the same stage for two different launch vehicles.”
+
+I say to my nephews that I prepare big fireworks – Marco Calcabrini
+
+In a building known at Kourou as the BIP (Bâtiment d'Intégration des Propulseurs), Quancard shows me a full-sized mock-up of the four-storey high P120C booster. It’s used to test processes for moving the rockets around the spaceport and preparations for launch. Instead of rocket fuel, it’s filled with an inert baked sugar mixture. Literally a giant cake.
+
+“We have the same viscosity as propellant,” Quancard explains. “It’s a way of testing in the safest way all the processes of manufacturing and assembly of this new engine.”
+
+Once built and tested, all solid rocket boosters eventually end up a few kilometres away on the launchpad. On the Vega pad, the engineer in charge, Marco Calcabrini, is busy preparing for his latest mission – launching Aeolus, an Esa satellite to measure global winds.
+
+Within the launch gantry’s 12-storey structure, Calcabrini’s team will assemble the solid rocket sections of Vega before mounting the satellite above the liquid rocket at the top. This liquid final stage is used instead of a solid rocket because it enables flight controllers to place satellites in precise orbits.
+
+Three hours before launch, the whole gantry structure will be moved away on giant railway bogies, leaving the rocket on the pad exposed beneath – for obvious reasons – lightning conductors.
+
+I ask Calcabrini if it makes him nervous working so close to the solid rockets. “I say to my nephews that I prepare big fireworks,” he says. “It’s never a standard job – we have risks every day and we have to manage them.”
+
+Once Calcabrini’s Vega is ignited and launched, the rocket will carry on burning until it runs out of fuel
+
+Calcabrini has just 31 days between the first stage arriving at the pad and the rocket launching. Within that time, he has only eight days to fix the satellite in place and check everything’s working.
+
+“There’s always pressure, but me and my colleagues love this job – we do it for the pressure, it helps us work better,” he tells me. “It’s a team. Everyone is committed to the launch campaign; we can’t miss the launch time.”
+
+Solid rockets are relatively simple, inexpensive and reliable. And, with its rocket fuel factory, Europe is a world leader in their development. But once Calcabrini’s Vega is ignited and launched, the rocket will carry on burning until it runs out of fuel. Then, the remains of the precision carbon fibre body will fall into the ocean – too distorted to be reused. All being well, the wind monitoring satellite will reach orbit. But the rocket that got it there – with all the care and investment in manufacture, mixing and baking – will be gone forever.
+
+“This is the moment for which we work,” says Calcabrini. “Thousands of people work on each mission for those [few] minutes of the launch – we work for that.”
+
+--
+
+Join 900,000+ Future fans by liking us on Facebook, or follow us on Twitter or Instagram.
+
+If you liked this story, sign up for the weekly bbc.com features newsletter, called “If You Only Read 6 Things This Week”. A handpicked selection of stories from BBC Future, Culture, Capital, and Travel, delivered to your inbox every Friday.

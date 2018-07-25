@@ -1,0 +1,35 @@
+Agencia
+
+Ciudad de México.- ¿Te gustaría conocer todas las novedades de Netflix a través de un mensaje de WhatsApp? Pues usuarios en India compartieron imágenes de lo que parece ser una prueba de una nueva función que supondría una alianza entre ambas compañías.
+
+Un usuario de Twitter compartió una captura de pantalla que muestra una conversación con un servicio de Netflix en el que le preguntan si quisiera que le lleguen avisos por medio de WhatsApp, informó el portal de noticias Milenio.
+
+También te puede interesar:Consejos para disfrutar Netflix en vacaciones de Año Nuevo
+
+Otro usuario también compartió un pantallazo en el que se ve una conversación de WhatsApp con la cuenta de Netflix.
+
+Aunque al responder al mensaje inicial, el bot le contestó que por el momento no pueden chatear, dejó claro que el servicio apenas está en fase de prueba.
+
+Aún no se sabe si el servicio estará disponible en México ni cuándo llegaría, pero cabe recordar que WhatsApp comenzará a probar una versión de su plataforma para empresas y permitirles que se pongan en contacto directo con sus clientes.
+
+La aerolínea de Países Bajos KLM es una de las primeras en usar este servicio y envía los códigos de confirmación a sus clientes en un mensaje.
+
+Así podrás prestar tu cuenta de Netflix, sin dar tu contraseña
+
+Si eres de los que usan un solo usuario y contraseña para todos los servicios en línea, imaginamos que no querrás compartirla, aunque sea con amigos o familia.
+
+Te mostramos cómo compartir el acceso a servicios como Netflix, HBO o Amazon Prime Video sin comprometer tu usuario y contraseña, informó el portal Compute Hoy.
+
+Instala la extensión en Chrome
+
+Más allá de las cuentas bancarias o de tus redes sociales, existen determinadas cuentas de servicios en línea que te costará un mundo compartir con otras personas. Compartir tu cuenta de Amazon Prime Vídeo, Netflix, HBO o supone un auténtico acto de confianza con el que no mucha gente se sentirá cómodo.
+
+Aquí te mostraremos cómo compartir tu cuenta de Netflix, HBO, Amazon Prime Vídeo y muchos otros servicios en los que tal vez te veas obligado a compartir tu contraseña de acceso un amigo cercano o familiar, pero no te sientes cómodo dándole directamente tu usuario y contraseña.
+
+Utilizando la extensión de Chrome ShareAccount podrás darle acceso al servicio a cualquier persona que te lo pida, pero sin tener que revelar tu usuario y contraseña. Una forma mucho más segura de compartir ese tipo de contenido.
+
+Intercambia las claves
+
+ShareAccount extensión utiliza la librería JavaScript Stanford en la que se combina una clave pública con una privada para obtener una autenticación en un servicio, de forma que permites el acceso, sin exponer tu contraseña.
+
+Lee más aquí.

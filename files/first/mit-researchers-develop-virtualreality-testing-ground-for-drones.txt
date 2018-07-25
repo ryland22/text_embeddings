@@ -1,0 +1,118 @@
+MIT researchers develop virtual-reality testing ground for drones
+
+
+
+by Staff Writers
+
+
+
+Boston MA (SPX) May 18, 2018
+
+
+
+MIT engineers have developed a new virtual-reality training system for drones that enables a vehicle to "see" a rich, virtual environment while flying in an empty physical space.
+
+Training drones to fly fast, around even the simplest obstacles, is a crash-prone exercise that can have engineers repairing or replacing vehicles with frustrating regularity.
+
+Now MIT engineers have developed a new virtual-reality training system for drones that enables a vehicle to "see" a rich, virtual environment while flying in an empty physical space.
+
+The system, which the team has dubbed "Flight Goggles," could significantly reduce the number of crashes that drones experience in actual training sessions. It can also serve as a virtual testbed for any number of environments and conditions in which researchers might want to train fast-flying drones.
+
+"We think this is a game-changer in the development of drone technology, for drones that go fast," says Sertac Karaman, associate professor of aeronautics and astronautics at MIT. "If anything, the system can make autonomous vehicles more responsive, faster, and more efficient."
+
+Karaman and his colleagues will present details of their virtual training system at the IEEE International Conference on Robotics and Automation next week. Co-authors include Thomas Sayre-McCord, Winter Guerra, Amado Antonini, Jasper Arneberg, Austin Brown, Guilherme Cavalheiro, Dave McCoy, Sebastian Quilter, Fabian Riether, Ezra Tal, Yunus Terzioglu, and Luca Carlone of MIT's Laboratory for Information and Decision Systems, along with Yajun Fang of MIT's Computer Science and Artificial Intelligence Laboratory, and Alex Gorodetsky of Sandia National Laboratories.
+
+Pushing boundaries
+
+Karaman was initially motivated by a new, extreme robo-sport: competitive drone racing, in which remote-controlled drones, driven by human players, attempt to out-fly each other through an intricate maze of windows, doors, and other obstacles. Karaman wondered: Could an autonomous drone be trained to fly just as fast, if not faster, than these human-controlled vehicles, with even better precision and control?
+
+"In the next two or three years, we want to enter a drone racing competition with an autonomous drone, and beat the best human player," Karaman says. To do so, the team would have to develop an entirely new training regimen.
+
+Currently, training autonomous drones is a physical task: Researchers fly drones in large, enclosed testing grounds, in which they often hang large nets to catch any careening vehicles. They also set up props, such as windows and doors, through which a drone can learn to fly. When vehicles crash, they must be repaired or replaced, which delays development and adds to a project's cost.
+
+Karaman says testing drones in this way can work for vehicles that are not meant to fly fast, such as drones that are programmed to slowly map their surroundings. But for fast-flying vehicles that need to process visual information quickly as they fly through an environment, a new training system is necessary.
+
+"The moment you want to do high-throughput computing and go fast, even the slightest changes you make to its environment will cause the drone to crash," Karaman says. "You can't learn in that environment. If you want to push boundaries on how fast you can go and compute, you need some sort of virtual-reality environment."
+
+Flight Goggles
+
+The team's new virtual training system comprises a motion capture system, an image rendering program, and electronics that enable the team to quickly process images and transmit them to the drone.
+
+The actual test space - a hangar-like gymnasium in MIT's new drone-testing facility in Building 31 - is lined with motion-capture cameras that track the orientation of the drone as it's flying.
+
+With the image-rendering system, Karaman and his colleagues can draw up photorealistic scenes, such as a loft apartment or a living room, and beam these virtual images to the drone as it's flying through the empty facility.
+
+"The drone will be flying in an empty room, but will be 'hallucinating' a completely different environment, and will learn in that environment," Karaman explains.
+
+The virtual images can be processed by the drone at a rate of about 90 frames per second - around three times as fast as the human eye can see and process images. To enable this, the team custom-built circuit boards that integrate a powerful embedded supercomputer, along with an inertial measurement unit and a camera. They fit all this hardware into a small, 3-D-printed nylon and carbon-fiber-reinforced drone frame.
+
+A crash course
+
+The researchers carried out a set of experiments, including one in which the drone learned to fly through a virtual window about twice its size. The window was set within a virtual living room. As the drone flew in the actual, empty testing facility, the researchers beamed images of the living room scene, from the drone's perspective, back to the vehicle. As the drone flew through this virtual room, the researchers tuned a navigation algorithm, enabling the drone to learn on the fly.
+
+Over 10 flights, the drone, flying at around 2.3 meters per second (5 miles per hour), successfully flew through the virtual window 361 times, only "crashing" into the window three times, according to positioning information provided by the facility's motion-capture cameras.
+
+Karaman points out that, even if the drone crashed thousands of times, it wouldn't make much of an impact on the cost or time of development, as it's crashing in a virtual environment and not making any physical contact with the real world.
+
+In a final test, the team set up an actual window in the test facility, and turned on the drone's onboard camera to enable it to see and process its actual surroundings. Using the navigation algorithm that the researchers tuned in the virtual system, the drone, over eight flights, was able to fly through the real window 119 times, only crashing or requiring human intervention six times.
+
+"It does the same thing in reality," Karaman says. "It's something we programmed it to do in the virtual environment, by making mistakes, falling apart, and learning. But we didn't break any actual windows in this process."
+
+He says the virtual training system is highly malleable. For instance, researchers can pipe in their own scenes or layouts in which to train drones, including detailed, drone-mapped replicas of actual buildings - something the team is considering doing with MIT's Stata Center. The training system may also be used to test out new sensors, or specifications for existing sensors, to see how they might handle on a fast-flying drone.
+
+"We could try different specs in this virtual environment and say, 'If you build a sensor with these specs, how would it help a drone in this environment?'' Karaman says.
+
+The system can also be used to train drones to fly safely around humans. For instance, Karaman envisions splitting the actual test facility in two, with a drone flying in one half, while a human, wearing a motion-capture suit, walks in the other half. The drone would "see" the human in virtual reality as it flies around its own space. If it crashes into the person, the result is virtual, and harmless.
+
+"One day, when you're really confident, you can do it in reality, and have a drone flying around a person as they're running, in a safe way," Karaman says. "There are a lot of mind-bending experiments you can do in this whole virtual reality thing. Over time, we will showcase all the things you can do."
+
+
+
+Related Links
+
+Massachusetts Institute of Technology
+
+UAV News - Suppliers and Technology
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington DC (SPX) May 10, 2018
+

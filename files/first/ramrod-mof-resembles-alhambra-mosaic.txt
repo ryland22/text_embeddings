@@ -1,0 +1,5 @@
+Scientists from Spain and the US have synthesised an unprecedented metal-organic-framework (MOF) that contains a perfectly linear bridging chain.
+
+Jose Sanchez Costa from the IMDEA Nanoscience Institute in Madrid and colleagues started by synthesising novel extended triazole-based ligands. They constructed the MOF using these ligands along with iron and fluroide ions and found that it contained iron–fluorine bridging chains with remarkable linearity.
+
+The researchers also highlighted another interesting feature of the MOF’s structure – it resembles a 14th century Islamic mosaic located at the Alhambra Palace in Granada, Spain. They explain that this genuine tessellation ‘mainly arises from an unusual rotation of the central metal equatorial coordination plane along the one-dimensional direction’.

@@ -1,0 +1,33 @@
+Big things come in small packages. That's the latest finding of the Department of Energy's Thomas Jefferson National Accelerator Facility, which has discovered that inside every proton in every atom lies greater pressure than the heart of a star.
+
+The scientists found that a proton’s building block, known as a quark, faces a pressure of 100 decillion Pascal near the center of a proton. How much is 100 decillion?1,000,000,000,000,000,000,000,000,000,000,000. That's about 10 times greater than the pressure seen at the heart of a neutron star.
+
+Advertisement - Continue Reading Below
+
+“We found an extremely high outward-directed pressure from the center of the proton, and a much lower and more extended inward-directed pressure near the proton’s periphery,” says Volker Burkert, Jefferson Lab Hall B Leader and a co-author on the paper in a press statement.
+
+
+
+The distribution of pressure inside the proton is dictated by gluons, the particles that act as a strong force, or the metaphorical clue glue between quarks that holds them together as they make protons.
+
+Figuring out this high pressure required an understanding of what are known as the gravitational form factors of the proton. These form factors were first developed in 1966 as a means of describing a hypothetical: what the mechanical structure of the proton would be if researchers could probe the proton via gravitational force.
+
+While gravitational probes have long been out of reach for scientists, new electromagnetic probes proving to be a perfect substitute for the Jefferson Lab.
+
+“This is the beauty of it. You have this map that you think you will never get. But here we are, filling it in with this electromagnetic probe,” says Latifa Elouadrhiri, a Jefferson Lab staff scientist and co-author on the paper, which has been published in Nature.
+
+
+
+To create the electromagnetic probe, the Jefferson Lab scientists used their Continuous Electron Beam Accelerator Facility (CEBAF). The CEBAF produces beams of electrons which are then directed into nuclei of atoms. Once the electrons are inside the nuclei, they begin to react electromagnetically with the quarks inside the proton through what's known as "deeply virtual Compton scattering" (DVCS).
+
+In a DVCS process, an electron enters a proton and exchanges a virtual photon (a disturbance in a field that exists but would never be found on its own) with a quark. This process transfers energy to the quark and the proton, which eventually releases this energy by emitting another photon.
+
+Advertisement - Continue Reading Below
+
+“There’s a photon coming in and a photon coming out...So now, one can basically do the same thing that we have done in electromagnetic processes -- but relative to the gravitational form factors, which represent the mechanical structure of the proton, ” says Francois-Xavier Girod, a Jefferson Lab staff scientist and co-author on the paper.
+
+
+
+Ideally, the scientists want to reduce the level of Heisenberg certainty in the process. But understanding quarks better gives an insight into their unique nature. Despite their clearly immense strength, they can never exist outside of a proton due to what's known as "confinement."
+
+Source: Nature via Gizmodo

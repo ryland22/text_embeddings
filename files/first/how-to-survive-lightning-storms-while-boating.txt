@@ -1,0 +1,103 @@
+Powerful, dangerous, highly unpredictable — all are common descriptions of lightning storms. A direct strike that results only in ringing ears and a few roasted electronics would be considered lucky. Unlucky would be through-hulls blown out, a sunk boat or worse — possibly serious injury or death. Many powerboaters like to think that they’ve got the speed to simply outrun or get out of the way of lightning storms, or they figure they’re safe if they go boating only when it’s clear and sunny. That’s an attitude aided by the low odds of a boat being struck by lightning, which BoatU.S. pegs at about one out of 1,000 boats in any given year. No worries, right, mate?
+
+Count the seconds after a thunderclap and divide by 5: the result is the distance in miles from the storm. Boating Magazine
+
+Wrong. Engines can malfunction; big lightning storms can leave no room to escape; sunny mornings can turn into dark, threatening afternoons. If yours is the only boat in the area during a lightning storm, the odds of being struck go way up, leaving you and your crew vulnerable to millions of volts raining down from the skies. While manufacturers can build in a degree of protection, lightning protection begins with boaters being informed and prepared to take action in the event of a thunderstorm or actual strike. You should know the following techniques and strategies. A harrowing lightning adventure in real life!
+
+Most strikes occur between noon and 6 p.m. Boating Magazine
+
+White clouds that rise to the customary flat “anvil” top are a good indication to clear the water and seek shelter. The "anvil" points in the direction the storm is moving. Boating Magazine
+
+Timing
+
+A strategy of boating only on sunny, cloudless days may work well in places like Idaho and California, but that would mean almost never using the boat in places such as Florida, Louisiana and much of the Midwest. For example, most of Florida — the Sunshine State — has at least 70 to 80 thunderstorm days per year, with some parts having more than 100 thunderstorm days per year (with increased activity during the summer months).
+
+Listen to NOAA Weather Radio for special alerts on VHF channels 1-9 (most often it’s Channel 3). Boating Magazine
+
+Absolutely, boaters should track VHF, Internet and television weather reports and make responsible decisions about whether to go boating depending on the likelihood of lightning storms. Short-term forecasts can actually be fairly good at predicting bigger storms, but small, localized storms might not be reported. This is when knowing how to read the weather yourself can come in handy. (The U.S. Power Squadrons offers great weather courses for boaters, and there are many books that cover the basics.)
+
+Use radar to spot a distant storm. Boating Magazine
+
+Lightning strikes typically occur in the afternoon. (Florida estimates 70 percent occur between noon and 6 p.m.) A towering buildup of puffy, cotton-white clouds that rise to the customary flat “anvil” top is a good indication to clear the water and seek shelter — or move out of the storm’s path if possible. That’s if the storm is at least somewhat off in the distance (most storms are about 15 miles in diameter and can build to dangerous levels in fewer than 30 minutes). If lightning and thunder are present, just count the seconds between the lightning and corresponding thunder and then divide by 5 — this will provide a rough estimate of how many miles away the storm is.
+
+Some boaters opt to steer with a wooden spoon and keep their other hand in a pocket if forced to man the helm during a storm. Boating Magazine
+
+A storm that builds directly overhead might be less obvious until those pretty white clouds that were providing some nice shade moments ago turn a threatening hue of gray as rain dumps on you and the wind starts to howl or, worse yet, boom with thunder and lightning that are right on top of each other. Now is the time for a mad dash to the dock and shelter if close by. Like the National Weather Service says: “When thunder roars, go indoors!” If out on open water or too far from shore and shelter, it’s time to hunker down and ride it out.
+
+Wait 30 minutes after the last strike before resuming normal activities (swimming, skiing, tubing, fishing, etc.). Boating Magazine
+
+Caught!
+
+Boaters who have been struck by lightning often begin their stories with “I was caught in this storm … ” before they share their miraculous or harrowing tales of survival and destruction (BoatU.S. has a number of first-person storm stories archived online: boatus.com/seaworthy/swthunder). Even though getting caught in a storm is not always avoidable, there’s still plenty that boaters can do to minimize the chance of a strike and lessen injury and damage if there is a strike.
+
+How to Stay Safest in a Thunderstorm
+
+Research shows boats without a protection system do suffer more damage. Larger enclosed boats, trawlers and sailboats will sometimes come with a conventional protection system installed. With open boats it’s typically up to the owner to carry a portable pole with attached wire and ground plate that can be deployed in a storm. Boating Magazine
+
+We all learn in grade school that lightning seeks the highest point, and on the water that’s the top of the boat — typically a mast, antenna, Bimini top, fishing rod in a vertical rod holder or even the tallest person in an open boat. If possible, find a protected area out of the wind and drop anchor. If the boat has an enclosed cabin, people should be directed to go inside and stay well away from metal objects, electrical outlets and appliances (it’s a good idea to don life jackets too). Side flashes can jump from metal objects to other objects — even bodies — as they seek a path to water. Tips for protecting marine electronics from lightning
+
+A Microwave Oven is a Faraday Cage
+
+Anything inside a Faraday cage is safe from lightning. Automobiles, airplanes and microwave ovens are examples of Faraday cages. Stow backup handhelds, laptops and other electronics inside the microwave to protect them during an electrical storm. Just wrapping them in tinfoil can also do the trick. Boating Magazine
+
+Lowering antennas, towers, fishing rods and outriggers is also advised, unless they’re part of a designated lightning-protection system. Some boaters also like to disconnect the connections and power leads to their antennas and other electronics, which are often damaged or destroyed during a strike or near strike.
+
+Electrode
+
+Multiple lightning rods and side-arc electrodes are part of a new-wave approach to boat lightning protection. Boating Magazine
+
+Under no circumstances should the VHF radio be used during an electrical storm unless it’s an emergency (handhelds are OK). Also, be careful not to grab two metal objects, like a metal steering wheel and metal railing — that can be a deadly spot to be if there’s a strike. Some boaters opt to steer with a wooden spoon and keep their other hand in a pocket if forced to man the helm during a storm, while others like to wear rubber gloves for insulation.
+
+Protection
+
+A conventional lightning-protection system consists of an air terminal (lightning rod) above the boat connected to a thick wire run down to an underwater metal ground plate attached to the hull — large metal objects like tanks, engines and rails are also connected. New studies suggest multiple terminals and multiple ground paths work better. Boating Magazine
+
+An open boat like a runabout is the most dangerous to human life during lightning storms, since you are the highest point and most likely to get hit if the boat is struck. If shore is out of reach, the advice is to drop anchor, remove all metal jewelry, put on life jackets and get low in the center of the boat. Definitely stay out of the water and stow the fishing rods. If all goes well, the storm will blow past or rain itself out in 20 to 30 minutes. It’s best to wait at least 30 minutes until after the last clap of thunder to resume activities.
+
+There’s a Zap For That
+
+A smartphone ­coupled with real-time National ­Oceanic and ­Atmospheric ­Administration (NOAA) lightning tracking ­information can make a powerful tool for ­avoiding storms. Some apps will even notify you if there is a strike near any of your ­designated areas. Do an Internet search for ­“lightning app NOAA” — there are a number of iPhone and Android apps available. A little early warning could give you just the time you need to make it back to shore and seek shelter. Boating Magazine
+
+Hit!
+
+Knowing what to do in a storm and having the best lightning-protection system installed on the boat is by no means a guarantee that lightning won’t strike. The immediate checklist for a direct hit is very short:
+
+1. Check for unconscious or injured persons first. If they’re moving and breathing, they’ll likely be OK. Immediately begin CPR on unconscious victims if a pulse and/or breathing is absent — there’s no danger of being shocked by someone just struck by lightning. 2. In the meantime, have someone check the bilges for water. It’s rare, but lightning can blow out a transducer or through-hull — or even just blow a hole in the boat. Plug the hole, get the bilge pumps running, work the bail bucket — whatever it takes to stay afloat. An emergency call on the VHF is warranted if the situation is dire. If the radio is toast, break out the flare kit.
+
+Lightning seeks the highest point, and on the water that's the top of the boat. Boating Magazine
+
+If there are no injuries and no holes or major leaks below, just continue to wait it out. Once the danger has passed, check the operation of the engine and all electronics. Even a near strike can fry electronics and an engine’s electronic control unit, cutting off navigation, communication and even propulsion. Some boaters stash charged handheld VHF and GPS units and a spare engine ECU in the microwave or a tin box for this very reason. These makeshift Faraday cages have saved equipment.
+
+One in 1,000 Boats Are Hit by Lightning Per Year
+
+BoatU.S. gathered insurance claim data from a 10-year period and found that the odds of being struck are about one in 1,000 in any given year (see below for a breakdown by boat type). Location, however, matters a great deal. Florida accounted for 33 percent of all claims, and the Chesapeake Bay area accounted for 29 percent. Boat Type - Chances per 1,000
+
+Multihull Sail - 9.1
+
+Auxiliary Sail - 4.5
+
+Cruiser - 0.86
+
+Sail Only - 0.73
+
+Trawlers - 0.18
+
+Bass Boat - 0.18
+
+Runabout - 0.12
+
+Houseboat - 0.11
+
+Pontoon - 0.03
+
+PWC - 0.003 Boating Magazine
+
+Obvious damage will need to be assessed and set right. Even those lucky enough to come away completely unscathed after lighting storms, with no apparent damage should have a professional survey done just to be sure. Minor damage to through-hulls can result in slow leaks, and all manner of electrical wackiness can emerge — sometimes much later. It’s best to catch these issues right away and get that information to the insurance folks for coverage.
+
+Is Just a Ground Plate Enough?
+
+An immersed 1-square-foot ground plate with hard edges creates a low-resistance path for lightning current to flow through (instead of through the boat or its crew!). But expert Dr. Ewen Thomson (marinelightning.com) believes multiple rods and near-water electrodes provide better protection. Boating Magazine
+
+Write the Check!
+
+On many levels, robust insurance coverage plays a huge role in your lightning-protection plan. Knowing how to avoid lighting storms and read the weather are certainly important, being ready for action in the event of a storm or strike is crucial, and an upfront investment in lightning protection can lessen destruction. When it comes to dealing with the aftermath of a damaging strike, however, extensive lightning strike coverage can’t be beat.

@@ -1,0 +1,11 @@
+En la imagen se ve un grupo de crías de ratones, con el gen de la fluorescencia. El último grupo (rojo), lleva el aminoácido BOC y este gen no se ha activado. Crédito imagen: Tony Perry/University of Bath
+
+Un grupo de científicos de las universidades de Bath y de Cardiff han desarrollado un interruptor biológico que modifica la expresión de las proteínas a voluntad. El cambio permite el control de las herramientas de edición del genoma que algún día podrían regular los cambios genéticos deseados a través de poblaciones enteras.
+
+Este nuevo método funciona para cualquier proteína en cualquier especie y utiliza un aminoácido económico e inocuo como el interruptor de control: el modo "encendido" requiere la presencia del aminoácido llamado BOC.
+
+A diferencia de otros interruptores, este sistema no utiliza antibióticos, eliminando los riesgos de la resistencia bacteriana a los antibióticos, y tampoco tiene "fugas", una situación en la que las proteínas se expresan incluso en modo "apagado", un problema al que se enfrentan algunos métodos actuales que dependen de la temperatura o la luz. El interruptor, un aminoácido similar a la lisina, es barato, abundante, no tóxico y ecológico.
+
+Los equipos de investigación en Bath y Cardiff demostraron con éxito el cambio tanto en células cultivadas como en embriones de ratón en etapa temprana. Los resultados se han publicado en Scientific Reports.
+
+El interruptor ofrece el potencial de controlar una gran cantidad de procesos biológicos con la adición de BOC. Estos pueden incluir investigación y aplicaciones prácticas, tanto en células cultivadas en el laboratorio como en animales vivos. Por ejemplo, podría usarse para abordar cómo ciertas proteínas afectan el envejecimiento de las células en cultivos o animales. Clínicamente, puede proporcionar un medio para activar las proteínas para mejorar los procesos regenerativos y podría ofrecer un nuevo nivel de control en la terapia génica.

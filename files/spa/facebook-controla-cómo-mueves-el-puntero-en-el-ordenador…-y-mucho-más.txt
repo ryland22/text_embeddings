@@ -1,0 +1,9 @@
+Dos mil preguntas han bastado para descubrir un poco más a fondo cómo Facebook tiene control sobre cada cosa que hacemos con nuestros ordenadores, móviles, tablets… incluso los movimientos que hacemos con el ratón.
+
+Al parecer, el principal objetivo es hacer los contenidos mucho más personalizados, pero también parece que se trata de comprobar que quien está detrás es una persona y no un bot. También les permite saber si su aplicación está abierta en primer plano o en el fondo (una forma de saber si estás usando o no la red social, o si es una de las tantas aplicaciones y páginas que tienes abiertas dentro de tu navegador).
+
+No es lo único que hace, apuntan que hay más tipos de seguimientos que tienen en cuenta. Solo deciros que cualquier dispositivo que uséis para entrar en Facebook es objeto de estudio y todo lo que hagáis con él es enviado a su sede central: cuál es vuestro sistema operativo, vuestro hardware, la versión del software que usáis, la fuerza de señal de internet que recibes, si tienes conectividad Bluetooth, el nivel de tu batería, cuánto espacio queda en tu disco duro, qué carpetas tienes y sus nombres, así como sus archivos, incluso qué otras aplicaciones puedes llegar a tener instaladas. Un no parar de seguimientos en los que te das cuenta que no estás para nada solo usando la aplicación, hay alguien mirando lo que haces.
+
+Básicamente, lo que quiere es conocer cómo usas su aplicación y de qué manera funciona dentro de los dispositivos que usas. Sí que ha quedado claro (a pesar de que son muchos quienes no creen esas palabras), que no accede al uso del micrófono del teléfono de los usuarios o de cualquier método para extraer audio para influir en posibles anuncios o noticias que puedan interesarnos.
+
+Aún así, ¿cómo os quedáis? ¿Es una razón suficiente como para dejar de usar la red?

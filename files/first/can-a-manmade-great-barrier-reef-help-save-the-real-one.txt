@@ -1,0 +1,93 @@
+This is part of CNET's series, "Rebooting the Reef," on efforts to save one of the world's greatest natural wonders.
+
+Scientists know why the Great Barrier Reef is dying, but they don't know how to stop it. That's why they're replicating nature. Building an artificial reef, they hope, might help save the real one.
+
+Ocean warming and extreme weather are devastating the Great Barrier Reef. In 2016 alone, 29 percent of shallow-water coral was lost. Parts of the reef have been razed by cyclones or eaten alive by crown-of-thorns starfish. Worst of all, they have been decimated by back-to-back bleaching events in 2016 and 2017, when mile after mile of corals expelled the algae that live within them and that keep them alive.
+
+But just 30 miles west of the centre of the reef, at the Australian Institute of Marine Science in Townsville, Queensland, researchers have spent $27.5 million building an artificial coral farm.
+
+Christian Miller, Australian Institute of Marine Science
+
+They hope imitation will provide the key to rescuing the natural wonder on their doorstep.
+
+Simulated worlds
+
+Every day, 3 million litres (about 800 million gallons) of seawater are pumped into Townsville's National Sea Simulator to create a massive facsimile of the ocean.
+
+This high-tech replica can be calibrated to re-create the reef's temperatures, pH levels and pollution patterns, based on 20 years of data from the real reef. Sunlight levels are precisely mimicked using LED lights; temperatures are controlled down to 0.1 degree Celsius; scientists have even programmed this "SeaSim" to replicate conditions expected in the year 2100.
+
+SeaSim Precinct Operations Manager Craig Humphrey says technology is simulating what nature has done for millennia.
+
+Christian Miller, Australian Institute of Marine Science
+
+"That's a capability that doesn't exist anywhere else in the world," he says.
+
+The indoor ocean is just one of the many experiments replicating nature. Scientists around the world are using simulated oceans to test the effects of climate change on marine organisms, re-creating reefs in CAD software to track coral degradation, and even implanting electrified metal biorocks to create rocky surfaces for coral to grow on.
+
+The world is slowly starting to take notice of the increasing threat of climate change, but these scientists can't wait for politics. Artificial reefs allow researchers to test the impact of climate change, often examining multiple scenarios at once, without putting the real thing at risk.
+
+3D reefs
+
+A thousand miles south of Townsville, in Sydney, William Figueira hopes 3D imagery can change the future of Australia's biggest natural wonder.
+
+Three-dimensional images are everywhere we look: Artists use VR to paint in 3D, surgeons train on 3D maps of the body, and anyone with the new iPhone can decorate their home with 3D furniture using augmented reality. Figueira, an associate professor at the University of Sydney, is using 3D computer-generated models of coral to show the effects of climate change on the reef.
+
+The Hydrous
+
+He's just come back from a dive at Lord Howe Island, south of the reef and roughly 480 miles northeast of Sydney, when I speak to him in late September.
+
+At Lord Howe, Figueira and his team took close to 20,000 photographs of 74 individual coral colonies -- roughly 250 photos of each -- which they then stitched together into 3D renders using Agisoft Photoscan Pro software.
+
+The 3D images are accurate down to 3 millimetres and provide a detailed snapshot of the shapes and structures of different coral, known as morphologies, which anyone can access online. They also act as a sort of medical history of the coral. When the team returns to Lord Howe six months from now to photograph the same coral, they won't need to rely on memory to detect growth or erosion -- they'll already have a time capsule of 3D models to compare their new images with, millimetre by millimetre.
+
+Figueira isn't the only one taking 3D tech to the bottom of the ocean.
+
+Erika Woolsey has studied reefs for more than a decade, and says 3D imagery lets us visualise the hidden world of coral in ways conventional photography can't. In 2014, Woolsey set up the San Francisco-based nonprofit The Hydrous with the goal of using 3D technology to educate the world on the peril reefs face.
+
+For years, researchers have used measuring tapes and even chains laid across the reef to measure complex, three-dimensional coral structures. It's cumbersome and potentially damaging to the coral, and cannot even begin to capture the complex branches and grooves that make these formations so distinctive.
+
+Now Woolsey can turn hundreds of JPEGs into a 3D render with the press of a "magic button" in AutoDesk ReCap Photo. In the space of 30 minutes, she can create a 3D image that lets you zoom in and study these corals for hours, without the need for scuba gear.
+
+"When it comes to trying to show people this overwhelming evidence of this crisis in our oceans, we shouldn't necessarily try to convince them with data," Woolsey says. "Graphs and maps, as informative as they are, they don't connect to people in the way that [3D] imagery does."
+
+I wanted to experience that emotional response myself. So sitting at my desk in Sydney, I loaded a page Woolsey helped build on Sketchfab, a sort of Tumblr for 3D projects. The models take a moment to load; there's a lot of information behind them. But when they do, I'm blown away.
+
+The models allow me to zoom in on the wavy grooves of the Lobophyllia hemprichii, a stony coral commonly known as the large brain coral, or pan around the Acropora valenciennesi, a treelike coral whose fragile branches have left it devastatingly susceptible to bleaching. The effect is powerful. A 3D image on my laptop makes the thought of losing coral just up the coast terrifying in a way I hadn't felt before.
+
+During our conversation, Woolsey quoted Senagalese conservationist Baba Dioum, and now his words, channeled through her, ring in my ears: "We will only protect what we love [and] we will only love what we understand." She's right. The artificial has connected me with the real.
+
+But why stop at the computer screen? Figueira wants to use 3D coral renders to print sandstone replicas, which could be grafted onto damaged parts of the reef to support new coral growth. The team is currently raising money and could test the concept next year.
+
+Figueira acknowledges that building a fake reef would take billions of dollars. Still, it might be an option if we don't change our behaviour.
+
+"We're unfortunately at that stage where things that seemed a bit wacky before are viable options for dealing with the steady march of climate change," he says.
+
+If you build it, they will come
+
+Rob Roggema, a landscape architect who teaches at the University of Technology Sydney, has an even more audacious idea. If we can't fix the environment at the Great Barrier Reef, let's move it.
+
+With water temperatures at the reef showing no signs of cooling, Roggema wants to create a man-made reef further south, off the coast of Sydney, by scuttling decommissioned oil rigs. Marine scientists would then transplant baby coral onto the rigs on the seafloor, giving them a new home.
+
+Not only would the Sydney Barrier Reef conserve coral species, Roggema says it could create a hub for divers and might even protect coastlines from weather events like cyclones.
+
+It's a big, unwieldy idea, and may not be practical. Transplanting a reef as big as the Great Barrier Reef, Woolsely says, would be like "like trying to replant the Amazon."
+
+Roggema says that's the wrong way to think about it.
+
+"I'm not proposing an artificial system. I'm proposing a natural system based on artificial intervention," he says. "Technology is only there to speed things up."
+
+A window into the future
+
+Back at the Sea Simulator, Nicole Webster has worked with Craig Humphrey on calibrating every pump, valve and light to create her own "mini reef" for breeding corals, sea urchins and sponges. With tanks set up to simulate reef conditions in 2100, she's hoping to discover if temperature resilience in a parent coral can be transferred to its offspring, the way eye colour might with humans. Humphrey calls it a "window into the future."
+
+Christian Miller, Australian Institute of Marine Science
+
+As the principal research scientist at AIMS' Healthy and Resilient GBR Program, Webster says the SeaSim offers advantages the real Great Barrier Reef can't. She can regulate conditions precisely and consistently to suit her needs, allowing for long-term experiments with the coral.
+
+"It's the first time we've really been able to hold animals long enough and healthy enough to be able to obtain their offspring," she says of the occupants of her mini reef.
+
+The futuristic conditions Webster has created in the Sea Simulator are bleak for marine organisms. Carbon dioxide levels are more than double what they are now and the temperature is warmer than what many organisms can handle. Still, it's a world the sea creatures of the future may face.
+
+Webster's baby corals, sea urchins and sponges may be the key to the future. Here's hoping the next generation is up to the challenge.
+
+This article originally appeared on CNET.

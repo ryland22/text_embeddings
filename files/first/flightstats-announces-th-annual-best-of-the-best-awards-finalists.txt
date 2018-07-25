@@ -1,0 +1,199 @@
+December 14, 2016, Portland, OR – FlightStats, Inc, the leader in global flight information services, part of FlightGlobal, has released the finalists for the 8th Annual Airline On-time Performance Service Awards.
+
+A full detailed report announcing the winners in each category will be announced in January 2017.
+
+The FlightStats OPS Awards are given in the following categories:
+
+1. Global Airlines
+
+2. Airline Alliances
+
+3. North America Major Airlines
+
+4. Europe Major Airlines
+
+5. Asia-Pacific Major Airlines
+
+6. Middle East and Africa Major Airlines
+
+7. Latin America Major Airlines
+
+8. Low-Cost Carriers
+
+FlightStats has published the On-time Performance Service (OPS) Awards for the last eight (8) years in an effort to recognize the “Best of the Best” airlines that demonstrate consistently high performance and deliver on their promise to get passengers to their destinations in a timely manner.
+
+FlightStats is in a unique position to provide this service given its leadership role in the collection, processing and distribution of real-time and historical flight data to the global travel community. FlightStats aggregates data from over 500 sources to produce a comprehensive database managed in our core data platform. We are the most reliable, resourceful and relevant data provider for flight data services and applications.
+
+The Finalists: (in alphabetical order)
+
+Major Global Airlines:
+
+• ANA
+
+• Austrian
+
+• Delta Air Lines
+
+• Iberia
+
+• JAL
+
+• KLM
+
+• Qantas
+
+• Qatar Airways
+
+• Singapore Airlines
+
+• TAM Linhas Aereas
+
+North America - Major Airlines:
+
+• Air Canada
+
+• Alaska Airlines
+
+• American Airlines
+
+• Delta Air Lines
+
+• Frontier Airlines
+
+• JetBlue Airways
+
+• Southwest Airlines
+
+• United Airways
+
+• Virgin America
+
+• WestJet
+
+Europe - Major Airlines:•Austrian
+
+• British Airways
+
+• Condor
+
+• EasyJet
+
+• Iberia
+
+• Lufthansa
+
+• Norwegian Air Shuttle
+
+• S7 Airlines
+
+• SWISS
+
+• Tap Portugal
+
+Asia-Pacific - Major Airlines:• Air New Zealand
+
+• ANA
+
+• Cathay Pacific
+
+• IndiGo
+
+• JAL
+
+• Jet Airways
+
+• Jetstar
+
+• Qantas
+
+• Singapore Airlines
+
+• Virgin Australia International
+
+Middle East and Africa - Major Airlines:• EgyptAir
+
+• Emirates
+
+• Ethiopian Airlines
+
+• Etihad Airways
+
+• Flydubai
+
+• Kenya Airways
+
+• Pegasus
+
+• Qatar Airways
+
+• Saudia
+
+• Turkish Airlines
+
+Latin America - Major Airlines:• Aerolineas Argentinas
+
+• Aeromexico
+
+• Avianca
+
+• COPA Airlines
+
+• Gol
+
+• LAN Airlines
+
+• TAM Linhas Aereas
+
+Low-Cost Airlines:• Air Baltic
+
+• Air Do
+
+• Frontier Airlines
+
+• Iberia Express
+
+• Nok Air
+
+• Norwegian Air Shuttle
+
+• Solaseed Air
+
+• Southwest Airlines
+
+• Virgin America
+
+• WestJet
+
+Methodology
+
+FlightStats collects real-time flight status information on over 90% of scheduled passenger flights flown by the top 250 airlines worldwide and archives that information in a historical flight database. In many regions FlightStats tracks more than 98% of scheduled flights enabling the company to provide comprehensive on-time performance information to the global travel community.
+
+Data sources include airline direct operational data feeds, airline data via the world’s largest Global Distribution Systems (GDSs), civil aviation authorities, airports, positional data feeds, and other 3rd party data aggregators. Flight schedules from over 800 airlines worldwide are provided by Innovata, part of FlightGlobal.
+
+A comprehensive set of historical data for the calendar year 2016 was extracted from our historical flights database. Information was summarized by airline and included the number of scheduled flights, the number of flights that were successfully tracked, the number of flights that departed within 14 minutes of scheduled departure time (D14) and the number of flights that arrived within 14 minutes of scheduled arrival time (A14). For purposes of ranking and selecting the top-performing airline in each category, on-time arrival performance (A14) was used as the key metric. Any flight arriving the gate no later than 14 minutes after the scheduled arrival time is considered to be an on-time flight.
+
+For a carrier to be included for analysis in any given category, several requirements must be met (unless otherwise noted):
+
+1. The carrier must rank in the top 150 worldwide in terms of capacity (Available Seat Miles).
+
+2. Data tracking coverage must exceed 90%, meaning that FlightStats has scheduled and actual gate arrival times on at least 90% of the scheduled flights for most categories. For the Global Airline category, the coverage threshold was set at 85%. The coverage threshold used for Latin America was 80% while coverage for the Middle East & Africa was 65%.
+
+3. To be considered in the Global Airline category, an airline must have more than 1,000 scheduled flights in 3 or more geographic regions and more than 30,000 flights overall in 2016.
+
+4. The Major Airline classification is based on the number of scheduled flights, the available seat kilometers (ASK) and the extent of an airline's network as measured by the number of destinations. A scoring algorithm is used to determine this designation.
+
+Usage and Attribution
+
+FlightStats data is solely for the benefit and purposes of the intended recipient and may not be disclosed to use by or copied by anyone other than the intended recipient.
+
+This information can be reproduced either in whole or in part, online or in print, for noncommercial purposes only but must include attribution to FlightStats and a link to www.FlightStats.com.
+
+Disclaimer
+
+The information contained in FlightStats reports has been compiled from various sources. FlightStats, Inc. disclaims all responsibility for checking and verifying that the underlying data is 100% accurate. Consequently, the data is provided “as is” and FlightStats, Inc. provides no warranties of any type to the media or other users of this information. FlightStats, Inc. and its data providers are not liable for any consequential damages or financial loss caused by any person's reliance on the data.
+
+The intended recipient (“The Customer”) acknowledges that all data provided by or available through FlightStats, Inc. is owned either by FlightStats, Inc. or by a third party provider (“The Owners”) and that the customer shall not acquire any ownership or interest in such data.
+
+About FlightStats
+
+FlightStats, part of FlightGlobal, is a cutting-edge data services company focused on providing real-time global flight data to companies and travellers across the travel ecosystem. We strive to tell the “story” of a flight – from what’s expected, to what is happening now, to what happened. We deliver these stories via our Data Services, and through our FlightStats-branded web and mobile applications. We believe flight data is valuable and is made even more valuable when delivered in conjunction with other contextual data. We manage multiple data sets that relate directly to or intersect with flights – trips, weather, and other aviation-related data. www.flightstats.com.

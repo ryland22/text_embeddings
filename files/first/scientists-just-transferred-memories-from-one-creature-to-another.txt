@@ -1,0 +1,13 @@
+Memory transfer between living creatures may sound like science fiction, but according to scientists at UCLA and a paper published ENeuro, it just became a tested reality: researchers successfully transferred molecules from brain cells of trained snails into untrained snails, giving the untrained snails the trained snails’ instincts, and seemingly their memories.
+
+Advertisement - Continue Reading Below
+
+Researchers experimented on Aplysia californica sea snails, small organisms with large neurons that are relatively easy to work with. When researchers gave snails small electric shocks, they retracted their frilly siphons. Snails that had been shocked before retreated their siphons for longer than new snails.
+
+Could the snails’ RNA hold the key? RNA typically carries messages between the genome and the rest of the cell, but certain types of RNA can switch genes on and off, and can influence long-term memory in snails, mice and rats. Scientists extracted all of the RNA from the trained snails and implanted them into new snails. The new snails immediately picked up the habits of the trained snails, as if they had the same memories.
+
+Not since the 1960s have scientists discovered a way to transfer memories. In the 1960s, scientists fed remains of chopped up flatworms trained to respond to light to other flatworms to see in the memories would transfer. The experiment seemed to work, though it was hard to replicate. Snails are a far cry from human subjects, but researchers are hopeful that others attempt similar experiments in other animals, helping them understanding the role of RNA, DNA, and memory.
+
+"We were able to transfer the memory using RNA," lead author of the study David L. Glanzman told CNN, "So if you think about human disorders of memory like dementia, Alzheimer's and PTSD, if we can identify some of the RNA that produces learning like alterations, it is possible we could use that knowledge to create new and more effective treatments."
+
+(via New York Times)

@@ -1,0 +1,27 @@
+Remember the last time the U.S. Army had a competition for an aircraft engine that was new from its centerline out? It was 1985, for the T800 to power the Boeing Sikorsky RAH-66 Comanche—and that did not end well.
+
+Before that it was 1971, when General Electric won the T700 program to power the Utility Tactical Transport Aircraft System, which became Sikorsky’s UH-60 Black Hawk. The T700 was also picked by both finalists for the Advanced Attack Helicopter, which became the Boeing AH-64 Apache—and the rest is history.
+
+Now the Army has launched a new-centerline competition, the Improved Turbine Engine Program (ITEP) for a 3,000-shp-class turboshaft. It is billed as the Pentagon’s largest engine program (in numbers)—the Army plans to buy 6,215 beginning in 2024 to reengine AH-64Es, UH-60Ms and medevac HH-60Ms.
+
+But the true scale could be much larger. GE will deliver its 20,000th example in November and, as the T700 and CT7 commercial turboshaft and turboprop, it powers 25 rotary- and fixed-wing platforms. ITEP could reengine U.S. Air Force HH-60Ms and Navy MH-60s, other T700/CT7-equipped aircraft and power some of the Future Vertical Lift rotorcraft planned to replace the Pentagon’s helicopter fleets.
+
+The T700 was the product of a process similar to that expected to result in ITEP, but over a much shorter ­timescale. GE and Pratt & Whitney were awarded contracts in 1967 to demonstrate 1,500-shp engines. The GE12 ran in 1969 and was selected over Pratt’s ST9 and Lycoming’s PLT27 in 1971. The first T700 ran in 1973, the Black Hawk flew in 1974 and the Apache in 1975. The engine entered service in 1979.
+
+Pratt, now teamed with Lycoming, tried again in the competition to power the Comanche, but along with a GE/Williams bid, lost to the Light Helicopter Turbine Engine Co. team of Allison and AlliedSignal—now Rolls-Royce and Honeywell. The RAH-66 was canceled in 2004, but its engine continues in production as the commercial CTS800.
+
+As a result, Pratt & Whitney has not participated in the rotorcraft market except through its Canadian sister company. This makes ITEP, for which it is teamed with Honeywell under the Advanced Turbine Engine Co. (ATEC), crucial for Pratt. Competition will come from GE, although the Army anticipates other bidders. Rolls says it will not bid. France’s Turbomeca has no comment.
+
+In preparation for ITEP, under the Army’s Advanced Affordable Turbine Engine (AATE) program, GE and ATEC received contracts in 2008 to demonstrate 3,000-shp engines providing 50% more power at 25% lower specific fuel consumption than the T700. Both the GE3000 and ATEC’s HPW3000 ground-demo engines ran in 2013, and AATE was completed in 2014.
+
+The request for proposals (RFP) for a two-year ITEP preliminary design phase was finally released on Sept. 24. Contract award is planned by summer 2016. The Army has funding to take two engines to preliminary design review, then plans to downselect to one in fiscal 2018 for engineering and manufacturing development.
+
+The first engine to test is scheduled for 2021. Low-rate initial production is to begin in the third quarter of fiscal 2024 but, as the Army will field reengined Apaches and Back Hawks together in Combined Aviation Brigades, initial operational capability is not anticipated until 2027—almost 20 years after AATE began.
+
+This is in marked contrast to the speed with which the T700 was developed and fielded, but it is due to the technology challenges in ITEP, the Army maintains. The AATE program was necessary to prove the power and efficiency goals could be achieved, reliably and affordably, within the T700’s volume, and was successful, says Lt. Col. Curt Kuetemeyer, Army ITEP product manager.
+
+The program’s key performance parameters are not the same as AATE’s goals, but similar, he says. The RFP sets a threshold maximum power of 1,850 shp at 6,000 ft. density altitude on a 95F day, with an objective of at least 2,050 shp. The dry weight objective of no more than 465 lb., as with the power goal, includes inlet particle separator. ITEP will increase the range, time on objective and hot-and-high performance of the UH-60 and AH-64.
+
+To meet the challenge required a dual-spool engine, with dual centrifugal compressors, says ATEC. GE’s is a simpler single-spool engine, likely with an axial-centrifugal compressor layout similar to the T700’s. In what will be a fierce competition, GE says it will apply compressor, ceramic matrix composites and turbine technology from its demonstrator for the Army’s later 5,000-10,000-shp Future Affordable Turbine Engine to its ITEP proposal “where sensible.”
+
+This article was originally published on October 2 for Aviation Week & Space Technology subscribers. To enjoy full access to premium content, subscribe here

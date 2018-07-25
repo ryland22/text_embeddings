@@ -1,0 +1,72 @@
+What Improved Tech Means for Electric, Self-Driving and Flying Cars
+Image
+Jack Ewing covers economics and autos from Frankfurt. “The transition to autonomous, networked driving is not likely to be smooth,” he said.CreditFelix Brüggemann for The New York Times
+By The New York Times
+May 16, 2018
+
+How do New York Times journalists use technology in their jobs and in their personal lives? Jack Ewing, a correspondent based in Frankfurt who covers economics and autos, discussed the tech he’s using.
+
+What impact is tech having on the auto industry?
+
+It’s not an exaggeration to say that the automobile industry is undergoing its biggest transformation in a century. Three big trends are converging and feeding off one another: battery-powered cars, autonomous driving and connectivity — the integration of cars into digital traffic networks.
+
+The internal combustion engine will disappear quickly, in my view, once electric cars become as cheap to buy as traditional autos and when they can be recharged in 15 minutes or so. That tipping point is probably about five years away, maybe less.
+
+Some say cars have become the biggest mobile computers. Why is that, and do you agree?
+
+Cars have been carrying around lots of computing power for a while, but most people weren’t aware of it.
+
+ADVERTISEMENT
+
+Since the 1990s, computers have been used to control things like the mixture of fuel and air inside the engine or the emissions system, and to monitor the functioning of the engine and warn of problems. Computers have made cars cleaner and more fuel efficient but also have created potential for mischief: Volkswagen used the engine computers in its diesel cars to cheat on emissions tests.
+
+Image
+“It’s a mistake to think that something has to have chips inside it to be high tech,” Mr. Ewing said.CreditFelix Brüggemann for The New York Times
+But there’s no question the computing power inside cars is growing exponentially to support autonomous driving and connectivity. Car companies like BMW are hiring more coders than mechanical engineers these days, and Volkswagen is even investing in quantum computing. We should probably already be thinking of cars as computers on wheels.
+
+Are we anywhere near having autonomous cars become mainstream consumer vehicles? What has to happen?
+
+Fully autonomous cars that can drive themselves from A to B while drivers sleep or watch “Game of Thrones” will probably take a while. But onboard computers will increasingly augment drivers and take over city driving. Cars will be able to communicate with one another and with control centers, resulting in better traffic management and reduced congestion.
+
+ADVERTISEMENT
+
+The transition to autonomous, networked driving is not likely to be smooth, however, as we have seen from the recent fatal accidents involving Uber and Tesla. People are already rebelling against giving up their personal information to Facebook; they may balk at turning over the steering wheel to a computer, particularly one connected to some centralized authority.
+
+The people developing autonomous vehicles should probably be thinking as much about how to get people to accept the technology, and how to protect individual freedom, as they are about making the technology work.
+
+What about flying cars?
+
+Inventors have not given up that dream. Just a few months ago, an outfit in Slovakia called AeroMobil unveiled a design for a battery-powered flying car that the company says will be able to land and take off vertically as well as drive on roads. It would fly autonomously, meaning the driver theoretically wouldn’t need a pilot’s license. AeroMobil says the vehicle will be available in five to seven years. AeroMobil has also developed a flying car with an internal combustion engine that requires only a very short runway. It will be available in 2020, AeroMobil says. We’ll see!
+
+Flying cars would be very expensive and therefore never more than a niche product. Until we invent some kind of “Jetsons”-like antigravity technology, flying cars will always be inherently inefficient. When you’re in the air you’re carrying around equipment you don’t need for flying, like large road-worthy wheels, and when you’re on the ground you’re carting around stuff that is useless on the highway, like wings or rotors.
+
+For my money a more plausible concept is one being developed by Airbus, the giant European aircraft manufacturer, called Pop Up. It’s a passenger pod that can be carried around by a battery-powered unit that looks like a large hobby drone. The drone carries the pod across town, then drops it onto a battery-powered chassis for driving around the city. It would be a shared, on-demand service and therefore more within the reach of regular folks.
+
+What are your favorite tech tools for doing your job?
+
+An app called AudioNote has been life changing. It records sound while you type notes on your MacBook or iPad. Later, you can click on a word in the text and it will take you to that spot in the recording, so you can easily double-check quotes. In the old days, looking for a quote in a long recorded interview was incredibly time consuming.
+
+EDITORS’ PICKS
+
+How One Interview Question Fuels the Gender Pay Gap
+
+An Orchestra Adopts a City, One Kid at Time
+
+How Boots Riley Infiltrated Hollywood
+ADVERTISEMENT
+
+LinkedIn is very useful for finding and contacting sources, and for bypassing all the people corporations employ to keep you from finding out what’s really going on. But I also still use snail mail. Everyone is so bombarded with electronic communications these days that often a letter is the best way to get somebody’s attention.
+
+Beyond your job, what tech product are you currently obsessed with using in your daily life?
+
+I’m fascinated by products that seem low tech but are actually very advanced. An example would be the Nomos watch I bought my wife for our 25th anniversary last year. The watch is purely mechanical — you have to wind it up. But, as I learned during a visit to the Nomos factory in a village in eastern Germany, it would not be possible to make the watches as exquisitely thin and light as they are without state-of-the-art computer-driven machinery.
+
+Another example is my Brompton folding bicycle. I usually travel by train in Germany. I bring the Brompton along and use it to get from the train station to my appointments. The Brompton is a 1975 design but has been continually refined, and today the factory is heavily computerized. Customers can configure the bike they want online, and the factory in London has a system that makes sure the right components converge on the assembly line at the right moment.
+
+Car companies use the same technology on a much larger scale. My point is that it’s a mistake to think that something has to have chips inside it to be high tech.
+
+Follow Jack Ewing on Twitter: @JackEwingNYT
+
+A version of this article appears in print on May 17, 2018, on Page B7 of the New York edition with the headline: Computing Power Is Revolutionizing The Auto Industry. Order Reprints | Today’s Paper | Subscribe
+
+

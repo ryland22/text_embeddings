@@ -1,0 +1,19 @@
+SEATTLE -- An "unlikely" string of events prompted Amazon's Echo personal assistant device to record a Portland, Oregon, family's private conversation and then sent the recording to an acquaintance in Seattle, the company said Thursday.
+
+A woman told CBS affiliate KIRO-TV that two weeks ago an employee of her husband contacted them to say he thought their device had been hacked. He told them he had received an audio file of them discussing hardwood floors, she said.
+
+In a statement Thursday, Amazon confirmed the woman's private conversation had been inadvertently recorded and sent. The company said the device interpreted a word in the background conversation as "Alexa" -- a command that makes it wake up -- and then it interpreted the conversation as a "send message" request.
+
+"At which point, Alexa said out loud 'To whom?'" the statement said. "At which point, the background conversation was interpreted as a name in the customers contact list.
+
+"Alexa then asked out loud, '(contact name), right?' Alexa then interpreted background conversation as 'right.'"
+
+The statement continued: "As unlikely as this string of events is, we are evaluating options to make this case even less likely."
+
+The woman, who was identified only by her first name in the news report, said every room in her family's home was wired with the Amazon devices to control her home's heat, lights and security system.
+
+She said the family unplugged the devices and contacted Amazon after they learned the recording had been sent.
+
+Ryan Calo, a law professor who co-directs the University of Washington's tech policy lab, agreed that the sort of glitch Amazon described is unlikely. But it may trouble customers nevertheless, he said.
+
+"What makes it particularly unfortunate is the sense that Amazon Echo users will have that there's any prospect that what they say in their private home might end up outside the home," Calo said. "We feel less reassured about the control we assert over it than we once did. It's the feeling you have to watch what you say in front of a device that's supposed to make your life better."

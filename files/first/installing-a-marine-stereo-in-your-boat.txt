@@ -1,0 +1,15 @@
+Tip: You can network the Clarion CMS4 with an MFD using the optional MW6 NMEA 2000 interface adapter ($199.99, crutchfield.com). It ties the sound system into an onboard NMEA 2000 backbone to control the audio on compatible MFDs from Garmin, Lowrance, Simrad and other popular brands. Tim Barker
+
+Install Source Unit Tim Barker
+
+Install Source Unit Clarion’s CMS4 black-box source unit has a footprint of 7.5 by 9.75 inches. We used the four supplied self-tapping screws and washers to secure the module to a bulkhead on the inside of the helm console to keep it dry. Check behind the mounting surface before drilling. Using the pigtail wires on the female portion of the Molex-style plug, connect the fused yellow wire to a 12-volt DC positive power source. Connect the black wire to ground. Also, now is the time to install a marine AM/FM antenna (not included) and plug it into the source unit.
+
+Install Amplifier Tim Barker
+
+Install Amplifier We added the compact (3.23-by-7.17-inch) four-channel, 400-watt Clarion XC2410 marine Class D amplifier to optimize audio, mounting it inside the helm console. Connect the red fused 12-volt DC positive power cable directly to the output terminal on the battery selector switch, and connect the black wire to ground, using the appropriately sized cable for the length of both runs. (Check for the appropriate wire size at ancorproducts.com/en/resources/ten-percent-voltage-drop.) Follow the supplied wiring instructions to connect the amplifier to the CMS4 source unit.
+
+Install Display/Controller Tim Barker
+
+Install Display/Controller The waterproof 4-by-6-inch CMS4 display/controller flush-mounts. Use the supplied template and jigsaw to make a cutout at the helm to drop in the display, then use the supplied bracket to secure the unit from the backside. Route the control cable from the back of the display (along with the display controller USB cable and video cable) through the cutout and tighten the two supplied nuts over mounting studs to secure the bracket. Plug the control cable from the display to the source unit as outlined in the installation instructions.
+
+Install and Connect Speakers Tim Barker

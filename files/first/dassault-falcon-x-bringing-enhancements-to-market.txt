@@ -1,0 +1,13 @@
+When Dassault announced the Pratt & Whitney Canada PW812D-powered Falcon 6X in late February, chairman and CEO Eric Trappier explained that the company had been developing a Plan B for the now-canceled Falcon 5X when its Safran Silvercrest engine began experiencing problems with its high-pressure compressor.
+
+Switching to the P&WC engine results in a thrust increase for the new large-cabin Falcon, to 13,000-to-14,000 pounds of thrust, versus 11,450 pounds with the Silvercrest. The PW812D has a 44-inch single-piece fan and 4.5:1 to 5:1 bypass ratio. Specific fuel consumption of PW800s is some 10 percent less than that of current in-service engines, according to P&WC. UTC Aerospace Systems (UTAS) will supply the nacelle system for the 6X, including an inlet, fan cowls, thrust reverser and an engine build-up system.
+
+To accommodate the higher-weight P&WC engines and associated systems, the new twinjet will have a 20-inch-larger cabin to keep the 6X within its center of gravity. This enables either a larger aft lounge area or a choice of larger forward galley or a crew rest area. The cabin features large windows and skylight, retained from the 5X design. Cabin height will be 78 inches, the baggage compartment will be 155 cubic feet, with an additional, unpressurized compartment of 76 feet, three inches.
+
+Aerodynamically, the 6X carries forward the 5X's flaperons and with the control surfaces working in tandem, lift-over-drag augmentation improves steep approach visibility, control, and comfort.
+
+The 6X's mtow will be 77,460 pounds, for a ratio of 85 percent of maximum landing weight to maximum takeoff weight, which allows a short hop and then an unrefueled 3,600-nm trip. It will also have a 300-nm range increase over the 5X—to 5,500 nm—and first deliveries are scheduled for 2022. The extra fuel required for the additional range caused Dassault to switch to a nitrogen-based fuel pressurization system, a first for a business jet.
+
+On the flight deck, the 6X features Honeywell-based EASy 3 avionics, with the Honeywell IntuVue RDR-4000 radar and FalconEye combined vision head-up display. FalconSphere II electronic flight bags will be integrated into the front instrument panel.
+
+Price of the 6X will be about the same as the 5X: $47 million (2018 $), said Dassault (Booth Z89, SD3). Flight testing is expected to begin in early 2021, with entry into service planned in 2022.

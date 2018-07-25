@@ -1,0 +1,33 @@
+The instrument-rated pilot was conducting a personal cross-county flight and was operating on an instrument flight rules flight plan.
+
+While he was flying in visual conditions between cloud layers at 7,000′ and heading toward the destination airport, he reported to air traffic control that the Beech V35 had experienced a vacuum pump failure and that he had lost the associated gyroscopic instruments and part of the instrument panel.
+
+He continued toward the destination airport because it had the best weather conditions compared to alternate nearby airports, however after accepting radar vectors for the GPS approach to the airport, he reported that the plane had entered instrument meteorological conditions (IMC) and that he had lost a “little bit” of control.
+
+He then reported that more of the instruments had failed and that he was trying to get back to 7,000′.
+
+Shortly after, the controller provided the pilot with the weather conditions at a closer airport and asked him if he would like to try to land there. However, no further communications were received from the pilot.
+
+Review of radar data revealed that the airplane made several course and altitude deviations as it proceeded northeast until the end of the data.
+
+The airplane was found separated in multiple pieces along a 0.4-mile-long debris path near Syosset, N.Y., with all three souls aboard dead.
+
+Based on the radar data and debris path, it is likely that the pilot experienced spatial disorientation while maneuvering the airplane in IMC without a full instrument panel, that he subsequently lost airplane control, and that the airplane broke up in flight due to overstress during the ensuing uncontrolled descent.
+
+Review of a vacuum pump manufacturer’s service letter (SL) revealed that the mandatory replacement time for the make and model vacuum pump was 500 aircraft hours or six years from the data of manufacture, whichever came first. Compliance with the SL was not mandatory for Part 91 operations. The vacuum pump was manufactured in May 1999, which was 17 years before the accident.
+
+Additionally, the airplane was not equipped with a backup/standby vacuum pump.
+
+Metallurgical examination of the vacuum pump revealed that the rotor had separated radially in numerous locations. Three vanes remained intact, and three vanes separated into numerous pieces. Rotational scoring/rubbing marks were observed on the rotor and pump housing.
+
+Additionally, debris was noted in the inlet screen, but the engine had hit a dirt field.
+
+It is likely the rotor’s contact with the pump housing caused the failure of the pump rotor and vanes, however it could not be ruled out that debris ingestion contributed to their failure.
+
+The pilot had severe coronary artery disease, and toxicological testing revealed low levels of diphenhydramine, a sedating antihistamine allergy treatment and sleep aid, and zolpidem, a prescription sleep aid. However, there was no evidence that the pilot’s heart disease or sedating medications impaired his performance or incapacitated him.
+
+Probable cause: The pilot’s loss of airplane control while operating in instrument meteorological conditions with only a partial instrument panel due to a failure of the airplane’s vacuum pump. Contributing to the accident were the pilot’s spatial disorientation and the operation of the vacuum pump beyond the six-year time limit recommended by the vacuum pump manufacturer.
+
+NTSB Identification: ERA16FA176
+
+This May 2016 accident report is provided by the National Transportation Safety Board. Published as an educational tool, it is intended to help pilots learn from the misfortunes of others.

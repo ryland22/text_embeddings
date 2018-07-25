@@ -1,0 +1,17 @@
+Credit: Airbus
+
+La Inteligencia Artificial ya tiene un hueco reservado dentro de la ISS (International Space Station) desde este verano y viene con ganas de echar una mano (a pesar de no tener ninguna). Su nombre es CIMON (del inglés, Compañero móvil interactivo para la tripulación) y se ha convertido así en el primer dispositivo de asistencia autónoma con estas características en ostentar este título. ¿Su objetivo? Ayudar a cumplir una serie de tareas rutinarias a los astronautas que viven allí, así como convertirse en el nuevo “colega de piso” con el que pueden interactuar. Así lo confirma el responsable de Microgravity Payloads de Airbus, Manfred Jaumann: “Somos la primera compañía en Europa en llevar a la ISS un ‘free flyer’ (una especie de cerebro volador), y que además desarrollará Inteligencia Artificial para la tripulación a bordo”.
+
+Ha llegado este lunes gracias a un cohete de SpaceX, la compañía cofundada por Elon Musk, y viene cargada de suministros. Entre ellos, destacan alimentos como helado, frutas del bosque y café (con mucha cafeína, para que los astronautas pueda combatir el sueño cuando sea necesario). Además, también ha llegado un grupo de nuevos inquilinos, unos ratones que les servirán a los científicos para poder sacar adelante diferentes estudios que quieren llevar a cabo en el espacio.
+
+¿Qué funciones tiene previsto cumplir CIMON?
+
+En julio de 2017, ya recibieron al primer dron con capacidad de grabación, el Int-Ball, pero este nuevo asistente promete desarrollar muchas más habilidades. Tras el trabajo de desarrollo realizado por Airbus, la agencia espacial alemana DLR y la empresa IBM, CIMON se quedará en la ISS por tiempo indefinido. El astronauta alemán, Alexander Gerst, de 42 años, será quien se encargue de su correcto funcionamiento. Es el nuevo comandante de la Estación Espacial Internacional y quien desarrolle la segunda parte de la misión “Horizons” de la Agencia Espacial Europea en los próximos 6 meses.
+
+Credit: Airbus
+
+A simple vista, CIMON parece una pantalla que flota alrededor de los astronautas, pero es mucho más. Tiene la forma de un balón medicinal y pesa 5 kilos. 50 personas han estado trabajando durante meses para perfeccionar su estructura, le han enseñando cómo debe moverse y orientarse, así como identificar a cada uno de los componentes que forman parte de la tripulación. Gracias a la tecnología Watson AI de la nube de IBM es capaz de acumular conocimiento, por lo que podrá seguir aprendiendo cada día más y ayudar a sus colegas en el espacio, incluso alertarles de problemas técnicos que pudiera haber.
+
+Entre las principales tareas que tiene previsto cumplir están: experimentos con cristales, colaborar en la resolución de un cubo de Rubik y la más importante, ser el asistente de un complejo experimento médico en el que CIMON trabajará como cámara flotante.
+
+Estaremos atentos, porque sus capacidades son muchas y estamos seguros de que, con el tiempo, se ampliarán a más.

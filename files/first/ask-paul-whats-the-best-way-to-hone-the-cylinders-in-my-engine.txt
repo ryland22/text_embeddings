@@ -1,0 +1,27 @@
+Q: I pulled cylinders #1 and #2 to replace the base “O” rings due to oil leaks. The engine is a Lycoming O-360 A3B6D with 650 hours and is a factory reman from 1994 due to Chevron Oil fuel contamination.
+
+I would like to know if it is acceptable to use a Flex-Hone to deglaze the cylinder (hone with the round abrasive balls). I will also replace the rings. The cylinders are nitride hardened (blue paint below spark plug).
+
+Mark Tammi
+
+A: Mark, I’m going to begin my response by second guessing your decision to remove the #1 and #2 cylinders to replace the cylinder base “O” ring seals. My reasoning here is that if the engine has 650 hours on it since it was returned to the Lycoming factory for the Chevron Oil fuel contamination in 1994 — of which I have vivid memories — I doubt it would have taken this many hours before you would have noticed oil seepage in the cylinder base area.
+
+I know there have been incidents in the past where the cylinder base “O” ring seals were somehow inadvertently overlooked when the cylinders were reinstalled and the oil leak became quite evident shortly after engine start-up.
+
+I’m more inclined to believe that the oil leak you have is more likely a result of oil leakage from the crankcase thru-studs.
+
+My recommendation would be for you to review a copy of Lycoming Service Instruction 1290F or its latest revision before reinstalling your cylinders.
+
+Just as an aside, on occasion, when an engine is disassembled for overhaul, especially in the field, all of the thru-studs are removed and they typically have a light brown stain in the middle where they intersect at the crankcase parting services.
+
+The object during the overhaul process is to thoroughly clean all parts so that they may be inspected carefully.
+
+During the pre-inspection cleaning process when this brown stain is observed, the first thought is to walk over to the wire brush wheel and remove that brown stain and polish that area up nice and shiny. WRONG, those thru-studs are cadmium plated. After getting them all polished up, you’ve actually reduced the outside diameter of the stud by removing some of the cadmium plating, which will allow engine oil to seep past the intersection at the crankcase parting services and run right out to the cylinder base. This may cause you to think it’s the cylinder base “O” ring seal when, in fact, it’s not.
+
+Now is probably not a good time to mention that you could have possibly saved yourself some time and money had you removed the cylinders without removing the pistons from the cylinder barrels. If you had simply slid the cylinder off enough to remove the piston plugs and piston pins while leaving the piston and rings in the barrel, it would have allowed you to do what needs to be done without disturbing the marriage between the piston rings and the cylinder walls.
+
+However, once you remove the piston from the barrels, you are committed to do what you mentioned, and that is to hone the cylinders and install new piston rings. Don’t forget to go back to mineral base oil when breaking in the new rings.
+
+I see no reason why you can’t use the hone you mentioned. I’ve also use a 3-stone hone as well. The secret is to keep the hone moving up and down the barrel and get the best cross-hatch pattern you possibly can. The nitride barrels are very hard so the hone job won’t be accomplished by just making a few quick passes.
+
+Thanks for submitting you question and hopefully some of the information furnished here will help others who may be confronted with a similar situation at some point.

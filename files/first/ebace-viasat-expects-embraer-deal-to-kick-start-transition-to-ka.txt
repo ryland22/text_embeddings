@@ -1,0 +1,19 @@
+Yesterday’s announcement that Embraer has become the first business jet OEM customer for ViaSat’s Ka-band in-flight connectivity service is seen by the satellite company as lighting the touch paper of its transition towards making its higher-performing network available to the sector.
+
+“This is a big deal for us," says Jerry Goodwin, executive vice-president of ViaSat’s network services portfolio. "We will have additional announcements throughout this year and, as we put aircraft in service, we will have other OEMs sign up.”
+
+Customers for ViaSat’s existing Ku-band service will eventually be able to either lift out the previous system and replace it with Ka, or opt for a dual-band solution that enables them to keep the Ku service as a backup or use it as a bridge until all three of the company’s Ka-band satellites have been launched.
+
+The new shipset was “specifically designed to have the same footprint and the same wiring” as the Ku shipset, facilitating the swap-out process, says James Person, director of business development and strategy for ViaSat’s business and VVIP aviation division.
+
+“Our Ka service is so vastly different to anything else that’s out there," he says. "It delivers 16MBps to the aircraft and on top of that you can do streaming and live TV. And the shipset is so compact it can move all the way down to the midsize cabin.”
+
+Embraer has selected ViaSat’s Ka service for linefit installation on its Legacy 450 and Legacy 500 executive jets. The aircraft will be equipped with ViaSat’s Global Aero Terminal 5510, which will tap into the ViaSat-1 satellite now, the ViaSat-2 satellite later this year, and ViaSat-3 when it enters service in 2020.
+
+“You can expect more OEM announcements from us this year,” says Person.
+
+ViaSat has announced Satcom Direct and Honeywell as distribution partners for the service, but more distribution partners are likely.
+
+“We have four [distribution partners] for Ku and we expect others for Ka,” says Person.
+
+Get all the coverage direct from EBACE on our dedicated event page

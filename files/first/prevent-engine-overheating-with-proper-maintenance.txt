@@ -1,0 +1,47 @@
+One of the problems with boats is they live in water that is shared by things like seaweed, algae, mollusks, scum, and sometimes floating trash — all of which can easily find a way into the raw-water intake port. Tim Bower
+
+We were on an overnight boating trip to a sweet little hideaway called Mystery Bay in Washington State’s Puget Sound. After spending a pleasant visit, complete with a raid on the wild blackberry bushes, we shoved off the next morning and headed home. About a quarter mile after leaving the dock, I ­noticed the temperature gauge rising into a dangerous zone. I looked over the transom, hoping to see cooling water spitting from its port (the same as it had been back at the dock when I started the engine), but there was nothing. I immediately shut off the engine to spare it from overheating any more. We were far from home, in a lonely little cove where no help would be available. And now we were adrift. It took me a while to figure this out, but here’s what I know: Boats suck! I don’t mean that in a derogatory way; it’s simply a mechanical fact. If a boat is powered by an engine, it sucks cooling water through an intake port somewhere. Raw water is sucked in and circulates through the engine either directly or through a heat-exchanger system designed to cool the engine. If any part of that system becomes clogged, the engine is at risk of sudden death. When that happens, you will still be saying that boats suck — but in a derogatory way. Trust me, I learned this the hard way.
+
+Kelp and other types of seaweed can easily clog your intakes and cause engine overheating. Tim Bower
+
+Dire Diagnosis
+
+I decided to let the engine cool for several minutes while we drifted. That gave me time to assess the possibilities — perhaps the water-pump impeller had failed, or a bit of plastic sheet (maybe a discarded floating sandwich baggie) had been sucked up against the cooling-water inlet, or it might be the raw-water strainer was clogged, or one of the cooling-system hoses had come loose. There were lots of possibilities. After drifting for 15 minutes, I fired up the engine and spun the helm to head us back toward the dock. Before going a hundred yards, the temperature was climbing again, so I shut down the engine and let our momentum carry us toward the still-distant dock. Three more times I repeated the same process until, finally, we were able to drift all the way to the dock and secure the boat. I heaved a sigh of relief but was still no closer to understanding what caused our problem.
+
+Impeller pumps are prone to failure and a good thing to check first. Carry a spare. West Marine
+
+Knowing that water-pump impellers are prone to eventual failure, I started there. It took only a few minutes to open the pump, and to my dismay, the impeller looked perfect. As long as I had the pump open, I went ahead and swapped in a fresh impeller, closed things up and started the engine. Still no cooling water coming from the exit port at the transom. I checked the cooling-system hoses. Nothing was disconnected or leaking. Then I glanced at the raw-water strainer and saw nothing amiss. Now things got uncomfortable — I needed to check beneath the boat for anything blocking the underwater raw-water inlet. Pacific Northwest seawater never gets much above 50 degrees F, and, unfortunately, I didn’t have my dive gear along for this trip. In swim trunks alone, I went over the side and, as the cold water limited my breath-holding ability, quickly surveyed the through-hull. Aha! A telltale bit of kelp was poking out of the inlet. I pulled what I could of the slippery seaweed out of the hole but knew there was still more inside. I needed another strategy to fix the problem.
+
+Carry a rebuild kit for your water pump and learn how to do it. West Marine
+
+In the Clear
+
+Back topside, I zeroed in on the raw-water strainer once again. Simply looking at it, without opening it, had deceived me into thinking it was OK. It was not. I shut the seacock to prevent the ocean from rushing in when I opened the strainer housing, then unscrewed the canister. It was full of slime, algae and bits of sea grass. It was so foul that I found it hard to believe any water at all could get through. With a toothbrush and elbow grease, I cleaned the screen and reassembled the canister. But I knew I still had some kelp stuck in the inlet, and I needed a way to remove that before it got sucked into the strainer. That’s when an idea hit me. I went back to the hose that feeds raw water into the water pump, disconnected the hose clamp, and pulled the hose loose from the pump housing. Taking a deep breath, I blew as hard as I could on the hose. On the third try, I started hearing bubbles under the boat. A few more puffs and I was confident I had blown all the kelp out of the ­inlet, so I reconnected the hose to the water pump and started the engine. To my astonishment, there was still no water at the ­transom cooling-water exit port. Now I was puzzled. I clearly had a free-flowing route for raw water to get to the pump and the impeller was turning ­properly, but no water was being pushed through the system. That’s when I got on the phone and called for some tech advice. The answer I got was so simple, it was ­almost absurd. “Did you lubricate the impeller?” the tech adviser asked. “With what?” I responded. “Try dish soap,” he replied.
+
+Use dish soap as an impeller lubricant if you need to replace it in the field. The soap eases impeller installation. Shutterstock
+
+I have to admit that even though I’ve been boating for more than 20 years, I had never changed an impeller before nor disassembled a raw-water strainer. That’s because our previous boat was powered by an outboard that I always took to the shop to have someone else service every year. Our new boat has an inboard power plant, and that changes everything. Clearly, I need to be more personally involved in the maintenance of these critical components. One of the problems with boats is they live in water that is shared by things like seaweed, algae, mollusks, scum, and sometimes floating trash — all of which can easily find a way into the raw-water intake port. So how do you keep that from happening? The solution is twofold — routine maintenance and constant situational awareness. Fail here and engine death is not far behind. So I pulled out the impeller (no damage had been done by running it dry to this point), dosed it with a coating of liquid dish soap, and coated the mating surface inside the pump housing. With everything back together, I crossed my fingers and fired up the engine. Instantly, cooling water was flushing out of the transom better than it ever had before (complete with dish-soap bubbles), and the engine was happy and remained cool during our cruise. Despite the difficulties, or more correctly, perhaps because of them, this boat trip was one of the most valuable we have ever taken. The fact is we rarely learn anything of value when everything is going well. Unfortunately, most of our learning seems to require that we’re tested by challenges, like mechanical breakdowns, to be overcome. What I learned during this trip is the ­value of carrying spare parts such as extra impellers (keep dish soap handy), a spare raw-water strainer, some hose clamps and extra hoses. Also, I am now committed to checking the raw-water strainer before every trip — actually pulling it apart to inspect and clean it. It’s the same level of important pre-trip inspection as checking the belts and ­engine-oil level before every outing. You never know when it will come in handy to have intimate hands-on experience with these critical parts of the boat. It might just keep you from ever thinking that boats suck — in the derogatory way, of course.
+
+How I Cleaned My Screen Rich Johnson
+
+How I Cleaned My Screen: Before
+
+1. When I started to pull the screen out of the raw-water filter housing, I could immediately see the problem. The screen was clogged with slimy yuck that had accumulated over time.
+
+2. Not only was the screen clogged, but also there was something ominous floating around in the bottom of the housing.
+
+3. I poured out the contents and found bits of sea grass that had been sucked in through the raw-water through-hull. It doesn’t take long for a clog like this to overheat an engine.
+
+How I Cleaned My Screen Rich Johnson
+
+4. A toothbrush from the toolbox is the perfect instrument to use for cleaning the stainless-steel screen, and also for scrubbing out the housing. No, I didn’t use Becky’s toothbrush. That’s my story, and I’m sticking to it.
+
+How I Cleaned My Screen Rich Johnson
+
+How I Cleaned My Screen: After
+
+5. There’s a big difference between this photo and the first one. And it only took a few minutes to clean the screen and the housing.
+
+6. Always make a visual inspection of the raw-water system before starting the engine. If the screen is clogged, it takes only a few minutes to destroy the water-pump impeller and overheat the engine. Add this inspection to the pre-trip checklist and you will likely avoid the kind of “adventure” we had in Mystery Bay.
+
+Prevent Engine Overheating With Proper Maintenance West Marine

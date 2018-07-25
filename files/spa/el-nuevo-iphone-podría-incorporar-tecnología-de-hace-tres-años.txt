@@ -1,0 +1,13 @@
+Agencia
+
+ESTADOS UNIDOS.- Si bien aún no tenemos información oficial sobre los componentes internos que tendrá la próxima generación del iPhone, algunos curiosos han descubierto que la aplicación Geekbench ya muestra información sobre un modelo que todavía no ha sido anunciado. Se trata del "iPhone 11,2", mismo que podría ser el sucesor directo del actual iPhone X o de su rumoreada variante Plus, indica el portal de noticias Hipertextual en su sitio web.
+
+A diferencia de otros modelos encontrados en semanas recientes, el iPhone 11,2 cuenta con una memoria RAM de mayor capacidad respecto a modelos anteriores, concretamente de 3748MB (4GB). El terminal corre con iOS 12 y con una memoria caché de 128KB, una mejora significativa respecto a los 32KB actuales.
+
+También te puede interesar: Esta compañía lanzará un teléfono con nueve cámaras
+
+Respecto al procesador, su rendimiento mejora ligeramente al actual A11 Bionic, aumentando en 400 puntos la calificación de un núcleo y poco menos de 600 en el procesamiento multinúcleo. Debido al poco aumento en la potencia del procesador, es probable que Apple haya decidido realizar modificaciones al procesador actual en lugar de dar el salto hasta el A12.
+
+Aunque los datos encontrados en Geekbench son verdaderos, no podemos confirmar que el modelo final tenga estas características internas. Recordemos que los de Cupertino realizan pruebas con diversos prototipos, los cuales no siempre llegan al mercado. Todo lo sabremos en su presentación oficial, la cual podría celebrarse durante el mes de septiembre.
+
+Si esto resulta ser cierto, el nuevo iPhone estaría compuesto de tecnología que la competencia implementó hace 3 años, aunque cabe resaltar que ningún smartphone de Android ha logrado superar la barrera de iOS. Con esto Apple haría a su teléfono insignia un verdadero monstruo en cuanto a procesamiento, y nos deja preguntándonos, ¿este es el límite al que las empresas pueden llegar?

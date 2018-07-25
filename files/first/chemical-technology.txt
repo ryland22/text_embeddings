@@ -1,0 +1,41 @@
+Chemical
+
+In the chemical industry, having uncontrolled data not only risks non-compliance, but it can also risk a plant’s license to operate. Engineering complexity increases as owner-operators require data exchanges with more specialized contractors and suppliers. All stakeholders for maintenance, engineering, regulatory bodies, and external contractors must have easy access to accurate data and a full audit trail, which we provide.
+
+4 of the 10 world’s largest Chemical companies use BlueCielo software to achieve operational excellence
+
+BlueCielo offers Chemical companies a proven solution to manage their engineering data throughout the asset lifecycle from a single point of truth. Our software makes accurate data available to maintenance and engineering teams, at any time and from any location. That’s why companies like AkzoNobel, BASF, Kaneka, Huntsman and many others choose BlueCielo software to maximize their profitability.
+
+How can BlueCielo Meridian help you?
+
+Integration
+
+Leverage out-of-the-box integration with your CAD, office, maintenance, ERP and ECM systems.
+
+Protection
+
+Protect your as-built data during multiple or concurrent engineering change projects and enhance asset data integrity.
+
+Collaboration
+
+Enhance engineering project collaboration via secure data exchange with an audit trail and easy access.
+
+Asset data integrity
+
+Improve the quality, accuracy and availability of your asset-related information.
+
+Compliance
+
+Prove control at any time and meet regulations including: OSHA, ISO 55000, ISO 9000, Pas 55, CE marking, REACH, VLAREM, PED, ATEX, NEN 3140, Seveso I+II and more.
+
+What Our Customers Say
+
+“We have reduced our information management expenditure by five per cent.” – Huntsman
+
+“The integration has improved the quality, availability and accessibility of asset information. Contractors have now easy access to all relevant engineering content.” – BASF
+
+“BlueCielo Meridian provides AkzoNobel with a standard process to manage all engineering changes in concurrent projects.” – AkzoNobel
+
+“BlueCielo Meridian provides Kaneka with a regulatory compliant system to manage the asset lifecycle and management of change projects.”
+
+– Kaneka

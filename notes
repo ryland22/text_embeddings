@@ -1,0 +1,35 @@
+Process / Load 50 documennts into ElasticSearch by document avg vector, paragraph avg vector, sentence avg vector, word vector
+Query a key term against DB:
+	Input term / phrase
+	Input proximity value (1-10, with 1 very close, 10 very far away)
+
+~~~~~~~~~~~~~~~~
+Database fields:
+~~~~~~~~~~~~~~~~
+Language
+Type (document, paragraph, sentence, word)
+path - url to doc
+original text (if paragraph, sentence, or word)
+Vector value
+Avg vector value
+
+~~~~~~~~~~~
+Execution:
+~~~~~~~~~~~
+Load function - point to folder and load/process all files.  Index appropriate values in DB.
+
+Search function - input term and proximity
+	API call to get vector of search term.
+	Proximity with be math value +/- the value of the term.
+	Search against that value range.
+
+Return document location, original text, english translation, proximity match value (1-10, with 1 very close and 10 far away).
+Order by proximity match value.
+
+May need to index common search terms at ingestion to speed up search results.
+
+1. Spin up AWS linux box.
+2. Install ElasticSearch.
+3. Locate files and download / upload to folder.
+4. Install Rosette Enterprise.
+5. Script to ingest folder / files.

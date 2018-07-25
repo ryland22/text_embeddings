@@ -1,0 +1,47 @@
+CLOSE We've got some simple tips you can take to keep Amazon's Alexa from eavesdropping into your conversations and potentially sharing them. USA TODAY
+
+If you're worried about what exactly Amazon's Echo-connected speaker has been recording in your home, there's an easy way to find out.
+
+Amazon makes all recent recordings available for listening in the companion Alexa app for iOS and Android.
+
+Amazon has said consistently that the Echo speakers only listen in and record after you use the wake word, usually "Alexa," to make your request. But last week it was revealed that a recording of a Portland woman was sent accidentally to someone in the family's contact list.
+
+Amazon has said it's looking into what happened to prevent similar situations in the future.
+
+More: 6 ways to keep Alexa from eavesdropping on you
+
+More: Amazon's Alexa won't pass on recordings if you don't set up call features
+
+More: Alexa creepily recorded a family's private conversations, sent them to business associate
+
+More: Amazon (and Alexa) know a whole lot about you. Here's how download and delete that info.
+
+To find your recordings, open the app, click the menu on the left side, select Settings and scroll down to History. You can read your phrases, play back the original recording and delete them.
+
+Warning — this can be a very long read and a very slow slog, because if you've had an Echo speaker for a few months, Amazon probably has a lot of recordings on you. Most are mundane, but if you slip the word "Alexa," into daily conversations, guess what — you've been recorded.
+
+Go to the History section in the Amazon Alexa app to find your Alexa recordings (Photo: Screen shot)
+
+When you go through the files, which are sent back to Amazon, you can delete them, one at a time on the app, or in unison in the web app here.
+
+In our case, it was an endless list of every time we said the word "Alexa," going back as far as March 2016 when we first purchased the Echo device.
+
+The app also informed how many times we requested specific radio stations, song titles or podcasts to play, asked the speaker to increase the volume, to "stop" playing a song, requested the current time, as well as assorted phrases where the word Alexa entered into a conversation.
+
+The key phrase to look out for is "text not available." All the "Alexa," song and podcast requests are spelled out in letters and companion voice recording in the app. The "text not available," is for those times when Echo got awoken with the wake word, and recorded something that wasn't a request.
+
+Turn your Echo into a nightlight with one simple command. (Photo: Amazon.com)
+
+That's when it got creepy.
+
+For instance, I noted to my wife a USA TODAY article I was writing based on last week's Alexa mistake, and thus, got recorded saying that the piece was about, "Alexa making those wacko calls," which is a fragment of the sentence I was talking about over the kitchen table.
+
+Alexa recorded a segment of my Talking Tech podcast where I spoke aloud about a recent survey where I asked the same 150 questions to "Google and Siri and Alexa." It awoke to me saying that responses from "Amazon Alexa were generally more useful," and it continued with the second sentence, despite not having a direction for the assistant in the phrase.
+
+If being recorded talking about Alexa concern you, the app has many files awaiting your deletion.
+
+For its part, Amazon says it keeps our voice recordings "to learn your voice and how you speak to improve the accuracy of the results provided to you and to improve our services."
+
+Readers — what are your thoughts? How do you feel about being recorded by Alexa? Let's discuss on Twitter, where I'm @jeffersongraham.
+
+Read or Share this story: https://usat.ly/2LAvhGO

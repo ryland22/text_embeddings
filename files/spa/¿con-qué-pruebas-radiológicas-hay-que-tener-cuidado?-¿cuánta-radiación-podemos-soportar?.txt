@@ -1,0 +1,71 @@
+Varón, 32 años, acude por fiebre y dolor lumbar, sin alergias ni enfermedades conocidas, ligeramente hipotenso, lleva 50 milisieverts acumulados durante toda su vida. Esta secuencia de información podría convertirse dentro de poco en algo común. En realidad, resumir el historial médico y el motivo de consulta de los pacientes cuando acuden al hospital es algo que se hace desde los tiempos de Galeno, pero no ocurre lo mismo con los ‘antecedentes radiológicos’, la variable a la que aluden los milisieverts (mSv), una unidad de medida común en este ámbito.
+
+Zona cero. Catástrofes como la de Chernóbil, en la imagen, han servido para estudiar los efectos que las altas dosis de radiación tienen a largo plazo.
+
+El ‘DNI radiológico’ será una realidad cuando España trasponga (con retraso) la directiva comunitaria Euratom, destinada a mejorar la protección radiológica de los ciudadanos de la Unión. Nuestro país ya está en tiempo de descuento para llevarlo a cabo, pues legalmente debería haberlo incorporado como máximo el pasado mes de febrero, el plazo límite que establece la norma, aprobada en Europa en 2013. “La Comisión Europea puede tramitar una denuncia ante el Tribunal de Luxemburgo”, señala Juan Ignacio Navas, director del bufete especializado en derecho comunitario Navas & Cusí.
+
+Sanciones aparte, ¿qué cambios trae esta ley? La directiva insta a llevar un registro de la radiación que ha recibido el paciente a lo largo de su vida, así como a informarle de los riesgos y beneficios de las pruebas que se le realicen.
+
+¿Qué técnicas la emiten y qué peligros tenemos?
+
+Para que te hagas una ideade la ‘peligrosidad’ de estas dosis, piensa que la radiación que recibes al comerte un plátano es la misma que con una radiografía de un pie, es decir 0,001 milisievert, la millonésima parte de 1 sievert. Si uno se expone a más de 10 sieverts probablemente muera en seguida. Más serio es un TAC. Si es de tórax habréis recibido 7 milisieverts, algo así como tres años de radiación natural de la Tierra.
+
+Rayos incógnita
+
+Hace cien años, aplicando descargas eléctricas a tubos llenos de distintos gases, Röntgen descubrió los rayos X, o ‘rayos incógnita’. Había conseguido una radiación, pero no tenía ni idea de qué se trataba exactamente. Desde entonces se han sucedido las investigaciones para profundizar en sus aplicaciones y alertar de sus potenciales riesgos.
+
+Ahora sabemos que pertenecen a la radiación ionizante, es decir, la que puede generar iones arrancando electrones de la órbita de los átomos. No están todos los que son, ya que, por ejemplo, la radiación gamma también es ionizante, y en el aire, el espacio o incluso en los alimentos existen infinidad de radioisótopos diferentes que también pertenecen a este grupo.
+
+Protegidos como para soldar. Diciembre de 1934. Los radiólogos tenían que llevar protecciones como estas.
+
+En total, el español medio recibe el equivalente a 37 radiografías de tórax cada 365 días, o lo que es lo mismo, 3,7 milisieverts.
+
+Las pruebas médicas son responsables de algo más de un tercio de esa cifra, aunque con grandes diferencias dependiendo del examen. El resto procede de la corteza terrestre, los rayos cósmicos, la comida… Por el hecho de vivir en la Tierra recibimos entre 1 y 1,5 milisieverts por año. Al hacerte un TAC, 7 milisieverts, algo así como tres años de radiación natural de la Tierra.
+
+La relación entre la radiación emitida por una radiografía de la mano y la de un TAC es como comparar una canica con un campo de fútbol: 10.000 veces más.
+
+Entonces, ¿la radiación por causas médicas que recibimos es mucha? ¿Corremos algún peligro? “Estamos viendo un incremento paulatino de las dosis de radiación que se aplican en nuestro país y hay que preguntarse si estamos abusando”, señala Ricardo Torres, vicepresidente de la Sociedad Española de Protección Radiológica y jefe de Radiofísica en el Hospital Clínico de Valladolid.
+
+La dosis recibida por los estadounidenses se ha doblado en los últimos 25 años debido al incremento de pruebas médicas
+
+“Hasta un 30 % de las pruebas solicitadas no aportan información relevante y muchas podrían haberse evitado”, denuncia un informe publicado por la Sociedad Española de Radiología Médica. La organización, que agrupa a los radiólogos de nuestro país, publicó recientemente un dossier con 38 recomendaciones de ‘no hacer’ dirigido a personal sanitario, que incluyen evitar los TAC en la mayoría de dolores de cabeza o prescindir de la radiografía tras un golpe en el tobillo.
+
+La situación no solo afecta a nuestro país; por ejemplo, una investigación concluyó que la dosis de radiación recibida por los estadounidenses se ha doblado en algo más de 25 años debido al mayor uso de pruebas médicas.
+
+“Es curioso, cuando la gente piensa en vivir cerca de una central nuclear se asusta, pero eso no ocurre cuando van a hacerse un TAC, donde la radiación es mucho mayor”, apunta Torres. No obstante, los profesionales se posicionan en contra de establecer un techo de radiación. “Lo importante es la justificación de las pruebas, no existe un límite de dosis, lo importante es que esté justificado. A un paciente con un linfoma, si no le hago un TAC cada seis meses para ver la evolución de la enfermedad y le dejo de tratar porque creo que está curado y no es así, se muere”, apunta Ángel Morales, experto en radioprotección de la Sociedad Española de Radiología Médica, quien remarca que lo importante es que los beneficios superen a los riesgos.
+
+La Organización Mundial de la Salud recomienda que no se sobrepasen los 50 mSv de exposición en niños y hasta 100 mSv en adultos. “Es como ir comprando papeletas a la lotería”, explica Ricardo Torres.
+
+El radiofísico también reconoce que en ocasiones “es muy difícil demostrar los efectos” de la radiación a ciencia cierta. “En exposiciones por debajo de 100 mSv trabajamos con la hipótesis lineal sin umbral, la más aceptada, que establece que ‘toda dosis no nula implica unos riesgos no nulos’, es decir, aun a dosis pequeñas se puede generar daño. Puedes tener un tumor a los 75 años y haberte hecho un TAC a los 30, pero es imposible establecer una relación causa efecto a nivel individual, aunque probabilísticamente sí”, complementa Morales.
+
+La radiología es la práctica más exhaustivamente regulada que existe” señala ángel morales, experto en radioprotección
+
+Según un estudio publicado en la revista Archives of Internal Medicine, todos los TAC realizados en 2007 en EE. UU. podrían contribuir a 29,000 casos de cáncer en el futuro. El Colegio de Radiólogos del país americano criticó esta investigación, alegando que la esperanza de vida de los pacientes que se someten a esta prueba no se corresponde con la de la población general, por lo que los datos no eran extrapolables.
+
+Otra investigación que aparece en la misma revista alerta de que las dosis de radiadición de un TAC de la misma parte del cuerpo realizado en distintos centros médicos podía ser hasta 13 veces mayor en uno que en otro, dependiendo de dónde se llevara a cabo.
+
+La cantidad de radiación que recibe el paciente es otra de las cuestiones que la directiva Euratom quiere regular. Obligará a que todos los aparatos envíen de forma automática al informe del paciente la potencia con que se le irradia. “Lo que no se mide no se puede mejorar”, asume Ángel Morales, quien señala que el sistema de radioprotección “lleva vigente más de 40 años” y la radiología es la práctica “más exhaustivamente regulada que existe”.
+
+¿Afecta la radiación a todo nuestro cuerpo por igual? La sensibilidad de nuestras células a los rayos X o gamma ‘va por barrios’ o, mejor dicho, por poblaciones celulares. Así, las células musculares o las neuronas tienen un alto grado de resistencia, mientras que las células sanguíneas como los linfocitos o los precursores de los espermatozoides se sitúan en el eslabón más débil. Una de las explicaciones para esta característica es que las células que tienen una mayor actividad replicativa (y, por tanto, más ‘movimiento’ en torno a su ADN) son más vulnerables. De hecho, la información genética es el blanco principal y más sensible de la célula frente a la radiación.
+
+Linfomas y leucemias
+
+De esta característica se desprende que los linfomas, leucemias y mielomas (tumores que afectan a las células sanguíneas) sean unas de las enfermedades ligadas a la exposición a radiación. Una de las investigaciones más ambiciosas sobre esta cuestión estudió a más de 300.000 individuos sometidos a radiación en sus puestos de trabajo. Después de casi tres décadas de seguimiento, más de 1.600 había fallecido por esos tipos de cáncer. Dado que la incidencia de estas enfermedades superó a la media de la población general, los investigadores concluyeron que la radiación era la causante de dicho incremento, aun en exposiciones a dosis bajas.
+
+La doctora Arancha Eraso, oncóloga radioterápica e investigadora en el Instituto Catalán de Oncología estudia otra de las posibles consecuencia de la radiación, quizá más desconocida: el daño al corazón, especialmente en forma de incremento
+
+del riesgo de padecer un infarto. “Evaluamos los efectos de la radioterapia en el cáncer de mama e intentamos predecir el daño que esta puede hacer en el corazón mediante pruebas de imagen y moleculares para poder tratarlo” Además, su grupo ha patentando un dispositivo que ayuda a que la paciente se mantenga en “espiración forzada”, algo que hace que el corazón se separe de la pared torácica y que “la radiación que recibe este órgano tienda a cero”.
+
+El proyecto en que participa Eraso forma parte de MEDIRAD, una iniciativa de la Unión Europea dotada con 10 millones de euros para investigar los efectos de las dosis bajas de radiación ionizante en la salud. En cualquier caso, la investigadora sostiene que “los beneficios son superiores a los riesgos” y que está demostrado que la radioterapia en el cáncer de mama “aumenta la supervivencia”. También señala que, aunque la radioterapia emplea dosis altas de radiación, lo hace de forma focalizada en el tumor, por lo que no es comparable a los efectos que esa misma potencia pudiera tener en caso de que estuviera dirigida hacia todo el cuerpo.
+
+Otra polémica en torno al cáncer de mama en la que se entremezcla la radiación tiene que ver con el cribaje que se hace de esta enfermedad mediante mamografía. A pesar de que es una práctica extendida a lo largo del mundo, un reciente metaanálisis aparecido en la revista Cochrane señala que, de cada 2.000 mujeres que se hagan una mamografía, una evitará morir por cáncer de mama, mientras que 10 serán tratadas de forma innecesaria y 200 sufrirán un estrés importante debido a la incertidumbre o a falsos positivos. Otro metaanálisis publicado por Plos One apunta que tienen un efecto “modesto” en la reducción de la mortalidad, mientras que un artículo editado por la Sociedad Europea de Radiología en 2017 sí defiende sin fisuras esta prueba y sostiene que hay entre un 30 % y un 40 % menos de muertes entre las pacientes que la realizan frente a las que no.
+
+No a la ‘radiofobia’
+
+“El acto radiológico es seguro, lo que no puede haber es radiofobia –comenta el experto en radioprotección de la Sociedad Española de Radiología Médica Ángel Morales–. Otra cosa es que tengamos pruebas alternativas que no radien, pero no siempre se pueden utilizar”, apunta.
+
+Una de ellas es la ecografía, cada vez más usada a pie de cama o en consulta. Permite explorar las vísceras abdominales o incluso el pulmón y, cómo no, adivinar el sexo de nuestro bebé sin que con ella corramos el más mínimo riesgo.
+
+Otra alternativa es la resonancia magnética, usada principalmente para explorar las partes blandas del cuerpo, aunque es más lenta de realizar que el TAC, por lo que, por ejemplo, si se quiere detectar un sangrado cerebral se optará por esta última. Sin embargo, en otros muchos casos sí puede sustituirse.
+
+Mientras tanto, la directiva Euratom, destinada a mejorar la protección radiológica, espera a ser aprobada con retraso al tiempo que España transita por la cuerda floja de la sanción; de hecho nuestro país es el tercer estado de la Unión que acumula más causas abiertas por conflictos entre la normativa comunitaria y la nacional y se erige como el ‘rey de las multas’ en Europa: siete de cada 10 euros que la Comisión Europea se ha cobrado por este concepto provienen de fondos patrios. Desde el Ministerio de Energía, Turismo y Agenda Digital, el organismo encargado de la implementación de la norma, aseguran que están trabajando en ello “analizando las aportaciones recibidas en fase de consulta” para tramitar el real decreto correspondiente.

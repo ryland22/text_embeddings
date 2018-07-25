@@ -1,0 +1,11 @@
+Computer scientists from Italy's Politecnico di Milano created a set of AI-generated game designs that are so good that AI programs analyzing it pegged it as manmade. The team opted to experiment with legendary first-person shooter, DOOM. First released in 1993, DOOM has been a hotbed for experimentation. While the AI-generated DOOM runs on a standard computer, previously, people have figured out how to run the game on toasters, billboard trucks, calculators, and even thermostats.
+
+Advertisement - Continue Reading Below
+
+Scientists trained a Generative Adversarial Network (a model based on Artificial Neural Networks) to create new maps for the game. The network uses two artificial intelligence algorithms, working both with and against each other. The first AI, a generative network, analyzes data from 1,000 human-created levels, including levels from the original games, and user-created levels, then designed similar looking levels on its own, factoring in the number of rooms on a level, size of a level, height of walls, locations of objects and other details to replicate man-made levels.
+
+The discriminator network then reviews the first AI's levels. It scans original levels, and pegs each as manmade or AI-generated, and uses that data to check the generator AI's creations. The process created numerous levels that looked plausible, and except for a few glitches, were completely playable. "Most generated levels have proved to be interesting to explore and play due to the presence of typical features of DOOM maps (like narrow tunnels and large rooms)," the scientists explained.
+
+This could mean great news for game developers: according to researchers, content creation is "one of the most expensive and time consuming tasks in the game development process." Level design, for instance, require extensive time and play testing for game researchers. If AI can take over the arduous task instead, human designers can focus their attention on higher-level features instead. It could be a boost to game-designers on a budget, and maybe lead to more intricate, human-and-AI collaborative game levels in the future.
+
+(via Futurism)

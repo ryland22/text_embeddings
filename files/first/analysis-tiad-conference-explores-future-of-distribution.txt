@@ -1,0 +1,85 @@
+The recent Technology & Innovation in Airline Distribution (TIAD) conference in Bangkok, jointly organised by FlightGlobal and T2RL, explored the technological issues and challenges facing airlines as they court increasingly tech-savvy consumers.
+
+Topics covered a range of areas, with airlines and suppliers discussing everything from how to deal with online travel agents and search engines, to keeping digital travellers engaged through personalisation and the correct timing of communications.
+
+CTRIP DRILLS DOWN
+
+In a keynote speech, Quanwu Xiao, director of big data and analytics at Ctrip, discussed how the company uses data for marketing. Data exclusive to Ctrip includes customer feedback, search data, and buyer data. Other data informing its marketing efforts are weather, third party data, passenger name record data, search data, and other buyer data.
+
+“Eighty percent of our bookings come through our mobile app,” he says.
+
+One system the company uses to expedite user searches for air ticket prices is what Xiao calls pre-search, which cuts the number of milliseconds a customer waits for ticket price information. While a passenger is conducting a search, Ctrip will anticipate his pressing the search button, and conduct the search before the user.
+
+The results are cached on the passenger’s mobile device, and pop up immediately when the search button is pressed. The process, transparent to users, gives the impression of a much faster response time. Pre-search covers about 60% of the company’s searches, and helps retain impatient customers.
+
+Xiao also made a pitch to airlines about how Ctrip can partner with them. He says Ctrip’s scale gives it the data to predict prices and demand, spot anomalies, and help with route analysis.
+
+THE SEARCH ISN'T OVER
+
+One panel discussed online search. Bert Craven, chief strategy and research officer at T2RL, said that the number of searches for pricing hitting airline servers is growing, and search will place more demands on airlines. Unfortunately, a large portion of searches will not lead to a direct sale, as they are conducted by scrapers and aggregators. This type of traffic is also not conducive to the airline controlling the ultimate offer to passengers.
+
+One issue that came up is the advent of smart speakers, such as Amazon’s Alexa and Google Home. As people who ask for a flight will not be willing to listen, voicemail style, to a long menu of flight options and ancillaries, the offer has to be exactly right immediately.
+
+“This type of intermediary will push technology even further,” said John Stewart, senior vice president of sales at Farelogix. “People won’t listen unless it’s the right offer, and this is something we’ve already seen with mobile platform.”
+
+REVENUE MANAGEMENT: GRAPPLING WITH A DARK ART
+
+A panel on inventory and revenue management observed a trend whereby full-service carriers manage their domestic revenue networks like a low-cost carrier, with lower fares, while the international network uses a more traditional revenue management approach.
+
+Revenue management will continue evolving into a full dynamic pricing model, but will go through three phases. The first phase, where most airlines now sit, places seats in pricing buckets, thus creating fare bands for specific seats. The next state will be dynamic ticket pricing within each class based on passengers’ willingness to pay. The final phase will be the so-called “class-less fare,” whereby the price is determined in real time.
+
+The question came up about whether artificial intelligence is about to play a major role in revenue management. Steven Buchers, senior director sales & support APAC at Revenue Management Systems, said that it will eventually have an impact, but right now it is mainly a buzzword about which the industry is excited.
+
+“AI will provide some benefit, but it is more buzz anything substantial,” he said.
+
+A subsequent workshop on revenue management highlighted issues with using machine learning to develop AI for this process. First, machine learning is entirely reliant on accurate data to generate the correct AI decision making. Inaccuracies and anomalies can hurt the resulting AI process. Second, machine learning must also have accurate pricing data from other airlines.
+
+One airline representative expressed dissatisfaction with the providers of revenue management software.
+
+“Sometimes suppliers don’t understand airlines’ commercial needs,” he said. “In many cases they provide closed products, which we can’t customise. If a process is not used by other airlines or is in the development roadmap, you’re in trouble.”
+
+This means that revenue management analysts often need to make manual overrides. “This is cumbersome and leads to more paperwork. Adding complexity, analysts tend to conduct overrides in their own individual fashion.”
+
+THE CHINESE PAYMENT PARADOX
+
+One panel explored payments and distribution in China. Everyone agrees China is a crucial market that will have a profound influence on the airline business even beyond its borders – but it isn’t easy.
+
+“If you don’t go to China, China will eventually come to you,” said Michael Moore, managing partner at T2RL.
+
+Annemarie Perry, partner director – airlines and travel at Worldpay, discussed China’s penchant for QR codes. “These are the preferred way to pay for things in China, but how do you translate this into the airline ticketing environment? If you are a Chinese carrier looking abroad, how do you process those payments?”
+
+Amine Boulaghmen, head of IATA Settlement Services, said that it is essential for airlines to accept payments in the form the customer prefers. “The moment you don’t accept a payment, you lose a passenger forever.”
+
+One challenge is China’s “Great Firewall,” which blocks access to most Internet sites beyond China’s borders. One airline representative said her company’s web site works in China, but that the firewall creates problems with payments.
+
+Ctrip’s Xiao added that Chinese passengers dislike emails. If airlines want to communicate with them, it is best to use SMS or chat.
+
+THE FUTURE OF DISTRIBUTION
+
+A panel on the future of distribution tackled how to appeal to the always-connected “digital traveller.”
+
+Patee Sarasin, former chief executive of Thai low-cost carrier Nok Air, said that the expectations of passengers have changed over the years. He told the story about how Nok scored an early coup by setting up 7-11 convenience stores as a distribution channel for tickets during the 2000s.
+
+On the critical issue of how to provide travellers meaningful, useful communications on small smartphone screens, he said timing was everything.
+
+“When the passenger is at the baggage carousel, for example, the app can ask if they received their bags. If they haven’t, then it can help the airline take the right action.”
+
+IATA’s Boulaghman added that getting payments right is a key element to the digital experience. He said Uber, where riders leave the car and their credit card is debited automatically, is a good example of how seamless this process can be.
+
+An IT executive from an airline stressed that when developing an app, airlines should not to be too ambitious from day one, but rather add capability incrementally.
+
+“Don’t put all your dreams in one bucket, because you won’t get there,” she said. “You’ll end up with a mishmash of functions.”
+
+She listed a number of challenges. These include the desire to develop the app too quickly, suppliers’ failure to meet deadlines, and the involvement of other departments internally. One team that has to be brought onboard from day one is IT security, as security prerogatives can have a major influence on the functionality of the finished app.
+
+THE CASE FOR NDC
+
+Yanik Hoyles, director of the New Distribution Channel (NDC) at IATA, gave the conference’s final presentation. To clarify exactly what NDC is, he stressed that it is a technology standard that allows airlines to provide the same range of offerings through online travel agents and global distribution systems (GDS) as through their own website.
+
+In a call to airlines to embrace NDC, Hoyles contended that it offers a competitive advantage. “Technology is moving. If you want to take part you should do so now, because then you can influence it.”
+
+He added that the investment banking community feels that NDC is a positive step. A Deutsche Bank report in February stated that “distributive freedom” could boost the European airline sector’s EBIT (earnings before interest and tax) by 20%. A Citibank report held a similarly rosy view.
+
+During a subsequent panel, Ian Tunnacliffe, editor in chief of T2RL, said that airlines first need a clear idea of their ultimate objectives before implementing NDC.
+
+“First, airlines need to get their commercial and products strategies to where they want them,” he said. “What are you trying to achieve and what do customers expect? NDC is the icing on the cake that will let you deliver it to the channel.”

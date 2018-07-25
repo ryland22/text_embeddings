@@ -1,0 +1,9 @@
+The avionics software on Beechcraft King Air 350i and 350ER turboprops equipped with Rockwell Collins Pro Line Fusion flight decks has been upgraded to make iTAWS (Integrated Terrain Awareness and Warning System) a standard feature, “improving situational awareness and navigation capabilities” and reducing complexity, said Textron Aviation (Booth V19).
+
+ITAWS “brings aural and visual warnings to the primary flight display and multi-function displays, and eliminates the standalone TAWS line-replaceable unit along with all related wiring and complexity,” the company announced at EBACE 2018.
+
+In addition, two new options are now available on the King Air 350i. The first is mobile enablement to allow wireless chart and flight plan uploads, and the second is multi-scan radar with turbulence detection that automatically detects short-, mid- and long-range weather.
+
+Rob Scholl, Textron Aviation senior v-p of sales and marketing, said, “Integration of the latest technology and comfort throughout the cockpit and cabin have made the Pro Line Fusion-equipped King Air 350i a success since it achieved certification and entered service in late 2015," said Rob Scholl, Textron Aviation senior v-p sales marketing. “Better navigation, more accurate storm information and increased situational awareness lower the pilot workload and boost the comfort of everyone on board.”
+
+All new King Air turboprops come equipped with Pro Line Fusion flight decks. The company said it expects to roll out iTAWS on the King Air 250 in the near future. Pilot training for the Pro Line Fusion King Airs is offered at TRU Simulation + Training’s new ProFlight training center near Tampa, Florida.

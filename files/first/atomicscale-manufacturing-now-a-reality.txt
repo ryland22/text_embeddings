@@ -1,0 +1,86 @@
+Atomic-scale manufacturing now a reality
+
+
+
+by Staff Writers
+
+
+
+Edmonton, Canada (SPX) May 25, 2018
+
+
+
+Scientists at the University of Alberta have applied a machine learning technique using artificial intelligence to perfect and automate atomic-scale manufacturing, something which has never been done before. The vastly greener, faster, smaller technology enabled by this development greatly reduces impact on the climate while still satisfying the insatiable demands of the information age.
+
+"Most of us thought we'd never be able to automate atomic writing and editing, but stubborn persistence has paid off, and now Research Associate Moe Rashidi has done it," said Robert Wolkow, professor of physics at the University of Alberta, who along with his Research Associate has just published a paper announcing their findings.
+
+"Until now, we printed with atoms about as efficiently as medieval monks produced books," explained Wolkow.
+
+"For a long while, we have had the equivalent of a pen for writing with atoms, but we had to write manually. So we couldn't mass produce atom-scale devices, and we couldn't commercialize anything. Now that has all changed, much like the disruption following the arrival of the printing press for those medieval monks. Machine learning has automated the atom fabrication process, and an atom-scale manufacturing revolution is sure to follow."
+
+Doing more with less
+
+This new discovery builds on Wolkow's extensive body of work in creating solutions to drive atomic-scale low-power electronics. The physicist has devoted his career to pushing atomic-scale manufacturing forward in response to not only the rapidly changing needs of our information age but also the changes to our climate.
+
+Some estimates predict that if we continue on pace with our current energy consumption habits, by 2025, the information and communication technology industry would not only consume 20 percent of the world's energy but also contribute more than five percent of the global carbon emissions.
+
+For Wolkow, this all adds up to an urgent need for a new basis for our electronics, something which he predicts will be powered by atomic-scale fabrication and mass manufacturing, now possible thanks to his new discovery.
+
+"Fabrication at the ultimate small scale not only lets us do things better, but we can also create entirely new functions that conventional technology simply cannot do. Combining that with a practical path to manufacturing will be game changing. This allows us to create a new, extremely efficient basis for computing using the natural properties of individual atoms."
+
+Research Report: "Autonomous Scanning Probe Microscopy in-situ Tip Conditioning through Machine Learning"
+
+
+
+
+
+Related Links
+
+University of Alberta
+
+Nano Technology News From SpaceMart.com
+
+Computer Chip Architecture, Technology and Manufacture
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Andalusia, Spain (SPX) May 21, 2018
+

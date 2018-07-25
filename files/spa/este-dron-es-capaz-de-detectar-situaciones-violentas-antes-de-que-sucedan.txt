@@ -1,0 +1,17 @@
+El libro “1984”, de George Orwell nos dejó claro que siempre hay, por pequeño que sea, un Gran Hermano observando todo lo que hacemos. Muchas veces ni nos damos cuenta, pero está ahí. ¿Sabíais que de media, un ciudadano estadounidense es captado en imágenes de Circuitos Cerrados de Televisión, una 75 veces al día? ¿O que esta cifra aumenta a más de 300 veces para los ciudadanos británicos? Da miedo, ¿verdad?
+
+Ahora este “observador” no se quedará fijo en la esquina de una pared con una lucecita roja grabando. Al contrario, será capaz de volar sobre nosotros y ayudará a la Policía a detectar situaciones violentas antes de que estas se produzcan. Una forma de poder adelantarse en momentos de peligro y llegar antes a los lugares donde es probable que vaya a ocurrir una desgracia: ya sea en forma de disturbios, peleas, terrorismo…
+
+El proyecto que os presentamos se trata de un trabajo de la universidad británica de Cambridge y el Instituto Nacional de Tecnología de la India. Han logrado construir un sistema de vigilancia que se puede usar en actos de grandes aglomeraciones para poder detectar dónde se encuentran las situaciones que tienen más probabilidades de convertirse en peligrosas. Estos dispositivos están equipados con tecnología de Inteligencia Artificial que se sirve de diferentes algoritmos con los que identificar en pocos segundos los disturbios y poder llamar cuanto antes a los servicios de emergencia.
+
+Imaginaros lo que puede suponer tener este ojo extra en el aire en acontecimientos como conciertos, protestas, maratones… De ahí que lo hayan llamado como “Eye in the Sky” (Ojo en el Aire).
+
+University of Cambridge/National Institute of Technology/Indian Institute of Science
+
+¿Cómo funciona esta tecnología?
+
+El dron es capaz de detectar los 14 puntos del cuerpo humano necesarios para poder reconocerlos desde el aire. Para ello, han tenido que entrenar a esta tecnología con imágenes desde el aire de personas, para que sea capaz de identificarlos y no confundirlo con otra persona. Además, dependiendo de cómo se estén moviendo es capaz también de identificar en un 85% qué tipo de infracción se está cometiendo.
+
+Para lograr toda esta información el algoritmo fue entrenado con un análisis pormenorizado de 2.000 imágenes captadas de 25 participantes que tuvieron que mostrar actitud violenta entre ellos. Parece que es una tecnología a la que le quedan años, pero estará en activo en octubre para una primera experiencia piloto, con la que poder mejorar de cara al futuro.
+
+Fuente: DigitalTrends

@@ -1,0 +1,88 @@
+Visual homing for micro aerial vehicles using scene familiarity
+
+
+
+by Staff Writers
+
+
+
+Washington DC (SPX) May 10, 2018
+
+
+
+In a paper to be published in Unmanned Systems, a group of researchers have discovered that a navigation algorithm proposed by Baddeley et al. is able to allow MAVs to find their way back to an earlier visited location fairly quickly and efficiently, allowing it to function more similar to a flying insect.
+
+Here's a riddle an unmanned systems engineer might ask you someday: how does a Micro Aerial Vehicle (also known as an MAV) resemble a flying insect? Well, you might say in response, both MAVs and flying insects must navigate unknown complex environments.
+
+But an insect's brain is small, and an MAV cannot perform heavy computations and often does not have a good sensor system. As a result, both the insect and the MAV must rely on simple, efficient navigation mechanisms that do not overtax their capacities. When developing an MAV, the challenge is therefore to write a navigation algorithm that works well without requiring lots of computing power.
+
+One such algorithm, proposed by Baddeley et al., uses cameras to determine if a view is familiar to an MAV. If the view is familiar, the MAV must have passed that way before. By evaluating many such views for familiarity, the MAV can determine the correct direction to an earlier visited location. A small neural network is also used to store and recapitulate a route so that the initial location can be found. Baddeley et al. assert that this algorithm would make it unnecessary for the MAV to construct a map of its surroundings - a process that is frequently power-intensive.
+
+A team of scientists comprising Gerald J. J. van Dalen, Kimberly N. McGuire, and Guido C. H. E. de Croon have put this algorithm to the test by using it in more realistic environments than those created by Baddeley et al. for their own experiments with the algorithm.
+
+The team also tested the algorithm on different image representations (raw pixels, colours and spatially invariant information) to see the impact of different image parameters. In addition, two methods of view representation were tested to determine which one produced superior results: a stored set of image representations (referred to as perfect memory) or an unsupervised neural network (known as Infomax). The sensitivity of the algorithm was tested during both rotation and translation as well.
+
+In the rotation condition, the MAV was made to perform a 360 degree turn at a fixed location in the environment, in steps of 5 degrees. The views 'seen' by the MAV during this exercise are compared to a previously stored image drawn from that location. The team's hypothesis is that familiarity should improve as the current view begins to resemble the stored image.
+
+In the translation condition, the MAV was made to move from a given point along a given path towards a location in the environment. Again, the views 'seen' by the MAV during this exercise are compared to a previously stored image drawn from that location. The team's hypothesis is that familiarity should improve as the distance between the MAV and the view in the stored image gets smaller.
+
+To test the sensitivity of the algorithm, the team has experimented with increasing the distance between the MAV and the view in the stored image, as well as increasing the heading angle at which the MAV approaches said view.
+
+The results of this study suggest that the algorithm is a promising one. When tested, the MAVs performed well in several ways: they could accurately find their way back to an earlier visited location, they could do so fairly quickly, and they did not use very much computing power to achieve this. This has exciting implications.
+
+As this algorithm is computationally efficient, it could probably be applied to most MAVs to give them homing capabilities. You'd be able to send your MAVs out to collect data, secure in the knowledge that wherever they go, they'll be able to come straight back to you afterwards.
+
+The paper in question will be published in the next issue of Unmanned Systems. Readers who would like to know more about the research described here are invited to read it then.
+
+Research paper
+
+
+
+Related Links
+
+World Scientific
+
+UAV News - Suppliers and Technology
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington (UPI) May 8, 2018
+

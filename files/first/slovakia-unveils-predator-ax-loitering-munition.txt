@@ -1,0 +1,11 @@
+Slovakian companies Incoff Aerospace and Compel Industries presented a new lightweight loitering munition development at the IDEB 2018 exhibition in Bratislava on 16–18 May.
+
+Development of the new loitering munition, designated Predator AX-1, began in May 2017 in response to a Slovak Ministry of Defence (MoD) requirement for an expansion of its unmanned systems inventory.
+
+Predator AX-1 is manufactured from carbon fibre composites and features a mid-body wing set unfolded mechanically after launch. Powered by two electric motors with slewed push turbine propulsion, the loitering munition system is equipped with a 40 mm calibre warhead section originally developed for the RPG-7 rocket-propelled grenade launcher offering both PG-7VM HEAT-T or TB-7V thermobaric warhead options. Predator AX-1 features a dual-axis stabilised ULIS Pico640 Gen2 thermal imaging sensor for target identification and acquisition.
+
+Predator AX-1 is 1,120 mm in length and 300 mm in width; its height with stowed wings is 155 mm, wingspan with unfolded wings is 1,860 mm, and the span of its tail surfaces is 690 mm. The maximum launch weight of the system is given as 10 kg, including an optimal payload of 2 kg; minimum flight speed (stall speed) of air vehicle is 130 km/h, maximum speed is 250 km/h, and regular cruise speed is 190 km/h. The system’s maximum operational range given as 20 km and total flight/loitering endurance as 20 minutes.
+
+The ground-launched application of the Predator AX-1 system features the loitering munition, launcher, and ground station, all of which is backpack-portable by the operator. Additional munitions can also be carried by the operator, who can control up to three Predator AX-1 systems from the ground station.
+
+Incoff Aerospace and Compel Industries are currently focused on the ground launched application of the system, although company officials disclosed that a parallel initiative is evaluating an air-droppable variant, potentially from the Incoff Aerospace/Compel Industries developmental FX-1 fully-composite optionally piloted air vehicle.

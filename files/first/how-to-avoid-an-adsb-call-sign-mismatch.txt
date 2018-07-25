@@ -1,0 +1,27 @@
+By TOM HOFFMANN, Managing Editor, FAA Safety Briefing
+
+Your aircraft’s registration number or approved call sign is critical to the integrity of the ADS-B Out system, defining who you are in the National Airspace System (NAS).
+
+But what happens when your ADS-B name is different from your given name?A large number of operational inconsistencies with ADS-B Out result from a naming problem or Call Sign Mismatch (CSMM). This occurs any time the aircraft identification listed in a flight plan does not exactly match the ADS-B transmitted identification.
+
+A 31-day snapshot of U.S. air traffic data in December 2017 revealed a total of 31,324 flights with a CSMM. Most — 67% — were from commercial operators using special call signs, while GA accounted for nearly 17%. Approximately 50% of these GA aircraft were improperly programmed during installation.
+
+A CSMM can lead to significant operational difficulties for air traffic controllers, including distraction and increased workload.
+
+For GA, the problem typically stems more from operators who use specialized call signs, like air ambulance flights, rather than most GA flyers.
+
+For the average GA pilot however, the N-number is always the call sign. So, if you own your own aircraft and your ADS-B Out system was properly installed and configured to ensure your registration or N-number mirrors what your ADS-B unit is transmitting, you’re good to go.
+
+The best way to verify this is to check your system with the FAA’s Public ADS-B Performance Report (PAPR) tool at ADS-B Performance.
+
+Simply fly in an area of ADS-B coverage and then submit a request. PAPR reports are typically delivered within 30 minutes and can verify if your system’s call sign is matched properly with your aircraft, as well as detect any other operational deficiencies with your ADS-B transmitter.
+
+Some CSMM issues are caused by a simple typo when the technician is first configuring the ADS-B unit. If that’s the case, your repair shop should be able to help correct it. If the aircraft identification input on your unit can be manually configured, you may be able to update it yourself.
+
+Where the CSMM issue tends to be more frequent is with operators who use specialized call signs during a flight that differ from the aircraft’s registration number. For example, one of the more common special call signs, “Compassion,” is used by the many public benefit flying groups that make up the Air Care Alliance (e.g., Angel Flight, Pilots N Paws, etc.).
+
+Special call signs are mainly used to enable priority handling by ATC. These might include civil aircraft used for law enforcement, supporting medical emergencies or disasters, or organized events. Operators flying civilian air ambulance flights, for example, might use the call sign “Medevac” or “Lifeguard” and coordinate with ATC on any expeditious handling required.
+
+There are also local call signs which are used only for local flight operations as specified in a letter of agreement (LOA) between the local ATC facility and the requesting aircraft operator. Some larger flight schools might have an agreement to use a local call sign to reduce confusion and ambiguity among several similar sounding aircraft operating in close proximity.
+
+“When the average GA pilot is authorized to use a special call sign, they don’t always realize that what they use as a name on their flight plan has to match what their ADS-B unit transmits,” says James Kenney, an aviation safety inspector with the FAA’s Flight Technologies and Procedures Division in Flight Standards. “If you’re transporting rescue dogs and using the call sign ARF234, that’s great. But just remember you have to change your ADS-B aircraft identification to match that call sign. If your ADS-B doesn’t allow you to update the name, you’ll have to revert to using your N-number instead.”

@@ -1,0 +1,51 @@
+Hac clic para enviar por correo electrónico a un amigo (Se abre en una ventana nueva)
+
+Ahora, sus hallazgos y datos recuperados de la misión Apolo que no habían sido publicados previamente pueden ver la luz del día
+
+Durante los últimos ocho años, un equipo de investigadores se ha dedicado a recuperar los datos perdidos y resolver el misterio de por qué al Luna se calentó
+
+(CNN) - Las misiones Apolo de la NASA en los años 60 y 70 no solo sirvieron para que los estadounidenses aterrizaran en la superficie lunar, sino para responder preguntas clave sobre la luna que solo podían responderse yendo allí.
+
+
+
+MIRA: Luna de Fresa 2018: ¿qué es y cuándo es el mejor momento para ver esta luna llena?
+
+Como sucede a menudo, esas respuestas a veces suscitan más preguntas o, como en este caso, un misterio permanente.
+
+Durante las misiones Apolo 15 y 17 en 1971 y 1972, los astronautas instalaron sondas en dos sitios para medir la temperatura de la Luna debajo de la superficie. El programa Apolo finalizó en 1972, pero datos brutos sobre la temperatura de la superficie de la Luna, y unos pocos metros debajo, se transmitieron desde las sondas y se grabaron en cintas magnéticas en el Centro Espacial Johnson de la NASA en Houston desde 1971 hasta 1977.
+
+En 1974, el subsuelo de la Luna aumentó inesperadamente en temperatura de -7 grados centígrados a 2 grados centígrados cerca de las sondas. Las razones posibles de este cambio fueron debatidas por los científicos planetarios durante décadas. El misterio solo fue profundizado pues las cintas de la misión que explicarían los datos de temperatura de 1975 a 1977 se perdieron.
+
+Durante los últimos ocho años, un equipo de investigadores se ha dedicado a recuperar los datos perdidos y resolver el misterio. Ahora, sus hallazgos y datos recuperados de la misión Apolo que no habían sido publicados previamente pueden ver la luz del día. El estudio fue publicado este mes en el Journal de la Unión Geofísica Americana.
+
+MIRA: Un empresario australiano ofrece recompensa para quien resuelva el misterio de este geoglifo
+
+Un misterio que duró décadas
+
+El objetivo del experimento de flujo de calor del Apolo fue medir la velocidad a la que la Luna está perdiendo energía térmica, escribió en un correo electrónico Walter Kiefer, autor del estudio y científico sénior del Instituto Lunar y Planetario de Houston.
+
+"Esto es importante porque controla la tasa de actividad geológica interna en la Luna", dijo Kiefer. "Por contexto, la energía térmica que sale de la Tierra controla la velocidad a la que se mueven las placas geológicas de la Tierra, el desarrollo de las cadenas montañosas, la actividad sísmica y las erupciones volcánicas".
+
+Una vez que los datos de la temperatura original se grabaron en cintas, se entregaron a los científicos de la misión para su análisis y archivo. Pero las cintas de 1975 a 1977 nunca se archivaron.
+
+"El misterio persistió durante tanto tiempo porque nadie estaba trabajando en este problema", dijo Kiefer. "La NASA comenzó un esfuerzo para recuperar datos de misiones antiguas [Apolo y otras naves espaciales] en 2010, cuando nuestro equipo comenzó a trabajar en este problema".
+
+En el Centro Nacional de Registros de Washington se encontró un conjunto separado de cintas de archivo que incluyen datos de abril a junio de 1975. Los registros semanales que incluyeron las lecturas de temperatura de las sondas, que abarca desde 1973 hasta 1977, se encontraron en el Instituto Lunar y Planetario en Houston para llenar los vacíos.
+
+Pero los datos tenían que ser recuperados de las viejas cintas para ser utilizables y luego analizados. Este proceso llevó años, pero los esfuerzos de recuperación de datos tuvieron éxito.
+
+En el momento del experimento inicial, los científicos de la misión no esperaban ver este calentamiento en el sitio de las sondas. Los datos inesperados los hicieron sentir inciertos.
+
+"Al agregar los nuevos datos al estudio, ahora entendemos las tendencias de los datos y podemos interpretar de manera confiable los resultados del experimento", dijo Kiefer.
+
+Caminando en la luna
+
+Una vez que todas las piezas del rompecabezas de los datos se volvieron a unir, los investigadores pudieron analizar los escenarios sugeridos anteriormente para saber qué fue lo que hizo que la Luna se calentara.
+
+Según el conjunto de datos, el calentamiento se produjo en la superficie de la Luna y viajó al subsuelo. Los investigadores también pudieron observar las imágenes recientemente adquiridas de la Cámara Lunar Reconnaissance Orbiter sobre los dos sitios de aterrizaje.
+
+El único escenario que se ajusta a este tipo de calentamiento es que los astronautas lo causaron.
+
+Mientras conducían un rover sobre la superficie, caminando e instalando las sondas, perturbaron la superficie de la Luna, que está cubierta de regolito, una capa de polvo y escombros. Las imágenes de la cámara muestran que esos caminos eran más oscuros, lo que redujo su albedo, o la capacidad de reflejar la luz del sol en el espacio.
+
+"Esto fue muy localizado en las regiones donde los astronautas trabajaron extensamente", dijo Kiefer. "En estas áreas, las huellas de los astronautas oscurecieron ligeramente el regolito lunar [o tierra], haciendo que el regolito absorba más luz solar y se caliente. Esta era una región de 50 a 100 metros de diámetro en la zona de despliegue del experimento y de tamaños similares o más pequeños en la recolección de muestras se detiene. Fuera de estas zonas, los astronautas tuvieron poco o ningún efecto en las temperaturas subsuperficiales".

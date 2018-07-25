@@ -1,0 +1,23 @@
+For many of us this time of year means weekends at the beach and evenings at the pool, but for America’s students, many of whom are still in school — and some without air conditioning — the start of summer can be a challenging time for paying attention in class.
+
+A working paper distributed this week by the National Bureau of Economic Research aims to quantify exactly how hard it is for students to learn when it’s hot. Researchers found that temperature and air conditioning makes a difference — and that students from poorer communities are more likely to be learning in uncomfortable conditions.
+
+In schools without air conditioning, every 1 degree Fahrenheit increase in temperature correlates to about a 1 percent decrease in learning, the study found. To measure the amount learned by students, researchers analyzed 10 million students’ scores on the PSAT, a standardized test students can take in 10th or 11th grade and often take in both years. Researchers looked at students who took the test twice and compared each of their scores to one another as well as the temperature in the year leading up when they took the test.
+
+What they found: Students’ scores tended to be higher in the year the temperature was lower.
+
+“When we’re hot we get distracted, it’s literally hard to focus because we are physically uncomfortable,” said Joshua Goodman, a public policy professor at Harvard’s Kennedy School. “The time students are spending in school that’s hot is literally less good for learning.”
+
+Goodman said he and his co-authors were inspired to study the relationship between heat and learning because of other evidence both in the US and internationally that students who live in warmer climates tend to score lower on measures of educational attainment. But they found that heat can actually be particularly detrimental to learning in cooler parts of the country because schools in these regions are less likely to be equipped with air conditioning, which mitigates the damage caused by heat.
+
+And it’s the schools with larger shares of low-income and minority students that are less likely to have air conditioning. For students who live in zip codes in the lowest quintile of average income, a school year that’s 1 degree hotter is three times as damaging to their academic achievement as it is to the progress of a student living in an area in the highest quintile of average income. Heat is also three times as damaging to the academic achievement of black and Hispanic students as it is to white students, the researchers found.
+
+“There’s a geographic component to that and then there’s a socioeconomic component as well,” Goodman said. “One simple policy conclusion that comes out of this is that local and state governments might want to make funds available for improvements in school infrastructure.”
+
+Though installing air conditioning in schools that don’t already have it may be expensive, the benefits, likely outweigh the costs, the researchers find. If more students are in an environment that’s conducive to learning, that will ultimately result in more economic success for the students, which could benefit the region, Goodman said.
+
+But upgrading school infrastructure can be a hard commitment for local governments to make. “You have to raise the money now and the payoffs don’t come for a while,” Goodman said.
+
+In the meantime, addressing school temperature is becoming a more acute challenge, given that our world and our schools are likely to become hotter due to climate change. What’s more, if officials don’t act to mitigate school temperature, it will likely exacerbate inequality.
+
+“In terms of student learning, you’d expect climate change to have stronger impacts on lower-income communities where school air conditioning is less common,” Goodman said.

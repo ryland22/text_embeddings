@@ -1,0 +1,15 @@
+Bombardier’s surprise launch of the Global 5500 and 6500 business jets finally reveals a secret, six-year-old development and certification programme for the Rolls-Royce Pearl 15, a new family of engines dedicated to preserving the engine manufacturer’s presence in the large-cabin sector for the next generation of business jets.
+
+“We are pretty confident it is the most efficient engine core in the business aviation market,” Richard Goodhead, R-R’s senior vice-president of marketing, tells Flight Evening News.
+
+The striking visual in the EBACE static display of two recently certificated Pearl 15 engines installed on a flying Global 6500 flight test aircraft resets a public narrative that has long questioned R-R’s continued relevance in a large cabin market that it had once dominated.
+
+Only four years ago, R-R’s centre for business jet engines in Dahlewitz, Germany seemed cast adrift. Gulfstream, a longtime partner, had selected Pratt & Whitney Canada’s PW800 engine to power the G500 and G600. Bombardier, another strong R-R client, had selected GE Aviation’s Passport engine for the Global 7000 in 2010. To an outsider, it appeared that R-R’s long dominance of the engine market for large cabin aircraft was over, with no new applications for the company’s future Advance2 propulsion concept.
+
+But it was all an elaborate smokescreen. Bombardier selected the Advance2 concept in secret in 2012 to power an equally quiet re-engining of the Global 5500 and Global 6500. Keeping competitors in the dark, R-R breezed through a series of milestones on the new Pearl 15, which is named after rivers in the southeast of China and the USA. The first ground test was completed in 2015, says Goodhead. A fleet of six test engines has compiled more than 6,000 cycles on 2,000 test hours, he adds. EASA certificated the Pearl 15 last February, although the type certificate data sheets were not released publicly.
+
+The layout of the Pearl 15’s engine core is strikingly similar to the company’s BR.725. It features a 10-stage high-pressure compressor, although with six instead of five stages of blisks. The compression ratio is 50% higher, rising to 24:1 on a faster rotation speed and a more advanced cooling system, Goodhead says. It uses a new combustor that leverages advances introduced on the Trent XWB engine family. Like the BR.725, the Pearl 15 uses a two-stage high-pressure turbine.
+
+The low-pressure section also bears a similar profile to the BR.725, yet is significantly more efficient in operation. The 24 titanium fan blades match the profile and 50in-diameter of the BR.725, but use a lighter fan containment system.
+
+The result of all the improvements is a 7% increase in thrust-specific fuel consumption compared with the BR.710, which is the R-R engine it replaces on the Bombardier 5000 and 6000 business jets.

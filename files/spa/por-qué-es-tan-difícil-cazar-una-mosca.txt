@@ -1,0 +1,27 @@
+Con no poca habilidad vendedora, la nota de prensa de la revista Science anunciaba así, hace poco, la investigación: “Las moscas de la fruta usan una táctica de evasión similar a la de los aviones de caza”. Pero se quedaban cortos: lo cierto es que la Drosophila hydei se reiría del piloto más hábil en una lucha aérea de igual a igual, a juzgar por lo que cuenta el artículo científico de la Universidad de Washington.
+
+Allí, el profesor de biología Michael Dickinson y su compañero e investigador postdoctoral Florian Muijres explican la impresionante habilidad de esas moscas para zafarse de los peligros. Para ellos, este es solo el punto de despegue para sobrevolar el campo de la biomecánica, en el que la ingeniería trata desde hace años de aplicar en las máquinas lo que aprende del movimiento animal.
+
+Pero por lo pronto se han limitado a estudiar en su laboratorio cómo un insecto del tamaño de una semilla de sésamo varía su dirección en milésimas de segundo sin perder el control sobre su vuelo. Pero ¿por qué concretamente han experimentado con esta mosca? “Primero, porque es algo mayor que la Drosophila melanogaster [a la que también se llama mosca de la fruta], así que sus movimientos requieren más espacio; eso nos ayudaba a monitorizar mejor sus giros y a que el programa los registrara con más precisión”, cuenta Muijres a nuestra revista desde su despacho de la capital de EEUU.
+
+“Y también la hemos elegido”, continúa, “porque, no sabemos muy bien el motivo, pero eran más activas a la hora de moverse por el cubículo del experimento”. Se refiere a una especie de cilindro hueco cuyas paredes estaban hechas de luces led encendidas en verde, para atraer a los insectos.
+
+Ya saben cómo cambia de rumbo al huir, pero no cómo el trabajo de los músculos varía su rutina
+
+Cuando alguno cruzaba el haz de luz que formaban dos rayos láser, ocurrían dos cosas: parte de los leds cambiaban de color durante una centésima para simular una amenaza, y comenzaban a disparar tres cámaras de alta velocidad, dispuestas de modo ortogonal (mira la infografía de arriba).
+
+La conclusión es impresionante de puro efímera: el gran momento, aquel del que depende su vida ante el zarpazo de una bestia (humana o no) o de la lengua de un rápido camaleón, dura 5 milésimas de segundo. En ese instante, o emplean toda la maestría de vuelo que les ha concedido la evolución o están muertas. Contado y contabilizado de otro modo: de los 200 movimientos de batir de alas que una mosca realiza en un segundo, hay uno solo de ellos que se encarga de virar su cuerpo y comenzar un nuevo modo de aleteo que le permite cambiar súbitamente de dirección para huir. Preciso, sin transición que valga.
+
+Una cadera que ya quisiera Elvis
+
+¿Puede hacer esa maniobra tan abrupta y a la vez precisa un caza? No tan rápidamente, pero es cierto que su estrategia básica se parece: giro sobre sí mismo y cambio de velocidad. Al igual que los aviones de combate, los investigadores observaron que la mosca de la fruta hacía coincidir ese nuevo patrón de aleteo con un giro repentino de su torso: “Muchas de ellas rotaron sobre su propio eje más de 90 grados sin perder el control, que es mucho”, responden los dos investigadores estadounidenses. “Un giro más brusco podría hacerles volar hacia abajo, por eso no les interesa pasar a más”, añaden.
+
+La maniobra de escape es tan súbita e instintiva que la mosca no se para a pensar si la amenaza es de un tipo o de otro, si es una rama que el viento ha puesto en su camino de repente o si es un niño con un matamoscas. “No hemos probado exactamente si distinguen entre un obstáculo fortuito o un intento de caza de un depredador, pero sí parece que siempre actúan igual”, cuenta a Quo el postdoctorando. “Hicimos pruebas lanzando esos relámpagos más rápido y más lento, con movimientos más violentos [“pintando” de modo más súbito parte de la pared de leds] y la dinámica de las maniobras no variaba nunca”, añade el científico.
+
+El momento que evita un obstáculo o una amenaza dura 5 milésimas de segundo, y un aleteo. Luego, rota su torso y comienza a batir las alas de un modo diferente
+
+En realidad, las conclusiones las sacaron sobre todo de la parte más artesanal del experimento, y no tanto de las dos fases anteriores. Lo primero fue captar los vuelos, lo segundo, sistematizarlos mediante un programa de 3D, pero lo tercero fue reproducir esa coreografía materialmente. Los científicos crearon un robot con alas del tamaño de una mano que aleteaba a las órdenes del programa, a diferentes velocidades y dentro de una “piscina” de aceite, para que reprodujera proporcionalmente la resistencia del aire ante unas alas así de grandes y gruesas.
+
+Lo que no les queda claro es cómo la musculatura encargada de mover las alas cambia su reparto de trabajo. Se sabe que cuando las alas están arriba los músculos longitudinales dorsales (en la “espalda”) están relajados y los dorsoventrales (abajo) contraídos. Pero es cierto que algo diferente pasa en esos momentos de pánico, porque Muijres y Dickinson percibieron que la mosca aletea de un modo diferente cuando se activa el mecanismo de evasión.
+
+Antes del fogonazo, la Drosophila hydei mueve las alas de modo más plano, más de arriba abajo (aunque es mucho más complejo que eso), pero una vez activado el peligro, el insecto las bate más hacia adelante, de manera lejanamente similar al estilo mariposa de la natación. Pero eso es todo lo que saben. Y ahora andan con la mosca detrás de la oreja.

@@ -1,0 +1,77 @@
+Hablar de neutrinos es hablar de las partículas más esquivas del universo. Son 250.000 veces más ligeros que un electrón. Un neutrino no se deja atrapar así como así, aunque nuestro cuerpo llegue a escupir unos 5.000 en un solo segundo. Billones de ellos cruzan paredes y ventanas y nos brean a nuestro paso, pero no dejan rastro. Inés Gil, responsable del Grupo Experimental de Neutrinos de CIEMAT, no desiste en su empeño de cazar un neutrino en un detector de 24 toneladas de argón líquido. “A pesar de su abundancia, su detección es casi imposible por su escasísima interacción con la materia. Para atraparlos hay que esperar a que, en estos enormes tanques llenos de líquidos ricos en protones, con un chorro muy potente de neutrinos, hagamos que alguno colisione y produzca otras partículas con carga eléctrica que sí dejan rastro visible en el detector (con un haz de luz o la ionización del medio que atraviesan)”.
+
+La caza de neutrinos ayudará a saber por qué estamos hechos de materia y no de antimateria, si el big bang las creó igual
+
+Inés Gil trabaja en uno de los proyectos científicos más apasionantes hoy, está en la cima de la ciencia, con un pie en una de esas cumbres por las que caminan solo los premios Nobel. Cazar neutrinos podría explicar un día el origen del universo. Inés es consciente de la complejidad de la materia que estudia, y de la que es muy posible no conseguir resultados ni siquiera en este siglo. Algo parecido ocurre en la alta investigación sobre el cerebro humano. A día de hoy, ni siquiera es posible explicar cómo se almacena un recuerdo. Quienes editan genomas, como hace María Rosa Rocarolo en la Universidad de Stanford, saben que lo que tienen entre manos es solo la punta de un iceberg que un día cambiará a nuestra especie, y quienes, como Concha García Monje, trabajan con robots, avisan de que harán falta años para que un humanoide pueda coger un huevo sin que lo estalle con sus manos… Las doce científicas de este reportaje saben sobre todo esto.
+
+El origen del universo
+
+“Con los neutrinos procedentes de la explosión de estrellas podemos estudiar su muerte y colapso o la formación de estrellas de neutrones y agujeros negros en tiempo real. Además, los neutrinos podrían estar detrás de la explicación de por qué si el Big Bang creó igual cantidad de materia y antimateria, ese equilibrio se rompió y decantó un universo de materia, de la que estamos hechos”, explica Inés Gil.
+
+Células cancerosas (en verde) de un tumor de riñón que se dividen de forma caótica, a veces formando tumores.
+
+Alicia Sintes dirige el grupo nacional de investigadores del Observatorio LIGO, en EE. UU., un consorcio en el que participan 1.300 científicos de 18 países. Ella ha escuchado el sonido, en forma de ondas gravitacionales, de unas estrellas de neutrones en nuestra galaxia y el de una pareja de agujeros negros que se fusionaron a 3.000 millones de años luz de la Tierra. “Las señales son minúsculas y producen distorsiones en la distancia en detectores como LIGO por debajo de la milésima de un protón. Simplemente las mareas de los océanos, que circule un avión o mucho viento pueden distorsionar los datos”.
+
+Comprender el funcionamiento de las proteínas está resultando más complicado que el de los genes
+
+De momento, ni siquiera sabemos si la Tierra seguirá en su sitio dentro de 5.000 millones de años, cuando el Sol muera. O si habrá dejado de ser habitable. “Pero hemos entrado en el inicio de una nueva era en la astrofísica que se adivina espectacular e imparable”, advierte Sintes.
+
+La vida son ecuaciones
+
+2018 es el Año Internacional de las Matemáticas en Biología, lo que sugiere que las ciencias de la vida empiezan a plantear retos que solo pueden afrontar los matemáticos, como Elena Akhmatskaya, que dirige en el Basque Center for Applied Mathematics (BCAM) un grupo de modelado y simulación en ciencias de la vida. Está creando modelos y simulaciones detalladas de sistemas y fenómenos extremadamente espinosos que surgen en la industria, el medio ambiente, la salud y la sociedad. El desafío es traducir problemas físicos o biológicos al lenguaje matemático. Por ejemplo, Akhmatskaya colabora con centros como Biogune, especializado en tratamiento del cáncer, con un algoritmo creado para atacar el metabolismo del tumor. Se ha aplicado al mieloma múltiple, señalando a la proteína RRM1 como clave en su desarrollo.
+
+El misterio del proteoma
+
+Al misterio de por qué enfermamos trata de dar respuesta el Proyecto Proteoma Humano, que arrancó en 2010. Las proteínas son las responsables de todos los procesos biológicos en las células y tejidos, pero comprenderlas está resultando más complicado que entender el funcionamiento de los genes. Los resultados se utilizarán, entre otras muchas cosas, para descubrir biomarcadores útiles en el pronóstico de enfermedades.
+
+María Blasco: “El cáncer se nos resiste porque sus células son aberrantes y contienen muchas mutaciones”
+
+En el proteoma, como en el ADN y en el universo, también hay “materia oscura”, y en grandes cantidades. De las 20.230 proteínas que componen el mapa proteico, 2.186 son proteínas perdidas, aproximadamente un 11 %. No existe evidencia de su existencia en el organismo, pero representan uno de los mayores desafíos para completar el atlas del proteoma humano.
+
+“Se supone que existen por los datos obtenidos de la secuenciación del genoma y de los estudios de transcriptómica. Y sabemos que sus funciones pueden ser diversas: enzimas, receptores, hormonas…”, indica Concha Gil, directora de la Unidad de Proteómica de la UCM. Pero son difíciles de identificar. “Bien porque se expresan poco y, por tanto, son minoritarias en la célula; bien porque lo hacen de modo muy específico; o porque son muy pequeñas y casi imposibles de localizar mediante espectometría de masas”.
+
+En el empeño de frenar
+
+El envejecimiento se encuentra María Blasco, directora del Centro Nacional de Investigaciones Oncológicas. “El objetivo es ralentizar el envejecimiento molecular para prevenir la aparición prematura de enfermedades. Si conocemos por qué envejecen nuestras células, podremos diseñar estrategias terapéuticas más efectivas contra males que hoy por hoy no tienen curación (fibrosis, dolencias neurodegenerativas o infarto)”. Sus investigaciones se centran en el papel de los telómeros en el envejecimiento celular y en la aparición de enfermedades asociadas a la edad y a la presencia de telómeros muy cortos. “En el caso del cáncer, cuyas células necesitan mantener sus telómeros para poder ser inmortales y dividirse sin límite, buscamos estrategias terapéuticas para destruirlos. Lo hemos probado en tumores muy agresivos, como el glioblastoma”.
+
+¿Por qué el cáncer se le resiste a la ciencia? Blasco tiene una respuesta: “El cáncer está formado por células que estaban envejecidas y dañadas. En lugar de morirse consiguieron escapar a la muerte, y gracias a que mantienen sus telómeros son capaces de dividirse de manera indefinida. Las células del cáncer son muy aberrantes y contienen muchas mutaciones. Cada tumor, además, es diferente”.
+
+Edición del genoma
+
+Si algo está revolucionando el campo de la medicina es la irrupción de la técnica de edición genómica CRISPR.En la Universidad de Stanford, el equipo de Maria Grazia Roncarolo extrae células madre de la médula ósea de los pacientes y luego las altera con CRISPR para corregir directamente la mutación del gen de la hemoglobina, convirtiendo las células falciformes en normales. Preparan otros ensayos CRISPR para trastornos metabólicos, autoinmunes y neurodegenerativos. Al contrario que en enfermedades raras, con una mutación, en estas no hay un único gen involucrado, ni son los mismos en todos los pacientes.
+
+Las imágenes muestran las señales que emite el tejido nervioso durante el aprendizaje. El hipocampo es vital en el almacenamiento.La corteza prefrontal, en la actitud para aprender y en la secuencia temporal de este proceso.
+
+El ‘corta y pega’ genético necesita aún mayor precisión. Prueba de ello es el ensayo fallido de científicos de la Universidad Médica Guangzhou, en China, que usaron esta tecnología para inmunizar a 26 embriones humanos frente al virus del sida, el VIH. Todos sufrieron taras y ninguno resultó apto para tratamientos de fertilidad.
+
+Replicar humanos
+
+“El hombre es un ser complejo y, por tanto, el proceso de replicarlo también lo es. Para ello es fundamental conocer cómo funcionan nuestro cuerpo y nuestra mente. Una vez obtenidos esos modelos, podremos usarlos como referencia para desarrollar robots que se comporten de acuerdo con ellos”. Este es el mayor desafío que plantea en robótica Concepción Alicia Monje, investigadora del Robotics Lab de la UCM3. Si los robots van a estar presentes en todas las áreas de nuestra vida, Monje considera apremiante “pensar en grande y apostar por el futuro, pero cuidando siempre al ser humano y garantizando que la transición hacia las nuevas etapas sea justa
+
+y equilibrada”.
+
+La visualización del tejido nervioso y su interacción con las células nos está permitiendo saber cómo aprendemos
+
+Uno de sus objetivos prioritarios es dotar al robot de extremidades blandas y el desarrollo de exoesqueletos para la rehabilitación de miembros dañados por accidentes cerebrovasculares. “En nuestro laboratorio hemos creado diferentes prototipos que nos permiten avanzar en los robots del futuro: el humanoide TEO, el robot móvil MANFRED, el brazo robótico asistencial ASIBOT y el robot social MAGGIE.
+
+“Afrontamos el reto con la creación de nuevos materiales, el desarrollo de baterías de bajo coste y larga duración y el uso de la naturaleza y del ser humano como inspiración. En unos casos traducimos principios biológicos en diseño de ingeniería, en otros integramos componentes vivos en estructuras robóticas”.
+
+Reconstrucción de dos agujeros negros que orbitan emitiendo ondas gravitacionales de difícil detección.
+
+Materiales futuros
+
+La próxima revolución electrónica podría llegar de la mano de los materiales topológicos (se llevaron el premio Nobel en 2016). “Sus propiedades eléctricas y de resistencia para la aplicación tecnológica son fascinantes”, cuenta Maia García Vergniory, investigadora del Departamento de Física Aplicada de la UPV/EHU. Sin embargo, su hallazgo es complejo. “Se han encontrado muy pocos ejemplares”.
+
+El método utilizado hasta ahora ha sido poco eficiente. García Vergniory ha liderado el desarrollo de un nuevo formalismo que permite identificar trazas topológicas simplemente mirando la estructura del cristal y sin cálculos pesados. “Esto permitió que en pocas semanas encontráramos unos 200, la misma cantidad que en los últimos años”. Con ellos “se descubrirán nuevas propiedades, nuevas aplicaciones y daremos un gran paso en la electrónica basada en materiales que disipan poca energía”, detalla Vergniory.
+
+Entender el cerebro
+
+“El cerebro funciona hasta en once dimensiones”. Así describió el equipo del proyecto internacional Blue Brain las intrincadas estructuras neuronales de un cerebro humano, las que quizás sirvan para realizar tareas complejas o conservar recuerdos.
+
+Han encontrado un mundo que no habían imaginado. Así lo describe también Agnès Gruart, catedrática de Fisiología de la Universidad Pablo de Olavide, en Sevilla. Gruart anda tras la pista de los centros neuronales que intervienen en el aprendizaje humano y el borrado de nuestros recuerdos.
+
+“Saber cómo aprendemos no es fácil, porque hay que estudiarlo en el momento en que tiene lugar y no es una acción puntual, sino un proceso. El aprendizaje es el resultado de la activación de muchos centros cerebrales. No hay lugares específicos donde aprender o almacenar la memoria”.
+
+Y quien salva el planeta
+
+Si hubiera que apostar por el desarrollo de alguna de estas ciencias, la decisión no sería fácil. Explicar el origen del universo, curar el cáncer, encontrar materiales que acaben con el uso desmedido de energía eléctrica… Pero, quizá, antes de todo esto lo que haga falta es salvar el planeta. “Make Our Planet Green Again” (‘Hagamos nuestro planeta verde de nuevo’). Ese es el nombre del proyecto para el que trabaja la bióloga Nuria Teixidó. Los océanos tienen un papel extraordinario como acumulador y transmisor de calor de los trópicos a las zonas subpolares. Entender cómo funciona, se mueve y alimenta esa ingente masa de agua serviría para evitar el calentamiento de la atmósfera. Nuria Teixidó ha convertido el océano en un laboratorio marino para evaluar el impacto del CO2 y otros gases de efecto invernadero. “Los efectos en las especies empiezan a ser visibles tanto en su fisiología como en su organización”. Y Teixidó está en ello para controlarlo. No dijimos que fuera fácil.

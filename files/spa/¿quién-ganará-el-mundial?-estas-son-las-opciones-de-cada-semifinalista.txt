@@ -1,0 +1,33 @@
+El Mundial difícilmente podría estar más igualado. De acuerdo a nuestra predicción, y después de lo visto hasta ahora, Francia es la favorita y tiene un 29% de probabilidades de llevarse el torneo. Pero sus opciones son similares a las de Bélgica (26%) e Inglaterra (25%), y no están lejos de las que tiene Croacia (20%). Los cuatro equipos tienen rankings entre 1930 y 1993 puntos; no es fácil imponerse en solo dos partidos a rivales tan parejos.
+
+Las cuatro selecciones que han alcanzado las semifinales han crecido consistentemente desde que arrancó el mundial. Llegaron como equipos con opciones de ganar, pero no entre los grandes favoritos. Francia era la única que nuestro modelo tenía en el top cinco (y lo mismo sugerían las apuestas y otros modelos estadísticos), mientras que Bélgica era séptima, Inglaterra octava y Croacia undécima. Pero enseguida mejoraron posiciones y se colocaron arriba. Al acabar la fase de grupos, aunque todavía quedaban 16 equipos, nuestro modelo ya colocaba a los cuatro semifinalistas entre los seis con más posibilidades de ganar el torneo. Tras los octavos, eran cuatro de los cinco favoritos.
+
+Estas predicciones salen del modelo estadístico que estamos actualizando desde que arrancó el mundial. El modelo ordena a las selecciones según su nivel, usando datos de cada selección y sus jugadores. Al final del texto puedes leer metodología.
+
+Dos semifinales muy igualadas
+
+Ahora los cruces de semifinales se presentan enormemente equilibrados. Nuestro modelo da ventaja a Francia sobre Bélgica, pero poquísima: el 52% de las veces ganarían los franceses y los belgas lo harían en el 48% restante. El pronóstico de los mercados de apuestas es muy parecido y coloca a Francia favorita al 54%. La igualdad se mantiene por el otro lado del cuadro. Inglaterra es favorita contra Croacia, pero apenas: nuestro modelo le da un 54% de probabilidades de victoria y las apuestas un 58%.
+
+La final más probable sería un Francia-Inglaterra, que ocurre el 28% de las veces. Pero en realidad puede pasar cualquier cosa: la final más rara de las cuatro posibles —entre Bélgica y Croacia— ocurre casi con la misma frecuencia (en el 22% de las simulaciones).
+
+La evolución de cada equipo hasta la semifinal
+
+El último gráfico muestra cómo el modelo ha ido actualizando su opinión de cada equipo. Está diseñado para mejorar el ranking de los equipos que ganan frente a rivales fuertes, marcando muchos goles y dominando también en ocasiones de gol.
+
+Hasta ahora las selecciones que más han mejorado son Croacia (91 puntos) y Bélgica (85). También subieron Uruguay (75) y Suecia (64), aunque cayeron eliminadas en cuartos.
+
+Las mayores bajadas fueron Argentina (98) y Alemania (77), que muy pronto empezaron a tener peores resultados de los previstos por el modelo. España se mantuvo plana hasta su eliminación, mientras que Brasil fue mejorando su ranking en cada fase, aunque acabó siendo eliminada por Bélgica.
+
+Brasil sigue siendo la mejor selección del mundo, según nuestro modelo. Si mañana arrancase otra vez el Mundial, la selección brasileña arrancaría como favorita. España y Alemania, en cambio, habrían perdido la segunda posición y tercera posición, que ahora ocupan Francia y Bélgica. España seguiría siendo el cuarto mejor equipo, mientras que Alemania se vería superada también por Inglaterra y Croacia.
+
+El caso de Inglaterra merece cierta cautela. Su ranking ha subido 43 puntos, pero como ya comentamos, quizás debía mejorar un poco más. Nuestro modelo penalizó al equipo inglés por su derrota contra Bélgica en fase de grupos, aunque ese partido era poco importante y los ingleses quizás no se esforzaron al máximo. Eso podría explicar que las apuestas tengan un poco más de confianza en el equipo inglés. Nuestro modelo le da un 25% de opciones de ganar el mundial, mientras que las apuestas le dan un 27%.
+
+Recuerda que puedes consultar nuestras predicciones actuales y pasadas en EL PAÍS.
+
+Cómo fue la predicción de la fase de grupos. El modelo pronóstico correctamente 13 de los 16 equipos que pasaron a octavos. La mayor sorpresa fue Alemania, que tenía un 87% de opciones de pasar y fue eliminada. Los otros errores fueron la eliminación de Polonia (56%) y Perú (51%), que estaban en el límite. El modelo tuvo algo de buena suerte en esta fase. Pronosticó correctamente 7 de 8 favoritos para estar en octavos. Según sus propias probabilidades, sólo tenía un 18% de hacerlo mejor —un pleno— y hasta un 60% de hacerlo peor (fallar con dos o más equipos).
+
+Cómo fue la predicción de octavos. El favorito del modelo se clasificó para 5 de los 8 encuentros. Ganaron sus partidos cinco favoritos: Brasil (que tenía un 78% de opciones), Bélgica (80%), Croacia (60%), Francia (54%) e Inglaterra (54%). En otros dos partidos perdió el equipo teóricamente superior, aunque eran enfrentamientos que nuestro modelo consideraba igualados: Uruguay (45%) pudo con Portugal y Suecia (44%) eliminó a Suiza. La derrota más sorprendente fue la de España, que tenía un 75% de opciones para ganar y acabó perdiendo contra Rusia en los penaltis. Pero no es una sorpresa que haya fallado algún favorito. La probabilidad de que pasaran los tres grandes favoritos —Bélgica, Brasil y España— no llegaba al 50%, era el producto de 78% * 80% * 75%.
+
+Cómo fue la predicción de cuartos. El favorito del modelo se impuso en 3 de 4 partidos. Brasil cayó eliminado frente a Bélgica, aunque era favorito con un 62% de opciones de pasar. El resto de cruces los ganó el equipo más fuerte según nuestra predicción: Francia (60%), Croacia (65%) e Inglaterra (62%).
+
+¿Cómo hacemos estas predicciones? Utilizamos un modelo estadístico alimentado con datos de los equipos y sus jugadores. De cada selección consideramos sus resultados y las ocasiones del gol que produce y concede. De los jugadores usamos su valor de mercado y el nivel de su club. En total utilizamos estadísticas de 32.000 partidos y cientos de equipos. Aquí puedes leer la metodología completa.

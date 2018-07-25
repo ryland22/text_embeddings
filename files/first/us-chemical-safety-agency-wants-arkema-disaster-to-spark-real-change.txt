@@ -1,0 +1,19 @@
+The independent agency charged with investigating serious industrial chemical accidents in the US is urging the chemical industry to develop comprehensive industry guidance to help hazardous chemical facilities better prepare for extreme weather events like flooding. The recommendation is intended to avoid incidents like the explosions that occurred at an Arkema chemical plant in Crosby, Texas, following severe flooding that resulted from hurricane Harvey in August 2017.
+
+The US Chemical Safety Board (CSB) made the proposal in its final investigation report about the Arkema incident, which occurred because extensive flooding from heavy rainfall during the hurricane exceeded equipment design elevations and caused the plant to lose power, backup power, critical organic peroxide refrigeration systems and standby refrigerated trailers needed to keep the organic peroxide cool. Eventually, the temperature became high enough for the material to ignite, and at least 21 people were exposed to decomposition products and smoke from the burning refrigerated trailer and organic peroxides, according to the CSB.
+
+‘Our investigation found that there is a significant lack of guidance in planning for flooding or other severe weather events,’ said the CSB’s chairperson, Vanessa Allen Sutherland, during a 24 May press briefing to release the final report. ‘Based on other government reports, we know that there is a greater likelihood of more severe weather across the country,’ she added.
+
+Specifically, the CSB is calling on the Center for Chemical Process Safety (CCPS) within the American Institute of Chemical Engineers to create quidance for chemical companies to assess their facility risk from natural disasters like storm surges, earthquakes and high winds. This guidance should also help industry determine whether they have adequate safeguards in places to handle such events, the agency said.
+
+Arkema ignored warning
+
+It turns out that Arkema’s insurance company had warned about the extreme flood hazard at its Crosby facility roughly one year before Harvey hit. ‘Although a September 2016 report from Arkema’s insurer, FM Global, identified flood risks to the Crosby facility, including these floodplain designations, Arkema Crosby facility employees, other than a past facility manager, appeared to be unaware of this information,’ the CSB stated in its report.
+
+Our investigation found that there is a significant lack of guidance in planning for flooding or other severe weather events
+
+Although US federal process safety rules require companies to compile relevant process safety information, the CSB said current regulations do not specifically identify flood insurance maps and related studies as required process safety information. The agency cautioned that other chemical companies also might be unaware of the potential for flood risks to create process safety hazards at their facilities.
+
+Beyond its call for new industry guidance, the CSB report also urged the US Environmental Protection Agency (EPA) to tighten its regulations to explicitly cover catastrophic reactive hazards that can potentially seriously impact the public, including those resulting from self-reactive chemicals and combinations of chemicals. ‘Seek congressional authority if necessary to amend the regulation,’ the agency advised the EPA.
+
+Sutherland recently announced that she will resign as the agency’s chair in June, which marks the official start of hurricane season for the Atlantic Basin. ‘As we prepare for this year’s hurricane season, it is critical that industry better understand the safety hazards posed by extreme weather events,’ she said.

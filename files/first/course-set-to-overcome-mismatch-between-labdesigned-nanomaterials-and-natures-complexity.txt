@@ -1,0 +1,82 @@
+Course set to overcome mismatch between lab-designed nanomaterials and nature's complexity
+
+
+
+by Staff Writers
+
+
+
+Washington DC (SPX) Apr 22, 2018
+
+
+
+Cells and the machinery they encase are soft matter - shape-shifting multicomponent systems with an overwhelming richness of forms. But, these squishy packages are hard targets for potential therapeutic and diagnostic applications that exploit nanomaterials, from quantum dots that light up specific tissues to nanocages carrying drug payloads.
+
+The problem, according to a team of 12 experts from five countries, stems from a "mismatch" between the structural complexity that nature selected over billions of years of evolution and the minimalist designs of synthetic nanomaterials, optimized for lab conditions.
+
+Advances in nanotechnology have made it possible to control the size, shape, composition, elasticity and chemical properties of laboratory-made nanomaterials. Yet many of these materials do not to function as expected in the body. In a recent issue of Biointerphases, from AIP Publishing, the team homes in on biomembranes - the gatekeeping bilipid-layers and proteins surrounding cells. They explore the barriers a synthetic nanomaterial must breach to enter a cell and achieve its intended purpose.
+
+The team's consensus perspective on designing next-generation "smart" nanomaterials for biological applications originated in discussions at a recent workshop on biomaterials and membranes. The annual workshop is organized by the Smart Nano-objects for Alteration of Lipid bilayers (SNAL) Initial Training Network, funded by the European Union's Seventh Framework Program.
+
+The authors emphasize that introducing synthetic nanomaterials into biological environments can trigger unexpected interactions and unpredictable behaviors, hallmarks of soft-matter systems. Proteins bind to nanoscale objects forming protein coronas that can hinder the expected therapeutic effect, alter the membrane signaling processes, induce an immune response, or trigger other unwanted reactions.
+
+Similarly, theoretical studies and simulations assume perfectly uniform nanomaterials with idealized properties, but real nanomaterials may vary in surface roughness and size. Additionally, they may cluster when introduced to the body. Even slight variations can lead to different interactions in biological media.
+
+"The challenges we pose are intended to serve as guidelines that will help the field tackle the next degrees of biological complexity, difficulties and open questions," said Marco Werner, at the Universitat Rovira i Virgili in Spain. "If theoretical concepts, membrane models, and cell experiments move closer together and encourage a common language, we will also improve our ability to predict whether the materials we design will achieve their intended purpose."
+
+Research Report: "Nanomaterial interactions with biomembranes: Bridging the gap between soft matter models and biological context"
+
+
+
+
+
+Related Links
+
+American Institute of Physics
+
+Nano Technology News From SpaceMart.com
+
+Computer Chip Architecture, Technology and Manufacture
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Tokyo, Japan (SPX) Apr 19, 2018
+

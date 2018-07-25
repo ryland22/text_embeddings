@@ -1,0 +1,37 @@
+Auto loan fraud losses rose to $6 billion last year, doubling from 2016, according to fraud detection specialist PointPredictive. The company is launching products to help lenders catch fake identities and learn from the fraud experiences of their peers.
+
+The Fraud Data Exchange, which PointPredictive plans to roll out next week, gives members of PointPredictive's auto lending consortium access to a pool of data from confirmed fraud cases, while the Income Validation Alert, which launched this week, helps verify the listed income on consumers' credit applications.
+
+With the Fraud Data Exchange, lenders can cross-reference loan applications with confirmed fraud cases. Incoming credit applications will be scanned against data points -- such as phone numbers or addresses -- historically associated with fraud. The software then reports a fraud score on a scale of 1, indicating a low risk, to 9.9, the highest risk, along with three reason codes indicating the type of fraud suspected.
+
+A fraud score is more difficult to compile than a traditional credit score, given the volume of fraud entry points into the process, said Frank McKenna, the San Diego company's chief fraud strategist.
+
+The system flags suspicious or potentially implausible information, such as an income too high relative to the borrower's occupation or a far distance between the borrower and the dealership, McKenna said. Still, it takes a combination of factors to produce a high risk score. Data in the exchange comes from repeat offenders, and not one-off cases, McKenna told Automotive News.
+
+"The score is based on lots of interrelationships between a lot of the data," McKenna said. For instance, if the borrower's address is 2,000 miles from the dealership, "that might be the icing on the cake."
+
+Holistic approach
+
+McKenna supports a holistic approach to fight fraud, using a combination of tools and relying on lenders to supply verified fraud data points when fraud enters their systems. The algorithms used in PointPredictive products rely on information from more than 55 million credit applications from the past three years, each with 72 fields of information. Participating lenders will add to PointPredictive's data pool by reporting these data points as they crop up in confirmed cases.
+
+"The concept of shared intelligence has been used a lot in many industries, and really the concept is you have to have a broad view into fraud. It's very much different than credit risk," McKenna said. "When you have a bad finance manager or a bad consumer, you can be notified through these models. It's called the consortium concept, where lenders unite to fight fraud together."
+
+PointPredictive used other industries' consortium models to develop its platform.
+
+Eight lenders are testing the platform, which launched last year. Another 20 lenders are in talks with PointPredictive, the company said.
+
+The Fraud Data Exchange will formally launch May 30 at PointPredictive's next Auto Lending Fraud Consortium Roundtable in Fort Worth, Texas. Thirty lenders are slated to attend.
+
+Income validation
+
+Meanwhile, Income Validation Alert, which launched May 22, uses seven sources to compare listed income against millions of comparable incomes and salaries.
+
+The model generates the applicant's likely income based on employer, occupation, job title, residence and estimated years of experience. Because of the numerous variables that factor into an applicant's income, lenders should not put all of their faith in the software. A flagged application could still prove legitimate, once additional documents are sought.
+
+Income Validation Alert software tells lenders if a borrower's income appears to be overstated by 15 percent or more. Incomes below that threshold, according to PointPredictive, can filter through the system faster, which would streamline underwriting.
+
+Of the growing number of fraud cases in the U.S., synthetic identity fraud is more difficult to catch because the false identities are constructed from legitimate data points from different people.
+
+In traditional cases of identity theft, "the real consumer will call back in and say, 'This isn't my loan,'" McKenna said. "Synthetic identities are synthesized, so there's nobody to be found. There's often no feedback loop."
+
+While fraudsters may be clever, they can be lazy, McKenna said, and recurring phone numbers and addresses on phony credit applications can create a pattern easily tracked by software tools.

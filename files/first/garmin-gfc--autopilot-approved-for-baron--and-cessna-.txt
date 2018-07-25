@@ -1,0 +1,47 @@
+Garmin has received FAA Supplemental Type Certification (STC) for the GFC 600 autopilot for the Baron 58/58A (1984 model year or later) and Cessna 340/340A.
+
+The GFC 600 is designed as a standalone autopilot that integrates with the G500 TXi/G600 TXi and the G500/G600 glass flight displays, Garmin navigators, as well as a variety of third-party flight displays, instruments, and navigation sources, according to company officials.
+
+The suggested retail price for the Baron installation is $23,995, while it is $22,995 for the Cessna 340.
+
+The self-contained autopilot controller incorporates backlit keys and a sunlight readable display that depicts autopilot status and mode selection.
+
+A built-in control wheel provides adjustment of aircraft pitch, airspeed and vertical speed modes.
+
+When the level button is selected, the aircraft automatically returns to straight-and-level flight.
+
+Environmentally hardened autopilot servos designed for harsh operating conditions contain brushless DC motors and a gear train that eliminates the need for a mechanical slip clutch, offering improved performance and reducing maintenance requirements when compared to decades-old servo designs on the market today, Garmin officials note.
+
+The standard design of the GFC 600 ensures the autopilot controller allows for routine installation into the aircraft’s avionics stack.
+
+Autopilot mode annunciation is available on the G500 TXi, G600 TXi touchscreen glass flight displays, as well as the G500 and G600. The addition of an optional autopilot annunciator panel also displays the selected autopilot mode in the pilot’s primary field of view and retains an identical footprint of third-party autopilot annunciators on the market.
+
+According to company officials, in addition to traditional autopilot capabilities such as altitude hold, vertical speed and heading modes, the GFC 600 also includes:
+
+Capabilities such as altitude pre-select and indicated airspeed hold mode. VNAV will be a growth function when appropriately equipped.
+
+Pilots can select, couple and fly various instrument approaches, including GPS, ILS, VOR, LOC and back course approaches.
+
+Built-in GPS roll steering capability eliminates the need for external roll steering converters, allowing for smoother navigation tracking when installed with a compatible navigator.
+
+Level Mode button, which automatically engages the autopilot to restore the aircraft to straight and level flight.
+
+Underspeed protection helps prevent the pilot from stalling the aircraft.
+
+Overspeed protection helps prevent the pilot from exceeding aircraft maximum speed (VNE).
+
+With the addition of an optional yaw servo, Yaw Damper (YD) mode minimizes yawing oscillations while also helping to maintain coordinated flight by keeping the slip/skid indicator centered.
+
+Flight Director command bars can be displayed on a variety of flight displays, such as the G500 TXi/G600 TXi and select third-party flight displays.
+
+Pilots can fly coupled go-arounds during missed approach sequencing. A remotely-installed go-around button commands the Flight Director to display the appropriate pitch attitude required for the missed approach procedure and activates a loaded missed approach when paired with a GTN 650/750 navigator.
+
+An optional pitch-trim servo adds automatic trim and manual electric trim.
+
+Control wheel steering is available, which allows the pilot to adjust pitch, roll, altitude hold, vertical speed or airspeed references using the control yoke while the autopilot is engaged.
+
+As a standard feature, pilots receive Garmin ESP with the GFC 600 autopilot, which works to assist the pilot in maintaining the aircraft in a stable flight condition. ESP functions independently of the autopilot and works in the background to help pilots avoid inadvertent flight attitudes or bank angles and provide airspeed protection while the pilot is hand-flying the aircraft.
+
+Garmin expects to expand its list of aircraft models approved for the GFC 600 autopilot.
+
+Upcoming aircraft models include:

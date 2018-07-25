@@ -1,0 +1,13 @@
+The Flight Chain App has launched, designed to help pilots learn from the chain of circumstances in an accident.
+
+Flight Chain App is an easier way to read NTSB aviation accident reports by letting pilots see the accident chain, developers note. In addition to viewing accident chains, pilots can search accidents, browse accident rulings, read full reports, and more.
+
+“Pilots talk about the accident chain in aviation,” said Dan Sobczak, founder of Flight Chain App. “As a pilot, I always wondered what that would look like. What if we could see the accident chain instead of having to imagine it while reading an NTSB report?”
+
+Flight Chain App’s mission is to promote safe flying, he said.
+
+“We want to help pilots improve their ability to recognize and break a potential accident chain in their own flying,” Sobczak added.
+
+The app is available for the iPhone and iPad on the Apple App Store. The basic version of the app is $4.99, the Plus and Expert versions require a monthly subscription.
+
+Flight Chain App also hosts the blog Ahead of the Power Curve, a collection of columns and experiences designed to help pilots anticipate what could happen, rather than just react to what is happening in any given moment.

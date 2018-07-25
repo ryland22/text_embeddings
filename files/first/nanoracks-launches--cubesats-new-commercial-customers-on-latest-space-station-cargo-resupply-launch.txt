@@ -1,0 +1,140 @@
+NanoRacks Launches 15 CubeSats, New Commercial Customers, on Latest Space Station Cargo Resupply Launch
+
+
+
+by Staff Writers
+
+
+
+Wallops Island, VA (SPX) May 30, 2018
+
+
+
+Early this week Cygnus, the spacecraft from the ninth contracted resupply mission for Orbital ATK, berthed with the International Space Station carrying another satellite-filled NanoRacks mission. NanoRacks is pleased to bring two new commercial customers to the low-Earth orbit ecosystem, Analytical Space Inc. and EnduroSat, with each of the startups' first-ever CubeSats.
+
+This is the fifth mission in which NanoRacks is providing opportunities for CubeSat deployment from Cygnus after the vehicle departs from the station. The NanoRacks External Cygnus Deployer (ENRCSD) is installed on the exterior of the Cygnus service module with the capability to deploy satellites after Cygnus' completion of its primary Space Station resupply mission.
+
+Additionally, this is the 14th mission for the NanoRacks International Space Station CubeSat deployments using the Company's commercially developed platform.
+
+"This launch is yet another example of the technical advances and diversification of the CubeSat industry. NanoRacks provided space access for commercial companies both large and small, educational research institutes, and NASA centers all driving innovation and pushing the limits of the CubeSat platform like we've never seen before," says NanoRacks' External Payloads Manager Conor Brown.
+
+"We're proud to play a key role in this market and continue the work with all of our partners to ensure our customers accomplish their missions in low-Earth orbit."
+
+The External Cygnus Deployer includes the following satellites:
+
++ Lemurs (4 satellites) - Spire Global, Inc.
+
+
+
++ AeroCube 12A - Aerospace Corporation
+
+
+
++ AeroCube 12B - Aerospace Corporation
+
+The ENRCSD satellites are scheduled to be deployed from the Cygnus vehicle in mid-July at an altitude above the Space Station orbit, pending all nominal spacecraft operations.
+
+The CubeSats that will be deployed by NanoRacks on the International Space Station include:
+
+NASA ELaNa 23:
+
++ CubeRRT
+
+
+
++ EQUiSat
+
+
+
++ HaloSat
+
+
+
++ MemSat
+
+
+
++ RadSat-g
+
+
+
++ RainCube
+
+
+
++ TEMPEST-D
+
+
+
++ Commercial CubeSats:
+
+
+
++ EnduroSat One (EnduroSat)
+
+
+
++ Radix (Analytical Space)
+
+Analytical Space's primary mission with Radix will be a demonstration of an optical data relay system. The CubeSat has the capability to receive transmissions at various frequency bands from the ground and/or from beta-test customer spacecraft already on orbit and store the data on board. Radix will then downlink the received data to the ground using laser communication.
+
+The mission objectives for Radix are to prove the utility of a data relay service for current satellite operators. Increasing the data throughput for current and future satellite users will greatly increase earth observation and monitoring science downlinked to scientific and commercial users. This can increase mission payload utility for any customer satellite operator.
+
+EnduroSat One, the first Bulgarian amateur radio CubeSat mission, is a multipurpose CubeSat platform engineered for space application and research. The electrical power system and solar panels will provide power for the mission.
+
+Two ultra-high frequency Transceivers type II and UHF deployable antenna will deliver a high-reliability communication system for tracking, telemetry and control (TT and C) and data. A network of actuators and sensors will enable spacecraft control and processing capabilities will be provided through the low power consumption and high performance onboard computer.
+
+This mission marked the 34th launch to low-Earth orbit with NanoRacks' customer payloads on board. NanoRacks has additionally supported four Blue Origin New Shepard launches.
+
+NanoRacks would like to thank Orbital ATK and the NASA International Space Station Program for their continued support of NanoRacks operations on the Space Station.
+
+
+
+Related Links
+
+NanoRacks
+
+Microsat News and Nanosat News at SpaceMart.com
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Nairobi, Kenya (VOA) May 16, 2018
+

@@ -1,0 +1,39 @@
+Since 2015, almost all healthcare organizations have reported at least one cyberattack. The largest U.S. hospital attacked in the U.S. 2017 was Erie County Medical Center in Buffalo, New York, and they're still feeling the effects.
+
+Dr. Jennifer Pugh runs their emergency room and she was on staff the morning the hackers infiltrated their system, sending a ransomware note demanding bitcoin equivalent to $44,000. They froze staff out of their machines, rendering patient files inaccessible in a now-familiar M.O. for hackers. "Honestly, I think it's disgusting … they're attacking some of the most vulnerable members in society by coming after a hospital," Pugh says.
+
+Explore more stories from "CBSN: On Assignment"
+
+
+
+The hospital's CEO, Thomas Quatroche, decided not to pay the ransom, but the hack will cost them a lot of money. "This is a form of terrorism… we decided not to pay that ransom but make no mistake about it this ... it's going to cost us a lot of money in the long run," he says.
+
+Thousands of these attacks, of all scales, take place every day. So who can protect against these attacks? "White-hat hackers" are the good guys -- paid by companies to hack their systems and find flaws before they are exploited by cyber criminals, or "black-hat hackers".
+
+CBS News traveled to Mumbai, India to meet one of the world's best white-hat hackers, Sandeep Singh, better known by his online moniker "Geekboy."
+
+India has emerged as a leading nation in the cyber war. White-hat hackers report more vulnerabilities to companies from here than hackers anywhere else in the world. "Geekboy" has hacked companies like Microsoft, Facebook, Twitter, Uber and AirBnb -- with good intentions. And he is paid well for it -- companies offer 'bug bounties' to people who find vulnerabilities in their systems which they can then patch. "How much I make in one day, my friends make in one year," Singh says.
+
+Despite being on the front lines of this cyber war, hackers like "Geekboy" tend to keep a low profile. "So do you think people in this neighborhood know you're a hacker?" Reena Ninan asked Sandeep. "No actually… when they ask what I am doing, I tell them I'm doing my masters," he says.
+
+Geekboy hopes he can stop the hackers who are exploiting people for money. "I feel disgusted - what they are doing is very bad," Sandeep says. "From this side I will always try to oppose [them]... everyone and every company should hire good guys."
+
+But some people question if white-hat hackers only have good intentions. "Basically anyone can say that about any hackers… but about me - that's not something you can say," Geekboy says. From person to person, it can be difficult to divine their motives, and experts admit that relying on white-hat hacking is often a gamble.
+
+If anyone knows how the world of white-hat hacking and black-hat hacking intersect, it's Hector Monsegur and Christopher Tarbell. Hector Monsegur, known as "Sabu" in the hacking world, founded LulzSec -- a black-hat group that hacked the CIA and Sony pictures in 2011 (Sony would be hacked again, in much more dramatic fashion, in 2014). Chris Tarbell, the former FBI agent who arrested him, convinced Sabu to help his country and defend against these attacks.
+
+"There's a lot of different personalities involved, there's a lot of different reasons for hacking," Monsegur says. "A person like me got into hacking as a form of escape. There are guys who get into it for the profit… it's hard to really pinpoint one specific motive for a hacker… but what I can say is it's very isolated."
+
+But what's stopping these white-hats from being lured to the dark side? "What if it's more valuable to me to keep information from you?" Tarbell says. "You're raising your risk by allowing people to come into your system… you better hope your incentive is good enough to turn over what they find."
+
+But despite the risk, companies and the U.S. government might not have a choice. "Right now in the current state of affairs hacking is growing, the threat is growing, and the FBI is going to need help to fight this cyber war," Tarbell says.
+
+And companies like Uber are recruiting that help. Sandeep traveled from India to Las Vegas to compete against the best hackers in the world for HackerOne, a hackathon where white-hat hackers look for vulnerabilities in cooperating companies. Uber was one of the companies that opened themselves up to hackers in the competition.
+
+Melanie Ensign, who handles cybersecurity for Uber says these programs incentivize white-hat hackers. "The most important thing to remember is that somebody is always trying to hack your product whether you know it or not … it is actually the next generation of security protection."
+
+Even though Sandeep didn't win the most valuable hacker trophy in the three-day long competition, it was still a very emotional experience for him.
+
+"I can go happily back home and share my experience," Sandeep said. "We have more options to hack thing legally and make them more secure …"
+
+So is white-hat hacking necessary in the fight against cyber crime? Chris Tarbell doesn't think cyberattacks are ending anytime soon. "It's going to start the next world war if there ever is one. Hacking is going to be the first shot. It's going to happen six months before any military person steps on the shore."

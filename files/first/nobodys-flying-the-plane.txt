@@ -1,0 +1,93 @@
+During one of my airline simulator training sessions, the instructor put us about 10 miles from an initial approach fix, then she asked us to turn around so she could show us something. So focused were we on her, the first officer and I forgot to pay attention to the thrust levers. While she was talking, she began to slowly walk them back to idle thrust.
+
+Airspeed rapidly fell off, but the autopilot kept us on heading and altitude, so our angle of attack rapidly increased. Within seconds, we approached a stall. I quickly turned back to the instrument panel and recovered, but by then our instructor’s point had been made. We had allowed ourselves to get so distracted that nobody was flying the plane.
+
+We never want to admit we failed a task. We never want to admit we were not paying attention. We never want to admit nobody was flying the airplane. But these things happen.
+
+“As I was attempting to dial in the ATIS, I was having trouble clearing the current frequency on the radio, and my passenger, a pilot, said he would fly the airplane while I tuned the radio,” wrote one pilot in his report to NASA’s Aviation Safety Reporting System.
+
+The pilot finally found and tuned in the correct frequency, so he announced ‘Got it.'”
+
+His passenger thought the pilot meant that it was time to hand back control of the aircraft. So he did. The airplane began a shallow, descending right turn, increasing speed.
+
+When the pilot saw they were about to fly into trees, he instructed his passenger to pull up immediately. The pilot realized what they had was a failure to communicate.
+
+“We thought that the other was flying when actually nobody was flying the plane,” he concluded, adding, “We agreed that we would be more certain of cockpit communications in the future.”
+
+Another pilot submitted a NASA report after his Bellanca Citabria ran into a hangar.
+
+“During takeoff roll, airplane veered left. Applied right rudder did not correct aircraft attitude. Takeoff was aborted, but aircraft proceeded to strike hangar.”
+
+This pilot was conducting a demonstration flight for a potential buyer. He was going to let the prospective buyer fly from the front seat, and he let that pilot perform the takeoff. Unfortunately, when that pilot lost control of the Citabria, the selling pilot was unable to gain control of it from his rear seat position.
+
+“The airplane plowed into a hangar,” he wrote.
+
+It’s not clear from the pilot’s report how he tried to gain control — by voice commands, by grabbing the yoke and pedals, or by a combination of the two — so an analysis of his actions is not possible.
+
+Two captains were flying together on a Part 135 air taxi flight when they experienced an unfamiliar warning alarm.
+
+“Both of us went into our problem-solving mode,” wrote the captain flying left seat. “Unfortunately, in our haste to solve the problem, we lost our common sense.”
+
+Nobody was flying the airplane.
+
+The source of the warning alarm was a comparator error between left and right ADIs (attitude direction indicators). On the particular airplane they were flying, an ADI error disconnects the autopilot, without an aural warning. Neither pilot knew the ADI fault would disable the autopilot.
+
+Also, neither pilot noticed the visual annunciator for autopilot disconnect, as they were both too busy trying to solve the problem. The result of their lack of vigilance was an altitude bust.
+
+In his report, the captain wrote he assumed the other captain would go into flying mode while he did the troubleshooting. The other captain assumed the same thing. Nobody ended up flying the plane.
+
+A CRJ700 crew failed to begin a descent in order to make a previously issued crossing restriction. ATC had to remind them because they had become distracted by the disintegration of the co-pilot’s watch. Both pilots began searching for the missing watch pieces.
+
+“When both pilots are distracted by something, nobody is flying the plane,” one of the pilots wrote. “I remember [an air carrier] going down in the Everglades because all three crew members were dealing with a burned-out gear position bulb.”
+
+If three commercial pilots can forget to fly the airplane, imagine how easy it is for one general aviation pilot to get distracted.
+
+Another pilot submitted a NASA report after a maintenance test/proficiency check flight almost went awry. The plane had a tandem cockpit. This pilot brought along his A&P mechanic, who was also a pilot, for the maintenance test flight portion.
+
+“When I was finished with the test maneuvers,” he wrote, “I asked the other pilot if he wanted to fly. I misunderstood him and relinquished control.”
+
+The airplane flew a random sightseeing track but then descended to approximately 500′ AGL over a golf course. The pilot asked the mechanic/pilot to climb.
+
+“He replied that he thought I was flying. Turns out nobody was flying.”
+
+It’s been said that two heads are better than one. It’s also been said that the worst person to fly with is another pilot. But why?
+
+If we are to believe the Journal of Neuroscience, it’s our “lazy” brains that get us into these messes.
+
+Our brains like to take shortcuts wherever they can. Mental shortcuts act as a way for the brain to conserve energy and work more efficiently, hence “lazy.” These little tricks and rules of thumb allow us to quickly make judgments and solve problems. But they don’t always work very well.
+
+In my case, and in the examples of the NASA reports highlighted above, the mental shortcut was in trusting the other pilot on the flight deck to monitor the thrust levers.
+
+We all fell victim to another psychological trap known as the “framing effect.” The way a problem is framed influences whether we decide to take a risk or play it safe.
+
+There are two main theories explaining what drives the framing effect. One theory suggests that framing is caused by emotion: The prospect of having a second, aviation-skilled set of eyes onboard makes us feel good, and the prospect of having to handle the entire workload ourselves makes us feel bad.
+
+The other theory argues that framing effects are the result of cognitive shortcuts ― in this case, a rule of thumb instructing the brain to accept sure gains and avoid sure losses. We assume that a second pilot on the flight deck makes us safer, when in fact, flight deck safety depends on a pilot’s behavior.
+
+To investigate what causes the framing effect, psychologists at Duke University conducted brain scans on 143 study participants as they evaluated a number of scenarios.
+
+The brain scans revealed that the participants’ brains were in a state of mental disengagement, or resting, while they made choices consistent with the framing effect. But when they made choices that overcame the framing effect, their brain activity resembled that of a brain in “working” mode.
+
+However, the degree to which each trial’s brain activity resembled brain maps associated with emotion did not predict the participants’ choices.
+
+This suggests that rather than emotion, it’s laziness — or, put another way, the brain’s desire to be efficient — that lies at the root of this cognitive bias.
+
+“Our findings support the theory that the biased decision-making seen in the framing effect is due to a lack of mental effort rather than due to emotions,” said Dr. Rosa Li, a Duke University psychologist.
+
+We make these kinds of mistakes all the time in the real world. So how can we defend against “The Nobody’s”?
+
+One way is to think more practically, like a pilot I recently met. He told me he considers an inoperative autopilot a no-go item, even on VFR days. I asked him why, and he said, “Airlines use two pilots on every flight. My autopilot is my second pilot.”
+
+However, even the use of an autopilot isn’t a guarantee. One flight crew en route from Tampa to Miami submitted a NASA report to explain their snafu
+
+“First officer started down while I made my PA to the passengers, and focused on getting the ATIS and calling the company,” wrote the captain.
+
+When he came back on, the aircraft was five miles from the assigned fix. At their descent rate, they were going to bust their altitude. He asked his FO where he was going. The FO thought that he had the autopilot in the NAV mode, not the HDG mode.
+
+“I think the problem was that nobody was flying the airplane,” he wrote. “We needed to be more vigilant about inside the cockpit and not just outside.”
+
+One of my flight instructors told me to always ask myself two sets of questions when I’m flying. The first set is: “What do I know? Who else needs to know? Have I told them yet?”
+
+The second set is: “What don’t I know? Who does know? Have they told me yet?”
+
+Perhaps asking these questions will help us lean against our “lazy” brains and ensure that somebody is always flying the plane.

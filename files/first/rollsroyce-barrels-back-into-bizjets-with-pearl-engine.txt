@@ -1,0 +1,45 @@
+Rolls-Royce is reasserting its leadership in the business jet market with a new family of turbofans. The Pearl engines being unveiled here will range from 10,000- to 20,000-pounds-thrust; the first, the Pearl 15 at 15,125 pounds at ISA+15, will power Bombardier’s new Global 5500 and 6500 large-cabin, very-long–range jets. It is to enter service by the end of next year.
+
+Rolls-Royce’s all-new Pearl 15 builds on technologies that have been under development for several years in the firm’s Advance2 program. The engine won EASA certification in February and is already flying on the first of Bombardier’s test aircraft. Key performance improvements over the BR710 that powers Bombardier’s current Global family include:
+
+• 7% better specific fuel consumption
+
+• a two-decibel reduction in noise, bringing it to 14 EPNdb under Stage 4
+
+• up to 9% better takeoff thrust in hot and high conditions
+
+• reduced NOx emissions with 35% more margin than the CAEP VI rules, with smoke emission margins 48% better than the already-excellent BR710 engine
+
+“It is,” says Scott Shannon, senior VP for customers at Rolls-Royce Business Aviation, “the most efficient engine core available across the business aviation sector.”
+
+While fitting the BR710’s weight and dimension footprint, Pearl 15 enables the aircraft to fly farther, faster, cleaner, and quieter,” says Dirk Geisinger, Pearl program director and chairman of Rolls Royce Deutschland.
+
+Features include:
+
+• a 48.5-inch titanium fan
+
+• a new ten-stage HP compressor with six titanium blisk stages and a 40% higher compression ratio of 24:1 — world-class in this kind of engine, says Geisinger
+
+• a new ultra-low emissions combustor to minimize emissions, noise, and NOx levels
+
+• a new two-stage, shroudless high-pressure turbine with a fully modulated case cooling system to reduce fuel consumption and to ensure efficiency
+
+• a three-stage shrouded low-pressure turbine enhanced for higher temperatures and pressures
+
+Pearl 15 also puts into practice Rolls-Royce’s latest vision of an IntelligentEngine. It will constantly transmit 9,000 parameters of data to the company’s CustomerCare headquarters, which will be able to talk back to the powerplant’s Electronic Engine Control to help with analysis. The engine’s in-house-developed health monitoring system is among the most advanced in the world, making it the company’s first Internet-of-Things-enabled powerplant, Rolls-Royce says.
+
+The goal, says Shannon, is to provide digital supercharging to customer support so the operator is hardly aware it is there. Rolls-Royce’s BR710 engine already has a dispatch reliability of about 99.97% and is logging just one unplanned removal per 100,000 engine flying hours, while the BR715 is approaching zero. Pearl is expected to do even better, he says.
+
+‘We’re Back’
+
+Five years ago Rolls-Royce saw its leadership in business jet engines begin to slide: Pratt & Whitney’s new PW800 and even Snecma’s brand new Silvercrest were winning deals on future aircraft, while Rolls was left out in the cold.
+
+Was Rolls-Royce abandoning that market from a peak of powering nearly 50% of all business jets out there? (All the Gulfstreams, Bombardier Globals, Citation X and Embraer Legacy, numerous smaller jets with the Williams-Rolls FJ44, and early Hawkers?)
+
+It said it wasn’t, even as Gulfstream announced its first aircraft to be powered by other than Rolls (the PW800-powered G500 and G600), GE’s new Passport engine won the Global 7000 and 8000, and Cessna deselected Rolls-Royce on the proposed Columbus in favor of Pratt & Whitney. The Columbus itself was abandoned, to be replaced by the Cessna Hemisphere, now held hostage to problems with Snecma’s Silvercrest.
+
+Where was Rolls-Royce while all this was going on? Problems with its rapid expansion in commercial aviation overshadowed what many saw as a “small plane” market. But behind the scenes, engineers at business aviation’s Dahlewitz headquarters were reinventing the future with technologies for a blistering counter-attack.
+
+The result: the new Pearl family of business jet engines, from 10,000- to 20,000-pounds-thrust, making possible Bombardier’s new Global 5500 and 6500 large-cabin, ultra-long-range aircraft, which will go head-to-head with the PW800-powered Gulfstream G500 and G600 in one of the most lucrative sectors in business aviation.
+
+“We’re back,” the company says.

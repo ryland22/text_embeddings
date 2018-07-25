@@ -1,0 +1,31 @@
+Q: May I ask a question regarding our engine in a Cessna 152? When we shut down from flight, there’s a foam or steam inside the engine and it will come out at the breather like water. What is the cause of this and what is the remedy?
+
+Also, what is the hottest cylinder in an IO-540 Lycoming engine?
+
+Mario Bedayo, Italy
+
+A: Here’s a question from an old friend in Italy and it’s interesting to learn that the technical issues we see are quite common worldwide.
+
+Mario, I can tell you from my past experience that the Cessna 152 engine installation does run very cool and this is what I suspect is causing the foaming in the oil filler tube and what appears to be steam or vapor coming from the breather tube.
+
+My suspicion is that the oil temperature is not getting high enough to cook off the condensation inside the engine. As you know, this is not a good situation and steps should be taken to correct this condition.
+
+My suggestion is to confirm the exact engine oil temperature by using a known accurate instrument or by confirming that the aircraft oil temperature gauge has been calibrated. You can confirm the true engine oil temperature by using a glass bulb type laboratory thermometer. These are usually about 18″ in length and have a small eyelet at the top end. This method requires extreme caution or you could end up with a serious problem. Using the small eyelet, attach a piece of safety wire or string so that you can retrieve the instrument safely from the oil filler tube.
+
+First, you must fly the aircraft until all operating temperatures are normal for the aircraft. As soon as possible after landing, remove the engine oil dipstick and very carefully insert the laboratory thermometer down the oil filler tube until you feel it touch the bottom of the oil sump, then pull it back about 1″, allowing it to rest there for about 30 seconds.
+
+Then very carefully remove the thermometer from the oil filler tube and check the temperature of the oil and compare it with the aircraft oil temperature gauge. This information will confirm the accuracy of the aircraft engine oil temperature gauge and also confirm, hopefully, that the oil is not hot enough to cook off the condensation that’s causing the situation that you reported.
+
+Now for the cure, I’d suggest that you begin with closing off a good portion of the oil cooler using some material like duct tape or, better yet, fabricate a piece of aluminum and secure that to the oil cooler. With the current temperatures in Italy, I wouldn’t hesitate to cover the entire cooler this time of year, but not during the hot summer months.
+
+At this point, fly the aircraft and monitor the engine oil temperature closely so as not to exceed the maximum oil temperature of 245° F. I’d like to see the oil temperature during normal operation read 180° F or higher.
+
+I hope this will lead you to the cause of the problem and you can correct this situation by getting the oil temperature in the range that it needs to be.
+
+With cold oil temperatures, we expect to see bad things in the engine like internal corrosion, which can cause things like excessive wear on the camshaft and tappet bodies. If the aircraft is flown infrequently, there could be corrosion on the cylinder walls causing excessive piston ring wear.
+
+With regard to your second question, I cannot give you a specific answer as to which cylinder is the hottest on a Lycoming IO-540 engine. The hottest cylinder is always determined by the specific airframe manufacturer, such as Piper or Cessna.
+
+The reason behind this is simply because each aircraft has a different cowling design and different cooling aspects. The aircraft manufacturer during certification flight testing determines which cylinder is the hottest for that particular installation.
+
+I will tell you that normally on the IO-540 series Lycoming, the number 5 cylinder in most installations is the hottest. Possibly you could confirm this by viewing aircraft installations at your local airport.

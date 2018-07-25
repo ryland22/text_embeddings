@@ -1,0 +1,39 @@
+Maker: Jonathan Bobrow, graduate, MIT Media Lab; cofounder, Move38, interactive toy design firm, Queens, New York
+
+One benefit to RadioShack's recent troubles: the clearance sales. We sent Bobrow, a programmer and designer who invented Troxes origami building blocks, to RadioShack with $100 and a challenge: Build something. He came up with this novel bike light whose switch mounts to your handlebars.
+
+Advertisement - Continue Reading Below
+
+Materials
+
+• 10-ft EL wire (red)
+
+• one EL wire battery pack
+
+• two AA batteries
+
+• 50 ft 24-gauge speaker wire
+
+• one large button
+
+• heat-shrink
+
+Tools
+
+• soldering gun
+
+• heat gun
+
+• 3D printer
+
+First make a body for your "neon sign": a 3D-printed block with grooves to hold the electroluminescent wire in the shape of your letters. You can design your own, or download mine at jonbobrow.com/popmech. Many public libraries have 3D printers you can use, or you can order one at shapeways.com.
+
+Press the EL wire into the base's channels. Cover the parts of the wire behind the body with heat-shrink. You can also black out portions of the front this way—say, to separate words. Trim excess wire before plugging it into the battery pack.
+
+Advertisement - Continue Reading Below
+
+Cut a length of speaker wire to run along the frame of the bike from the handlebars to where the battery pack will sit by the seat. Solder it to the button. Open the battery pack and find the contacts for the pack's built-in button. Solder the free ends of the speaker wire to these contacts, bypassing that button. Put heat-shrink tubing over the exposed wire to make a clean and weather-resistant connection.
+
+Use zip ties to mount the button to the handlebars and the sign below your seat.
+
+This originally appeared in the September 2017 issue.

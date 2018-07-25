@@ -1,0 +1,29 @@
+Computers are better than experienced doctors at spotting skin cancer, a new study reveals.
+
+A form of artificial intelligence was taught to recognize signs of the disease after being shown more than 100,000 images of melanoma.
+
+It works by learning from images that it “sees” and continues to teach itself with each case to improve its performance.
+
+Scientists got the computer — known as a deep learning convolutional neural network (CNN) — to check pictures from 100 patients.
+
+In a world first, it missed fewer cancer cases compared to 58 dermatologists. And it was also less likely to misdiagnose a benign mole as malignant, leading to unnecessary surgery.
+
+Experts said the computer would not replace medics, but be an extra tool to boost diagnosing.
+
+Lead researcher Professor Holger Haenssle, from the University of Heidelberg, said: “It works like the brain of a child. To train it, we showed the CNN [artificial intelligence] more than 100,000 images of malignant and benign skin cancers and moles and indicated the diagnosis for each image. With each training image, the CNN improved its ability to differentiate between benign and malignant lesions.”
+
+“The CNN missed fewer melanomas…and it misdiagnosed fewer benign moles as malignant melanoma; this would result in less unnecessary surgery.” The findings have been published in the journal Annals of Oncology.
+
+The dermatologists accurately detected an average of 86.6 percent of melanomas and correctly identified an average of 71.3 percent of not malignant growths.
+
+However, the computer detected 95 percent of melanomas and 82.5 percent of harmless moles.
+
+Scientists said the system could help doctors get better at spotting a potentially deadly case of skin cancer.
+
+Matthew Gass, from the British Association of Dermatologists, said: “Skin cancer is the most common cancer in the UK so it is very exciting to see emerging technologies that can aid in the diagnosis of this disease. It’s certainly promising.
+
+“As the researchers behind this study indicate, this is no replacement for an expert dermatologist, but rather another tool in their arsenal which could help improve diagnosis rates.”
+
+Dr. Claire Knight, Cancer Research UK, said: “Using artificial intelligence to help detect cancer early is an exciting area of research and this study suggests AI tools could one day have the potential to help doctors diagnose skin cancer.
+
+“It’s early days though, so we’ll need to see the results of further studies the researchers have planned to know if this technology can help benefit patients.”

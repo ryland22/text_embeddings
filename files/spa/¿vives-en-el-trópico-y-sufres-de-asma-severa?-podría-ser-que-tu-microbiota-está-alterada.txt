@@ -1,0 +1,59 @@
+Hac clic para enviar por correo electrónico a un amigo (Se abre en una ventana nueva)
+
+Nota del editor: Francisco José Guerrero es candidato a doctor en Manejo Sostenible de Bosques y Ciencias del Agua, en Oregon State University; becario científico de la Asociación Americana para el Avance de la Ciencia (AAAS, por sus siglas en ingles) en CNN en Español. Síguelo en @fjguerrerob
+
+(CNN Español) - Un estudio publicado recientemente en la revista Scientific Reports, señala que en el trópico existe una fuerte asociación entre el tipo de obstrucción respiratoria que experimenta una persona asmática y su microbiota .
+
+Respira profundo. Ahora imagina que tu capacidad respiratoria se reduce un tercio, y luego otro tercio. El aire produce un silbido cuando deja tus pulmones. Te sientes sofocado y fatigado. El polvo, las alfombras e incluso las mascotas son tus enemigos naturales. Tienes asma.
+
+“Lo que pasa en el pulmón del asmático es que [los pacientes] tienen una respuesta inmune que hace que sus bronquios permanezcan cerrados”, nos explica el doctor Emiro Buendía, autor principal del estudio. Y aunque los inhaladores broncodilatadores ayudan con la reapertura de los bronquios en algunos casos, cuando el asma es severa, la situación es más complicada.
+
+Los expertos definen el asma como una enfermedad crónica, incurable y compleja cuyos síntomas varían de una persona a otra. De hecho, muchos pacientes asmáticos pueden respirar sin dificultades por largos periodos de tiempo. De acuerdo con la Organización Mundial de la Salud, más de 230 millones de personas en el mundo sufren de asma. Y aunque esta enfermedad no discrimina entre niveles socioeconómicos, el mayor número de muertes relacionadas con el asma se concentra en países de bajos ingresos.
+
+El estudio estuvo liderado por científicos de la Universidad de Cartagena, la Universidad del Norte (Colombia) y el Centro de investigación metagenómica y de microbiomas (Alkek, Baylor College) en Houston, EE.UU. Los investigadores analizaron la microbiota intestinal en las heces fecales de más de 200 pacientes asmáticos provenientes de sectores económicamente deprimidos en Cartagena, Colombia.
+
+Estos hallazgos podrían ser el punto de partida de nuevas alternativas de diagnóstico y tratamiento del asma, particularmente en zonas tropicales, sobre las que no se tenían estudios previos.
+
+La microbiota: pequeños gigantes
+
+La Academia Americana de Microbiología define la microbiota (antes identificada como flora) humana como el conjunto de trillones de microrganismos, como virus y bacterias, que coexisten con muchos otros tipos de células dentro de nuestro cuerpo. Por su tamaño microscópico, la microbiota representa solamente entre el 1 y el 3 % del peso total de un adulto, alrededor de 3 libras. Esta masa de microrganismos es equivalente al peso promedio del cerebro humano.
+
+Y es que la microbiota podría estar a la cabeza de importantes funciones en nuestro organismo, tal como lo afirma el Dr. Luis Caraballo, director del Instituto de Investigaciones Inmunológicas de la Universidad de Cartagena y líder del grupo de investigación que llevó a cabo el estudio:
+
+“Hay muchos estudios que indican que la composición de los microbios del intestino tiene una repercusión fundamental en el desarrollo del sistema inmunológico y, además, influyen también en [nuestro] comportamiento, en el desarrollo del mismo intestino y en la prevención de muchas enfermedades”.
+
+Es por estas razones que algunos científicos han llegado a considerar a la microbiota como un órgano del cuerpo humano. Y al igual que con cualquier otro órgano, cuando la microbiota se altera hay un deterioro en la salud. Cambios en la microbiota han sido relacionados con más de 25 enfermedades dentro de las que se destacan el síndrome de colon irritable, el cáncer colorrectal, la diabetes, la obesidad, la depresión, y más recientemente, el asma.
+
+El asma: una enfermedad que va más allá de los pulmones
+
+“Con el tiempo se va entendiendo que el asma es una enfermedad sistémica que no solo involucra el pulmón, sino otros órganos, dentro de estos el sistema inmune”, afirma el doctor Buendía.
+
+Los especialistas hacen hincapié en que el sistema inmune puede ser influenciado por la microbiota intestinal debido a la gran producción de anticuerpos que ocurre en el intestino. “Ya sabemos que algunos grupos bacterianos producen una serie de sustancias que tienen un efecto inmuno-modulador a larga distancia”, dice el Dr Caraballo. Así, se cree que la microbiota intestinal podría ejercer algún tipo de “control remoto” en la inflamación de los bronquios en los pacientes con asma.
+
+Pero para entender los mecanismos que conectan los síntomas del asma con la microbiota intestinal, era necesario probar primero la existencia de una asociación entre las distintas formas de obstrucción de las vías aéreas y los tipos de microorganismos que viven en el intestino. Esta conexión acaba de ser descubierta, tal como lo expresan los investigadores en el artículo científico:
+
+“El presente estudio es el primero en evaluar asociaciones entre la microbiota intestinal y la obstrucción de las vías aéreas en una población de adultos asmáticos viviendo en una región tropical”.
+
+Cambia la microbiota, cambia la obstrucción respiratoria, o ¿viceversa?
+
+Como si se tratara de una especie de “cerebro microbiótico” el Dr. Buendía y sus colaboradores encontraron que los cambios en los componentes y las conexiones entre los microrganismos de la microbiota intestinal están asociados con síntomas específicos del asma:
+
+De acuerdo con los hallazgos reportados en la publicación científica, en pacientes con obstrucción respiratoria permanente, la microbiota intestinal está enriquecida con grupos específicos de bacterias que en condiciones normales no son tan abundantes. Así mismo, las redes que se establecen entre de los microrganismos que habitan el tracto intestinal son menos complejas e interconectadas que en pacientes con obstrucción respiratoria reversible o sin obstrucción de las vías aéreas.
+
+“En el fondo se trata de redes de coexistencia de microrganismos en la microbiota, algunos de ellos tienden a estar presentes junto con otros, es como que se necesitan de alguna manera”, explica el Dr. Daniel Garrido, experto en microbioma intestinal y biotecnología genómica de la Pontificia Universidad Católica de Chile.
+
+A pesar de estas claras diferencias en la composición y estructura de la microbiota intestinal en pacientes con distintos tipos de asma, los autores son enfáticos en describir sus hallazgos en términos de asociaciones y no de una relación causal.
+
+“Se trata de un estudio de corte transversal, como decir una foto. No tenemos en el estudio [una] exploración de mecanismos” subrayó el Dr. Caraballo.
+
+Optimismo hacia el futuro
+
+No obstante, expertos externos al estudio, se mostraron optimistas y entusiastas con respecto a las implicaciones de los hallazgos del Dr. Buendía y sus coautores.
+
+“Con esta información, conociendo estos grupos bacterianos, tú puedes diseñar medicamentos que, cambiando la microbiota de los pacientes, puedan mejorar el asma” comenta el Dr. Garrido. Sin embargo, de acuerdo con el experto biotecnólogo, este tipo de avances podrían tomar entre 10 a 15 años.
+
+Pero esta nueva asociación de la microbiota intestinal con los distintos tipos de asma en el trópico también tiene un impacto en el corto plazo. En palabras del Dr. Caraballo: “Ese sentimiento de protección de la microbiota es una de las cosas que pienso este tipo de artículos y este tipo de publicaciones puede influir de manera inmediata en la práctica médica”.
+
+“Me siento muy orgullosa de que sea un artículo latinoamericano, porque muchos de los estudios se hacen en países del primer mundo y nosotros sí tenemos ciertas diferencias con respecto a ellos por nuestro ambiente, polución y otras cosas”, expresó la Dra. Lydiana Ávila, experta neumóloga del Hospital Nacional de Niños en Costa Rica.
+
+Todos los expertos concuerdan en que, si quieres respirar tranquilo, es vital que cuides tu microbiota.

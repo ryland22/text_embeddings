@@ -1,0 +1,13 @@
+Reconozcámoslo, en muchas ocasiones hemos querido tener a nuestro lado un asistente que nos organizase nuestra agenda del día, pidiera citas por nosotros y nos ayudase con aquellas tareas telefónicas que más pereza nos dan o que, simplemente, más tiempo nos quitan: llamar a un restaurante para una comida con un cliente, buscar un hueco en la peluquería o en el salón de belleza en una fecha complicada, hacer lo posible por conseguir unas entradas de cine…
+
+Ahora Google Assistant lo hará por ti con solo darle unos pocos detalles sobre lo que queremos. Atentos a la demostración que ha hecho el presidente de Google, Sundar Pichai, delante de la audiencia del Congreso de desarrolladores I/O que organiza anualmente la compañía. Se trata de un caso real.
+
+Google lleva 10 años aprendiendo de cada uno de nosotros y de todos los servicios y comercios que están conectados a la red. Por lo tanto, el sistema de inteligencia artificial ha interiorizado toda la información que le hemos proporcionado: horarios, tipos de comercio, precios, dónde están situados… Todo ello, unido a las necesidades especiales del ser humano al que tienen que complacer, hace que consigan un efecto tan asombroso como el que hemos visto. Y es que, resulta realmente increíble la naturalidad con la que habla y reacciona frente a las preguntas y respuestas que le da la encargada del comercio al otro lado del teléfono.
+
+Según la compañía, esta función comenzará a estar activa este verano en un grupo selecto de de terminales y, poco a poco, se instalará en el resto dependiendo del éxito de su utilidad. Además, no solo viene con una voz instalada, sino con 6 entre las que poder elegir como tu asistente virtual personal.
+
+Eso sí, no puede hacerlo todo. Google asegura que está programado para completar sin problemas la organización de citas que tenga un cliente, pero si la cosa se complica llama al usuario para que sea él mismo quien la cierre. La idea es que con el tiempo, el sistema acabe aprendiendo tanto de su “jefe” que no tenga por qué consultarle ciertos detalles sobre el cierre de una cita.
+
+Pero nos preguntamos, ¿te fiarías de que un ordenador te elija tus siguientes vacaciones sin llegar a supervisar cómo lo hace? ¿No tardamos menos en hacer la llamada nosotros? ¿Y si mi teléfono pide algo que no quería? ¿Quién tiene la culpa? Estamos seguros de que Duplex dará mucho que hablar. Aquí podéis escuchar más ejemplos de cómo funciona y cómo se enfrenta a problemas cotidianos.
+
+Estaremos atentos.

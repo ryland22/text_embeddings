@@ -1,0 +1,87 @@
+I flew co-pilot on a 19-seat turboprop during my airline pilot rookie year. One hot summer day, we landed at Roanoke-Blacksburg Regional Airport (KROA), deplaned our passengers, and loaded up 19 more. We didn’t take on any more fuel because we needed to be as light as possible for the windy, high, hot and humid departure.
+
+This was a quick turn, so we SWAG’ed the numbers at the gate and did actual flight calculations on the taxi out. Almost to the runway, I realized we were 250 pounds overweight.
+
+We had a choice: Return to the gate and offload a passenger (guaranteeing someone would miss the connecting flight out of Dulles) or sit in the run-up area for 15 minutes and burn the equivalent weight in fuel. Two lousy options.
+
+I rechecked the numbers, searching for something better. Instead, I discovered we were also too heavy to meet the second stage climb requirements for the departure procedure. So we sat and burned off fuel.
+
+A Gulfstream captain filed a report with the Aviation Safety Reporting System after his terrain near miss in the second stage climb departing from Heber City Municipal Airport (KHCR). The crew had rushed through pre-departure checks to make up for being late. They got their departure clearance on the taxi out and the co-pilot quickly entered it into the flight computer.
+
+“When I asked him about second segment climb requirements on the COOL13, he responded, ‘we are good,’ with confidence. I believed him,” wrote the captain.
+
+However, their Ground Proximity Warning System (GPWS) said otherwise. It began to chirp from 400′ AGL up until they narrowly cleared the nearby mountains.
+
+“I pitched up purposely and smoothly to trade speed for altitude,” he continued.
+
+They cleared the terrain by less than 900′.
+
+In cruise, the captain asked his co-pilot to simulate the same takeoff again in the FMS, repeating the numbers. When they eyeballed the performance required, they were astonished to find the climb rate requirement was 10.9% — far higher than the 4% they’d planned.
+
+A Boeing 737 flight crew filed a NASA report after they discovered an 18,000-pound payload discrepancy between their actual weight and what the flight computer forecast their landing weight to be. They didn’t realize the problem until they slowed down to begin their approach.
+
+Before takeoff, a crew programs their flight computer with total passenger count, baggage, cargo and fuel. The computer then forecasts the appropriate flap settings and reference speeds (Vrefs) for takeoff, approach and landing.
+
+“We noticed that our calculated Vref was below the minimum Mach Airspeed Indicator (MASI) maneuvering speed on the approach,” wrote the pilot.
+
+The captain increased the airspeed by 20 knots, and they landed without incident.
+
+The first officer reviewed his numbers after the flight and realized he’d input 100 fewer passengers into the flight computer than were onboard. At the FAA’s standard weight of 180 pounds per passenger, their FMS had generated performance numbers for an airplane 18,000 pounds lighter.
+
+You might think that an 18,000-pound difference is not that much for an aircraft which, depending on the variant, has a maximum takeoff weight between 139,000 and 181,200 pounds. After all, nine tons represents only 15% of a B-737’s average max takeoff weight.
+
+But What About General Aviation?
+
+But apply that situation to general aviation. What if you were flying your vintage Cessna 310Q, max takeoff weight of 5,300 pounds, unknowingly 15% heavier than you calculated? And what if you were making a landing attempt into a high-altitude airport on a hot and humid day 795 pounds heavy? And what if, on approach, because you’re that good, you’re nailing your approach speed perfectly? How much margin for error would you really have?
+
+What would you do if, because your speed is spot on (but actually slow for the airplane’s real weight), your controls suddenly turn mushy? How long would it take you to realize the situation and recover in time?
+
+Or what if you departed Heber City, unaware of the 10.9% second stage climb requirement, while also being 15% overweight? Would your purposeful pitch up to trade speed for altitude result in a stall?
+
+The 737 flight crew went on to report that the ground crew knew about the discrepancy and reported it to Dispatch. But Dispatch decided against informing the crew upon learning that the flight had already taken off.
+
+Dispatch didn’t want to burden the pilots with news they thought might not affect the flight. That breakdown in communication could have cost the company an airplane, or worse. Dispatch lost sight of the big picture. That’s almost as bad as Tower spotting one of your flaps dangling and deciding you don’t need to know that.
+
+“Obviously, multiple human errors occurred in this case,” the pilot concluded.
+
+A Bonanza pilot filed a NASA Report after a flight with an inoperative altimeter.
+
+“During takeoff and climb, the airspeed indicator, vertical speed indicator and altimeter all appeared to be indicating correctly,” he wrote.
+
+He also wrote that the VSI and altimeter seemed sluggish in the climb. At 2,500′ indicated on his GPS, the pilot contacted ATC about an altimeter problem.
+
+He chose to continue his flight. ATC chose to have him stop squawking Mode C, since his barometric altimeter showed the plane’s position as 1,000′ low. He landed uneventfully at his destination.
+
+A post-flight inspection by an A&P revealed that the pitot and static lines had been swapped on the airspeed indicator. The mechanic fixed that condition.
+
+“Had this flight been conducted in IFR or IMC, and had I not had a backup source, this flight could have had a very different outcome,” the pilot wrote.
+
+He also suggested pilots should trust, but verify, the work their mechanics do after every inspection.
+
+I’m not a mechanic so I don’t know how wise it would be for me to go behind my local A&P and question the work done. However, I did ask an avionics repair expert about this specific report to get some good guidance.
+
+He observed that the pilot’s troubles sounded more like a blocked static port and less like reversed tubes. He pointed out that a blocked static port would cause the altimeter to freeze at the altitude at which the static port became blocked, whereas reversed tubes would probably cause the airspeed indicator to peg in the red after a certain airspeed had been attained.
+
+A blocked static port is a more serious situation because it affects all pitot-static instruments. One of the most common causes of a blocked static port is airframe icing. While a blocked static port will cause the altimeter to freeze at a certain altitude, the vertical speed indicator will become frozen at zero and will not change, even if vertical airspeed increases or decreases.
+
+The airspeed indicator will reverse the error that occurs with a clogged pitot tube and cause the airspeed to read less than it actually is as the aircraft climbs. When the aircraft is descending, the airspeed will be over-reported.
+
+In most aircraft with unpressurized cabins, an alternative static source is available and can be toggled from within the cockpit of the airplane.
+
+I wondered why the pilot didn’t pull the alternate static source in his plane. I also wondered if breaking the VSI (since it’s not required for IFR operations) could have solved the pilot’s frozen altimeter problem, if his plane did not have an alternate static source. To those questions, my avionics expert replied, “The FAA tells you to do so, so I say do so, too.”
+
+A Cessna 421 pilot filed a NASA report after he experienced a frozen altimeter during an IFR night flight. He declared an emergency. ATC helped him over mountainous terrain to an uneventful diversion.
+
+His takeaway from that event was that the redundancy of twin engine systems should also extend to a second altimeter in the cockpit.
+
+Adding “co-pilot” instruments to a cockpit to trust but verify used to be an expensive proposition. Now, modern, compact Electronic Flight Instrument Systems (EFIS) like the Garmin G5, the Dynon D10A, or the L-3 ESI-500 Genesis make affordable reality of a previously expensive, “nice to have,” added safety feature.
+
+As a pilot, I know there are certain preflight tasks built in that could suffice.
+
+As one pilot who submitted a NASA report after reading an article in the ASRS Callback magazine wrote: “I reported to my training captain for my first left seat trip in the little, bitty jet,” he wrote. “He told me the preflight was okay. Wrong! I found all four static ports covered with black tape.”
+
+Thorough preflight inspections, as well as taxi, runup and takeoff checklists, provide the best opportunities to spot potential problems.
+
+Remember, the reason we’re trained to look for and call “airspeed alive” on the takeoff roll is to give us one last chance to check the pitot-static system before we fly.
+
+During my flight instructor renewal course last month, much of the refresher course emphasized human factors and the concept of “trust but verify.” That’s why I’m revisiting that theme this month.

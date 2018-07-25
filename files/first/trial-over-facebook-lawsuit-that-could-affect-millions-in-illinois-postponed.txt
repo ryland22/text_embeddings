@@ -1,0 +1,17 @@
+A federal appeals court in San Francisco has granted Facebook’s request to postpone the July trial in a lawsuit over the social media giant’s facial tagging feature that could involve millions of Illinois users.
+
+Facebook said earlier this week that it would send out more than 28 million notifications to its users, explaining that they could be parties to the class-action lawsuit against the social network. Those notifications will no longer be dispatched because the 9th U.S. Circuit Court of Appeals plans to review the case’s class-action certification, Facebook spokeswoman Genevieve Grdina said Wednesday.
+
+The lawsuit, which was filed in federal court in Chicago in 2015 and later moved to federal court in San Francisco, alleges Facebook violated Illinois’ Biometric Information Privacy Act by failing to obtain written consent from users before creating templates of their faces from photos and by not properly notifying them about how the information would be used or how long it would be kept. Facebook denies the allegations.
+
+The suit asked the court to award damages of $5,000 for each reckless violation of the Illinois law and $1,000 for each negligent violation. The judge hearing the case granted the suit class-action status in April and said in his order that damages could amount to billions of dollars.
+
+Proposed changes to Illinois' biometric law concern privacy advocates »
+
+Certification of the class was a milestone for privacy advocates, and experts said at the time that it had the ability to affect the numerous biometric privacy lawsuits brought against other tech companies and employers. Facebook has argued that the collection of biometric data caused no real harm to the people suing, but by granting class-action status, the judge indicated that a potential invasion of privacy was harm enough to allow the case to proceed.
+
+Facebook started rolling out its facial tagging feature for photos in 2010. The social media platform has information on its website regarding the feature and points users toward their settings to disable it, and in December it introduced new tools to help users better manage use of facial recognition.
+
+amarotti@chicagotribune.com
+
+Twitter @AllyMarotti

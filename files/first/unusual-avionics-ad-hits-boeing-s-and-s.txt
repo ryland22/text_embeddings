@@ -1,0 +1,13 @@
+Major airworthiness directives related to aircraft systems aren't all that uncommon, but a new AD issued by the FAA yesterday that calls for the replacement of the primary flight displays in certain Boeing 737 and 777 airliners raises eyebrows not just for what must be replaced but also the reason why.
+
+The FAA on October 1 posted AD 2014-20-06 related to all Boeing 737-600, -700, -700C, -800, -900, and -900ER series airplanes and 777 airplanes with Phase 3 Honeywell displays. The directive was prompted by testing reports on certain Honeywell PFDs that exhibited susceptibility to radio interference from Wi-Fi frequency bands.
+
+The FAA says Wi-Fi signal interference could cause a dangerous loss of display information. More and more airliners are being equipped with Wi-Fi as a means for passengers to stay connected in flight. Signals from onboard Wi-Fi equipment are typically benign, not causing interference with the avionics in most cases. It is not known at this time exactly how the Wi-Fi interferes with the displays.
+
+According to the AD summary, the Honeywell Phase 3 primary flight displays must be replaced with Phase 1, Phase 2 or Phase 3A display units, and for certain replacements, new database software must be installed as well.
+
+The AD affects around 1,300 airplanes in all.
+
+Get exclusive online content like this delivered straight to your inbox by signing up for our free enewsletter.
+
+We welcome your comments on flyingmag.com. In order to maintain a respectful environment, we ask that all comments be on-topic, respectful and spam-free. All comments made here are public and may be republished by Flying.

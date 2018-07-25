@@ -1,0 +1,41 @@
+Rachael Bay is a Postdoctoral Fellow of Environment and Sustainability at the University of California, Los Angeles
+
+Many animals have adaptations that help them cope with specific environments or lifestyles. Antarctic fish produce antifreeze proteins that prevent their blood from freezing in subzero temperatures. Some desert rodents survive without ever drinking a single drop of water. Humans living at high altitudes have special adaptations to cope with the low oxygen concentrations.
+
+These special adaptations are encoded in the genome and passed down from generation to generation. This information can help scientists project into the future as well: Reading an animals' genes may help us anticipate if, and how, an organism might adapt to rapid changes in their environment, like those brought on by climate change. Understanding climate vulnerability at the level of an animal's DNA could reveal which populations and species are more at risk, allowing us to match conservation efforts with at-risk species and expected climate scenarios.
+
+I worked with a group of biologists associated with the Bird Genoscape Project who are concerned with the impact of a changing climate. We decided to investigate this question using yellow warblers.
+
+These migratory birds are found throughout most of Canada and the U.S. during the summer, inhabiting environments that range from the hot, dry Central Valley of California to the cool damp Pacific Northwest. If you live in North America, there are probably yellow warblers close by.
+
+Steve Byland/shutterstock.com
+
+Reading the DNA of yellow warblers
+
+A genomic study like this one is a game of large numbers. First, we needed lots of samples from across the continent. Luckily, we got lots of help. Bird monitoring stations collected samples of yellow warbler blood for us, museums sent us samples, and other scientists dug up DNA they had in their freezers from past studies. When all was said and done, we had a large collection of both blood and feather samples from live birds as well as tissue samples from museum birds.
+
+Once we had DNA from all these samples – about 250 birds from over 20 locations across the U.S. and Canada – we sequenced the genomes for each yellow warbler. This resulted in about 350 billion DNA base pairs – chemical units of DNA that make up the genetic code. Using computer algorithms, we compared these 250 genomes and investigated which parts of the genome were different in birds from different climate regions.
+
+We didn't really know which parts of the genome, if any, would show signs of climate adaptation – so we didn't choose to examine any particular gene. Instead, we looked at many random regions of the genome, over 100,000 in total. We compared variation at each of these genomic regions with different environmental parameters related to temperature, precipitation and vegetation measurements at the locations the birds were sampled.
+
+We found that of these environmental variables, precipitation was the most strongly correlated with genetic variation. When we examined these regions of the yellow warbler genome across all of our samples, we found that some genes looked different in birds from rainy regions when compared with the same genes in birds living in arid zones.
+
+In other words, the same gene in yellow warblers from the driest places in the country had a slightly different DNA sequence than in birds from very wet places. This suggests there is an ideal genetic variant that is matched to the environment – these birds had adapted to their local climates.
+
+But if birds are adapted to their current climate, what will happen in the coming years as the climate changes?
+
+Many regions of the U.S. are predicted to get warmer and drier over the next century. Because we now had an idea of which genetic variants are ideal for each climate, we could calculate how much the genome sequences of yellow warbler populations would have to change over the next 50 years to match the genetic profile of yellow warblers adapted to future conditions. We can estimate, for example, how much birds will need to adapt to warmer temperatures in the future based on the genomic profile of yellow warblers now living in warmer parts of country.
+
+We used an algorithm that combined data from all 100,000 genomic regions with publicly available data on 25 different climate variables, both for present and projected future climates. When the numbers were crunched, we estimated a score that reflected how much DNA of a population would need to change for that population to adapt to future climate change. We called this the "genomic vulnerability" of different yellow warbler populations.
+
+Populations might already be threatened by climate change
+
+Some regions, like the Rocky Mountains, showed very high levels of genomic vulnerability, suggesting yellow warblers in these areas would need many changes in their genomes to keep up with climate change. Meanwhile, warblers from other regions, like the Midwest, had low genomic vulnerability – these birds were less at risk. Differences in genomic vulnerability across the range are due variation in projected climate change patterns; some regions are expected to get hotter and drier while other regions might actually become wetter and cooler.
+
+Perhaps our most startling finding emerged when we compared genomic vulnerability to changes in yellow warbler populations over the past 50 years. In areas like parts of California and the Rocky Mountains, which had the highest genomic vulnerability, yellow warbler populations have already declined. This could mean that climate change has already affected these populations, and those effects are likely to become even more severe over the next century.
+
+Although we found genetic differences between birds inhabiting different climates, we still don't have a good idea of what these genetic differences mean. Maybe birds from drier areas are adapted to take advantage of different food sources from those that live in wetter regions. Maybe birds time their migration to match different types of vegetation in different regions. Only follow-up studies will be able to tell us how birds are adapting to different climates.
+
+Yellow warblers are clearly not the only species being affected by climate change. Through the Bird Genoscape Project, we are working on creating maps of genomic vulnerability in a number of North American birds. We also hope that this framework will be used for other types of wildlife as well, not just birds.
+
+This article was originally published on The Conversation.

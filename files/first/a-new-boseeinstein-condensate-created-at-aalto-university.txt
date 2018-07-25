@@ -1,0 +1,92 @@
+A new Bose-Einstein condensate created at Aalto University
+
+
+
+by Staff Writers
+
+
+
+Helsinki, Finland (SPX) Apr 22, 2018
+
+
+
+The wavelength of emitted light grows, that is, the energy decreases, along the gold nanorod array. A Bose-Einstein condensate forms when an energy minimum of the lattice is reached.
+
+Nearly a hundred years ago, Albert Einstein and Satyendra Nath Bose predicted that quantum mechanics can force a large number of particles to behave in concert as if they were only a single particle. The phenomenon is called Bose-Einstein condensation, and it took until 1995 to create the first such condensate of a gas of alkali atoms.
+
+Although Bose-Einstein condensation has been observed in several systems, the limits of the phenomenon need to be pushed further: to faster timescales, higher temperatures, and smaller sizes. The easier creating these condensates gets, the more exciting routes open for new technological applications. New light sources, for example, could be extremely small in size and allow fast information processing.
+
+In experiments by Aalto researchers, the condensed particles were mixtures of light and electrons in motion in gold nanorods arranged into a periodic array. Unlike most previous Bose-Einstein condensates created experimentally, the new condensate does not need to be cooled down to temperatures near absolute zero. Because the particles are mostly light, the condensation could be induced in room temperature.
+
+'The gold nanoparticle array is easy to create with modern nanofabrication methods. Near the nanorods, light can be focused into tiny volumes, even below the wavelength of light in vacuum. These features offer interesting prospects for fundamental studies and applications of the new condensate,' says Academy Professor Paivi Torma.
+
+The main hurdle in acquiring proof of the new kind of condensate is that it comes into being extremely quickly.'According to our theoretical calculations, the condensate forms in only a picosecond,' says doctoral student Antti Moilanen.
+
+'How could we ever verify the existence of something that only lasts one trillionth of a second?'
+
+Turning distance into time
+
+A key idea was to initiate the condensation process with a kick so that the particles forming the condensate would start to move.
+
+'As the condensate takes form, it will emit light throughout the gold nanorod array. By observing the light, we can monitor how the condensation proceeds in time. This is how we can turn distance into time,' explains staff scientist Tommi Hakala.
+
+The light that the condensate emits is similar to laser light. 'We can alter the distance between each nanorod to control whether Bose-Einstein condensation or the formation of ordinary laser light occurs. The two are closely related phenomena, and being able to distinguish between them is crucial for fundamental research. They also promise different kinds of technological applications,' explains Professor Torma.
+
+Both lasing and Bose-Einstein condensation provide bright beams, but the coherences of the light they offer have different properties. These, in turn, affect the ways the light can be tuned to meet the requirements of a specific application. The new condensate can produce light pulses that are extremely short and may offer faster speeds for information processing and imaging applications. Academy Professor Torma has already obtained a Proof of Concept grant from the European Research Council to explore such prospects.
+
+Research Report: "Bose-Einstein Condensation in a Plasmonic Lattice"
+
+
+
+
+
+Related Links
+
+Aalto University
+
+Nano Technology News From SpaceMart.com
+
+Computer Chip Architecture, Technology and Manufacture
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington DC (SPX) Apr 22, 2018
+

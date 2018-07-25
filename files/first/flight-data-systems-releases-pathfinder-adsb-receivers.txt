@@ -1,0 +1,9 @@
+Flight Data Systems has introduced two ADS-B receivers designed for portable devices and experimental airplanes. Like Sporty's Stratus and Garmin's GDL 39, the portable Pathfinder provides subscription-free, real-time weather and traffic through the ADS-B system, a network that the FAA recently announced has been completed across the country.
+
+The Pathfinder, which is a single-band, 978 MHz UAT receiver, talks to the iPad through apps such as WingX and eKneeboard, and Android devices through the FlightPro (Avilution) app. Other apps are expected to be available; however, the Garmin Pilot app and Foreflight are likely not going to be included on the list since they have their own dedicated ADS-B units. The Pathfinder's WiFi allows for up to seven devices to use the ADS-B services at one time. In addition to the ADS-B capabilities, the unit includes WAAS GPS.
+
+The Pathfinder Remote, which can be installed into experimental airplanes, requires an external antenna and is compatible with EFIS equipment from MGL Avionics, Grand Rapids Technologies and Advances Flight Systems. While this unit is hard-wired into the airplane and can talk to panel mounted avionics, it can also be used for the iPad through a WiFi connection.
+
+Get exclusive online content like this delivered straight to your inbox by signing up for our free enewsletter.
+
+We welcome your comments on flyingmag.com. In order to maintain a respectful environment, we ask that all comments be on-topic, respectful and spam-free. All comments made here are public and may be republished by Flying.

@@ -1,0 +1,209 @@
+Elizabeth Holmes was just 19 years old when she dropped out of Stanford University with a dream of creating a company that would revolutionize blood testing. She founded the start-up Theranos and boasted her technology could take a pin-prick worth of blood from the finger and perform hundreds of laboratory tests. It was, she claimed, "the most important thing humanity has ever built."
+
+At its zenith, Theranos was worth nearly $10 billion and Elizabeth Holmes became the youngest, self-made, female billionaire in the world. She was also, as the Wall Street Journal uncovered, at the center of a massive, multi-year fraud. You're about to hear from insiders how the Theranos deception hoodwinked gullible investors and worse, endangered unsuspecting patients.
+
+Elizabeth Holmes on "CBS This Morning": "Our work is in being able to make testing more accessible."
+
+Elizabeth Holmes built her company Theranos on this invention she named the Edison. A miniaturized blood analyzer that would disrupt the $60 billion lab testing industry dominated by giants LabCorp and Quest Diagnostics.
+
+Holmes called her invention the iPod of health care and it made her a celebrity.
+
+She graced magazine covers and was praised by politicians and the press alike.
+
+Bill Clinton: You founded this company 12 years ago right, tell them how old you were.
+
+Elizabeth Holmes: I was 19.
+
+She sold her vision with grandiose claims that her blood tests would cost a fraction of current prices.
+
+Elizabeth Holmes on TechCrunch Disrupt: What we're doing in just pricing is saving Medicare and Medicaid hundreds of billions of dollars on an annual basis.
+
+Holmes' biotech startup was backed by an illustrious board packed with national security heavyweights like Henry Kissinger and James Mattis, the current defense secretary. The board was filled with friends of George P. Shultz, the former secretary of state who helped end the Cold War.
+
+He introduced his grandson Tyler to Holmes. Dazzled, Tyler Shultz became a believer and joined the company soon after getting his degree in biology from Stanford University.
+
+Norah O'Donnell: When you met her, and you heard about Elizabeth Holmes' vision, what did you think?
+
+Tyler Shultz: I was totally sold on it.
+
+Tyler Shultz began working at Theranos in September 2013. It was a pivotal moment, as the company announced a partnership with Walgreens. The deal would put an Edison machine in every store.
+
+"We didn't let [patients] know, 'Hey, we reran your patient sample and we're not actually positive about what the diagnosis is.'"
+
+Elizabeth Holmes claimed the Edison performed all the tests big lab machines could -- from cholesterol to cancer -- all from a painless finger-prick.
+
+But Tyler Shultz says the Edison he saw just didn't work.
+
+Norah O'Donnell: Was it a sophisticated piece of machinery?
+
+Tyler Shultz: No. There were components that would kinda fall off in the middle of testing that you would then have to fish out. They had doors that wouldn't close. They would get too hot. And then they would get too cold.
+
+Doug Matje: When I was there, we could not complete any test accurately on the devices that we were manufacturing.
+
+Doug Matje joined Theranos in 2012 after getting his doctorate in biochemistry. His job was to adapt blood tests for the Edison. Tests, which Holmes told investors, were ready to use on patients.
+
+Norah O'Donnell: But Elizabeth Holmes had told Walgreens in 2010 that it had developed this device that was capable of running any blood test from a few drops pricked from a finger in real time, and less than half the cost of traditional labs. Was that true?
+
+Doug Matje: No. Certainly not.
+
+Norah O'Donnell: do you think she was lying to Walgreens?
+
+Doug Matje: I do. Yeah.
+
+Norah O'Donnell: Are you a clinical lab specialist?
+
+Erika Cheung: No.
+
+CBS News
+
+Erika Cheung was fresh out of Berkeley with a degree in molecular and cell biology when she went to work at Theranos. She was just 22, but even the novice lab tech suspected something was very wrong when she saw faulty test results sent to Walgreen's patients.
+
+Norah O'Donnell: When did you think, "I probably shouldn't be doing this?"
+
+Erika Cheung: Pretty-- (LAUGH) pretty soon in the process, especially when we started to pick up more patient samples.
+
+And when those samples were re-tested, she says, there were often contradictory results.
+
+Norah O'Donnell: Did you ever alert the patient?
+
+Erika Cheung: No. We didn't let them know, "Hey, we reran your patient sample and we're not actually positive about what the diagnosis is."
+
+Norah O'Donnell: This is someone's health information.
+
+Erika Cheung: Exactly. This isn't an app crashing. This isn't, you know, someone's food delivery coming late. It's just a different ballgame.
+
+It's not the only game Elizabeth Holmes was playing. Theranos employees told us they were instructed to stage fake demonstrations for investors who visited company headquarters.
+
+Erika Cheung: It was kind of a show. All they would see was their blood getting collected. They didn't see what was going on behind closed doors about how it was processed.
+
+Doug Matje: They would get their finger pricked with a small amount of blood. Then the-- they'd be led out of the room, they'd go have a meeting, go have lunch, whatever, and at which point an engineer would run in the room, grab the cartridge, bring it out into the lab.
+
+Norah O'Donnell: So was the Edison doing the testing?
+
+Doug Matje: No. Absolutely not.
+
+Norah O'Donnell: Who was doing the testing?
+
+Doug Matje: It was scientists at the bench.
+
+Norah O'Donnell: By hand.
+
+Doug Matje: By hand, yeah.
+
+CBS News
+
+It was a bait and switch for investors that kept the money rolling in. Theranos raised nearly $900 million from those investors who now say they were swindled by Elizabeth Holmes and company president Ramesh "Sunny" Balwani. The pair claimed in investor documents obtained by 60 Minutes that Theranos technology was validated by the FDA, pharmaceutical companies, and was deployed on the battlefield by the U.S. military in Afghanistan. Those claims were fabricated.
+
+And in one public appearance after another, Holmes' pitch became even more fantastic and reckless.
+
+Elizabeth Holmes on PBS Revolutionaries: We've done some work with people at Hopkins who have developed and demonstrated that in blood you can see the onset of pancreatic cancer 17 years before a tumor forms.
+
+We called Johns Hopkins Medicine. They told us they never collaborated with Theranos. And Doug Matje says, test data he compiled for the Food and Drug Administration was falsified.
+
+Doug Matje: There was so much pressure from above to get good-looking results that are going to be able to pass the FDA guidelines that people were pressured into making things disappear.
+
+Norah O'Donnell: The bad results.
+
+Doug Matje: The bad results.
+
+Norah O'Donnell: That's deceptive.
+
+Doug Matje: Yeah. For sure.
+
+Norah O'Donnell: Did you ever go to your boss and say, "This isn't right"?
+
+Doug Matje: Absolutely. All the time. But, you know, he was under a lot of pressure from the people above him. And he was trying to do his best to make-- to make everyone happy.
+
+Sunny Balwani: This invention is going to be way up there, um, with-- with the discovery of antibiotics.
+
+Day to day operations were run by company president Sunny Balwani. Balwani is a millionaire software engineer with no training in the biological sciences. But he did have a powerful connection to Elizabeth Holmes. Sunny Balwani was her secret boyfriend.
+
+Sunny Balwani: Some people are here because of the mission, the cause, some people are both here for the science.
+
+Balwani was also Holmes' enforcer, firing employees on the spot and berating scientists for failed tests. After a year and a half, Matje quit.
+
+Doug Matje: I saw that there was, you know, potentially fraud taking place. There was far too much illegitimate things going on there. I talked to Sunny, decided I didn't want to be there anymore and I left.
+
+CBS News
+
+Tyler Shultz was also becoming disillusioned.
+
+Tyler Shultz: I had a personal relationship with Elizabeth. She was close to my family. And I felt like she was deceiving my family. And the public.
+
+And almost every media outlet including us here at CBS bought into the Theranos myth.
+
+Norah O'Donnell on CBS This Morning: A health care pioneer is being compared to visionaries like Bill Gates and Steve Jobs.
+
+Norah O'Donnell: Do you think she wanted to be the next Steve Jobs?
+
+Tyler Shultz: Yeah. I think she just really idolized him, So, she wore the black turtleneck. I think she created a world where she was Steve Jobs for a little bit.
+
+As her wealth and reputation soared Elizabeth Holmes took on the trappings of power. She bragged bullet-proof windows were installed in her office and she traveled with a full-time security detail. Theranos employees told us they were closely watched and required to sign non-disclosure agreements, all reinforced, they said, by a threatening team of lawyers and private investigators. That's why, when Tyler Shultz alerted authorities in the spring of 2014, he used a fake name.
+
+Norah O'Donnell: Why did you come up with an alias?
+
+Tyler Shultz: I knew how seriously Theranos protected their trade secrets. I knew they would not take it well if they knew that I was talking to regulators.
+
+In his email to New York State Department of Health regulators, Shultz outlined questionable lab practices and said he believed test results were being switched.
+
+Tyler Shultz: I just said, "This happened in my laboratory. And I just want to know if this is okay." And they responded and said, "No, this is cheating. This is not how it's supposed to be done."
+
+Tyler Shultz was ready to resign but first, he sent Elizabeth Holmes an email about his concerns. He got a response from Sunny Balwani.
+
+Tyler Shultz: That I was arrogant, ignorant, patronizing, reckless -- and I was lacking the basic understanding of math, science, and statistics that if I had any other last name, that I would have already been held accountable to the strongest extent.
+
+Tyler Shultz quit in April 2014 and soon after Erika Cheung did too.
+
+CBS News
+
+By February 2015 the Theranos fairytale was about to unravel publicly. At the Wall Street Journal, Pulitzer Prize-winning reporter John Carreyrou, who has written a book about the Theranos saga, got a call. It was a tipster casting doubt about the Edison, Theranos and its charismatic founder, Elizabeth Holmes.
+
+John Carreyrou: She is a pathological liar. She wanted to be a-- celebrated tech entrepreneur. She wanted to be rich and famous. And she wouldn't let anything get in the way of that.
+
+Norah O'Donnell: What kind of job did the board do in holding Holmes accountable?
+
+John Carreyrou: This is one of the most epic failures in corporate governance in the annals of American capitalism. They did nothing to verify that her scientific claims were true.
+
+Carreyrou's first article appeared in October 2015, and revealed: "Theranos did less than 10 percent of its tests on Edison machines."
+
+Jim Cramer on Mad Money: What do you think is going on here?
+
+Holmes struck back.
+
+Elizabeth Holmes on Mad Money: This is what happens when you work to change things. And first they think you're crazy, then they fight you, and then all of a sudden you change the world.
+
+But skeptics were no longer buying the Theranos deception.
+
+Holmes repeatedly insisted she would present proof at a major industry conference that her technology worked.
+
+Elizabeth Holmes at AACC: You can see the tray dropping into the detection module there…
+
+it was proof that never came.
+
+Panelist at AACC: And the evidence you presented fell far short of that.
+
+In 2016, after a series of surprise inspections, federal regulators shut down the company's laboratory saying it posed "immediate jeopardy to patient health and safety." Nearly 1 million Theranos test results were invalidated.
+
+John Carreyrou: When she started using this technology on the blood samples taken from consumers in Walgreens stores, that was an unauthorized medical experiment. There's no other way to put it.
+
+Theranos was on the brink of collapse. Big name investors found their stock was worthless. Education secretary Betsy DeVos and her family and media mogul Rupert Murdoch each lost more than a $100 million.
+
+Walgreens sued Theranos and settled for less than a quarter of their $140 million investment.
+
+Norah O'Donnell: Why do you think this was outright fraud, as opposed to any other Silicon Valley startup that just wasn't able to deliver on lofty goals?
+
+John Carreyrou: Well because she raised money, hundreds of millions of dollars, on the basis of this technology not only being ready and working but being commercially rolled out. You're also lying to the public. You're lying to patients. You're lying to doctors. You're lying to regulators. Most people would call that fraud, as well.
+
+The Securities and Exchange Commission called it "massive fraud" when they charged Elizabeth Holmes and Sunny Balwani in March. Holmes settled the SEC case without admitting guilt and paid a half a million dollar fine. Balwani, who left Theranos two years ago, calls the SEC charges unwarranted and is fighting them.
+
+Norah O'Donnell: At its height, how much was Theranos worth?
+
+John Carreyrou: $10 billion. There was a period of several months where it was more valuable than Uber, more valuable than AirBnb, more valuable than Spotify.
+
+Norah O'Donnell: And how much is it worth now?
+
+John Carreyrou: Zero.
+
+Elizabeth Holmes remains CEO of Theranos. She would not comment for our story but last month she wrote to investors asking them to put in even more, or the company would soon run out of cash. A federal criminal investigation is ongoing.
+
+Produced by Katy Textor and Howard L. Rosenberg. Associate producers, Lucy Boyd and Julie Holstein.

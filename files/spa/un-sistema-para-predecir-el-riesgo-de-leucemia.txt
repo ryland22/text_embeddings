@@ -1,0 +1,11 @@
+Se basa en la detección de mutaciones en ciertos genes. Crédito imagen: Ed Uthman
+
+Científicos del Instituto Wellcome Sanger y del Instituto Europeo de Bioinformática, han descubierto que es posible identificar personas con alto riesgo de desarrollar leucemia mieloide aguda (LMA) años antes del diagnóstico.
+
+La leucemia mieloide aguda es un cáncer de sangre agresivo que afecta a personas de todas las edades. Las células cancerosas se multiplican rápidamente en la médula ósea y detienen la producción de células sanguíneas normales, lo que provoca infecciones y hemorragias fatales. Los tratamientos convencionales han cambiado muy poco durante varias décadas y, aunque algunos pacientes se curan, la mayoría no lo hace.
+
+El estudio, publicado en la revista Nature, señala que los análisis de sangre que buscan cambios en el código de ADN pueden revelar las raíces de la LMA en personas sanas. La investigación adicional podría permitir la detección y el control más temprano de las personas con riesgo de LMA en el futuro, y abrir la posibilidad de desarrollar formas de reducir la probabilidad de desarrollar este tipo de cáncer.
+
+El estudio se centró en genes seleccionados que se sabe están asociados con este tipo de cáncer y encontró mutaciones frecuentes en algunos de estos genes en muchas personas, incluidas algunas que no desarrollaron LMA. Sin embargo, los autores del estudio descubrieron que las personas que estaban en camino de desarrollar esta leucemia tenían un mayor número de mutaciones y que estas, a menudo, estaban presentes en una proporción mayor de sus células sanguíneas.
+
+“La leucemia mieloide aguda a menudo aparece de forma muy repentina en los pacientes – explica la líder del estudio, Grace Collord –, por lo que nos sorprendió descubrir que sus orígenes son generalmente detectables más de cinco años antes del desarrollo de la enfermedad. Esto nos indica que es posible desarrollar pruebas para identificar a las personas con alto riesgo de desarrollar LMA”:

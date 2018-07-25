@@ -1,0 +1,19 @@
+Inmarsat is bringing its European Aviation Network (EAN) hybrid connectivity solution to the business aviation sector as an additional option alongside its Jet ConneX Ka-band service, which this week passed the 275th installation mark.
+
+EAN integrates connectivity from a satellite operated by Inmarsat with an LTE-based ground network operated by Deutsche Telekom. It covers all 28 European Union member states, as well as Norway and Switzerland.
+
+The service is being launched by International Airlines Group (IAG) in the commercial aviation market later this year, but the satellite company announced at EBACE that it will also be available to business aviation operators from the beginning of 2019.
+
+Inmarsat is “in discussions” with a potential, undisclosed business aviation launch customer for EAN, and is in the process of developing pricing plans and securing supplemental type certificates (STCs), Inmarsat Aviation senior vice-president core business Michael Rack tells Flight Evening News.
+
+While Jet ConneX is “absolutely fantastic” for aircraft operating globally, Rack says the decision was taken to also offer EAN for aircraft that remain in Europe – the numbers of which Inmarsat expects to grow to more than 5,000 over the next few years.
+
+Another reason for the decision was that the EAN hardware is smaller and lighter than the equipment used for Jet ConneX. This “opens up the door to smaller aircraft that can’t be equipped with Jet ConneX”, says Rack. He sees midsize and smaller business aircraft as representing a “bigger market” for EAN than larger jets.
+
+Plans are afoot to make the system – which weighs in at about 14kg for a commercial aircraft – even smaller and lighter for the business aviation market.
+
+Inmarsat is working on signing up EAN distribution partners for the business aviation market, and hopes to complete this process “by the summer”.
+
+Rack dismisses suggestions that Inmarsat is bringing EAN to the business aviation market because Jet ConneX sales are underperforming, noting that the 275-aircraft installation milestone achieved this week was “an absolutely great number” that was reached “faster than expected”.
+
+Get all the coverage direct from EBACE on our dedicated event page

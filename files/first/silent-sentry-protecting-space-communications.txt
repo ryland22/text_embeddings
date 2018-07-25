@@ -1,0 +1,92 @@
+Silent Sentry: Protecting Space Communications
+
+
+
+by Staff Writers
+
+
+
+Al Udeid Air Base, Qatar (SPX) Apr 30, 2018
+
+
+
+U.S. Air Force Staff Sgt. Joshua Foster, a radio frequency transmissions technician with the 379th Operations Support Squadron, uses a controller to move a satellite dish into position for maintenance at Al Udeid Air Base, Qatar, Mar. 30, 2018. Silent Sentry protect critical satellite communication links by employing multiple weapons systems for electronic warfare. (U.S. Air National Guard photo by Master Sgt. Phil Speck)
+
+More than 20,000 above the Earth's surface, communication satellites orbit the planet, listening for a signal. Once they receive a signal, they repeat it and send it back down to the surface.
+
+The U.S. Air Force uses many types of satellite communications to transmit data all around the globe. With the encryption of data, the U.S. Air Force denies prying eyes the ability to read critical information. However, desperate enemies often try a number of subterfuge methods to disrupt SATCOM.
+
+This is where the 379th Expeditionary Operations Support Squadron's Silent Sentry (OSY) flight comes into play - to protect critical satellite communication links by employing multiple weapons systems for electronic warfare.
+
+These space operators are from the 16th Space Control Squadron and the Air Force Reserves 380th Space Control Squadron at Peterson Air Force Base, Colorado Springs, Colorado.
+
+If hostile forces relied on kinetic attacks, or trying to shoot down satellites with missiles, attacks on U.S. communications would become expensive. Alternatively, those that want to deny our satellite communication capabilities are more likely to try jamming which is broadcasting powerful radio waves that overwhelm our ability to receive information.
+
+Silent Sentry's space control mission defends against these jamming attacks. They monitor satellites and watch radio signals that the satellites send down. Normal communications have certain characteristics or "fingerprints" to them, and according to Capt. Dirk Haller, commander of Silent Sentry, when these signals look different, the Airmen of the 379th OSY know something is wrong and someone may be trying to jam them.
+
+"We watch radio signals going up and down from space and make sure that the signals we're sending are getting where they need to go and not being interfered with," Haller said.
+
+Since satellites are critical for remotely piloted aircraft operators, they are major customers of Silent Sentry. If jammed, the pilots might lose the ability to control their RPA or not be able to receive the video feed. Silent Sentry Airman are able to communicate with the pilots via an internet relay chat. If the pilot starts to notice problems with video they are receiving or the flight controls, they notify Silent Sentry as they could be getting jammed.
+
+Silent Sentry then inspects the satellite being used to relay the signals to the RPA and to the pilot to see if there are any disturbances in the radio waves being transmitted.
+
+If they detect electromagnetic interference, space control operators can track the EMI and by using different tools, can triangulate the location of the interference.
+
+"Silent Sentry completes the defensive space control mission when they give the geolocation information to the Combined Air Operations Center, who can then quickly find the jamming source equipment via air assets," Haller said.
+
+Occasionally, it is possible that an amateur radio enthusiast could have his radio frequencies pointed at the wrong satellite and accidentally interferes with the military communications. However, if the interference is determined to be malicious, the CAOC can decide what methods they want to use to stop the jamming, which includes the possibility of a kinetic attack on the source.
+
+"Our enemies are aware of our massive reliance on our space assets. We can no longer assume we have complete freedom to operate in the space domain as we could 20 years ago," Haller said.
+
+"Silent Sentry is the Air Force acknowledging that the space domain is a contested environment, and that we must now defend it as we would any of the other domains."
+
+
+
+Related Links
+
+US Air Force Space Command
+
+Read the latest in Military Space Communications Technology at SpaceWar.com
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington (UPI) Apr 25, 2018
+

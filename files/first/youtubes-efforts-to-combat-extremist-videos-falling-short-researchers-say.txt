@@ -1,0 +1,29 @@
+An initiative by YouTube to minimize the exposure of videos advocating extremism is falling short, according to a new report from researchers with the Counter Extremism Project (CEP). The report criticizes the effectiveness of YouTube's efforts to suppress extremist videos and promote content that could dissuade potential recruits from joining terror groups.
+
+YouTube, which is owned by Google, incorporated aspects of the "Redirect Method" last year. The program uses advertising to steer users away from extremist content in search results and toward a playlist of pre-existing videos that debunk the ideology of violent extremists. The Redirect Program was developed in part by Jigsaw, Google's innovation arm.
+
+But the researchers with CEP say they were three times more likely to encounter videos with extremist content in search results than videos that combat the propaganda.
+
+Between April 3 and April 4, 2018, they searched YouTube using four keywords that the Redirect Method says indicate "positive sentiments" toward the Islamic State of Iraq and Syria (ISIS). The terms included the Arabic translations of "Islamic State" and "remaining and expanding," along with the English transliteration of each phrase. ("Remaining and expanding" is a commonly used ISIS rallying cry.)
+
+They reviewed 710 YouTube videos that appeared in the search results and evaluated whether they contained extremist messaging or "counter-narrative" messages. They found 53 videos -- more than 7.4 percent -- included violent extremism or extremist propaganda. Twenty-five of the videos showed explicit violence or gore. ISIS propaganda was limited in the results, but 18 videos were official propaganda videos from other extremist groups and 31 others were unofficial videos containing combat footage or montages.
+
+They said only 15 videos, about 2.1 percent, displayed content that counters or debunks extremism and that 14 of those were aimed solely at ISIS.
+
+The term "Al Dawla Al Islameyah" -- the Arabic term referring to ISIS -- produced no counter-narrative results while searches for the Arabic translation of "remaining and expanding" had more extremist videos than counter-narratives in the results.
+
+The report highlights how social media giants in Silicon Valley have struggled to tamp down hate speech and terrorist propaganda on their platforms.
+
+Lara Pham, deputy director at CEP, said the goal of the report was to "test the efficacy of whether or not when we searched for pro-ISIS content we were being fed counter-narrative material."
+
+Pham said the report brings into question if Google and YouTube are doing enough to fight extremist content.
+
+"Our findings actually question the intentions of why Google pursued this program in the first place because, according to our findings, we really did not find that many counter-narrative programs and that was really troubling to us."
+
+Researchers also identified two search terms that produced terroristic content that were not specified by the Redirect Method -- the Arabic translation of "mujahideen" and "martyrdom." They said the terms had the most extremist videos in the results and lacked the counter-messaging content almost entirely.
+
+The authors of the report called Google's efforts to promote counter-narrative content "inconsistent and insufficient."
+
+"The only thing that is clear is YouTube and others still have significant problems with online extremism and current measures are not nearly enough," David Ibsen, executive director for the Counter Extremism Project, said in a statement.
+
+YouTube and Google did not respond to requests for comment.

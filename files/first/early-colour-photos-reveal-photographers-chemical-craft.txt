@@ -1,0 +1,21 @@
+A set of early colour photographs taken by the 19th century photographer Louis Ducos du Hauron has undergone chemical analysis by heritage scientists in France. The investigation has enabled them to identify which techniques were used to take the photographs, and in some cases when they might have been taken.
+
+‘Books and patents already give lots of pieces of information; however, they also show that processes change with time,’ says Marine Cotte, who led the work at the European Synchrotron Radiation Facilty (ESRF) in Grenoble
+
+Early colour photography was a long, painstaking process. The image would have to be captured as three negative shots through different coloured filters, which were then developed on gelatin films containing red, blue and yellow pigments. These prints then had to be assembled into a single print to get an image with the full spectrum of colours.
+
+Ducos du Hauron helped improve the techniques throughout the late 1800s, introducing different ways to treat and develop the negatives so that the process was quicker, or the resulting photographs more robust and resistant to fading. He kept meticulous records of every tweak he made to his methods, including the different chemicals that could be used.
+
+By comparing these records with information on the chemical composition of three Ducos du Hauron photographs, Cotte and her colleagues were able to work out which processes had been used to develop them. ‘For [some ingredients] Ducos du Hauron explored alternatives, and it is only thanks to analyses that we can know which were used, and try to see if it agrees with one of the published protocols,’ says Cotte.
+
+The researchers used a suite of analytical techniques on small samples of the photographs, including x-ray fluorescence spectroscopy, Raman spectroscopy and synchrotron-based infrared (IR) spectroscopy. This allowed them to identify some of the photos’ chemical constituents, such as the pigments used in the different coloured layers of gelatin, protective varnishes and other chemicals used in the development process.
+
+Two of the photos – Vase with begonia, tulip and glass of wine (pictured) and Cliffs close to Algiers – were found to contain ingredients consistent with those described in one of the photographer’s detailed protocols from 1878, meaning they were likely taken in or around this year. The pigments Prussian blue and carmine lake were used to colour the blue and red gelatin layers, respectively, and the use of castor oil or glycerol to soften the nitrocellulose material collodion – which acted as a binder or varnish – was detected. The third, unnamed photograph had a slightly different composition which didn’t match up exactly to any of the published protocols, making the date it was taken harder to pinpoint.
+
+Cotte wants to carry out similar analyses on more early photographs from museums across France. An important next step, she says, will be ‘to extend the use of portable equipment to analyse photographs directly as an alternative to [using] micro fragments’.
+
+Bertrand Lavédrine, a photograph specialist and conservator at the National Museum of Natural History in Paris, says the work is really important because ‘technical knowledge about photography is vanishing, and the knowledge required to characterise ancient photographic processes is being lost’. He adds that the study is a good example of bringing techniques that have been used to study paintings and other museum artefacts to this niche field.
+
+‘With the recent advances in analytical instruments we can better characterise artefacts and link them to a specific process, artist or recipe in a non- or micro-destructive way,’ he tells Chemistry World. ‘The results will not radically change any conservation or restoration treatment but they will be very helpful for documentation.’
+
+He points out that there are still a number of ‘unsolved clues’ in Ducos du Huron and others’ work. ‘There is a lot to do, especially on colour photographs.’

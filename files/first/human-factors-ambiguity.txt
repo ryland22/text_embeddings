@@ -1,0 +1,71 @@
+GPS and air data computers make en route navigation the most precise it’s been in aviation history. In some ways, too precise.
+
+Transoceanic airliners began to suffer hours of sustained turbulence caused by dozens and dozens of wide-body aircraft flying on the same track, through each other’s wake vortices. Eventually, international airlines flying those routes figured out a solution. They developed SLOP — Strategic Lateral Offset Protocol — in other words, introducing an element of ambiguity in their navigational tracks to relieve airframes, and passengers, of the pain caused by excessive precision.
+
+That may be the only instance I know where ambiguity is a good thing in aviation. If the reports to NASA’s Aviation Safety Reporting System I recently dissected are any indication, pilots agree that ambiguity is a bad thing. The ambiguity they are referring to is in how the FAA regulations, instrument procedures, and NOTAMS are worded.
+
+A Boston-area flight instructor filed a NASA after a phone call he had with an FAA supervisor at that area’s Terminal Radar Approach Control (TRACON) facility. The phone call was mandated by ATC because the instructor and his student had been operating in a local, well-established practice area. Part of the practice area comes close to the airspace around the Plymouth Nuclear Power Plant.
+
+The CFI wrote that he and his student were operating between 3,000 and 4,000′ MSL, over Plymouth Bay, two to four miles northwest of the nuclear power plant, inside the confines of the practice area and well away from incursion. Nevertheless, Boston TRACON dispatched a Coast Guard aircraft to photograph the instructor’s registration number.
+
+During his phone call with the FAA supervisor, the instructor was warned that a Pilot Deviation action might be taken against him. At the time of the pilot’s NASA report submission, no such action had been taken. Regardless, he had legitimate concern for worry. Violations of that FDC NOTAM come with a $10,000 fine.
+
+In another NASA report, a pilot detailed his actions to comply with a Temporary Flight Restriction (TFR) NOTAM affecting his route. The TFR imposed a 30 nm no fly ring around the CHS VORTAC. Using his plotter on the ground, and confirming with his GPS in the plane, he determined his departure airport, Lowcountry Regional Airport (KRBW), was west of and outside of the 30 nm ring. Just to make sure, he adjusted his flight path by departing to the west and flying for 15 minutes before turning back to the original route of flight.
+
+Upon returning to KRBW, the pilot used his GPS to confirm that his traffic pattern avoided the TFR. After he landed, ATC warned him of a possible Pilot Deviation/TFR violation.
+
+“I respectfully offer this observation,” wrote the pilot. “This TFR was ambiguous in that the airport I used was not included in the 30 nm radius, yet the NOTAM stated that it would be affected [emphasis added] without clarifying how it would be affected.”
+
+Another pilot filed a NASA after flying in from Mexico and landing at Brown Field Municipal Airport (KSDM). The current Chart Supplement in his possession indicated that the KSDM Tower was closed on weekends.
+
+When Approach Control gave him the Tower frequency on the handoff, the pilot thought Approach must have been mistaken. Rather than query ATC, he switched to, and used UNICOMM instead.
+
+“At the U.S. aircraft holding area, I was informed that the Tower wanted to talk to me about why I landed without clearance to land,” he wrote.
+
+He concluded his report by blaming the ambiguous, nonstandard language in the Chart Supplement for his transgression. Nonetheless, landing without a clearance triggered a violation action against him.
+
+In his report, the Boston flight instructor complained of the ambiguous language found in FAA Flight Data Center regulatory NOTAMS. He quoted FDC 3/1655, the Special Notice relating to power plants, as an example.
+
+“Pilots conducting flight operations are advised to avoid the airspace above or in proximity to all nuclear power plants. Pilots should not circle or loiter in the vicinity of such facilities.”
+
+He then posed the question: What exactly does the FAA mean by “proximity” and “vicinity”?
+
+Just look at how the FAA uses the word “vicinity” in reference to thunderstorms. When “thunderstorms in vicinity of airfield” is heard on an Automated Terminal Information Service recording, it’s traditionally understood that “vicinity” means “within five miles of the airport boundary.”
+
+When FAA materials encourage pilots to stay out of the vicinity of thunderstorms, it’s generally understood to mean “20 miles away or greater.”
+
+“In an effort to resolve any misunderstanding of the applicable NOTAM,” the CFI wrote, “the simplest solution would be the creation of prohibited airspace around all nuclear power plants and publishing their locations on all navigation charts.”
+
+At its best, defining and establishing Prohibited Areas above and around nuclear power plants would clear up any ambiguity. At its worst, the intention behind the original FDC NOTAM would align with the FAA’s existing definition of permanently restricted airspace where overflights are prohibited: “Prohibited Areas contain airspace of defined dimensions identified by an area on the surface of the earth within which the flight of aircraft is prohibited. Such areas are established for security or other reasons associated with the national welfare.”
+
+Seems like a nuclear power plant would fit that definition. The FAA almost agrees.
+
+On Sept. 27, 2001, it announced restrictions on airspace above power plants, dams, refineries, industrial complexes, and similar facilities throughout the United States. Those facilities were determined to be in the interest of national welfare and national security. The restrictions on facilities such as nuclear power plants were in response to the events of Sept. 11, 2001. In the 17 years since, why keep the ambiguous restrictions in place?
+
+In the power plant FDC NOTAM, the words “vicinity” and “proximity” are left up to individual, subjective interpretation by both pilots and ATC. The fact that the NOTAM was never converted to the clearer regulatory language of a “Prohibited Area” leaves the operation around power plants and enforcement of the regulation open to individual, subjective interpretation.
+
+In his conclusion, the flight instructor wrote, “It is unclear at the time of this report if the Transportation Security Administration (TSA) has been notified and if it would be involved in an investigation.”
+
+Therein may lie the answer. From the federal government’s perspective, intentional ambiguity may serve the national interest. Or does it?
+
+Was FDC 3/1655 not converted to a Prohibited Area to permit enough legal ambiguity for U.S. law enforcement officials to choose how to interpret the intentions of pilots operating near places such as nuclear power plants? Or is it that the FAA is so overwhelmed with NextGen, staff downsizing and infrastructure that it has not seen the issue as a priority? Are those the reasons the CHS TFR was written ambiguously?
+
+A corporate pilot filed his NASA because of ambiguous language on the KRITR 1 RNAV SID. “That SID has a speed restriction box on it,” he wrote. “Upon reaching 10,000′, accelerate to and MAINTAIN 280 KIAS. If unable, advise ATC.”
+
+The same box also states, “CHARLOTTE/DOUGLAS INTL only: Accelerate to 250 KIAS. If unable, advise ATC.”
+
+That ambiguity threatens livelihoods. Speeding violations can result in suspended licenses.
+
+Ambiguity in language creates psychological uncertainty in pilots, eroding pilot trust in the FAA, and worse.
+
+Human beings have a “deep, innate desire for a firm answer to a question and an aversion toward ambiguity,” according to social psychologist Arie Kruglanski. He and his team of social scientists have spent the last quarter century uncovering the mystery of why ambiguity is a universal, psychological irritant.
+
+Part of his team’s research reveals that humans need to create “cognitive closure” around all “events” so that we can learn lessons and remember them. Where ambiguity exists, humans perceive the event to be unending. Psychologically, it’s been proven difficult for humans to learn lessons from unending events. Therefore, human beings will resort to almost any tactic to satisfy the deep-seated human need for closure.
+
+In “Suspicious Minds,” research psychologist Rob Brotherton details what “resort to almost any tactic” looks like. When human beings are faced with contradicting opinions, uncertainty or other people’s ambiguity, we tend to see patterns where none exist and embrace certainty when none is justified. Human nature’s deep-seated aversion to ambiguity can lead us to create conspiracy theories simply to dispel uncertainty.
+
+I reviewed more than 250 NASA reports that cited ambiguous oral or written language on the part of the FAA as the reason behind real or perceived incidents. In roughly 20% of those reports, pilots concluded that the ambiguous language used by ATC controllers, or the ambiguous language written into FAA instrument departure and arrival procedures, NOTAMs, and Chart Supplements, was used purposely to ensnare pilots.
+
+If the goal of the FAA is to improve the pilot flying experience, then a 20% “gotcha” interpretation rate by NASA-filing aviators is 100% too high.
+
+I think it’s safe to say that the last thing the FAA wants is a bunch of paranoid pilots flying around.

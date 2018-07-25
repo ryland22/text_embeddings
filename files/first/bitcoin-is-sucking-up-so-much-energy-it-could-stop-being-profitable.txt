@@ -1,0 +1,19 @@
+The bitcoin network could use 0.5 percent of the world's energy consumption by the end of this year, and it could soon cost so much to mine the cryptocurrency that it stops being profitable.
+
+These figures come from a new commentary published May 16 in the journal Joule. In it, Alex de Vries, a financial economist and blockchain specialist, carefully worked through a number of known data points — the number of bitcoin-mining computers made in the past year, the energy consumption of those computers and the minimum energy costs of cooling large facilities of tightly packed computers, among others — to arrive at an absolute lowest bound for the energy consumption of the bitcoin network today: 2.55 gigawatts, or a bit less than the energy consumption of Ireland.
+
+By the end of 2018, de Vries calculated, based on data about ongoing bitcoin mining production, that number could rise to 7.67 gigawatts, or a bit less than the energy consumption of Austria. And that, he said in a statement, amounts to about 0.5 percent of the world's energy consumption.
+
+This is a problem for several reasons, environmental concerns among them. But de Vries showed that it represents a particular problem for the bitcoin miners themselves: It could soon be so expensive to mine bitcoin that the process simply stops being profitable.
+
+Why is bitcoin sucking up all this energy? To understand that, you have to know a little about how the bitcoin network works.
+
+Bitcoin is a peer-to-peer digital currency. That means there's no central agency that records who owns what. Instead, bitcoin users rely on a shared, time-stamped digital record of their transactions. And maintaining that shared record, adding a "block" to it every 10 minutes or so, is the work of a competitive effort by thousands of computers all over the world. Those computers collectively perform quintillions of calculations per second, each "mining," trying to solve a math problem that will give it the right to form the next block on the chain. And the winner every 10 minutes is rewarded with 12.5 bitcoins. That's more than $100,000 at the coin's current exchange rates.
+
+Given those incentives, bitcoin miners have filled up warehouses with computers devoted to mining. Those computers, even the most efficient ones, need a significant amount of power to run. Certain details, like how many of these computers actually get made per year, or what tricks different mining operations use to keep them cool, are industry secrets. But de Vries worked around that secretiveness to find the data he needed for his calculation.
+
+"[This calculation] marks the first time that bitcoin miner production has been estimated with the help of upstream [chip] production numbers," he wrote. "Given the ongoing secrecy of bitcoin miner manufacturers, this could prove to be a valuable addition to the toolkit for substantiating trends in bitcoin's electricity consumption."
+
+De Vries also pointed out that when bitcoin mining becomes more costly than profitable, that doesn't mean all the bitcoin miners will stop. Some miners, he pointed out, might steal electricity or otherwise figure out ways to mine bitcoin at no personal cost. For example, he said, one researcher mined $8,000 to $10,000 worth of bitcoin on a university supercomputer, costing the university about $150,000. Other, less-nefarious miners, he wrote, might keep mining for reasons like anonymity or libertarian ideology.
+
+Still, de Vries wrote, bitcoin's potential to become so energy-hungry that it stops being profitable is a real threat to the network.

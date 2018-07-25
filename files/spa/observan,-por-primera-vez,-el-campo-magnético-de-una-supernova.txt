@@ -1,0 +1,15 @@
+Imagen de la Supernova 1987A obtenida con el telescopio espacial Hubble. Se puede observar el anillo interior interactuando con el material expulsado por la explosión. Crédito imagen: NASA, ESA, R. Kirshner y P. Challis (Harvard-Smithsonian Center for Astrophysics)
+
+Por primera vez, los astrónomos han observado directamente el magnetismo en uno de los objetos más estudiados de la astronomía: los restos de la Supernova 1987A (SN 1987A), una estrella moribunda que apareció en nuestros cielos hace más de treinta años.
+
+Además de ser un logro impresionante, la detección proporciona información sobre las primeras etapas de la evolución de los restos de supernova y el magnetismo cósmico dentro de ellos.
+
+"El magnetismo que hemos detectado es unas 50.000 veces más débil que el imán de una nevera – explica Bryan Gaensler, líder del estudio, en un comunicado –. Y hemos podido medir esto desde una distancia de alrededor de 1,6 millones de billones de kilómetros. Esta es la detección más temprana posible del campo magnético formado después de la explosión de una estrella masiva”.
+
+El hallazgo se ha publicado en el Astrophysical Journal. SN 1987A fue descubierta en febrero de 1987 en el entonces Observatorio del Sur de la Universidad de Toronto en el norte de Chile. Se encuentra en la Gran Nube de Magallanes, una galaxia enana, a una distancia de 168.000 años luz de la Tierra. Fue la primera supernova a simple vista que se observó desde que el astrónomo Johannes Kepler presenció una hace más de 400 años.
+
+En los treinta años transcurridos desde que su descubrimiento, el material expulsado por la explosión, así como la onda de choque, han estado viajando hacia afuera a través del gas y el polvo que rodeaban a la estrella antes de que estallara. Hoy, cuando miramos el remanente, vemos anillos de material encendidos por los desechos en expansión y la onda de choque de la supernova.
+
+Usando el Australia Telescope Compact Array (ATCA por sus siglas en inglés), el equipo de Gaensler observó el campo magnético estudiando la radiación proveniente del objeto. Al analizar las propiedades de esta radiación, pudieron rastrear el campo magnético.
+
+Lo que descubrieron fue que el campo magnético del remanente no era caótico, sino que mostraba un cierto grado de orden. Los astrónomos saben que, a medida que los remanentes de una supernova envejecen, sus campos magnéticos se estiran y se alinean en patrones ordenados. Por lo tanto, las observaciones del equipo muestran que este proceso puede comenzar en un período relativamente corto, como mucho en treinta años.

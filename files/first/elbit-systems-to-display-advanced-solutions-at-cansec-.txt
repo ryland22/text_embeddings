@@ -1,0 +1,101 @@
+GTI’s sonar solutions will be presented for the first time at the show, complementing Elbit Systems’ comprehensive naval portfolio
+
+Haifa, Israel, May, 24, 2018 – Elbit Systems Ltd. (NASDAQ: ESLT and TASE: ESLT) (“Elbit Systems”) will showcase a range of solutions at the upcoming Canadian Association of Defence and Security Industries (CANSEC) exhibition, set to take place in Ottawa, Canada 30-31 May 2018.
+
+Solutions displayed at the company booth #1421 represent a vast portfolio addressing the modern battlefield’s challenges. Among these are advanced solutions in the areas of Sonar and Anti-Submarine Warfare (ASW) to be displayed for the first time, training and simulation systems, Intelligence Surveillance and Reconnaissance (ISTAR) systems, Electronic Warfare (EW) solutions, Command, Control, Communication, Computers & Intelligence (C4I) solutions as well as Degraded Visual Environments (DVE) solutions.
+
+A complete Media Kit is available at: http://elbitsystems.com/cansec2018/
+
+Presented for the first time at the show:
+
+TRAPS (in real-size at the outdoor display area) is an innovative fully operational Low Frequency (LF) variable-depth-sonar intended for detection, tracking and classification of submarines, midget submarines, surface vessels and torpedoes. The TRAPS system is comprised of a vertical projector and a receive array. TRAPS’ projector array is reel-able and stows on the winch drum with the receive array and tow cable, thus removing the need for a dedicated, heavy and costly deployment/recovery system. TRAPS answers the need for a cost-effective compact ASW sensor that can be delivered stand-alone or as part of an integrated sonar suite onboard the Seagull multi-mission suite Unmanned Surface Vessel (USV).
+
+Communication and Battle Management Solutions
+
+Elbit Systems' advanced networked battle management systems provide all armed forces branches with enhanced situational awareness and mission-critical information that enable optimal coordination in the battlefield. Elbit Systems’ communication solutions provide seamless connectivity between decision makers and all forces on the ground as is operationally demonstrated in the Digital Army Program.
+
+PNR-1000 is a lightweight personal network radio (PNR) with automatic voice and data relay, offering 64-member ad-hoc networking including full-duplex voice conferencing, data and video. As the newest generation of PNR at the full NATO RF spectrum 225-512 MHz, the PNR-1000 is the lightest of its kind in the market.
+
+E-LynX™ Family of Mobile Tactical Communications Solutions provides highly advanced Mobile Ad-hoc Networking (MANET) capabilities to a variety of platforms over any terrain type and are already operational with numerous customers worldwide.
+
+CNR-9000 HDR is a VHF/FM combat IP radio system for voice and data communications. The CNR-9000 HDR provides 115Kb/s data speed with IP connectivity and control to allow real-time data communications over the military narrowband, VHF (Very High Frequency)/FM channels.
+
+CNR 710 is a VHF handheld based radio family for multi-mission communications
+
+The CNR-710 offers robust voice and message security. The radio features advanced capabilities including unique Electronic Counter-Countermeasures (ECCM) capability, powerful error detection and correction codes and an innovative user interface.
+
+TORC2H™ covers all army branches and echelons, enabling universal situational awareness as well as in-depth collaborative mission planning and management based on real-time information and an always-updated common operational picture. This includes TORC2H-D, the dismounted version of TORC2H, enabling mission deployment and control of tactical units and soldiers in the specified area of operations.
+
+WinBMS is a networked integrated battle management solution enhancing the connectivity and coordination of maneuvering forces at the tactical level. Based on integrated sensor and weapon systems, WinBMS provides a full-scale solution both at the task force level and within the armored combat platform, thereby increasing the combat effectiveness of the combined force within the dynamic battlefield.
+
+ISTAR Systems
+
+Unmanned Systems - Visitors to the company booth will be able to view a multimedia presentation showcasing the vast array of Elbit Systems’ Unmanned Aircraft Systems (UAS) portfolio, including the Medium Altitude Long Endurance (MALE) Hermes 900 and tactical UAS.
+
+Electro-Optic Systems - will be displayed in multimedia showcasing dismounted soldier thermal imaging systems in addition to the commander panoramic sight for Armored Fighting Vehicles (AFV’s).
+
+Laser Systems displayed in the exhibit will include laser designators as well as the MUSIC™ - Directed Infrared Countermeasure (DIRCM) family of systems, protecting rotary and fixed-wing airborne platforms, with over 50,000 operational flight hours.
+
+Training & Simulation
+
+The company booth will include a multimedia presentation of operational mission training and simulation systems that enhance readiness for land and airborne personnel while reducing costs.
+
+SkyBreaker™ Mission Training Center (MTC) - a networked multi-cockpit, mission oriented training center operational with the Israeli Air Force.
+
+The Tank Crew Trainer (TCT) is a high-fidelity, independent virtual simulator for gunnery and crew. It combines training of a complete company or battle group in combined armored formations. The system is based on a full turret mockup for the tank crew training.
+
+ARTIST™ is Elbit Systems’ patented, embedded live and virtual training suite for commander and gunners of combat platforms, forward observers and other sensor operators. ARTIST combines live, embedded and augmented reality technologies to provide an advanced and effective training system that features terrain analysis, communication, data-link and control, most suited for crew and formation levels (mounted on a main battle tank or an AFV). Operational with several customers, ARTIST enhances training effectiveness and saves ammunition costs, reducing logistic effort of two-sided exercises while increasing the trainees’ safety.
+
+Land and Naval EW Solutions
+
+Applaud (multimedia presentation) is an active and passive, land and air unified EW defence solution. It is a multi-function, multi-mission response solution to existing and emerging threats across the entire electromagnetic spectrum and enables seamless integration of interoperable, operational elements – Electronic Surface Measures/Electronic Intelligence (ESM/ELINT), Communications Intelligence (COMINT), Electronic Countermeasures (ECM), Communications Jamming (COMJAM), and Command and Control – into one comprehensive customizable solution, operated and controlled by a single entity. Applaud provides decision-makers of all echelons with a complete real-time Signal Intelligence (SIGINT) and EW picture of the arena as well as simultaneous operational elements such as passive and active intelligence, including collection, processing, EW countermeasures and command and control.
+
+Aqua Marine™ (multimedia presentation) is a family of combat-proven digital, modular naval EW suites for first and second line naval platforms operating in littoral and blue waters environments. Aqua Marine provides today's naval fleets with situational awareness capabilities, comprehensive frequency coverage, high intercept probability, innovative signal processing and advanced jamming technologies, generating realistic arena visualization to the operator.
+
+Degraded Visual Environments Solutions
+
+Brightnite™ - Visitors to the company booth will be able to experience a virtual reality demonstration of the BrightNite system that enables intuitive head-up, eyes-out orientation flight in extreme low visibility conditions. This system is a multi-spectral end to end panoramic piloting solution that fuses multiple day and night cameras into one clear intuitive piloting picture regardless of outer light conditions and delivers the landscape scenery directly to both eyes of the pilot, including flight, mission and brownout symbology.
+
+Night Vision Smart Helmet is a simple cost-effective kit comprised of a night display adaptor and a digital eyepiece enabling pilots to seamlessly transition existing head mounted displays and Night Vision Goggles (NVGs) into cutting edge night vision smart helmets.
+
+About Elbit Systems
+
+Elbit Systems Ltd. is an international high technology company engaged in a wide range of defense, homeland security and commercial programs throughout the world. The Company, which includes Elbit Systems and its subsidiaries, operates in the areas of aerospace, land and naval systems, command, control, communications, computers, intelligence surveillance and reconnaissance ("C4ISR"), unmanned aircraft systems, advanced electro-optics, electro-optic space systems, EW suites, signal intelligence systems, data links and communications systems, radios and cyber-based systems. The Company also focuses on the upgrading of existing platforms, developing new technologies for defense, homeland security and commercial applications and providing a range of support services, including training and simulation systems.
+
+For additional information, visit: www.elbitsystems.com , follow us on:
+
+ Facebook  Twitter  Youtube 
+
+Elbit Systems Ltd., its logo, brand, product, service, and process names appearing in this Press Release are the trademarks or service marks of Elbit Systems Ltd. or its affiliated companies. All other brand, product, service, and process names appearing are the trademarks of their respective holders. Reference to or use of a product, service, or process other than those of Elbit Systems Ltd. does not imply recommendation, approval, affiliation, or sponsorship of that product, service, or process by Elbit Systems Ltd. Nothing contained herein shall be construed as conferring by implication, estoppel, or otherwise any license or right under any patent, copyright, trademark, or other intellectual property right of Elbit Systems Ltd. or any third party, except as expressly granted herein.
+
+Contact:
+
+David Vaaknin
+
+VP, Head of Corporate Communications
+
+Tel: 972-77-2946691
+
+Cell: 972-52-8000403
+
+david.vaaknin@elbitsystems.com
+
+Dana Tal-Noyman,
+
+Manager, Corporate Communications & Digital
+
+Tel: 972-77-2948809
+
+Cell: 972-54-9998809
+
+dana.tal@elbitsystems.com
+
+Noga Hatkevitz
+
+Corporate Communications
+
+Cell: 972-54-9990424
+
+noga.hatkevitz@elbitsystems.com
+
+This Press Release originates from a third party not associated with IHS Janes. Any comments, opinions and discussions by any third parties are not the views of IHS Janes and as such IHS Janes cannot accept responsibility or liability for the content of this Press Release. IHS Janes grants no rights to reproduce or use this content in any manner whatsoever. For more information on how your company can become part of this service please e-mail PressReleasesServices@ihsmarkit.com.

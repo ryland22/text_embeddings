@@ -1,0 +1,21 @@
+Hundreds of thousands of computer routers that connect U.S. homes and businesses to the internet may have been infected by malware placed by hackers, according to the FBI.
+
+"Foreign cyber actors have compromised hundreds of thousands of home and office routers and other networked devices worldwide," the FBI said in a warning released on Friday. The malware can do things like scoop up users' personal data and cripple website service.
+
+"They can spy on you," Edward Stroz of risk management firm Stroz Friedberg - Aon and the former head of New York City's FBI computer crime squad, said in an interview with CBS News' John Schiumo. Such attacks can also disable a router, disrupting computer and internet service.
+
+How can you protect yourself from malware that might be lurking in your router? Here's what the FBI recommends:
+
+Any owner of small office or home router should reboot it immediately
+
+Consider disabling remote management settings on the router
+
+Update your login with a secure password
+
+Make sure your security is updated to the latest available version of firmware
+
+"By turning it off and on, it resets in a way that allows the FBI to identify the devices that were infected," Stroz said.
+
+In April, U.S. and UK security agencies warned that Russian cybercriminals have been infecting routers and other devices with malware to gain access to information and intellectual property, ZDNET reported.
+
+"We have high confidence that Russia has carried out a coordinated campaign to gain access to enterprise, small office, home office routers known as SOHO routers and residential routers, and the switches and connectors worldwide," Rob Joyce, special assistant to the president and cybersecurity coordinator at the White House told journalists, according to ZDNET.

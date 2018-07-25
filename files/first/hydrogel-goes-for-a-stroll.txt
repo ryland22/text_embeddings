@@ -1,0 +1,9 @@
+Standing at only a few centimetres tall, a human-like figure takes a stroll through a beaker using its long arms to push itself forward. This tiny soft robot is made out of a hydrogel that changes shape in response to an electric field and was created by researchers from the US and South Korea, who also designed a miniature gripper and a tiny bristly transporter.
+
+Soft robots are better at handling delicate objects and mimicking biological motion than those made out of metal or hard plastics. Miniaturised versions could be used to handle individual cells or deliver drugs to specific areas in the body. But the robots need to be controlled somehow, ideally without adding external components. Researchers have been looking at shape-changing materials, which respond to stimuli such as temperature or pH, to achieve this.
+
+Howon Lee from Rutgers University and his team used an electroactive hydrogel to make a miniature walker. Placed in a saline solution, the humanlike figure walks 12mm in 21 minutes when an electric field is applied. It changes its walking direction when the electric field is reversed.
+
+Lee’s team created their 3D structures by polymerising the liquid precursor mixture layer-by-layer under UV light. The hydrogel’s movement is based on its swelling behaviour. Carboxylic acid groups in the polymer make for a large number of mobile cations. In an electric field, these are attracted to the cathode, creating a concentration gradient within the hydrogel. This leads to an imbalance in osmotic pressures from different sides and uneven swelling, making the entire structure bend towards the cathode.
+
+The researchers found that the thicker the hydrogel, the slower it bends. They used this concept to also make a two-fingered gripper, in which one finger moves towards the other, and a transporter that uses two sets of opposing bristles to move small objects.

@@ -1,0 +1,21 @@
+Credit: MIT
+
+Este es el típico proyecto que te da miedo a la vez que te intriga con la razón de ser del mismo. ¿Por qué un grupo de científicos del Instituto de Tecnología de Massachusetts (MIT) ha decidido entrenar a una Inteligencia Artificial con visiones propias de un psicópata en potencia? Con este proyecto han querido demostrar que depende de cómo sea entrenada, la forma de comportarse con respecto al resto de la humanidad será la que nosotros hayamos querido. Por lo tanto, es necesario tener un cuidado especial en qué material le aportamos en los diferentes procesos de aprendizaje.
+
+Credit: Imagen de Norman Bates en la película "Psicosis"
+
+En esta situación, desde el MIT han querido adentrarse en el tortuoso mundo de la muerte y han nutrido a Norman, su Inteligencia Artificial, con el feed de una página de Reddit en la que se hace una oda a todo tipo de muerte, enfermedad, asesinatos… Todo lo que un psicópata en potencia disfrutaría viendo. ¿Os habéis fijado en su nombre? Está basado en el personaje protagonista de “Psicosis”, de Alfred Hitchcock.
+
+La tecnología que desarrollan se basa en que la IA acabará describiendo las imágenes que se le presentan delante de una forma descriptiva, por lo tanto, nuestro psicópata virtual ha sido entrenado con imágenes perturbadoras de todo tipo. A partir de ese momento, y con toda la información en su interior, se le presentó a Norman una serie de láminas manchadas con tinta y que son habitualmente usadas por la comunidad psicoanalítica para evaluar la personalidad de una persona con problemas psiquiátricos. Es lo que se conoce como un Test de Rorschach.
+
+La idea era comparar las respuestas de una Inteligencia Artificial a la que se le había nutrido con imágenes que forman parte de la cotidianidad con las propias que amaría un asesino en serie. El resultado es espeluznante:
+
+En este primer ejemplo vemos que Norman ve a "un hombre electrocutado hasta la muerte", mientras que una IA estándar solo ve a "un grupo de pájaros sentados encima de una rama de árbol". En el segundo caso, Norman ve a un hombre que ha sido asesinado de un disparo, mientras que la otra IA solo ve un florero.
+
+En el siguiente caso, Norman ve a un "hombre que es empujado a una máquina amasadora", mientras que su versión "light" solo ve una "imagen de un pequeño pájaro en blanco y negro". El quinto caso es muy turbio: Norman cree ver una mujer embarazada cayendo a un edificio en construcción, mientras que la otra IA, solo ve a dos personas, una frente a la otra.
+
+Terminamos con la tercera imagen, en este caso en color. Norman se vuelve aún más creativo y ve en este primer dibujo a un "hombre que es asesinado de un disparo frente a su mujer gritando", mientras que la versión estándar solo ve a una "persona que sujeta un paraguas en el aire". En la última diapositiva, nuestra IA psicópata ve a un hombre que se electrocuta al cruzar una calle llena de gente, mientras que la otra versión considera que solo hay un paraguas blanco y rojo sobre una imagen en blanco y negro.
+
+A la cabeza de este experimento se encuentra Pinar Yanardag, Iyad Rahwan y el español, Manuel Cebrián. Realmente, resulta un caso muy curioso, pero demuestra la importancia que tenemos los humanos sobre este tipo de tecnología. Ya han avisado que pretenden rebajar el nivel de psicopatía... no vaya a ser que le de por ir asesinando tras las cortinas del baño.
+
+Y vosotros, ¿qué veis?

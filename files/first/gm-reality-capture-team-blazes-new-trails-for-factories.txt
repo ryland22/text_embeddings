@@ -1,0 +1,39 @@
+DETROIT — A nondescript room in the basement of General Motors' sprawling Warren Tech Center campus is a nerve center in the expanding effort to keep the automaker's factories humming.
+
+It's an operating base of Reality Capture, a little-known team under GM's Manufacturing Engineering Integration group that continually maps and surveys the automaker's plants and other buildings in North America and harvests vast amounts of data used to fine-tune manufacturing.
+
+Physical surveying isn't unique to GM, but the group's growth and expanding capabilities, including a new drone program, are turning it into a unique tool for the company. The team's work could play a key role as GM retools for its next-generation trucks and plans the complex changeovers to launch 20 all-electric or fuel cell vehicles through 2023.
+
+"We are trying to provide as much information to the people making the decision so that we don't hit any [unexpected] costs," Randy Seidel, who leads the group, told Automotive News. "It's going to help whether it's the new combustion engine or the new EV, because we're going to have everything that anybody needs to effectively plan out what it's going to cost, where it's going to go and how quickly they can get it installed."
+
+Drones, such as the one at top and above, identify problems in GM plants such as holes in tubing lines.
+
+The services, including the drone program, are expected to soon expand from North America to the automaker's global operations.
+
+Traditionally, Reality Capture has surveyed GM sites for expanding plants and overall knowledge of the automaker's land and buildings.
+
+In recent years, the group's responsibilities have grown to include an internal website that lets engineers and other officials remotely tour and measure areas of a plant for retooling. It's also beginning to include interactive maps that will provide real-time data and electrical system grids on demand.
+
+"Those elements are what has really taken it to the next step in the last five years vs. the speed it was moving at before," said Seidel, a GM employee of nearly 20 years. "The scope of people that can possibly use the data has also grown."
+
+The TruView system, a sort of interactive Google Maps for factories, is not proprietary to GM. But it is an example of the automaker's focus on using data to provide new tools to employees that cut costs and streamline operations.
+
+John Brown, GM supervisor of Reality Capture, said the system lets engineers remotely measure, analyze and survey land and areas of a plant, down to individual bolts.
+
+"Nobody is even close to what we do as far as Reality Capture goes," he said.
+
+As part of the program, GM is expanding and testing the capabilities of unmanned aircraft.
+
+In 2016, the Manufacturing Engineering Integration group began a pilot program using drones for plant inspections to identify problems such as leaky roofs or holes in tubing lines.
+
+The program has since moved out of pilot phase and is sending $24,000 drones into locations or machinery that may be uncomfortable or unsafe for human workers.
+
+To date, a handful of GM locations have used drones to handle such jobs.
+
+Seidel, an engineering group manager, and Brown expect more operations to use the services, including thermal imaging.
+
+"We can do this with the plant running," Brown said. "We don't need to shut production down, which means we don't have anybody sitting idle. It's a huge cost savings."
+
+Officials stressed that the technology is being used to help workers at the plant, not replace them — a concern among union rank-and-file members when outsiders come in to work at the plant.
+
+For example, Brown said, has used drones to more quickly identify a hole in an interior sand transport system or a clog in an exterior pipe, which maintenance workers then repaired more quickly.

@@ -1,0 +1,71 @@
+Israel has become the first country to fly the F-35 into combat.
+
+Other countries in the Middle East have Russian-built air defenses intended to spot the F-35 despite its stealth profile.
+
+This war between American-made planes and Russian-made defenses has been brewing ever since the F-35 was on the drawing board.
+
+Advertisement - Continue Reading Below
+
+We don't know exactly what the F-35 is up to in the Middle East, where Israel says it just became the first country to fly the Joint Strike Fighter into combat. But we do know this: The long awaited, multi-generational showdown between military engineers in Russia and the United States is starting to play out in the Middle East.
+
+These planes—and the equipment that Russia designed to shoot them down—were designed to face each other. As we wrote back in 2012:
+
+As of now, no S-300 surface-to-air weapon has ever been fired at a target in anger. The Lightning II is still in testing, and the debut of its style of networked warfare is years away. Their matchup awaits. Only then will the war of words between detractors, engineers, salesmen, and journalists be settled—in combat, with lives at stake and history in the balance.
+
+Stay tuned, because the matchup is under way.
+
+Stealth or Something Like It
+
+AP Rick Bowmer
+
+Advertisement - Continue Reading Below
+
+The F-35 has been a lightning rod for critics during its long, turbulent path to becoming the more expensive warplane in history. In addition to American critics lambasting its capabilities and bloated budget, one source of constant critique has been the Russians, who sell anti-aircraft missiles that, according to Russia, can track and destroy stealth targets. Viktor Ozherelev, a division head at the firm Almaz-Antey, even claimed at a 2007 arms show that "the Americans know their stealth program has failed."
+
+That's a bit of hyperbole, but it's true that the Russians have digitized older systems and installed new seekers into warheads, making older equipment more fearsome. Many such upgraded anti-aircraft systems are in Syrian arsenal, including S-200 batteries and the self-propelled Buk-M2E and Pantsir S1. As new equipment enters the battlefields of the Middle East, it carries the potential to change the balance. Digitized radar can link systems together for a better picture of what’s coming, and what’s above.
+
+All of which makes the question of the F-35's stealthiness a life-or-death matter. Engineers designed the F-22 to be unseen at many wavelengths and from many directions. The Lightning II does not offer many radar returns when the waves strike it from the front. But the F-35 does not have the curves of the F-22 Raptor that mask the plane from radar at all angles. When radar comes from the side, the returns are stronger.
+
+Carlo Kopp, an analyst with the group Air Power Australia, has written that the Lightning II is "demonstrably not a true stealth aircraft." He claims radar waves will bounce between the juncture of wing and fuselage in a way that can be detected if the airplane is scanned from any direction but the front. Rival airplane-makers in Europe claim that powerful aircraft radar can spot an F-35 coming—even head-on—if multiple opposing aircraft are cooperatively scanning.
+
+Advertisement - Continue Reading Below
+
+Advertisement - Continue Reading Below
+
+Stealthiness, or lack thereof, was always one of the tradeoffs inherent in building the F-35. The F-22's surfaces are made of aluminum, which is covered in a RAM (radar-absorbent material) that must constantly be reapplied. That's a nightmare for maintenance crews.Tthe F-35 is made of carbon fiber composite, and Lockheed engineers baked RAM into the airplane's edges in an effort to soak up inbound radar.
+
+But the Lightning II's real key to survival is its own radar: the Active Electronically Scanned Array (AESA) installed in its nose. Conventional radar systems turn their gaze mechanically—imagine a spinning dish or a flat surface tilting to aim radar beams. Electronically steered radar does not move, but its beams can broadcast in different directions thousands of times per second and across many frequencies. This agility allows AESA to map terrain and track hundreds of targets.
+
+Advertisement - Continue Reading Below
+
+AESA is built to do more than scan. It can reach out to enemy radars and scramble their signals. A combination of radar and electromagnetic warning sensors alert an F-35 pilot to the threat of enemy radar; he or she can then dodge the threat or use the AESA to jam the signal, no matter what frequency the radar is transmitting. If a missile is launched, the F-35 can track it with 360-degree infrared-sensor coverage and then, in some cases, overwhelm the missile's guidance system with the AESA.
+
+It Only Takes One
+
+Jim Haseltine / U.S. Air Force
+
+The F-35 is a multirole aircraft. It must fight other airplanes, bomb targets, and conduct recon, and each mission requires specific payloads. For that reason, its design has tradeoffs that make it less stealthy and less maneuverable than the F-22 Raptor, which was designed first and foremost to win air superiority over other fighters. The F-35's flexibility is what Israel has been using to conduct airstrikes and intelligence gathering missions over the Middle East with impunity.
+
+Advertisement - Continue Reading Below
+
+Advertisement - Continue Reading Below
+
+At least, that’s the way it’s been so far.
+
+Air warfare is skewed to benefit the defender. It would take only one shoot-down of an F-35 for the ripple effect to spread globally. This was the case in 1999 when a Serbian battery destroyed an F-117 Nighthawk. That was viewed as an embarrassment for the United States, while the remains of the jet remain in a Moscow museum as a war prize.
+
+The Middle East is now covered in Russian-made air defenses, and countries that fly the F-35 are keenly aware of it. According to the Wall Street Journal, when Israeli warplanes launched an April attack on an airbase in Syria used by Iran’s Revolutionary Guard, the purpose was to destroy a Russian-made Tor air defense system. Which begs the question: If the air defense system is not a threat, why destroy it before it’s set up?
+
+The Russians have S- 300s in Syria to protect their port at Tartus and have claimed to track us pilots with its radar. In theory, the Russians could track F35s and feed that information to the Syrians. If that has happened, though, it has not led to any successful interceptions of the stealth fighter.
+
+
+
+Meanwhile, there has been rampant speculation that Israel has flown the F-35 into Iranian airspace. If true, that would mark a true showdown between the best exported Russian equipment, the S-300 surface-to-air missile, and the F-35. Iran confirmed in 2017 that its S-300s were operational.
+
+Advertisement - Continue Reading Below
+
+Even without Iran's involvement, the airspace over Syria may mark the first matchup between the F-35 and S-300. “A few years ago at the request of our partners, we decided not to supply S-300s to Syria,” Russian Foreign Minister Sergei Lavrov told the BBC in an April interview. “Now that this outrageous act of aggression was undertaken by the U.S., Franc,e and U.K., we might think how to make sure that the Syrian state is protected.”
+
+
+
+Game on.

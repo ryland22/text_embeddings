@@ -1,0 +1,98 @@
+Researchers enhance boron nitride nanotubes for next-gen composites
+
+
+
+by Staff Writers
+
+
+
+Houston TX (SPX) May 29, 2018
+
+
+
+Rice University researchers have discovered a way to 'decorate' electrically insulating boron nitride nanotubes with functional groups, making them more suitable for use with polymers and composite materials.
+
+Boron nitride nanotubes are primed to become effective building blocks for next-generation composite and polymer materials based on a new discovery at Rice University - and a previous one.
+
+Scientists at known-for-nano Rice have found a way to enhance a unique class of nanotubes using a chemical process pioneered at the university. The Rice lab of chemist Angel Marti took advantage of the Billups-Birch reaction process to enhance boron nitride nanotubes.
+
+The work is described in the American Chemical Society journal ACS Applied Nano Materials.
+
+Boron nitride nanotubes, like their carbon cousins, are rolled sheets of hexagonal arrays. Unlike carbon nanotubes, they're electrically insulating hybrids made of alternating boron and nitrogen atoms.
+
+Insulating nanotubes that can be functionalized will be a valuable building block for nanoengineering projects, Marti said. "Carbon nanotubes have outstanding properties, but you can only get them in semiconducting or metallic conducting types," he said. "Boron nitride nanotubes are complementary materials that can fill that gap."
+
+Until now, these nanotubes have steadfastly resisted functionalization, the "decorating" of structures with chemical additives that allows them to be customized for applications. The very properties that give boron nitride nanotubes strength and stability, especially at high temperatures, also make them hard to modify for their use in the production of advanced materials.
+
+But the Billups-Birch reaction developed by Rice Professor Emeritus of Chemistry Edward Billups, which frees electrons to bind with other atoms, allowed Marti and lead author Carlos de los Reyes to give the electrically inert boron nitride nanotubes a negative charge.
+
+That, in turn, opened them up to functionalization with other small molecules, including aliphatic carbon chains.
+
+"Functionalizing the nanotubes modifies or tunes their properties," Marti said. "When they're pristine they are dispersible in water, but once we attach these alkyl chains, they are extremely hydrophobic (water-avoiding). Then, if you put them in very hydrophobic solvents like those with long-chain hydrocarbons, they are more dispersible than their pristine form.
+
+"This allows us to tune the properties of the nanotubes and will make it easier to take the next step toward composites," he said. "For that, the materials need to be compatible."
+
+After he discovered the phenomenon, de los Reyes spent months trying to reproduce it reliably. "There was a period where I had to do a reaction every day to achieve reproducibility," he said. But that turned out to be an advantage, as the process only required about a day from start to finish. "That's the advantage over other processes to functionalize carbon nanotubes. There are some that are very effective, but they may take a few days."
+
+The process begins with adding pure ammonia gas to the nanotubes and cooling it to -70 degrees Celsius (-94 degrees Fahrenheit). "When it combines with sodium, lithium or potassium - we use lithium - it creates a sea of electrons," Marti said. "When the lithium dissolves in the ammonia, it expels the electrons."
+
+The freed electrons quickly bind with the nanotubes and provide hooks for other molecules. De los Reyes enhanced Billups-Birch when he found that adding the alkyl chains slowly, rather than all at once, improved their ability to bind.
+
+The researchers also discovered the process is reversible. Unlike carbon nanotubes that burn away, boron nitride nanotubes can stand the heat. Placing functionalized boron nitride tubes into a furnace at 600 degrees Celsius (1,112 degrees Fahrenheit) stripped them of the added molecules and returned them to their nearly pristine state.
+
+"We call it defunctionalization," Marti said. "You can functionalize them for an application and then remove the chemical groups to regain the pristine material. That's something else the material brings that is a little different."
+
+Research paper
+
+
+
+Related Links
+
+Rice University
+
+Nano Technology News From SpaceMart.com
+
+Computer Chip Architecture, Technology and Manufacture
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Andalusia, Spain (SPX) May 21, 2018
+

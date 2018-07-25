@@ -1,0 +1,27 @@
+Agencia
+
+ESPAÑA.- El campo de la seguridad informática nunca dejará de sorprendernos; parece que todas las semanas aparece algún método increíble para hacerse con nuestros datos.
+
+Y no hablamos sólo de malware; eso a estas alturas es el método más “aburrido” de vulnerar nuestra seguridad. Cada vez está cobrando más fuerza la seguridad que rodea al sistema; por ejemplo, de nada sirve toda la protección de nuestro ordenador si alguien es capaz de acceder físicamente a él, publicó el portal El Español.
+
+También te puede interesar: ¿México se queda sin la enciclopedia virtual Wikipedia?
+
+La última investigación de un equipo de científicos de la Universidad de California revela hasta qué punto un atacante podría aprovecharse del entorno para obtener nuestra contraseña sin necesidad de malware. Lo que han descubierto es que es posible detectar qué teclas hemos escrito en un teclado; gracias al calor que dejamos en ellas al escribir.
+
+Sí, incluso con todos los antivirus instalados, incluso aunque sigamos todas las recomendaciones de seguridad, este método sería infalible. “Sólo” sería necesario que el atacante usase una cámara térmica, y las teclas que hemos usado se iluminarán como si fuera un árbol de navidad.
+
+Lo que descubrieron es que una cámara de rango medio es capaz de capturar las teclas pulsadas en un teclado normal, hasta un minuto después de haberlas pulsado; el plástico de las teclas retiene el calor corporal durante todo ese tiempo, al menos el suficiente como para distinguirlas.
+
+¿Alguna vez has metido la contraseña y te has levantado un momento a por cualquier cosa, como un café? Ese es tiempo más que suficiente para que alguien pase por delante del ordenador con una cámara térmica y registre qué teclas han sido pulsadas para iniciar sesión.
+
+Este ataque te roba la contraseña por el calor que tus dedos dejan en las teclas https://t.co/cllDnVqf2k pic.twitter.com/YPl0RFmFLI Omicrono — Tweet Tecnology (@TweetTecnology) 5 de julio de 2018
+
+Esa puede ser información suficiente para entrar en el sistema; sobre todo si se trata de una contraseña corta, de un PIN bancario de cuatro cifras, o de un código de verificación. No hace falta ser un experto para conseguirlo, y eso es lo que hace este ataque más peligroso.
+
+En las pruebas, se usaron cuatro tipos de teclados diferentes y se pidió a 31 voluntarios que introdujesen contraseñas; luego se pidió a otros ocho voluntarios sin conocimientos especiales que predijeran la contraseña en base a las imágenes captadas por las cámaras.
+
+Las pruebas demostraron que los registros grabados hasta 30 segundos después son lo suficientemente buenos como para que una persona normal identifique todas las teclas; y otros 30 segundos después, sigue siendo posible recuperar parcialmente las teclas pulsadas.
+
+También depende de la víctima. Aquellos usuarios que escriban mirando el teclado y pulsando cada tecla con cuidado podrán ser espiados más fácilmente con este método.
+
+La conclusión de los investigadores es la misma que la de muchos otros: las contraseñas deben desaparecer. Es un método de autenticación obsoleto que puede traer más problemas que soluciones.

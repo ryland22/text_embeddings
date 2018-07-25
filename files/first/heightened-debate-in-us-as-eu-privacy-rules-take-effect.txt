@@ -1,0 +1,65 @@
+Heightened debate in US as EU privacy rules take effect
+
+
+
+Washington, May 25 (AFP) May 25, 2018
+
+
+
+Amid a global scramble to comply with new EU data protections laws, the debate on privacy has intensified in the United States with some calling for similar measures for Americans, and others warning the rules could fracture the global internet.
+
+US tech firms, and virtually all companies with online operations, will need to comply with the rules if their sites are used in the European Union, or face hefty financial penalties.
+
+Some American firms, including news sites like the Los Angeles Times and New York Daily News, blocked access in the EU because they were unable to comply with the General Data Protection Regulation, which took effect Friday.
+
+Other US websites have shut down entirely, and some have hired consultants to help shut off access for any users in Europe.
+
+Large US tech firms have pledged compliance with the EU rules, and have in many cases promised to extend the same protections worldwide.
+
+But legal challenges filed in Europe accused Google and Facebook of failing to abide by the new law.
+
+
+
+- Why not in US? -
+
+
+
+Some US activists argue that the implementation offers an opportunity to give more privacy and data protection benefits to Americans.
+
+"We see no reason why US companies, as they strive to comply with the new European policies, cannot extend the GDPR standard to American consumers," said Katharina Kopp of the Center for Digital Democracy, one of 28 activist groups endorsing a letter in that vein to major US and global companies.
+
+Senator Ed Markey and three fellow lawmakers introduced a resolution this week that would call on firms to offer the same protections of the European law in the US.
+
+"The American people are going to wonder why they are getting second-class privacy protections," said Markey.
+
+The law establishes the key principle that individuals must explicitly grant permission for their data to be used, and give consumers a right to know who is accessing their information and what it will be used for.
+
+Companies can be fined up to 20 million euros ($24 million) or four percent of annual global turnover for violations.
+
+
+
+- Cumbersome, confusing -
+
+
+
+GDPR critics argue the law is confusing and cumbersome, and could lead to unintended effects on both sides of the Atlantic.
+
+Daniel Castro of the Information Technology and Innovation Foundation, a Washington think tank, called GDPR "a confusing and impractical set of rules" that offers consumers little benefit.
+
+"Instead of hiring engineers, companies are hiring privacy lawyers," Castro said in a blog post with researcher Alan McQuinn.
+
+Ryan Radia of the Competitive Enterprise Institute said that although GDPR was aimed at Big Tech, it is likely to strengthen the grip of large internet firms.
+
+"This will result in greater market concentration, as small firms and startups will find it difficult to comply with the increased regulatory cost burden," Radia said.
+
+Amy Webb, a fellow at Harvard's Nieman Foundation and founder of the Future Today Institute, warned the new law could lead to a "splinternet" with different kinds of data available in various regions of the world, and could be particularly cumbersome for news organizations.
+
+"It's plausible within a decade, we could find ourselves stuck in a new digital divide, where many disparate splinternets behave and function differently, depending on where in the world the net is being accessed," she said in a blog post this week.
+
+Webb said news organizations could find it especially difficult to comply because of the need for consent in organizing feeds and promoting content.
+
+"The business model for news, already tenuous, could be further weakened," she said.
+
+Henry Farrell, a George Washington University professor who follows transatlantic relations, said the entire business model of the tech sector could be at risk from GDPR.
+
+"This is a fundamental attack on the 'two sided market' profit model that e-commerce companies have pioneered of providing services to individuals, while watching their behavior and feeding up access or data to advertisers," Farrell said in a tweet Friday.

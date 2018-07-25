@@ -1,0 +1,5 @@
+With the EASA deadline for aircraft operators to equip with ADS-B approaching, U.S. maintenance provider Duncan Aviation is suggesting that European, Middle-Eastern, and Africa-based operators contact its Amsterdam-based alliance partner JetSupport as soon as possible to schedule their upgrades to avoid the last-minute rush.
+
+The European ADS-B Out mandate will take effect at midnight June 6, 2020, and by that date, aircraft must be equipped with a GPS position source, such as a certified WAAS GPS antenna, and a 1090-megahertz mode-S extended squitter transponder to relay the information to air traffic control.
+
+For operators who fly to the U.S., a similar requirement will exist there, starting after midnight on Dec. 31, 2019. As those deadlines loom, Duncan (Booth E89) warned that hangar space and skilled avionics technicians will be at a premium and costs will likely rise. The company has already performed several hundred ADS-B installations at its avionics shops located at airports throughout the U.S., and it is still accepting slot reservations that guarantee both hangar space and qualified labor resources.

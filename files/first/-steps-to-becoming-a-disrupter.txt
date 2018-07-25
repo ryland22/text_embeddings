@@ -1,0 +1,51 @@
+Silicon Valley's work culture may be known for afternoon yoga and video game sessions, but it's not those perks that give the tech hub its edge. Companies get ahead by giving employees more autonomy, fewer bosses and the freedom to fail.
+
+Google's, Facebook's and Apple's origin stories are famous for the bootstrap process that led to success. This startup mindset eschews bureaucracy, prizes speed to market and embraces failure. In the age of self-driving cars and software, executives at the top echelons of the auto industry are desperate to capture that magic despite considerable obstacles.
+
+Experts say there's a reason the corporate graveyard is littered with giant companies that couldn't adapt to changing times: They're not built for it.
+
+"The things that make large enterprises so effective are exactly opposite of the things that make startups work so well," said Mark Coopersmith, a professor at the University of California, Berkeley's Haas School of Business who specializes in entrepreneurship. "Everything they do is around building scale. It's not about change."
+
+But that won't stop curious companies from trying. Here's a blueprint for cultivating a Silicon Valley culture for even the most curmudgeonly of companies.
+
+1. Ditch the boss
+
+At Zenuity, a joint venture between Volvo and Autoliv focused on autonomous and advanced-safety software systems, company direction is led by 55 project teams of six to 10 employees who have the independence to set budgets and priorities and pick their leaders — if they have leaders at all. Every six weeks, teams can choose to reshuffle or otherwise change direction at a regular companywide meeting.
+
+It’s about “building a high level of flexibility,” said Dennis Nobelius, Zenuity CEO. “That creates nervousness in some employees, so you need to attract someone that enjoys flexibility.”
+
+It’s an effort to speed decision-making by empowering individual project managers and engineers.
+
+2. Do now, ask questions later
+
+“Our first priority is to innovate and debate and make decisions quickly,” said Minyang Jiang, a project lead at Ford Smart Mobility. “I pivot away from PowerPoint. Create first, critique second, document third.”
+
+Jiang, who is referred to inside the company as an “intreprenuer,” oversees GoRide, Ford’s nonemergency medical transport service that launched last month in southeast Michigan in partnership with local health care operators. It directly competes with services such as Uber Health and Lyft’s collaboration with medical providers.
+
+Software engineers in BMW's Chicago offices update their team's agile development process, represented by sticky notes on the wall Photo credit: BMW
+
+3. Focus on imperfect projects
+
+Borrowing from the language of coders, some companies have shifted to rapid prototyping, bringing products to market without a full set of features.
+
+“It’s like an assembly line that constantly ships small updates,” said Thom Brenner, vice president of BMW’s Business Line Connected Car. He oversaw the development of new work-flow processes at BMW’s connected-car and digital product research labs. Some features the automaker has introduced include Spotify and Skype integration in the car.
+
+Product experience sketches at BMW's offices in Chicago, where engineers brainstorm how users will interact with services such as Skype and Spotify in the car Photo credit: BMW
+
+4. Drag the rest of the company along
+
+This workflow puts pressure on supporting actors within the organization to quicken the pace as well. For instance, BMW’s legal team had to rethink contracting of data and service providers because traditional supplier contracts were too detailed on project outcomes and didn’t leave room for growth.
+
+“They are beefing up their capabilities, looking at new business models and new ways to negotiate,” said Dieter May, senior vice president of BMW’s Digital Products and Services.
+
+Incorporating aspects such as legal and technical review of products can be counterintuitive for enterprises attempting to quicken their pace, but it could be crucial in developing a go-to-market strategy.
+
+“Many ideas die after they build the first product,” said Stefan Schumacher, a director of business development at IBM. The computer company has teamed with Volkswagen in Germany to collaborate on developing digital services as well as bringing them to market. “We’re providing business analysts and developers with the product owners. We integrated legal and data privacy from the very beginning.”
+
+5. Embrace failure
+
+And if everything goes south, then you’re doing it right. Silicon Valley embraces failure in a way corporations — apt to let unsuccessful products and services limp along — may find difficult to stomach.
+
+“If a product loses their momentum, Google is not at all afraid to shut it down,” said Berkeley’s Coopersmith, citing failed products such as Google Glass and a string of social media attempts. In the auto industry, the safety implications of failed initiatives also underscore a wider culture that aims to get it right at the outset.
+
+Smart companies move executives into new roles where “you may fail more often” but learn from those failures in future projects, Coopersmith said.

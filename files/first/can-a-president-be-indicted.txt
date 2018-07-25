@@ -1,0 +1,39 @@
+So, can a president be indicted?
+
+This is one of those tricky legal questions with no easy answer. Scholars are divided on the issue, and it's never been definitively settled. But Rudy Giuliani, President Trump's personal lawyer, says that a president cannot be indicted, and he says that special counsel Robert Mueller's office agrees with that assessment. However, Mueller's team has not confirmed what its opinion is on the matter.
+
+Why is it so tricky?
+
+For one thing, the Constitution is not exactly explicit on the issue, and the Supreme Court has never ruled either way. A president can be impeached, but whether one can be indicted is still a topic of debate. "It's a fascinating question and I don't think there is a clear answer," Scott L. Frederickson, a former federal prosecutor, told CBS News.
+
+On one side of the debate you have people like Yale professor Akhil Reed Amar, who told The New York Times last year that the framers of the Constitution "implicitly immunized a sitting president from ordinary criminal prosecution." This does seem to be the prevailing view among legal scholars, and they may have The Federalist Papers to back them up.
+
+In Federalist 69, Alexander Hamilton wrote that the president "would be liable to be impeached, tried, and, upon conviction of treason, bribery, or other high crimes or misdemeanors, removed from office; and would afterwards be liable to prosecution and punishment in the ordinary course of law." But Jonathan Turley, a prominent professor at George Washington University, argues that this line is taken out of context.
+
+In a piece for The Washington Post last year, Turley said that those relying on the line from Federalist 69 are missing its broader point. According to Turley, Hamilton "was not expounding on inherent immunity and would hardly be making such an implied argument in an essay designed to quell concerns over presidential powers." Instead, Turley argues, Hamilton was explaining that the president, unlike the British monarch, was not above the law and "could be stripped of his office and still prosecuted under the Constitution."
+
+But beyond what the founders intended, there's a practical question as to whether it's wise to allow a president to be indicted.
+
+Why would that be a problem?
+
+"The basic point is that prosecutors should not be able to tie up the work of a president," Neal Katyal, a former acting solicitor general under the Obama administration, told CBS News. "Imagine, for example, that a South Carolina prosecutor had tried to indict Abraham Lincoln in 1864. It would allow a prosecutor from one state to undermine the national will. But federal prosecutors are not amenable to quite the same criticism."
+
+This view was articulated in 1973 by the Justice Department, which insisted that indicting a president would "hamstring the operation of the whole governmental apparatus, both in foreign and domestic affairs." In 2000, the Office of Legal Counsel (OLC) came to a similar conclusion, stating that the "indictment or criminal prosecution of a sitting president would unconstitutionally undermine the capacity of the executive branch to perform its constitutionally assigned functions."
+
+Regardless of his personal legal opinion, Mueller may be bound by the OLC's ruling on the matter, Fredericksen says, because it remains an official opinion of the Department of Justice. If Mueller ever attempted to indict Mr. Trump anyway, the president's lawyers would surely argue that the OLC opinion prevents him from doing so.
+
+But would that mean that the president is above the law?
+
+This is where it gets tricky again. "A fundamental tenet of our political and criminal justice system is that no man is above the law," Fredericksen says. For that reason, he says that there "is a very persuasive argument that can be made that you can indict a sitting president."
+
+Staffers working for Ken Starr, the independent counsel during the Clinton years, wrote a 56-page memo in 1998 arguing that the rule of law demands that a president can be indicted. And Turley argued that the "dysfunctionality caused by presidential immunity should be a greater concern for citizens than the constitutional crisis brought on by an indictment. An indicted president is a terrible proposition. But so is the continuation of a presumed felon in office — one who clings to power as a shield from accountability."
+
+The stated Constitutional remedy for presidential lawbreaking is impeachment. But only Congress has the power to impeach, and if the president's party also controls the House and Senate, they could instead protect the president from any consequences. "If a president is immune, his supporters in Congress could prevent his removal while the statute of limitations runs out on certain crimes," Turley wrote.
+
+"Conversely, if Congress is shielding the president, an indictment can force him to address his crimes."
+
+Is there some kind of compromise solution to this issue?
+
+There is, namely a scenario where a president is indicted but the trial is delayed until he or she leaves the White House. "One of the ways around the concern of indicting a sitting president and interfering with his ability to execute the functions of the office is one can indict and the trial can be delayed until the president leaves office," Freidrickson says. "I think that could be an approach that [a special counsel] could take as well...obviously they can indict others and name the president as an unindicted co-conspirator, which is what [Watergate special prosecutor] Leon Jaworski did with President Nixon."
+
+Katyal agrees that the former is a worthwhile solution to the problem. "Probably the strongest position, which former Solicitors General Walter Dellinger and Ted Olson have put forth, is that a sitting president can be indicted, but cannot be tried until he leaves office," he told CBS News. "Of course, impeachment may be one way to hasten a president's departure from office, so there is a way in which impeachment works together with the Dellinger/Olson view."

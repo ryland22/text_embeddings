@@ -1,0 +1,82 @@
+Hughes to prototype Multi-Modem Adaptor for Wideband SATCOM use
+
+
+
+by Staff Writers
+
+
+
+Germantown MD (SPX) May 14, 2018
+
+
+
+Hughes Network Systems, LLC (HUGHES), the global leader in broadband satellite networks and services, announced it has been awarded a follow-on contract to continue the second phase of a pilot study program to assess the feasibility of interoperability across multiple satellite communication (SATCOM) systems for the Department of Defense (DoD).
+
+Under this award, Hughes will be responsible for prototyping a Flexible Modem Interface (FMI) for military terminals that will enable various military and commercial systems and services to interoperate in the field.
+
+"In Phase Two of this program, Hughes is being asked to develop, demonstrate and deliver a hardware and architecture prototype solution to support interoperable SATCOM capabilities for the military, which will help fortify satellite communications in contested environments," said Dr. Rajeev Gopal, Senior Technical Director, Advanced Systems for Hughes.
+
+"We look forward to delivering a solution that will increase the resiliency and interoperability of various commercial and military SATCOM systems and services used by the DoD, including over High- Throughput Satellites (HTS)."
+
+The new study - the second over the course of several years - builds on the growing commercial partnership with the DoD to assess what the ideal military SATCOM architecture would look like and how diverse systems could work together. The assessment and prototype deliverables have the potential to create a more resilient, cost-effective, and flexible SATCOM architecture for DoD.
+
+In 2017, Hughes participated in 2 different studies within the first phase of this project. In that first phase, Hughes recommended that the Defense Department pursue a SATCOM strategy that supports interoperability for wideband government applications, which would significantly enhance DoD's communications infrastructure and reduce acquisition and operations costs.
+
+In Phase 2, Hughes will build on its recommendations from the first study and explore how an interoperable system solution could be effectively implemented by developing and producing the new FMI for demonstration and evaluation.
+
+As part of the overall assessment, Hughes will be evaluating the needs and capabilities that DoD will require in the future, including a secure and affordable wideband communications architecture (WCA) that can facilitate varied and redundant space and ground transports. The FMI prototype will be demonstrated within the context of a mission management architecture that supports wide-beam, spot-beam, and on-board processing satellites, including new GEO HTS and low earth orbit (LEO) satellite constellations.
+
+"The overall goal for Hughes is to help the Defense Department produce a solution that expands the capabilities of the U.S. government's satellite communications," said Rick Lober, vice president and general manager of defense and intelligence systems at Hughes.
+
+"To do that, we will examine how to create an interoperable system that is flexible and resilient, allowing DoD's various global applications to operate over its own satellite network as well as leveraging commercial satellites, management systems, gateways, waveforms, and modems for DoD terminals to increase mission assurance."
+
+
+
+Related Links
+
+Hughes Network Systems
+
+Read the latest in Military Space Communications Technology at SpaceWar.com
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Al Udeid Air Base, Qatar (SPX) Apr 30, 2018
+

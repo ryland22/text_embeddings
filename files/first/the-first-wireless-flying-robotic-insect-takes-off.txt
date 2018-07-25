@@ -1,0 +1,96 @@
+The first wireless flying robotic insect takes off
+
+
+
+by Staff Writers
+
+
+
+Seattle WA (SPX) May 16, 2018
+
+
+
+Insect-sized flying robots could help with time-consuming tasks like surveying crop growth on large farms or sniffing out gas leaks. These robots soar by fluttering tiny wings because they are too small to use propellers, like those seen on their larger drone cousins. Small size is advantageous: These robots are cheap to make and can easily slip into tight places that are inaccessible to big drones.
+
+But current flying robo-insects are still tethered to the ground. The electronics they need to power and control their wings are too heavy for these miniature robots to carry.
+
+Now, engineers at the University of Washington have for the first time cut the cord and added a brain, allowing their RoboFly to take its first independent flaps. This might be one small flap for a robot, but it's one giant leap for robot-kind. The team will present its findings May 23 at the International Conference on Robotics and Automation in Brisbane, Australia.
+
+RoboFly is slightly heavier than a toothpick and is powered by a laser beam. It uses a tiny onboard circuit that converts the laser energy into enough electricity to operate its wings.
+
+"Before now, the concept of wireless insect-sized flying robots was science fiction. Would we ever be able to make them work without needing a wire?" said co-author Sawyer Fuller, an assistant professor in the UW Department of Mechanical Engineering. "Our new wireless RoboFly shows they're much closer to real life."
+
+The engineering challenge is the flapping. Wing flapping is a power-hungry process, and both the power source and the controller that directs the wings are too big and bulky to ride aboard a tiny robot. So Fuller's previous robo-insect, the RoboBee, had a leash - it received power and control through wires from the ground.
+
+But a flying robot should be able to operate on its own. Fuller and team decided to use a narrow invisible laser beam to power their robot. They pointed the laser beam at a photovoltaic cell, which is attached above RoboFly and converts the laser light into electricity.
+
+"It was the most efficient way to quickly transmit a lot of power to RoboFly without adding much weight," said co-author Shyam Gollakota, an associate professor in the UW's Paul G. Allen School of Computer Science and Engineering.
+
+Still, the laser alone does not provide enough voltage to move the wings. That's why the team designed a circuit that boosted the seven volts coming out of the photovoltaic cell up to the 240 volts needed for flight.
+
+To give RoboFly control over its own wings, the engineers provided a brain: They added a microcontroller to the same circuit.
+
+"The microcontroller acts like a real fly's brain telling wing muscles when to fire," said co-author Vikram Iyer, a doctoral student in the UW Department of Electrical Engineering. "On RoboFly, it tells the wings things like 'flap hard now' or 'don't flap.'"
+
+Specifically, the controller sends voltage in waves to mimic the fluttering of a real insect's wings.
+
+"It uses pulses to shape the wave," said Johannes James, the lead author and a mechanical engineering doctoral student. "To make the wings flap forward swiftly, it sends a series of pulses in rapid succession and then slows the pulsing down as you get near the top of the wave. And then it does this in reverse to make the wings flap smoothly in the other direction."
+
+For now, RoboFly can only take off and land. Once its photovoltaic cell is out of the direct line of sight of the laser, the robot runs out of power and lands. But the team hopes to soon be able to steer the laser so that RoboFly can hover and fly around.
+
+While RoboFly is currently powered by a laser beam, future versions could use tiny batteries or harvest energy from radio frequency signals, Gollakota said. That way, their power source can be modified for specific tasks.
+
+Future RoboFlies can also look forward to more advanced brains and sensor systems that help the robots navigate and complete tasks on their own, Fuller said.
+
+"I'd really like to make one that finds methane leaks," he said. "You could buy a suitcase full of them, open it up, and they would fly around your building looking for plumes of gas coming out of leaky pipes. If these robots can make it easy to find leaks, they will be much more likely to be patched up, which will reduce greenhouse emissions. This is inspired by real flies, which are really good at flying around looking for smelly things. So we think this is a good application for our RoboFly."
+
+
+
+Related Links
+
+University of Washington
+
+UAV News - Suppliers and Technology
+
+
+
+
+
+Thanks for being here;
+
+We need your help. The SpaceDaily news network continues to grow but revenues have never been harder to maintain.
+
+
+
+With the rise of Ad Blockers, and Facebook - our traditional revenue sources via quality network advertising continues to decline. And unlike so many other news sites, we don't have a paywall - with those annoying usernames and passwords.
+
+
+
+Our news coverage takes time and effort to publish 365 days a year.
+
+
+
+If you find our news sites informative and useful then please consider becoming a regular supporter or for now make a one off contribution. SpaceDaily Contributor
+
+$5 Billed Once
+
+
+
+
+
+credit card or paypal
+
+SpaceDaily Monthly Supporter
+
+$5 Billed Monthly
+
+
+
+
+
+paypal only
+
+
+
+Washington DC (SPX) May 10, 2018
+

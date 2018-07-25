@@ -1,0 +1,101 @@
+Washington, DC –-(Ammoland.com)- 1. Is ATF aware of the receiver blanks, commonly referred to as 80 percent lower receivers?
+
+ATF routinely collaborates with the firearms industry and law enforcement to monitor new technologies and current manufacturing trends that could potentially impact the safety of the public.
+
+2. What is an “80%” or “unfinished” receiver?
+
+“80% receiver,” “80% finished,” “80% complete,” “unfinished receiver” are all terms referring to an item that some may believe has not yet reached a stage of manufacture that meets the definition of firearm frame or receiver found in the Gun Control Act of 1968 (GCA). These are not statutory terms or terms ATF employs or endorses.
+
+3. Are “80%” or “unfinished” receivers illegal?
+
+Receiver blanks that do not meet the definition of a “firearm” are not subject to regulation under the GCA. The ATF has long held that items such as receiver blanks, “castings” or “machined bodies” in which the fire-control cavity area is completely solid and un-machined have not reached the “stage of manufacture” which would result in the classification of a firearm per the GCA.
+
+See comparison examples:
+
+4. Are there restrictions on who can purchase receiver blank?
+
+The GCA does not impose restrictions on receiver blanks that do not meet the definition of a “firearm.”
+
+5. When does a receiver need to have markings and/or serial numbers?
+
+Receivers that meet the definition of a “firearm” must have markings, including a serial number. See 27 CFR § 478.92 (Firearm manufacturers marking requirements).
+
+6. Can functioning firearms made from receiver blanks be traced?
+
+ATF successfully traces crime guns to the first retail purchaser in most instances. ATF starts with the manufacturer and goes through the entire chain of distribution to find who first bought the firearm from a licensed dealer. Because receiver blanks do not have markings or serial numbers, when firearms made from such receiver blanks are found at a crime scene, it is usually not possible to trace the firearm or determine its history, which hinders crime gun investigations jeopardizing public safety.
+
+7. Have firearms made from unmarked receiver blanks been recovered after being used in a crime?
+
+Yes, firearms that began as receiver blanks have been recovered after shooting incidents, from gang members and from prohibited people after they have been used to commit crimes.
+
+8. Are some items being marketed as non-firearm “unfinished” or “80%” receivers actually considered firearms?
+
+Yes, in some cases, items being marketed as unfinished or “80%” receivers do meet the definition of a “firearm” as defined in the GCA. Persons who are unsure about whether an item they are planning to buy or sell is considered a firearm under the GCA should contact ATF’s Firearms Technology Branch (FTB).
+
+9. What is ATF doing in regard to people making firearms?
+
+There are no federal restrictions on an individual making a firearm for personal use, as long as it does not violate the GCA or National Firearms Act (NFA).
+
+10. What is the National Firearms Act (NFA)?
+
+The NFA imposes a tax on the making, transfer or import of certain firearms recognized to present a greater risk to public safety. The law also requires the registration of all NFA firearms as defined in title 26 USC 5845(a):
+
+(1) a shotgun having a barrel or barrels of less than 18 inches in length;
+
+(2) a weapon made from a shotgun if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 18 inches in length;
+
+(3) a rifle having a barrel or barrels of less than 16 inches in length;
+
+(4) a weapon made from a rifle if such weapon as modified has an overall length of less than 26 inches or a barrel or barrels of less than 16 inches in length;
+
+(5) any other weapon, as defined in subsection (e);
+
+(6) a machinegun;
+
+(7) any silencer (as defined in section 921 of title 18, United States Code); and
+
+(8) a destructive device.
+
+(Under the NFA the term “firearm” does not include an antique firearm or any device (other than a machinegun or destructive device) which, although designed as a weapon, the [Attorney General] finds by reason of the date of its manufacture, value, design, and other characteristics is primarily a collector’s item and is not likely to be used as a weapon.
+
+11. Can an individual make large quantities of firearms and sell them?
+
+If an individual is “engaged in the business” (defined below) as a manufacturer or seller of firearms then that person must obtain a federal firearms license. In addition, manufacturers have a variety of specific responsibilities under the Gun Control Act, such as including a serial number and other markings on all firearms.
+
+Under 18 U.S.C. 921 (a)(21)(A), the term “engaged in the business” means— as applied to a manufacturer of firearms, a person who devotes time, attention, and labor to manufacturing firearms as a regular course of trade or business with the principal objective of livelihood and profit through the sale or distribution of the firearms manufactured.
+
+12. Can anyone make firearms and sell them?
+
+With certain exceptions, and subject to any state law that might apply, as long as an individual is not prohibited from possessing a firearm, he or she can make a firearm for personal use. If an individual wants to manufacture and sell firearms, he or she is required to obtain a license, and mark each firearm manufactured in accordance with 27 CFR 478.92. [18 U.S.C. 923(i), 26 U.S.C. 5822]
+
+13. Who can obtain a Federal Firearms License (FFL)?
+
+ATF will approve a properly executed application if the applicant:
+
+Submits fingerprint cards;
+
+Submits a frontal view photograph;
+
+Is 21 years of age or older;
+
+Is not prohibited from shipping, transporting, receiving or possessing firearms or ammunition in interstate or foreign commerce;
+
+Has not willfully violated the GCA or its regulations;
+
+Has not willfully failed to disclose material information or willfully made false statements concerning material facts in connection with his application;
+
+Has premises for conducting the business
+
+The applicant certifies that: the business to be conducted under the license is not prohibited by State or local law in the place where the licensed premises is located; within 30 days after the application is approved the business will comply with the requirements of State and local law applicable to the conduct of the business; the business will not be conducted under the license until the requirements of State and local law applicable to the business have been met; the applicant has sent or delivered a form to the chief law enforcement officer where the premises is located notifying the officer that the applicant intends to apply for a license; and secure gun storage or safety devices will be available at any place in which firearms are sold under the license to persons who are not licensees (“secure gun storage or safety device” is defined in 18 U.S.C. 921(a)(34)).
+
+
+
+[18 U.S.C. 923(d)(1), 27 CFR 478.47(b)]
+
+Under federal law, an application shall be approved if an applicant for a federal firearms license or a manufacturing license meets all of the licensing requirements and criteria.
+
+14. How does one apply for a Federal Firearms License?
+
+Submit ATF Form 7 (5310.12), Application for License, with the appropriate fee in accordance with the instructions on the form to ATF.
+
+80% Receiver Build Resources:

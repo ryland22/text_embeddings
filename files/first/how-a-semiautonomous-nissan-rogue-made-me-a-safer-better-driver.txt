@@ -1,0 +1,53 @@
+CLOSE Nissan pushes further into the semi-autonomous driving space with its ProPilot Assist, an adaptive cruise and lane control program that will be available in the U.S. later this year on the new version of the Japanese automaker's all-electric Leaf. Journalists tried out the system during a drive starting from the company's Technical Center in Farmington Hills on July 18. Eric D. Lawrence, Detroit Free Press
+
+The 2018 Nissan Rogue offers the ProPILOT Assist technology which provides assisted steering, braking and accelerating during single-lane highway driving. (Photo: Nissan)
+
+Long before many people experience a car that can drive itself, they’ll benefit from semi-autonomous systems that let them travel farther and safer. But they may never know it.
+
+Stealth driver aids that provide many of autonomy’s benefits are moving from luxury vehicles to mass market models today.
+
+The Nissan Rogue compact SUV and Leaf electric car already offer a system that make driving easier and safer so subtly that many car owners will never realize how much it’s helping them. Nissan’s new 2019 Altima midsize sedan will also offer the system, called ProPilot Assist, when it goes on sale later this year.
+
+Unlike the high-profile, high-cost poster children for autonomous driving — $80,500 for a Tesla S electric car with “Enhanced Auto Pilot” and $71,290 for a Cadillac and CT6 luxury sport sedan with Super Cruise — the Rogue and Altima are mainstream vehicles with mainstream prices.
+
+"Customers really like these features," said Eric Noble, president of product development consultant The Carlab. "Manufacturers will have to cascade them through their model lines."
+
+ProPilot Assist requires a hand on the steering wheel, but automates braking, acceleration and staying in your lane. It was part of a $790 option package that also included 19-inch alloy wheels on the Rogue that I recently tested on a long road trip. The Rogue is Nissan’s best-selling vehicle, and one of America’s sales leaders.
+
+More: Autonomous cars likely to transport elderly, children in future
+
+More: Why your car brakes are suddenly a fashion statement
+
+Nissan’s ProPILOT Assist reduces the hassle of stop-and-go driving by helping control acceleration, braking and steering during single-lane highway driving. (Photo: Nissan, Wieck)
+
+The Rogue SL AWD I tested stickered at $36,230, a price that puts it squarely in the heart of the market. A 2019 Altima midsize sedan with ProPilot Assist will likely cost less when sales begin later this year. Nissan also offers the system as part of a $2,200 tech package on Leaf electric car models starting at $32,490.
+
+ProPilot Assist took a lot of the work out of my 2,000-mile-plus drive. It significantly increased how far I could go before fatigue set in.
+
+It also almost certainly also made me a more pleasant person to share the road with.
+
+“It’s more relaxed driving,” John Maddox, president and CEO of the American Center for Mobility, the new test track for developing autonomous and driver-assistance systems in Willow Run, just west of Detroit. Maddox uses a CT6 with Super Cruise on his daily commute. “I’m less inclined to speed or weave in and out of traffic.”
+
+Super Cruise uses digital mapping, GPS location, advanced cameras and lidar to let drivers remove their hands from the wheel for hours at a time. It’s also a $5,000 option on an already lavishly equipped luxury car. Tesla S option packages for Enhanced Auto Pilot start at $5,000.
+
+Nissan’s prices are lower because its ambitions are less lofty. ProPilot Assist takes systems that already provide lane departure assistance and adaptive cruise control and lets them talk to each other to keep your vehicle in its lane, at the speed you set and at a safe distance behind other vehicles with almost no input from the driver. Because it uses modestly priced cameras and radar, Nissan’s system — like Tesla’s more expensive one — requires the driver to keep a hand on the wheel at all times.
+
+Over four days of highway driving, ProPilot Assist kept me centered in my lane and maintained a safe distance from vehicles in front of me. It worked equally well in daylight and at night. White lane markings on a light-colored road surface confused it on one strip of highway, triggering alerts that told me I needed to keep the Rogue in its lane. The system also requires the driver to take control when the windshield wipers are on, because rain may obscure lane markings. ProPilot Assist will continue its lane-centering with wipers set to intermittent, however.
+
+“It’s a partnership with the driver in a management role,” Nissan R&D manager Andy Christensen said.
+
+“The system’s goal is to give the driver stability and confidence.”
+
+To make sure the driver doesn’t delegate too much, Nissan limited the amount of steering force the system can apply. That means the driver has to intervene on some highway curves, particularly at higher speeds in mountains. ProPilot Assist handles most highway curves fine at posted speeds.
+
+It took me a few miles to get used to the light touch on the wheel that lets ProPilot Assist work best, a few more miles to trust it to stay in its lane passing semis on curves, but I soon found myself relaxing behind the wheel and enjoying the ride. My fuel economy also improved, because adaptive cruise control applies acceleration more smoothly and consistently than a human can.
+
+“Driver assistance technologies affect how people behave behind the wheel,” Honda product planning manager Jay Joseph said. “They can have a really meaningful effect on safety because they make people less likely to tailgate and weave in and out of traffic.”
+
+Honda is making Honda Sensing, a set of features that deliver aspects of ProPilot Assist’s performance, standard across much of its model line.
+
+As other automakers follow suit, a growing number of drivers will benefit from self-driving technology without ever experiencing an autonomous vehicle.
+
+Contact Mark Phelan: mmphelan@freepress.com or 313-222-6731. Follow him on Twitter @mark_phelan.
+
+Read or Share this story: https://on.freep.com/2rUZhEv
